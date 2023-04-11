@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ben posson pianger gli ochi e star dolente</title>
+            <author><ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830">Francesco Landini</ref></author>
+            <respStmt>
+               <resp>Digital scholarly editon created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Maria Sofia Lannutti</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Elvira Mercatanti</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--<front>
+         <div>
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"></hi>)
+           </p>
+         </div>         
+      </front>-->
+      <body>
+         <lg>
+            <l xml:id="l1">
+               <anchor xml:id="l1a1"/>Ben posson pianger li ochi e star dolente<anchor xml:id="l1a1"/>
+            </l>
+            <l xml:id="l2">
+               <gap reason="illegible" rend="[...]"/>
+            </l>
+            <l xml:id="l3">
+               <gap reason="illegible" rend="[...]"/>ta <anchor xml:id="l3a1"/>mente<anchor xml:id="l3a2"/>.
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l4">
+               <anchor xml:id="l4a1"/>Ricoglie in sé questa per cu<anchor xml:id="l4a2"/>’<gap reason="illegible" rend="[...]"/><anchor xml:id="l4a3"/>co<anchor xml:id="l4a4"/>
+            </l>
+            <l xml:id="l5">
+               tutte suo forç’ a essermi crudele
+            </l>
+            <l xml:id="l6">
+               <gap reason="illegible" rend="[...]"/>
+            </l>
+            <l xml:id="l7">
+               <gap reason="illegible" rend="[...]"/>
+            </l>
+            <l xml:id="l8">
+               <gap reason="illegible" rend="[...]"/>
+            </l>
+            <l xml:id="l9">
+               <gap reason="illegible" rend="[...]"/>
+            </l>
+            <l xml:id="l10">
+               <gap reason="illegible" rend="[...]"/>
+            </l>
+         </lg>
+         
+      </body>
+      <back>
+         <listWit>            
+            <witness xml:id="Cil">
+               <!--ref target="X"-->Cil<!--/ref-->
+               c. 97r, <abbr xml:id="CilC">C</abbr> (vv.1-5), <abbr xml:id="CicT">T</abbr> (vv.1-4): <hi rend="italic">d(ominus) p(aulus)</hi>. Il testo è frammentario: per lacuna meccanica, del <hi rend="italic">cantus</hi> si leggono il v. 5 e, parzialmente, i vv. 1 e 3-4; del <hi rend="italic">tenor</hi>, invece, rimangono il v. 1, con parti dei vv. 3-4.
+
+            </witness>
+         </listWit>
+
+
+         <listApp type="substantial">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>Ben posson pianger li ochi <hi rend="italic">e star dolente</hi></lem>
+                  <rdg><hi rend="italic">per l.m.</hi><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+
+            <listApp>
+               <head>3</head>
+               <app from="#l3a1" to="#l3a2">
+                  <lem><hi rend="italic">mente</hi></lem>
+                  <rdg><hi rend="italic">per l.m.</hi><wit><ref corresp="#CilT">Cil<hi rend="super">T</hi></ref></wit></rdg>
+               </app>             
+            </listApp>
+
+            <listApp>
+               <head>4</head>
+               <app from="#l4a1" to="#l4a2">
+                  <lem>Ricoglie in sé questa per cu</lem>
+                  <rdg><hi rend="italic">per l.m.</hi><wit><ref corresp="#CilT">Cil<hi rend="super">T</hi></ref></wit>
+                  </rdg>
+               </app>
+
+               <app from="#l4a3" to="#l4a4">
+                  <lem>co</lem>
+                  <rdg><hi rend="italic">per l.m.</hi><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit>
+                  </rdg>
+               </app>
+            </listApp>
+
+         </listApp>
+
+
+         <div type="metricalScheme">
+            <p>Ballata mezzana 10’z […] 10’z; 10’a 10’b, 10’? 10’?; 10’? […] 10’z.</p>               
+         </div>
+
+
+         <listBibl type="editions">
+            <bibl>
+               Brumana-Ciliberti 1986, pp. 26-7.
+            </bibl>            
+         </listBibl>
+
+         <listBibl type="bibliography">
+            <bibl corresp="#">
+               <!-- Sigla -->
+               <!--  <ref target="http://">Sigla con link esterno (possibilmente usare permalink)</ref> -->
+               <!-- Per un riferimento bibliografico che può essere sciolto,
+                  dentro a @corresp di <bibl> inserisci l'id del biblStruct corrispondente -->
+               <!-- Se lo scioglimento non si trova nella bibliografia minima sotto, utilizza qui
+                  <relatedItem> inserendo al suo interno un <bibl> o un <biblStruct> </relatedItem> -->
+            </bibl>
+            <bibl>
+               Autore anno, pp. x-xx
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl>
+
+         <div type="commentary">
+            <note target="#l5">
+               <num>5</num>
+               <p>Emendamento possibile, suggerito in nota da Brumana-Ciliberti (1986), è
+               <hi rend="italic underline">per cu’ sta in foco</hi>.</p>
+            </note>
+         </div>
+
+
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Apel1970">
+               <hi rend="italic">French Secular Compositions of the Fourteenth Century,</hi> I. <hi rend="italic">Ascribed Compositions</hi>, ed. by W. Apel. Edition of the literary texts by S. N. Rosenberg., Roma, AIM, 1970 (CMM, 53/1)
+            </bibl>
+            <bibl xml:id="Apel1971">
+               Willi Apel, <hi rend="italic">French Secular Compositions of the Fourteenth Century II. Anonymous Ballades</hi>, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1971 (CMM, 53/2)
+            </bibl>
+            <bibl xml:id="Apel1972">
+               Willi Apel, <hi rend="italic">French Secular Compositions of the Fourteenth Century III. Anonymous Virelais, Rondeaux, Chansons, Canons</hi>, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1972 (CMM, 53/3)
+            </bibl>
+            <bibl xml:id="Bent1985">
+               Margaret Bent, Anne Hallmark, <hi rend="italic">The Works of Johannes Ciconia</hi>, Monaco, Éditions de l’Oiseau-Lyre, 1985 (Polyphonic Music of the Fourteenth Century, XXIV)
+            </bibl>
+            <bibl xml:id="Brambilla_Ageno1975">
+               Franca Brambilla Ageno, rec. a <hi rend="italic">Giuseppe Corsi, «Poesie musicali del Trecento»</hi>, «Romance Philology», 28 (1975), pp. 696-706
+            </bibl>
+            <bibl xml:id="Calvia2017">
+               Nicolò del Preposto, <hi rend="italic">Opera Completa</hi>. Edizione critica commentata dei testi intonati e delle musiche, a cura di A. Calvia, Firenze, Edizioni del Galluzzo per la Fondazione Ezio Franceschini, 2017
+            </bibl>
+            <bibl xml:id="Corsi1969">
+               G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
+            </bibl>
+            <bibl xml:id="Corsi1970">
+               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+            </bibl>
+            <bibl xml:id="Epifani2019">          
+               <hi rend="italic">La caccia nell'Ars Nova italiana</hi>, edizione critica commentata dei testi e delle intonazioni, a cura di Michele Epifani, Firenze, Edizioni del Galluzzo, 2019
+            </bibl>
+            <bibl xml:id="Huck2007">
+               <hi rend="italic">Die mehrfach überlieferten Kompositionen des frühen Trecento: Anonyme Madrigale und Cacce sowie Kompositionen von Piero, Giovanni da Firenze und Jacopo da Bologna</hi>, Hrsg. von O. Huck und S. Dieckmann, unter Mitarbeit von E. Arnrich und J. Gehring in Verbindung mit M. Gozzi, 2 voll., Hildesheim, Olms Verlag, 2007
+            </bibl>
+            <bibl xml:id="Pasquinucci2007">
+               Enrico Pasquinucci, <hi rend="italic">La poesia musicale di Niccolò Soldanieri</hi>, «Studi di filologia italiana», 65 (2007), pp. 65-193
+            </bibl>
+            <bibl xml:id="Pirrotta1954">
+               Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy I. Bartholus de Florentia; Johannes de Florentia; Gherardellus de Florentia</hi>, Amsterdam, American Institute of Musicology, 1954 (CMM, 8/1)
+            </bibl>
+            <bibl xml:id="Pirrotta1960">
+               Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy II. Maestro Piero; Codex Vatican Rossi 215; Anonymous Madrigals and Cacce from Other Manuscripts</hi>, Amsterdam, American Institute of Musicology, 1960 (CMM, 8/2)
+            </bibl>
+            <bibl xml:id="Pirrotta1962">
+               Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy III. Laurentius Masii de Florentia; Donatus de Florentia; Rosso da Collegrano, and Nine anonymous pieces</hi>, Amsterdam, American Institute of Musicology, 1962 (Corpus Mensurabilis Musicae, 8/3)
+            </bibl>
+            <bibl xml:id="Pirrotta1963">
+               Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy IV. Jacobus de Bononia; Vincentius de Arimino</hi>, Amsterdam, American Institute of Musicology, 1963 (Corpus Mensurabilis Musicae, 8/4)
+            </bibl>
+            <bibl xml:id="Pirrotta1964">
+               Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy V. Andreas de Florentia; Guilielmus de Francia; Bonaiutus Corsini; Andrea Stefani; Ser Feo; Jacopo Pianelaio; Gian Toscano and Anonymous</hi>, Amsterdam, American Institute of Musicology, 1964 (Corpus Mensurabilis Musicae, 8/5)
+            </bibl>
+            <bibl xml:id="Sacchetti1990">
+               Franco Sacchetti, <hi rend="italic">Il libro delle rime</hi>, ed. F. Brambilla Ageno, Firenze, Olschki, 1990
+            </bibl>
+            <bibl xml:id="Sacchetti2007">
+               Franco Sacchetti, <hi rend="italic">Il libro delle rime con le lettere</hi>, ed. D. Puccini, Torino, UTET, 2007
+            </bibl>
+            <bibl xml:id="Sapegno1952">
+               Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952
+            </bibl>
+            <bibl xml:id="Sucato2003">
+               Tiziana Sucato, <hi rend="italic">Il codice rossiano 215. Madrigali, ballate, una caccia, un rotondello</hi>, Pisa, ETS, 2003 («Diverse voci...» 1)
+            </bibl>
+            <bibl xml:id="Zenari2004">
+               Massimo Zenari, <hi rend="italic">Undici madrigali a testimone unico del Panciatichiano 26 (Firenze, Biblioteca Nazionale Centrale)</hi>, «Studi di filologia italiana», 57 (2004), pp. 131-60
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>
