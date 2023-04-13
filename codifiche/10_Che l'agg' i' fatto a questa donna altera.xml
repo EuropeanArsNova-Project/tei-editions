@@ -7,9 +7,9 @@
       <fileDesc>
          <titleStmt>
             <title>Che l'agg' i' fatto a questa donna altera</title>
-            <author><ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830">Francesco Landini</ref></author>
+            <author><!--ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830"-->Paolo da Firenze<!--/ref--></author>
             <respStmt>
-               <resp>Digital scholarly editon created within the ERC</resp>
+               <resp>Digital scholarly edition created within the ERC</resp>
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
             <respStmt>
@@ -70,22 +70,22 @@
             <l xml:id="l4">
                Ma tu che <anchor xml:id="l4a1"/>fai<anchor xml:id="l4a2"/>, <anchor xml:id="l4a3"/>Cupid’<anchor xml:id="l4a4"/>, <anchor xml:id="l4a5"/>or che non tendi<anchor xml:id="l4a6"/>
             </l>
-            <l xml:id="l5">
+            <l xml:id="l5" n="5">
                <anchor xml:id="l5a1"/>l’arco et l’aurato strale?<anchor xml:id="l5a2"/>
             </l>
             <l xml:id="l6">
                Saetta in lei, sì che egual doglia <anchor xml:id="l6a1"/>senta<anchor xml:id="l6a2"/>!
             </l>
             <l xml:id="l7">
-               [… -endi]
+               <supplied reason="illegible">[... -endi]</supplied>
             </l>
             <l xml:id="l8">
-               [… -ale]
+               <supplied reason="illegible">[... -ale]</supplied>
             </l>
             <l xml:id="l9">
-               [… -enta]
+               <supplied reason="illegible">[... -enta]</supplied>
             </l>
-            <l xml:id="l10">
+            <l xml:id="l10" n="10">
                <gap reason="illegible" rend="[...]"/>
             </l>
             <l xml:id="l11">
@@ -171,14 +171,8 @@
          </listBibl>
 
          
-         <listBibl type="bibliography">
+         <!--listBibl type="bibliography">
             <bibl corresp="#">
-               <!-- Sigla -->
-               <!--  <ref target="http://">Sigla con link esterno (possibilmente usare permalink)</ref> -->
-               <!-- Per un riferimento bibliografico che può essere sciolto,
-                  dentro a @corresp di <bibl> inserisci l'id del biblStruct corrispondente -->
-               <!-- Se lo scioglimento non si trova nella bibliografia minima sotto, utilizza qui
-                  <relatedItem> inserendo al suo interno un <bibl> o un <biblStruct> </relatedItem> -->
             </bibl>
             <bibl>
                Autore anno, pp. x-xx
@@ -186,15 +180,13 @@
                   <bibl>Riferimento bibliografico completo</bibl>
                </relatedItem>
             </bibl>
-         </listBibl>
-         <div type="commentary">
-            <note target="# #"><!-- qui utilizza gli id dei versi -->
-               <num><!-- Aggiungi il numero dei versi. Se si tratta di un range: 1-2. --></num>
-               <hi rend="italic"><!-- Aggiungi qui la porzione di testo cui la nota fa riferimento -->:</hi>
-               <!-- Copia qui il testo della nota. Suddividilo in paragrafi (<p>)
-               e marca i corsivi (<hi rend="italic"></hi>) -->
+         </listBibl-->
+         <!--div type="commentary">
+            <note target="# #">
+               <num></num>
+               <hi rend="italic">:</hi>
             </note>
-         </div>
+         </div-->
          <listBibl type="editionsBibliography">
             <bibl xml:id="Apel1970">
                <hi rend="italic">French Secular Compositions of the Fourteenth Century,</hi> I. <hi rend="italic">Ascribed Compositions</hi>, ed. by W. Apel. Edition of the literary texts by S. N. Rosenberg., Roma, AIM, 1970 (CMM, 53/1)

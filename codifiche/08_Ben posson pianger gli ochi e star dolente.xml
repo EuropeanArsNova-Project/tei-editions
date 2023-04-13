@@ -7,9 +7,9 @@
       <fileDesc>
          <titleStmt>
             <title>Ben posson pianger gli ochi e star dolente</title>
-            <author><ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830">Francesco Landini</ref></author>
+            <author><!--ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830"-->Paolo da Firenze<!--/ref--></author>
             <respStmt>
-               <resp>Digital scholarly editon created within the ERC</resp>
+               <resp>Digital scholarly edition created within the ERC</resp>
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
             <respStmt>
@@ -70,23 +70,23 @@
             <l xml:id="l4">
                <anchor xml:id="l4a1"/>Ricoglie in sé questa per cu<anchor xml:id="l4a2"/>’<gap reason="illegible" rend="[...]"/><anchor xml:id="l4a3"/>co<anchor xml:id="l4a4"/>
             </l>
-            <l xml:id="l5">
+            <l xml:id="l5" n="5">
                tutte suo forç’ a essermi crudele
             </l>
             <l xml:id="l6">
-               <gap reason="illegible" rend="[...]"/>
+               <gap reason="illegible" extent="one line" rend="[...]"/>
             </l>
             <l xml:id="l7">
-               <gap reason="illegible" rend="[...]"/>
+               <gap reason="illegible" extent="one line" rend="[...]"/>
             </l>
             <l xml:id="l8">
-               <gap reason="illegible" rend="[...]"/>
+               <gap reason="illegible" extent="one line" rend="[...]"/>
             </l>
             <l xml:id="l9">
-               <gap reason="illegible" rend="[...]"/>
+               <gap reason="illegible" extent="one line" rend="[...]"/>
             </l>
-            <l xml:id="l10">
-               <gap reason="illegible" rend="[...]"/>
+            <l xml:id="l10" n="10">
+               <gap reason="illegible" extent="one line" rend="[...]"/>
             </l>
          </lg>
          
@@ -144,17 +144,16 @@
          <listBibl type="editions">
             <bibl>
                Brumana-Ciliberti 1986, pp. 26-7.
+               <relatedItem>
+                  <bibl>
+                     Biancamaria Brumana, Galliano Ciliberti, <hi rend="italic">Nuove fonti per lo studio dell’opera di Paolo da Firenze</hi>, «Rivista Italiana di Musicologia», 22 (1986), pp. 3-33
+                  </bibl>
+               </relatedItem>
             </bibl>            
          </listBibl>
 
-         <listBibl type="bibliography">
+         <!--listBibl type="bibliography">
             <bibl corresp="#">
-               <!-- Sigla -->
-               <!--  <ref target="http://">Sigla con link esterno (possibilmente usare permalink)</ref> -->
-               <!-- Per un riferimento bibliografico che può essere sciolto,
-                  dentro a @corresp di <bibl> inserisci l'id del biblStruct corrispondente -->
-               <!-- Se lo scioglimento non si trova nella bibliografia minima sotto, utilizza qui
-                  <relatedItem> inserendo al suo interno un <bibl> o un <biblStruct> </relatedItem> -->
             </bibl>
             <bibl>
                Autore anno, pp. x-xx
@@ -162,7 +161,7 @@
                   <bibl>Riferimento bibliografico completo</bibl>
                </relatedItem>
             </bibl>
-         </listBibl>
+         </listBibl-->
 
          <div type="commentary">
             <note target="#l5">

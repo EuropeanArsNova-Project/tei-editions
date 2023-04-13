@@ -7,9 +7,9 @@
       <fileDesc>
          <titleStmt>
             <title>Benché partito da·tte 'l corpo sia</title>
-            <author><ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830">Francesco Landini</ref></author>
+            <author><!--ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830"-->Paolo da Firenze<!--/ref--></author>
             <respStmt>
-               <resp>Digital scholarly editon created within the ERC</resp>
+               <resp>Digital scholarly edition created within the ERC</resp>
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
             <respStmt>
@@ -69,17 +69,17 @@
             <l xml:id="l4">
                che nata sie con sì nobil aspecto
             </l>
-            <l xml:id="l5">
-               [… -una]
+            <l xml:id="l5" n="5">
+               <supplied reason="illegible">[... -una]</supplied>
             </l>
             <l xml:id="l6">
-               [… -etto]
+               <supplied reason="illegible">[... -etto]</supplied>
             </l>
             <l xml:id="l7">
-               [… -etto]
+               <supplied reason="illegible">[... -etto]</supplied>
             </l>
             <l xml:id="l8">
-               [… -ia]
+               <supplied reason="illegible">[... -ia]</supplied>
             </l>
          </lg>
          
@@ -113,20 +113,19 @@
          <listBibl type="editions">
             <bibl>
                Li Gotti 1952, pp. 606.
+               <relatedItem>
+                  <bibl>
+                     E. Li Gotti, <hi rend="italic">Paolo tenorista, fiorentino "extra moenia"</hi>, in <hi rend="italic">Estudios dedicados a Menéndez Pidal</hi>, tomo III, Madrid, C.S.I.C., 1952, pp. 577-606
+                  </bibl>
+               </relatedItem>
             </bibl>  
             <bibl corresp="#Corsi1970">
                Corsi 1970, pp. 286
             </bibl>          
          </listBibl>
 
-         <listBibl type="bibliography">
+         <!--listBibl type="bibliography">
             <bibl corresp="#">
-               <!-- Sigla -->
-               <!--  <ref target="http://">Sigla con link esterno (possibilmente usare permalink)</ref> -->
-               <!-- Per un riferimento bibliografico che può essere sciolto,
-                  dentro a @corresp di <bibl> inserisci l'id del biblStruct corrispondente -->
-               <!-- Se lo scioglimento non si trova nella bibliografia minima sotto, utilizza qui
-                  <relatedItem> inserendo al suo interno un <bibl> o un <biblStruct> </relatedItem> -->
             </bibl>
             <bibl>
                Autore anno, pp. x-xx
@@ -134,16 +133,14 @@
                   <bibl>Riferimento bibliografico completo</bibl>
                </relatedItem>
             </bibl>
-         </listBibl>
+         </listBibl-->
 
-         <div type="commentary">
-            <note target="# #"><!-- qui utilizza gli id dei versi -->
-               <num><!-- Aggiungi il numero dei versi. Se si tratta di un range: 1-2. --></num>
-               <hi rend="italic"><!-- Aggiungi qui la porzione di testo cui la nota fa riferimento -->:</hi>
-               <!-- Copia qui il testo della nota. Suddividilo in paragrafi (<p>)
-               e marca i corsivi (<hi rend="italic"></hi>) -->
+         <!--div type="commentary">
+            <note target="# #">
+               <num></num>
+               <hi rend="italic">:</hi>
             </note>
-         </div>
+         </div-->
 
 
          <listBibl type="editionsBibliography">

@@ -136,12 +136,12 @@
                <head>5</head> 
                <app from="#l5a1" to="#l5a2">
                   <lem>Nessuno 'l sa</lem>
-                  <rdg type="indifferentVariant" wit="Lw">Nessuno nol sa</rdg>
+                  <rdg type="indifferentVariant" wit="Lw"><!--Attenzione a copiare correttamente-->nessun nol sa</rdg>
                </app>
 
                <app from="#l5a3" to="#l5a4">
                   <lem>sa</lem>
-                  <rdg><hi rend="super">sa</hi><wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg><witDetail wit="Pit"><hi rend="italic">aggiunto al di sopra</hi></witDetail><wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                </app>
             </listApp>
 

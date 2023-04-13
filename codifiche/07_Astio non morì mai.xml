@@ -69,7 +69,7 @@
             </l>
          </lg>
          <lg>
-            <l xml:id="l5">
+            <l xml:id="l5" n="5">
                <anchor xml:id="l5a1"/>Chi è sanza virtù<anchor xml:id="l5a2"/> et è vitioso,
             </l>
             <l xml:id="l6">quest’ è lasciato stare;</l>
@@ -78,7 +78,7 @@
             </l>
             <l xml:id="l8">perché lui no·l sa fare,</l>
             <l xml:id="l9">ma ingegnasi rotare</l>
-            <l xml:id="l10">
+            <l xml:id="l10" n="10">
                la rota di Fortuna, et mette <anchor xml:id="l10a1"/>al<anchor xml:id="l10a2"/> fondo
             </l>
             <l xml:id="l11">chi è degno nel mondo</l>
@@ -210,17 +210,14 @@
 
             <bibl>
                Brumana-Ciliberti 1986, pp. 26.
+               <relatedItem>
+                  <bibl>Biancamaria Brumana, Galliano Ciliberti, <hi rend="italic">Nuove fonti per lo studio dell’opera di Paolo da Firenze</hi>, «Rivista Italiana di Musicologia», 22 (1986), pp. 3-33</bibl>
+               </relatedItem>
             </bibl>            
          </listBibl>
 
-         <listBibl type="bibliography">
+         <!--listBibl type="bibliography">
             <bibl corresp="#">
-               <!-- Sigla -->
-               <!--  <ref target="http://">Sigla con link esterno (possibilmente usare permalink)</ref> -->
-               <!-- Per un riferimento bibliografico che può essere sciolto,
-                  dentro a @corresp di <bibl> inserisci l'id del biblStruct corrispondente -->
-               <!-- Se lo scioglimento non si trova nella bibliografia minima sotto, utilizza qui
-                  <relatedItem> inserendo al suo interno un <bibl> o un <biblStruct> </relatedItem> -->
             </bibl>
             <bibl>
                Autore anno, pp. x-xx
@@ -228,16 +225,14 @@
                   <bibl>Riferimento bibliografico completo</bibl>
                </relatedItem>
             </bibl>
-         </listBibl>
+         </listBibl-->
 
-         <div type="commentary">
-            <note target="# #"><!-- qui utilizza gli id dei versi -->
-               <num><!-- Aggiungi il numero dei versi. Se si tratta di un range: 1-2. --></num>
-               <hi rend="italic"><!-- Aggiungi qui la porzione di testo cui la nota fa riferimento -->:</hi>
-               <!-- Copia qui il testo della nota. Suddividilo in paragrafi (<p>)
-               e marca i corsivi (<hi rend="italic"></hi>) -->
+         <!--div type="commentary">
+            <note target="# #">
+               <num></num>
+               <hi rend="italic">:</hi>
             </note>
-         </div>
+         </div-->
          <listBibl type="editionsBibliography">
             <bibl xml:id="Apel1970">
                <hi rend="italic">French Secular Compositions of the Fourteenth Century,</hi> I. <hi rend="italic">Ascribed Compositions</hi>, ed. by W. Apel. Edition of the literary texts by S. N. Rosenberg., Roma, AIM, 1970 (CMM, 53/1)
