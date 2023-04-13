@@ -7,9 +7,9 @@
       <fileDesc>
          <titleStmt>
             <title>Amor mi stringe assai più che non sole</title>
-            <author><ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830">Francesco Landini</ref></author>
+            <author><!--ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830"-->Francesco Landini<!--/ref--></author>
             <respStmt>
-               <resp>Digital scholarly editon created within the </resp>
+               <resp>Digital scholarly edition created within the </resp>
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
             </respStmt>
             <respStmt>
@@ -60,17 +60,18 @@
         <lg>
             <l xml:id="l3">Né per vari accidenti <anchor xml:id="l3a1"/>cangio<anchor xml:id="l3a2"/> voglia:</l>
             <l xml:id="l4"><anchor xml:id="l4a1"/>po’<anchor xml:id="l4a2"/> ch’Amor lo comanda,</l>
-            <l xml:id="l5">m’à più fermo che mai;</l>
+            <l xml:id="l5" n="5">m’à più fermo che mai;</l>
             <l xml:id="l6">et è tanto piacevole la doglia</l>
             <l xml:id="l7">che·ll’animo trasanda</l>
             <l xml:id="l8">in dolceça di guai,</l>
             <l xml:id="l9">e ’l discreto pensier dice «Ben fai!</l>
-            <l xml:id="l10">Ch’a nullo amato Amor perdonò mai».</l>
+            <l xml:id="l10" n="10">Ch’a nullo amato Amor perdonò mai».</l>
         </lg>
        </body>
       <back>
          <listWit>
             <witness xml:id="Pit">
+               <!--ref target="X" [Mancava la sigla del testimone]-->Pit<!--/ref-->
                cc. <locus>78v-79r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-5), <hi rend="italic">resid</hi>. (vv. 6-10): <hi rend="italic">p(aulus) a(bbas)</hi>
             </witness>
             <witness xml:id="SL">
@@ -97,10 +98,6 @@
                   <lem>che</lem>
                   <rdg>che che<wit><ref target="#SLT">SL</ref><hi rend="super">T</hi></wit></rdg>
                </app>
-               <app from="#l2a3" to="#l2a4">
-                  <lem>può</lem>
-                  <rdg wit="#SL">po</rdg>
-               </app>
               </listApp>
               <listApp>
                  <head>3</head>
@@ -108,23 +105,37 @@
                     <lem>cangio</lem>
                     <rdg>cagio<wit><ref target="#SLT">SL<hi rend="super">T</hi></ref></wit></rdg>
                  </app>
-                 <app from="#l3a3" to="#l3a4">
+               </listApp>
+            </listApp>
+         <listApp type="orthographic">
+            <listApp>
+               <head>2</head>
+               <app from="#l2a3" to="#l2a4">
+                  <lem>può</lem>
+                  <rdg wit="#SL">po</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>3</head>
+               <app from="#l3a3" to="#l3a4">
                   <lem>po’</lem>
                   <rdg wit="#SL">poi</rdg>
                </app>
-               </listApp>
             </listApp>
+         </listApp>
          <div type="metricalScheme">
             <p>Ballata minore 10’z 10’z; 10’a 6’b 6’c, 10’a 6’b 6’c; 10’c 10’c. Si noti l’anomalo schema rimico, privo di corrispondenza tra ripresa e volta.</p> 
             <p><hi rend="italic">Pagnotta</hi> 194 : 1.</p>
             <p>Rima identica ai vv. 5 : 10.</p>
             <p>Punti sottoscritti: v. 1 (<hi rend="italic">assai</hi>) Pit.
             </p>
-            <p>Dialefi al v. 2 (<hi rend="italic">può et sa et</hi>). </p>
             </div>
          <listBibl type="editions">
-            <bibl corresp="#LiGotti1952">
+            <bibl>
                Li Gotti 1952, p. 593;
+               <relatedItem>
+                  <bibl>E. Li Gotti, <hi rend="italic">Paolo tenorista, fiorentino "extra moenia"</hi>, in <hi rend="italic">Estudios dedicados a Menéndez Pidal</hi>, tomo III, Madrid, C.S.I.C., 1952, pp. 577-606</bibl>
+               </relatedItem>
             </bibl>
             <bibl corresp="#Corsi1970">
                Corsi 1970, p. 274.

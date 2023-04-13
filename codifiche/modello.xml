@@ -9,7 +9,7 @@
             <title><!-- Aggiungi Titolo --></title>
             <author><ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830">Francesco Landini</ref></author>
             <respStmt>
-               <resp>Digital scholarly editon created within the ERC</resp>
+               <resp>Digital scholarly edition created within the ERC</resp>
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
             <respStmt>
@@ -92,6 +92,19 @@
             </witness>
          </listWit>
          <listApp type="substantial">
+            <listApp>
+               <head><!-- Aggiungi il numero del verso --></head>
+               <app from="" to="">
+                  <!-- Crea un elemento app per ogni entrata dell'apparato critico -->
+                  <lem><!-- Inserisci il lemma --></lem>
+                  <!-- Per le varianti con riferimenti agli interi manoscritti -->
+                  <rdg wit="# #"><!-- Inseirsci la variante --></rdg>
+                  <!-- Per le varianti con riferimenti alle parti nel mansocritto -->
+                  <rdg><!-- Inseirsci la variante --> <wit><ref corresp="#"><!-- Sigla ms --><hi rend="super"><!-- T/C/Ct --></hi></ref></wit></rdg>
+               </app>
+            </listApp>
+         </listApp>
+         <listApp type="orthographic">
             <listApp>
                <head><!-- Aggiungi il numero del verso --></head>
                <app from="" to="">
