@@ -7,9 +7,8 @@
       <fileDesc>
          <titleStmt>
             <title>Da tanto disonesto et reo fervore</title>
-            <author><ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830">Francesco Landini</ref></author>
             <respStmt>
-               <resp>Digital scholarly editon created within the ERC</resp>
+               <resp>Digital scholarly edition created within the ERC</resp>
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
             <respStmt>
@@ -68,26 +67,26 @@
             </l>
          </lg>
          <lg>
-            <l xml:id="l5">
+            <l xml:id="l5" n="5">
                 <anchor xml:id="l5a1"/>E’ mi ricorda a’ rischi, che·tt’amai,<anchor xml:id="l5a2"/>
             </l>
             <l xml:id="l6">
                 menato, <anchor xml:id="l6a1"/>e a’ casi<anchor xml:id="l6a2"/>, et gli angosciosi <anchor xml:id="l6a3"/>affanni<anchor xml:id="l6a4"/>
             </l>
             <l xml:id="l7">
-                <gap reason="illegible" rend="[...]"/>
+                <supplied reason="illegible">[...]</supplied>
             </l>
             <l xml:id="l8">
-                <gap reason="illegible" rend="[...]"/>
+               <supplied reason="illegible">[...]</supplied>
             </l>
             <l xml:id="l9">
-                <gap reason="illegible" rend="[...]"/>
+               <supplied reason="illegible">[...]</supplied>
             </l>
-            <l xml:id="l10">
-                <gap reason="illegible" rend="[...]"/>
+            <l xml:id="l10" n="10">
+               <supplied reason="illegible">[...]</supplied>
             </l>
             <l xml:id="l11">
-                <gap reason="illegible" rend="[...]"/> granda fanmi,
+               <supplied reason="illegible">[...]</supplied> granda fanmi,
             </l>
             <l xml:id="l12">
                 né·sso veder come me ne <anchor xml:id="l12a1"/>canpa<supplied>[re]</supplied><anchor xml:id="l12a2"/>. <!--  si tratta di integrazioni, per cui utilizzerei <supplied> oppure <reg>. Su questo punto meglio confrontarci a voce -->
@@ -97,7 +96,7 @@
       <back>
          <listWit>
             <witness xml:id="Cil">
-               <ref target="Permalink della scheda CANT se già pubblicata e disponibile su Mirabile, vedi sotto">Cil</ref> <!-- CONTROLLARE -->
+               <!--ref target=""-->Cil<!--/ref-->
                cc. <locus>96v-97r</locus>, <abbr xml:id="CilC">C</abbr> (vv. 1-6), <abbr xml:id="CilT">T</abbr> (vv. 1-6), <hi rend="italic">resid.</hi> (vv. 7-12): <hi rend="italic">d(ominus) p(aulus)</hi>
             </witness>
          </listWit>
@@ -158,22 +157,22 @@
          </listApp>
          <div type="metricalScheme">
             <p>
-               Ballata grande 10’z 6’y 6’y 10’z; 10’a 10’b, [10’? 10’?; 10’m 6’m 6’m 10’z].Rima imperfetta ai vv. 4 : 12.
+               Ballata grande 10’z 6’y 6’y 10’z; 10’a 10’b, [10’? 10’?; 10’m 6’m 6’m 10’z]. Rima imperfetta ai vv. 4 : 12.
             </p>
          </div>
          <listBibl type="editions">
-            <bibl corresp="#"> <!-- Per una citazione semplice: aggiungi qui il riferimento bibliografico --> <!--ref target="URL">Testo del collegamento</ref-->
+            <bibl corresp="#Brumana-Ciliberti1986">
                 Brumana-Ciliberti 1986, p. 27
             </bibl>
          </listBibl>
-         <listBibl type="bibliography">
-            <bibl> <!-- xml:id="Brumana_Ciliberti1986"  DA METTERE RIF COMPLETO-->
-                Brumana-Ciliberti 1986, p. 27
+         <!--listBibl type="bibliography">
+            <bibl>
+                
                <relatedItem>
                   <bibl>Riferimento bibliografico completo</bibl>
                </relatedItem>
             </bibl>
-         </listBibl>
+         </listBibl-->
          <div type="commentary">
             <note target="#l5 #l6">
                <num>5-6</num>
@@ -181,68 +180,8 @@
             </note>
          </div>
          <listBibl type="editionsBibliography">
-            <bibl xml:id="Apel1970">
-               <hi rend="italic">French Secular Compositions of the Fourteenth Century,</hi> I. <hi rend="italic">Ascribed Compositions</hi>, ed. by W. Apel. Edition of the literary texts by S. N. Rosenberg., Roma, AIM, 1970 (CMM, 53/1)
-            </bibl>
-            <bibl xml:id="Apel1971">
-               Willi Apel, <hi rend="italic">French Secular Compositions of the Fourteenth Century II. Anonymous Ballades</hi>, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1971 (CMM, 53/2)
-            </bibl>
-            <bibl xml:id="Apel1972">
-               Willi Apel, <hi rend="italic">French Secular Compositions of the Fourteenth Century III. Anonymous Virelais, Rondeaux, Chansons, Canons</hi>, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1972 (CMM, 53/3)
-            </bibl>
-            <bibl xml:id="Bent1985">
-               Margaret Bent, Anne Hallmark, <hi rend="italic">The Works of Johannes Ciconia</hi>, Monaco, Éditions de l’Oiseau-Lyre, 1985 (Polyphonic Music of the Fourteenth Century, XXIV)
-            </bibl>
-            <bibl xml:id="Brambilla_Ageno1975">
-               Franca Brambilla Ageno, rec. a <hi rend="italic">Giuseppe Corsi, «Poesie musicali del Trecento»</hi>, «Romance Philology», 28 (1975), pp. 696-706
-            </bibl>
-            <bibl xml:id="Calvia2017">
-               Nicolò del Preposto, <hi rend="italic">Opera Completa</hi>. Edizione critica commentata dei testi intonati e delle musiche, a cura di A. Calvia, Firenze, Edizioni del Galluzzo per la Fondazione Ezio Franceschini, 2017
-            </bibl>
-            <bibl xml:id="Corsi1969">
-               G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
-            </bibl>
-            <bibl xml:id="Corsi1970">
-               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
-            </bibl>
-            <bibl xml:id="Epifani2019">          
-               <hi rend="italic">La caccia nell'Ars Nova italiana</hi>, edizione critica commentata dei testi e delle intonazioni, a cura di Michele Epifani, Firenze, Edizioni del Galluzzo, 2019
-            </bibl>
-            <bibl xml:id="Huck2007">
-               <hi rend="italic">Die mehrfach überlieferten Kompositionen des frühen Trecento: Anonyme Madrigale und Cacce sowie Kompositionen von Piero, Giovanni da Firenze und Jacopo da Bologna</hi>, Hrsg. von O. Huck und S. Dieckmann, unter Mitarbeit von E. Arnrich und J. Gehring in Verbindung mit M. Gozzi, 2 voll., Hildesheim, Olms Verlag, 2007
-            </bibl>
-            <bibl xml:id="Pasquinucci2007">
-               Enrico Pasquinucci, <hi rend="italic">La poesia musicale di Niccolò Soldanieri</hi>, «Studi di filologia italiana», 65 (2007), pp. 65-193
-            </bibl>
-            <bibl xml:id="Pirrotta1954">
-               Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy I. Bartholus de Florentia; Johannes de Florentia; Gherardellus de Florentia</hi>, Amsterdam, American Institute of Musicology, 1954 (CMM, 8/1)
-            </bibl>
-            <bibl xml:id="Pirrotta1960">
-               Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy II. Maestro Piero; Codex Vatican Rossi 215; Anonymous Madrigals and Cacce from Other Manuscripts</hi>, Amsterdam, American Institute of Musicology, 1960 (CMM, 8/2)
-            </bibl>
-            <bibl xml:id="Pirrotta1962">
-               Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy III. Laurentius Masii de Florentia; Donatus de Florentia; Rosso da Collegrano, and Nine anonymous pieces</hi>, Amsterdam, American Institute of Musicology, 1962 (Corpus Mensurabilis Musicae, 8/3)
-            </bibl>
-            <bibl xml:id="Pirrotta1963">
-               Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy IV. Jacobus de Bononia; Vincentius de Arimino</hi>, Amsterdam, American Institute of Musicology, 1963 (Corpus Mensurabilis Musicae, 8/4)
-            </bibl>
-            <bibl xml:id="Pirrotta1964">
-               Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy V. Andreas de Florentia; Guilielmus de Francia; Bonaiutus Corsini; Andrea Stefani; Ser Feo; Jacopo Pianelaio; Gian Toscano and Anonymous</hi>, Amsterdam, American Institute of Musicology, 1964 (Corpus Mensurabilis Musicae, 8/5)
-            </bibl>
-            <bibl xml:id="Sacchetti1990">
-               Franco Sacchetti, <hi rend="italic">Il libro delle rime</hi>, ed. F. Brambilla Ageno, Firenze, Olschki, 1990
-            </bibl>
-            <bibl xml:id="Sacchetti2007">
-               Franco Sacchetti, <hi rend="italic">Il libro delle rime con le lettere</hi>, ed. D. Puccini, Torino, UTET, 2007
-            </bibl>
-            <bibl xml:id="Sapegno1952">
-               Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952
-            </bibl>
-            <bibl xml:id="Sucato2003">
-               Tiziana Sucato, <hi rend="italic">Il codice rossiano 215. Madrigali, ballate, una caccia, un rotondello</hi>, Pisa, ETS, 2003 («Diverse voci...» 1)
-            </bibl>
-            <bibl xml:id="Zenari2004">
-               Massimo Zenari, <hi rend="italic">Undici madrigali a testimone unico del Panciatichiano 26 (Firenze, Biblioteca Nazionale Centrale)</hi>, «Studi di filologia italiana», 57 (2004), pp. 131-60
+            <bibl xml:id="Brumana-Ciliberti1986">
+               Biancamaria Brumana, Galliano Ciliberti, <hi rend="italic">Nuove fonti per lo studio dell’opera di Paolo da Firenze</hi>, «Rivista Italiana di Musicologia», 22 (1986), pp. 3-33
             </bibl>
          </listBibl>
       </back>
