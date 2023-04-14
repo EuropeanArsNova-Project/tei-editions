@@ -56,36 +56,36 @@
       <body>
          <lg>
             <l xml:id="l1">
-               <anchor xml:id="l1a1"/>Ben posson pianger li ochi e star dolente<anchor xml:id="l1a1"/>
+               <anchor xml:id="l1a1"/>Ben posson pianger li ochi e star dolente<anchor xml:id="l1a2"/>
             </l>
             <l xml:id="l2">
-               <gap reason="illegible" rend="[...]"/>
+               <supplied reason="illegible">[...]</supplied>
             </l>
             <l xml:id="l3">
-               <gap reason="illegible" rend="[...]"/>ta <anchor xml:id="l3a1"/>mente<anchor xml:id="l3a2"/>.
+               <supplied reason="illegible">[...]</supplied>ta <anchor xml:id="l3a1"/>mente<anchor xml:id="l3a2"/>.
             </l>
          </lg>
          <lg>
             <l xml:id="l4">
-               <anchor xml:id="l4a1"/>Ricoglie in sé questa per cu<anchor xml:id="l4a2"/>’<gap reason="illegible" rend="[...]"/><anchor xml:id="l4a3"/>co<anchor xml:id="l4a4"/>
+               <anchor xml:id="l4a1"/>Ricoglie in sé questa per cu<anchor xml:id="l4a2"/>’ <supplied reason="illegible">[...]</supplied><anchor xml:id="l4a3"/>co<anchor xml:id="l4a4"/>
             </l>
             <l xml:id="l5" n="5">
                tutte suo forç’ a essermi crudele
             </l>
             <l xml:id="l6">
-               <gap reason="illegible" extent="one line" rend="[...]"/>
+               <supplied reason="illegible">[...]</supplied>
             </l>
             <l xml:id="l7">
-               <gap reason="illegible" extent="one line" rend="[...]"/>
+               <supplied reason="illegible">[...]</supplied>
             </l>
             <l xml:id="l8">
-               <gap reason="illegible" extent="one line" rend="[...]"/>
+               <supplied reason="illegible">[...]</supplied>
             </l>
             <l xml:id="l9">
-               <gap reason="illegible" extent="one line" rend="[...]"/>
+               <supplied reason="illegible">[...]</supplied>
             </l>
             <l xml:id="l10" n="10">
-               <gap reason="illegible" extent="one line" rend="[...]"/>
+               <supplied reason="illegible">[...]</supplied>
             </l>
          </lg>
          
@@ -104,16 +104,16 @@
             <listApp>
                <head>1</head>
                <app from="#l1a1" to="#l1a2">
-                  <lem>Ben posson pianger li ochi <hi rend="italic">e star dolente</hi></lem>
-                  <rdg><hi rend="italic">per l.m.</hi><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
+                  <lem>Ben posson pianger li ochi</lem>
+                  <rdg><gap reason="illegible" rend="per l.m."/><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
                </app>
             </listApp>
 
             <listApp>
                <head>3</head>
                <app from="#l3a1" to="#l3a2">
-                  <lem><hi rend="italic">mente</hi></lem>
-                  <rdg><hi rend="italic">per l.m.</hi><wit><ref corresp="#CilT">Cil<hi rend="super">T</hi></ref></wit></rdg>
+                  <lem><hi rend="italic">men</hi>te</lem> <!-- Attenzione -->
+                  <rdg><gap reason="illegible" rend="per l.m."/><wit><ref corresp="#CilT">Cil<hi rend="super">T</hi></ref></wit></rdg>
                </app>             
             </listApp>
 
@@ -121,13 +121,13 @@
                <head>4</head>
                <app from="#l4a1" to="#l4a2">
                   <lem>Ricoglie in sé questa per cu</lem>
-                  <rdg><hi rend="italic">per l.m.</hi><wit><ref corresp="#CilT">Cil<hi rend="super">T</hi></ref></wit>
+                  <rdg><gap reason="illegible" rend="per l.m."/><wit><ref corresp="#CilT">Cil<hi rend="super">T</hi></ref></wit>
                   </rdg>
                </app>
 
                <app from="#l4a3" to="#l4a4">
                   <lem>co</lem>
-                  <rdg><hi rend="italic">per l.m.</hi><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit>
+                  <rdg><gap reason="illegible" rend="per l.m."/><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit>
                   </rdg>
                </app>
             </listApp>
@@ -161,7 +161,7 @@
             <note target="#l5">
                <num>5</num>
                <p>Emendamento possibile, suggerito in nota da Brumana-Ciliberti (1986), è
-               <hi rend="italic underline">per cu’ sta in foco</hi>.</p>
+               <hi rend="italic">per cu’ sta in foco</hi>.</p>
             </note>
          </div>
 

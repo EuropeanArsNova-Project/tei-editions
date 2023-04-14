@@ -97,7 +97,7 @@
                <head>1</head>
                <app from="#l1a1" to="#l1a2">
                   <lem>da·tte</lem>
-                  <rdg>dacte<wit><ref corresp="#Pit">Pit</ref></wit></rdg>
+                  <rdg wit="#Pit">dacte</rdg>
                </app>
             </listApp>
          </listApp>

@@ -6,9 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Astio non morì mai</title>
-            <author><!--ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830"-->Paolo da Firenze<!--/ref--></author>
-            <respStmt>
+            <title>Astio non morì mai</title><respStmt>
                <resp>Digital scholarly edition created within the ERC</resp>
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
@@ -109,10 +107,60 @@
                <head>1</head>
                <app from="#l1a1" to="#l1a2">
                   <lem>Astio</lem>
-                  <rdg>stio<wit><ref corresp="#SL">SL</ref></wit></rdg>
+                  <rdg wit="#SL">stio</rdg>
                </app>
             </listApp>
 
+            <listApp>
+               <head>2</head>
+               <app from="#l2a3" to="#l2a4">
+                  <lem>ora</lem>
+                  <rdg>o<gap quantity="2" unit="chars" reason="illegible" rend="**"/><wit><ref corresp="#CilC">C<hi rend="super">C</hi></ref></wit></rdg> 
+               </app>
+            </listApp>
+
+            <listApp>
+               <head>3</head>
+               <app from="#l3a1" to="#l3a2">
+                  <lem>in quant’i’ vegio</lem>
+                  <rdg><gap reason="illegible" rend="ill."/><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
+               </app>            
+            </listApp>
+
+            <listApp>
+               <head>4</head>
+               <app from="#l4a1" to="#l4a2">
+                  <lem>a chi me’ fa</lem>
+                  <rdg><gap reason="illegible" rend="ill."/><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit>
+                  </rdg>
+               </app>
+
+               <app from="#l4a5" to="#l4a6">
+                  <lem>guai</lem>
+                  <rdg>gu<gap quantity="2" unit="chars" reason="illegible" rend="**"/><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit>
+                  </rdg>
+               </app>
+            </listApp>
+
+            <listApp>
+               <head>5</head>
+               <app from="#l5a1" to="#l5a2">
+                  <lem><hi rend="italic">Chi è sanza virtù</hi></lem>
+                  <rdg><gap reason="illegible" rend="ill."/><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit>
+                  </rdg>
+               </app>
+            </listApp>
+            
+            <listApp>
+               <head>10</head>
+               <app from="#l10a1" to="#l10a2">
+                  <lem>al</lem>
+                  <rdg wit="#SL">il</rdg>
+               </app>
+            </listApp>
+         </listApp>
+         
+         <listApp type="formal">
             <listApp>
                <head>2</head>
                <app from="#l2a1" to="#l2a2">
@@ -122,93 +170,47 @@
                      <wit><ref corresp="#SL">SL</ref></wit>
                   </rdg>
                </app>
-
-               <app from="#l2a3" to="#l2a4">
-                  <lem>ora</lem>
-                  <rdg><!--o**--><wit><ref corresp="#CilC">C<hi rend="super">C</hi></ref></wit></rdg> 
-               </app>
             </listApp>
-
             <listApp>
                <head>3</head>
-               <app from="#l3a1" to="#l3a2">
-                  <lem>in quant’i’ vegio</lem>
-                  <rdg><!--.ill--><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
-               </app>
-
                <app from="#l3a3" to="#l3a4">
                   <lem>i’</lem>
-                  <rdg>io<wit><ref corresp="#SL">SL</ref></wit></rdg>
-               </app>
-
+                  <rdg wit="#SL">io</rdg>
+               </app>               
                <app from="#l3a5" to="#l3a6">
                   <lem>vegio</lem>
                   <rdg>vegi<wit><ref corresp="#CilT">Cil<hi rend="super">T</hi></ref></wit></rdg>
-               </app>               
+               </app>   
             </listApp>
-
             <listApp>
-               <head>4</head>
-               <app from="#l4a1" to="#l4a2">
-                  <lem>a chi me’ fa</lem>
-                  <rdg><!--.ill--><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit>
-                  </rdg>
-               </app>
-
+               <head>4</head>               
                <app from="#l4a3" to="#l4a4">
                   <lem>asti’</lem>
                   <rdg>astio<wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit>
                   </rdg>
                </app>
-
-               <app from="#l4a5" to="#l4a6">
-                  <lem>guai</lem>
-                  <rdg><!--gu**--><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit>
-                  </rdg>
-               </app>
-            </listApp>
-
-            <listApp>
-               <head>5</head>
-               <app from="#l5a1" to="#l5a2">
-                  <lem><hi rend="italic">Chi è sanza virtù</hi></lem>
-                  <rdg><!--.ill--><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit>
-                  </rdg>
-               </app>
-            </listApp>
-
+            </listApp>            
             <listApp>
                <head>7</head>
                <app from="#l7a1" to="#l7a2">
                   <lem>invidïoso</lem>
-                  <rdg>nvidioso<wit><ref corresp="#Cil">Cil</ref></wit></rdg>
-               </app>
-            </listApp>
-            
-            <listApp>
-               <head>10</head>
-               <app from="#l10a1" to="#l10a2">
-                  <lem>al</lem>
-                  <rdg>il<wit><ref corresp="#SL">SL</ref></wit></rdg>
+                  <rdg wit="#Cil">nvidioso</rdg>
                </app>
             </listApp>
          </listApp>
-
 
          <div type="metricalScheme">
             <p>Ballata grande 6’z 10’y 6’y 10’z; 10’a 6’b, 10’a 6’b; 6’b 10’c 6’c 10’z.</p>
             <p><hi rend="italic">Pagnotta</hi> 98:57</p>
             <p>Rima derivativa e inclusiva ai vv. 2 : 3; rima ricca ai vv. 6 : 9.</p>
-            <p>Punti sottoscritti: v. 3 (<hi rend="italic">io</hi>) Pit<hi rend="super">T</hi>, (<hi rend="italic">vegio</hi>) Pit; v. 4 (<hi rend="italic">astio</hi>) Pit<hi rend="super">T</hi>; v. 7 (<hi rend="italic">rreo</hi>) Pit.</p>
-            <p>Dialefe ai vv. 5 e 11 (<hi rend="italic">chi è</hi>).</p>
-               
+            <p>Punti sottoscritti: v. 3 (<hi rend="italic">io</hi>) Pit<hi rend="super">T</hi>, (<hi rend="italic">vegio</hi>) Pit; v. 4 (<hi rend="italic">astio</hi>) Pit<hi rend="super">T</hi>; v. 7 (<hi rend="italic">rreo</hi>) Pit.</p>               
          </div>
          <listBibl type="editions">
             <bibl corresp="#Corsi1970">
                Corsi 1970, pp. 307
             </bibl>
 
-            <bibl corresp="Brumana-Ciliberti1986">
+            <bibl corresp="#Brumana-Ciliberti1986">
                Brumana-Ciliberti 1986, pp. 26.
             </bibl>            
          </listBibl>
@@ -231,7 +233,8 @@
             </note>
          </div-->
          <listBibl type="editionsBibliography">
-            <bibl>Biancamaria Brumana, Galliano Ciliberti, <hi rend="italic">Nuove fonti per lo studio dell’opera di Paolo da Firenze</hi>, «Rivista Italiana di Musicologia», 22 (1986), pp. 3-33</bibl>
+            <bibl xml:id="Brumana-Ciliberti1986">
+               Biancamaria Brumana, Galliano Ciliberti, <hi rend="italic">Nuove fonti per lo studio dell’opera di Paolo da Firenze</hi>, «Rivista Italiana di Musicologia», 22 (1986), pp. 3-33</bibl>
             <bibl xml:id="Corsi1970">
                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
             </bibl>

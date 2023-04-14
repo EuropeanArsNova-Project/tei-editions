@@ -113,7 +113,7 @@
 
                <app from="#l2a3" to="#l2a4">
                   <lem>cavato</lem>
-                  <rdg>cavato<gap reason="illegible"/><wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                  <rdg>cavat <witDetail wit="Pit">+ <hi rend="italic">alcuni grafi ill.</hi></witDetail><wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>
 
@@ -121,7 +121,7 @@
                <head>5</head>
                <app from="#l5a1" to="#l5a2">
                   <lem>l’arco et l’aurato strale?</lem>
-                  <rdg><!--ripetuto ma in gran parte ill.--><wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg><witDetail wit="#Pit"><hi rend="italic">ripetuto ma in gran parte ill.</hi></witDetail><wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                </app>               
             </listApp>
 
@@ -129,7 +129,7 @@
                <head>6</head>
                <app from="#l6a1" to="#l6a2">
                   <lem>senta</lem>
-                  <rdg><!--ill.--><wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                  <rdg><gap reason="illegible" rend="ill."/><wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>
 
@@ -156,7 +156,7 @@
                
                <app from="#l4a5" to="#l4a6">
                   <lem>or che non tendi</lem>
-                  <rdg><!--ripetuto--><wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                  <rdg><witDetail wit="#Pit"><hi rend="italic">ripetuto</hi></witDetail><wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>
          </listApp>
