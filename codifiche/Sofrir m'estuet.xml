@@ -111,24 +111,10 @@
                  </app>
                </listApp>
                <listApp>
-                 <head>4</head>
-                 <app from="#l4a1" to="#l4a2">
-                    <lem>raçi</lem>
-                    <rdg wit="#Rc7">raggi</rdg>
-                 </app>
-               </listApp>
-               <listApp>
                  <head>5</head>
                  <app from="#l5a1" to="#l5a2">
                     <lem>mondo</lem>
                     <rdg wit="#Pit">modo</rdg>
-                 </app>
-               </listApp>
-               <listApp>
-                 <head>7</head>
-                 <app from="#l7a1" to="#l7a2">
-                    <lem>el razo</lem>
-                    <rdg wit="#Rc7">il razo</rdg>
                  </app>
                </listApp>
                <listApp>
@@ -157,6 +143,22 @@
                  </app>
                 </listApp>
                </listApp>
+        <listApp type="formal">
+           <listApp>
+              <head>4</head>
+              <app from="#l4a1" to="#l4a2">
+                 <lem>raçi</lem>
+                 <rdg wit="#Rc7">raggi</rdg>
+              </app>
+           </listApp>
+           <listApp>
+            <head>7</head>
+            <app from="#l7a1" to="#l7a2">
+               <lem>el razo</lem>
+               <rdg wit="#Rc7">il razo</rdg>
+            </app>
+         </listApp>
+         </listApp>
          <div type="metricalScheme">
             <p>Ballata mezzana 10z 6y 10y; 10’a 10’b, 10’a 10’b; 10’b 6z 10y.</p> 
             <p><hi rend="italic">Pagnotta</hi> 110 : 13.</p>

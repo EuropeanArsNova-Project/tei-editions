@@ -82,7 +82,23 @@
                c. <locus>107r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">abbas pa[...]</hi>
             </witness>
             </listWit>
-           <listApp type="substantial">
+         <listApp type="substantial">            
+            <listApp>
+               <head>3</head>
+               <app from="#l3a1" to="#l3a2">
+                  <lem>signor</lem>
+                  <rdg>signo<wit><ref target="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>6</head>
+               <app from="#l6a1" to="#l6a2">
+                  <lem>potrò</lem>
+                  <rdg type="indifferentVariant" wit="#SL">potre</rdg>                    
+               </app>
+            </listApp>
+         </listApp>  
+         <listApp type="formal">
             <listApp>
                <head>1</head>
                <app from="#l1a1" to="#l1a2">
@@ -101,25 +117,11 @@
                   <rdg wit="#SL">be<wit><ref target="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                </app>
               </listApp>
-              <listApp>
-                 <head>3</head>
-                 <app from="#l3a1" to="#l3a2">
-                    <lem>signor</lem>
-                    <rdg>signo<wit><ref target="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
-                 </app>
-               </listApp>
                <listApp>
                  <head>5</head>
                  <app from="#l5a1" to="#l5a2">
                     <lem>quest’</lem>
                     <rdg wit="#SL">queste</rdg>                    
-                 </app>
-                </listApp>
-                <listApp>
-                 <head>6</head>
-                 <app from="#l6a1" to="#l6a2">
-                    <lem>potrò</lem>
-                    <rdg wit="#SL"><hi rend="bold">potre</hi></rdg>                    
                  </app>
                 </listApp>
                 <listApp>
