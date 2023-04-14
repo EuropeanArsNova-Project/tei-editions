@@ -105,28 +105,28 @@
                <head>2</head>
                <app from="#l2a1" to="#l2a2">
                   <lem>fermo son di partire</lem>
-                  <rdg><hi rend="italic">lac., leggibile solo</hi> fer<wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg> <!-- SE SCRITTO CORRETTO -->
+                  <rdg><gap rend="lac."/><hi rend="italic">, leggibile solo</hi> fer<wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg> <!-- SE SCRITTO CORRETTO -->
                </app>
             </listApp>
             <listApp>
                 <head>3</head>
                 <app from="#l3a1" to="#l3a2">
                    <lem>ché non può più sofrire</lem>
-                   <rdg><hi rend="italic">lac.</hi><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg> <!-- SE SCRITTO CORRETTO -->
+                   <rdg><gap rend="lac."/><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg> <!-- SE SCRITTO CORRETTO -->
                 </app>
             </listApp>
             <listApp>
                 <head>4</head>
                <app from="#l4a5" to="#l4a6">
                     <lem>amore</lem>
-                    <rdg>amo <hi rend="italic">per l.m.</hi><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
+                    <rdg>amo <gap rend="per l.m."/><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
                 </app>
              </listApp>
              <listApp>
                  <head>5</head>
                 <app from="#l5a1" to="#l5a2">
                    <lem>E’ mi ricorda a’ rischi, che·tt’amai,</lem>
-                   <rdg><witDetail wit="Cil"><hi rend="italic">lac., leggibile solo</hi> che tu may</witDetail><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
+                   <rdg><gap rend="lac."/><hi rend="italic">, leggibile solo</hi>  che tu may<wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
                  </app>
              </listApp>
              <listApp>
@@ -137,7 +137,7 @@
                 </app>
                 <app from="#l6a3" to="#l6a4">
                     <lem>affanni</lem>
-                    <rdg>afan <!-- Aggiungere degli spazi prima e dopo l'elemento hi, come per del testo normale --><hi rend="italic">per l.m.</hi><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
+                    <rdg>afan <!-- Aggiungere degli spazi prima e dopo l'elemento hi, come per del testo normale --><gap rend="per l.m."/><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
                 </app>
              </listApp>
              <listApp>
