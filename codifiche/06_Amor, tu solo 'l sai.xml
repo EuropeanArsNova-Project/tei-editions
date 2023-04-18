@@ -161,7 +161,8 @@
 
 
          <listApp type="formal"> 
-            <listApp> 
+            <listApp>
+	       <head> 3</head>
                <app from="#l3a3" to="#l3a4"> 
                   <lem> avene</lem> 
                   <rdg> advene
