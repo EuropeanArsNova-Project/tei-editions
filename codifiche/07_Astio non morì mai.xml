@@ -215,11 +215,11 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
       <listBibl type="editions"> 
          <bibl corresp="#Corsi1970"> 
-            Corsi 1970, pp. 307
+            Corsi 1970, p. 307
          </bibl> 
          
          <bibl corresp="#Brumana-Ciliberti1986"> 
-            Brumana-Ciliberti 1986, pp. 26.
+            Brumana-Ciliberti 1986, p. 26.
          </bibl>  
       </listBibl> 
 
