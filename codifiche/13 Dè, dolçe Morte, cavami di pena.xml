@@ -49,7 +49,7 @@
          <div>
             <p>
             </p>
-         </div>         
+         </div>
       </front> -->
       <body>
          <lg>
@@ -68,10 +68,10 @@
                 che m’à’ fedit’ ed ella sta crudele?
             </l>
             <l xml:id="l5" n="5">
-                Mancami l’alma come neve al sole,	
+                Mancami l’alma come neve al sole,
             </l>
             <l xml:id="l6">
-                nïente vale el mio esser fedele. <!-- come rendo i due punti sulla i  CARATTERI SPECIALI-->
+                nïente vale el mio esser fedele.
             </l>
             <l xml:id="l7">
                 Et però, Morte, stendi le tuo vele,
@@ -82,7 +82,7 @@
          </lg>
       </body>
       <back>
-         <listWit>            
+         <listWit>
             <witness xml:id="Pit">
                <!--ref target=""-->Pit<!--/ref-->
                cc. <locus>84v</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-4),  <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">d(on) p(aolo)</hi> (eraso) [c. 84r: <hi rend="italic">d(on) p(aolo)</hi>]
