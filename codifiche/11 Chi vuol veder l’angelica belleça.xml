@@ -49,7 +49,7 @@
          <div>
             <p>
             </p>
-         </div>         
+         </div>
       </front> -->
       <body>
          <lg>
@@ -105,7 +105,7 @@
                <head>8</head>
                <app from="#l8a1" to="#l8a2">
                   <lem>men</lem>
-                  <rdg>meno<wit><ref corresp="#Pit">Pit</ref></wit></rdg> 
+                  <rdg wit="#Pit">meno</rdg> 
                </app>
             </listApp>
          </listApp>
@@ -127,20 +127,18 @@
             </bibl>
          </listBibl>
          <!--listBibl type="bibliography">
-            <bibl> 
-               
+            <bibl>
                <relatedItem>
                   <bibl>Riferimento bibliografico completo</bibl>
                </relatedItem>
             </bibl>
          </listBibl-->
          <!--div type="commentary">
-            Attenzione nei copia e incolla: si tratta di una nota presente nell'edizione di da tanto disonesto et reo fervore
-            <note target="#l5 #l6">
-               <num>5-6</num>
-               <p>Costruisci: <hi rend="italic">E’ mi ricorda che·tt’amai menato a’ rischi e a’ casi, et gli angosciosi affanni.</hi></p>
+            <note target="#l #l">
+               <num></num>
+               <p></p>
             </note>
-         </div-->
+         </div>-->
          <listBibl type="editionsBibliography">
             <bibl xml:id="Corsi1970">
                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
