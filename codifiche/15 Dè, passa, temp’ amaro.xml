@@ -57,7 +57,7 @@
                 Dè, passa,  <anchor xml:id="l1a1"/>temp’ <anchor xml:id="l1a2"/> amaro,
             </l>
             <l xml:id="l2">
-                <anchor xml:id="l2a1"/>che·lla<anchor xml:id="l2a2"/> mie vita sprona!
+                <anchor xml:id="l2a1"/>che·lla<anchor xml:id="l2a2"/> mie vita <anchor xml:id="l2a3"/>sprona<anchor xml:id="l2a4"/>!
             </l>
             <l xml:id="l3">
                 L’anima s’abandona
@@ -118,6 +118,10 @@
                   <lem>che·lla</lem>
                   <rdg>che la<wit> <ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg> 
                </app>
+               <app from="#l2a3" to="#l2a4">
+                    <lem>sprona</lem>
+                    <rdg>spona<wit> <ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg> 
+                </app>
             </listApp>
          </listApp>
          <div type="metricalScheme">
