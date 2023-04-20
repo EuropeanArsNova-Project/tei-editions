@@ -9,7 +9,7 @@
             <title>Amor, dè, dimmi se sperar merçede</title>
             <author><ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830">Francesco Landini</ref></author>
             <respStmt>
-               <resp>Digital scholarly editon created within the </resp>
+               <resp>Digital scholarly edition created within the </resp>
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
             </respStmt>
             <respStmt>
@@ -21,7 +21,7 @@
                <name>Luca Gatti</name>
             </respStmt>
             <respStmt>
-               <resp>TEI-encoded by</resp><!-- Correggo per omogeneità con i file di E e L -->
+               <resp>TEI-encoded by</resp>
                <name>Carla Congiu</name>
             </respStmt>
          </titleStmt>
@@ -54,16 +54,32 @@
       </front-->
       <body>
         <lg>
-            <l xml:id="l1">Amor, dè, <anchor xml:id="l1a1"/>dimmi<anchor xml:id="l1a2"/> se sperar merçede</l>
-            <l xml:id="l2">si <anchor xml:id="l2a1"/>può giama’<anchor xml:id="l2a2"/>, per <anchor xml:id="l2a3"/>ben<anchor xml:id="l2a4"/> servir con fede,</l>
+            <l xml:id="l1">
+		    Amor, dè, <anchor xml:id="l1a1"/>dimmi<anchor xml:id="l1a2"/> se sperar merçede
+	    </l>
+            <l xml:id="l2">
+		    si <anchor xml:id="l2a1"/>può giama’<anchor xml:id="l2a2"/>, per <anchor xml:id="l2a3"/>ben<anchor xml:id="l2a4"/> servir con fede,
+	    </l>
         </lg>
         <lg>
-         <l xml:id="l3">perché, dolce <anchor xml:id="l3a1"/>signor<anchor xml:id="l3a2"/>, se ’l mie servire</l>
-         <l xml:id="l4">non si dé meritare,</l>
-         <l xml:id="l5" n="5"><anchor xml:id="l5a1"/>quest’<anchor xml:id="l5a2"/> angosciose pene et lo martire</l>
-         <l xml:id="l6">no·lle <anchor xml:id="l6a1"/>potrò<anchor xml:id="l6a2"/> durare:</l>
-         <l xml:id="l7">dè, signor caro, fa’ che ’l <anchor xml:id="l7a1"/>ben<anchor xml:id="l7a2"/> amare</l>
-         <l xml:id="l8">merto riceva di <anchor xml:id="l8a1"/>suo<anchor xml:id="l8a2"/> ferma fede.</l>
+         <l xml:id="l3">
+		 perché, dolce <anchor xml:id="l3a1"/>signor<anchor xml:id="l3a2"/>, se ’l mie servire
+	 </l>
+         <l xml:id="l4">
+		 non si dé meritare,
+	 </l>
+         <l xml:id="l5" n="5">
+		 <anchor xml:id="l5a1"/>quest’<anchor xml:id="l5a2"/> angosciose pene et lo martire
+	 </l>
+         <l xml:id="l6">
+		 no·lle <anchor xml:id="l6a1"/>potrò<anchor xml:id="l6a2"/> durare:
+	 </l>
+         <l xml:id="l7">
+		 dè, signor caro, fa’ che ’l <anchor xml:id="l7a1"/>ben<anchor xml:id="l7a2"/> amare
+	 </l>
+         <l xml:id="l8">
+		 merto riceva di <anchor xml:id="l8a1"/>suo<anchor xml:id="l8a2"/> ferma fede.
+	 </l>
         </lg>
        </body>
       <back>
@@ -87,7 +103,7 @@
                <head>3</head>
                <app from="#l3a1" to="#l3a2">
                   <lem>signor</lem>
-                  <rdg>signo<wit><ref target="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg>signo <wit><ref target="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                </app>
             </listApp>
             <listApp>
@@ -114,7 +130,7 @@
                </app>
                <app from="#l2a3" to="#l2a4">
                   <lem>ben</lem>
-                  <rdg wit="#SL">be<wit><ref target="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                  <rdg wit="#SL">be <wit><ref target="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                </app>
               </listApp>
                <listApp>
