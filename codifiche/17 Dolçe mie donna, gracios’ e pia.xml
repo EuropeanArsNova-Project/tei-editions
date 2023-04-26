@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dolçe mie donna, gracïos’ e pia</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+      <!-- <front>
+         <div>
+            <p>
+            </p>
+         </div>
+      </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1">
+                Dolçe mie donna, gracïos’ e pia
+            </l>
+            <l xml:id="l2">
+                quando sarà che ma’ più ti riveggia?
+            </l>
+            <l xml:id="l3">
+                Come et dove ’l mie <anchor xml:id="l3a1"/>pensie<supplied reason="illegible">[r]</supplied><anchor xml:id="l3a2"/> vagheggia,
+            </l>
+            <l xml:id="l4">
+                senpr’ aspettando che quell’ ora sia?
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l5" n="5">
+                I’ non sapre’ ridir che pena sente
+            </l>
+            <l xml:id="l6">
+                dentr’ al mie cor di sì lunga dimora
+            </l>
+            <l xml:id="l7">
+                se non a·tte, a cui null’ è nascoso,
+            </l>
+            <l xml:id="l8">
+                ché me ne fosse creduto nïente
+            </l>
+            <l xml:id="l9">
+                rispetto a·foco che dentro <anchor xml:id="l9a1"/>divor<supplied reason="illegible">[a]</supplied><anchor xml:id="l9a2"/>,
+            </l>
+            <l xml:id="l10" n="10">
+                né di scoprillo ad altri sare’ oso.
+            </l>
+            <l xml:id="l11">
+                <supplied reason="illegible">[...]</supplied>
+            </l>
+            <l xml:id="l12">
+                <supplied reason="illegible">[...]</supplied>
+            </l>
+            <l xml:id="l12">
+                <supplied reason="illegible">[...]</supplied>
+            </l>
+            <l xml:id="l12">
+                <supplied reason="illegible">[...]</supplied>
+            </l>
+         </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="Lw">
+               <!--ref target=""-->Lw<!--/ref-->
+               cc. <locus>av-br</locus>, <abbr xml:id="LwC">C</abbr> (vv. 1-10); manca il <hi rend="italic">residuum</hi>.
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+               <head>3</head>
+               <app from="#l3a1" to="#l3a2">
+                  <lem>pensier</lem>
+                  <rdg>pensie</rdg> 
+               </app>
+            </listApp>
+            <listApp>
+                <head>9</head>
+                <app from="#l9a1" to="#l9a2">
+                   <lem>divora</lem>
+                   <rdg wit="Lw">divore</rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+                Ballata grande 10’y 10’z 10’z 10’y; 10’a 10’b 10’c, 10’a 10’b 10’c; 10’? 10’? 10’? 10’?.
+            </p>
+            <p>
+                <hi rend="italic">Pagnotta</hi> 241 : 1, ma secondo l’ed. Corsi.
+            </p>
+            <p>
+                Punti sottoscritti: v. 7 (<hi rend="italic">cui</hi>) Lw.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+                Corsi 1970, p. 286.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+         <div type="commentary">
+            <note target="#l7 #l8">
+               <num>7-8</num>
+               <p>‘non immaginavo affatto che il fuoco divorasse dentro (in questo modo)’.</p>
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1970">
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>
