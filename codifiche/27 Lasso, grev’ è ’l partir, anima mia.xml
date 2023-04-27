@@ -111,8 +111,8 @@
          </listApp>
          <listApp type="formal">
             <listApp>
-                <head>9</head>
-                <app from="#l9a1" to="#l9a2">
+                <head>3</head>
+                <app from="#l3a1" to="#l3a2">
                   <lem>occhi</lem>
                   <rdg>ochi <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                 </app>
