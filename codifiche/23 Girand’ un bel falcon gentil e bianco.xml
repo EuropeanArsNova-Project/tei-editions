@@ -111,6 +111,13 @@
                     <rdg>riven <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                 </app>
              </listApp>
+	     <listApp>
+                <head>4</head>
+                <app from="#l4a1" to="#l4a2">
+                    <lem>infin</lem>
+                    <rdg wit="SL">infino</rdg>
+                </app>
+             </listApp>
              <listApp>
                 <head>5</head>
                 <app from="#l5a1" to="#l5a2">
