@@ -54,7 +54,7 @@
       <body>
          <lg>
             <l xml:id="l1">
-                LENA, virtù et speranza ogni cor duro
+		<name type="senhal" rend="small-caps">LENA</name>, virtù et speranza ogni cor duro
             </l>
             <l xml:id="l2">
                 vince per cert’, Amore,
@@ -74,7 +74,7 @@
                 et fa spesso mutar costume et stile.
             </l>
             <l xml:id="l7">
-                Pietosa LENA adornò gran biltà,
+		Pietosa <name type="senhal" rend="small-caps">LENA</name> adornò gran biltà,
             </l>
             <l xml:id="l8">
                 canbiando altere voglie,
@@ -83,7 +83,7 @@
                 sì che ’l pensier crudel diventò umile.
             </l>
             <l xml:id="l10" n="10">
-                LEN’ Amorosa donna fa gentile
+		<name type="senhal" rend="small-caps">LEN’</name> Amorosa donna fa gentile
             </l>
             <l xml:id="l11">
                 et mostra quel valore
