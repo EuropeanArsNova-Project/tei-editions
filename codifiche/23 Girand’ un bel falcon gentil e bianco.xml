@@ -94,13 +94,6 @@
          </listWit>
          <listApp type="substantial">
             <listApp>
-               <head>4</head>
-               <app from="#l4a1" to="#l4a2">
-                  <lem>infin</lem>
-                  <rdg wit="#SL">infino</rdg> 
-               </app>
-            </listApp>
-            <listApp>
                 <head>2</head>
                 <app from="#l2a1" to="#l2a2">
                    <lem>al mie</lem>
@@ -138,7 +131,7 @@
                <head>1</head>
                <app from="#l1a1" to="#l1a2">
                     <lem>Girand’ un bel falcon</lem>
-                    <rdg wit="#Pit #SL">girandum bel falcon</rdg>
+                    <rdg wit="#Pit #SL">girandum bel falcon girandum bel falcon</rdg>
                </app>
             </listApp>
             <listApp>
