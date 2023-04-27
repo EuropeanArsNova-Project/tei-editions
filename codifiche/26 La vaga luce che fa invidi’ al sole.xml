@@ -206,8 +206,8 @@
             </p>
          </div>
          <listBibl type="editions">
-            <bibl corresp="#LiGotti1950">
-                Li Gotti 1950, p. 147
+            <bibl corresp="#Pirrotta-LiGotti1950">
+                Pirrotta - Li Gotti 1950, p. 147
             </bibl>
             <bibl corresp="#LiGotti1952">
                 Li Gotti 1952, p. 597
@@ -234,8 +234,8 @@
             </note>
          </div>
          <listBibl type="editionsBibliography">
-            <bibl xml:id="LiGrotti1950">
-                E. Li Gotti, <hi rend="italic">Madrigali del Trecento</hi>, «Poesia», 9 (1949), pp. 40-59.
+            <bibl xml:id="Pirrotta-LiGrotti1950">
+                N. Pirrotta - E. Li Gotti, <hi rend="italic">Il Codice di Lucca: II. Testi letterari</hi>, «Musica Disciplina», 4 (1950), pp. 111-152.
             </bibl>
             <bibl xml:id="LiGrotti1952">
                 E. Li Gotti, <hi rend="italic">Paolo tenorista, fiorentino "extra moenia"</hi>, in <hi rend="italic">Estudios dedicados a Menéndez Pidal</hi>, tomo III, Madrid, C.S.I.C., 1952, pp. 577-606
