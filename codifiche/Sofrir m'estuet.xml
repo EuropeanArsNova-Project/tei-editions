@@ -188,14 +188,6 @@
                Corsi 1970, p. 287.
             </bibl>
          </listBibl>
-         <listBibl type="bibliography">
-            <bibl corresp="#Lannutti2021a">
-		    Lannutti 2021a;
-            </bibl>
-            <bibl corresp="#Lannutti2021b">
-		    Lannutti 2021b.
-	    </bibl>
-         </listBibl>
          <div type="commentary">
             <note target="#l2">
                <num>2</num>
@@ -211,12 +203,6 @@
             </note>
          </div>
          <listBibl type="editionsBibliography">
-            <bibl xml:id="Lannutti2021a">
-               M. S. Lannutti, <hi rend="italic">«Sofrir m’estuet» «En attendant» «Sus la fontayne»: From Pavia to Florence and Rome</hi>, in <hi rend="italic">Polyphonic Voices: Poetic and Musical Dialogues in the European Ars Nova</hi>, ed. by A. Alberni, A. Calvia, M. S. Lannutti, Firenze, Edizioni del Galluzzo, 2021, pp. 237-272.
-            </bibl>
-            <bibl xml:id="Lannutti2021b">
-               M. S. Lannutti, <hi rend="italic">«Sofrir m’estuet» «En attendant» «Sus la fontayne»: From Pavia to Florence and Rome</hi>, in <hi rend="italic">Polyphonic Voices: Poetic and Musical Dialogues in the European Ars Nova</hi>, ed. by A. Alberni, A. Calvia, M. S. Lannutti, Firenze, Edizioni del Galluzzo, 2021, pp. 237-272
-            </bibl>
 	    <bibl xml:id="Corsi1970">
                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
             </bibl>
