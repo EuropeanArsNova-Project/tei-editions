@@ -109,7 +109,7 @@
                <head>8</head>
                <app from="#l8a1" to="#l8a2">
                   <lem>sparver</lem>
-                  <rdg>sparver sparver<wit><ref target="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg>sparver sparver <wit><ref target="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                </app>
             </listApp>
          </listApp>
