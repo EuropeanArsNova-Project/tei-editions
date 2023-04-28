@@ -93,7 +93,7 @@
             </witness>
             <witness xml:id="SL">
                 <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-archivio-del-capitolo-di-san-lorenzo-2211-manoscript/ARSNOVA_21819">SL</ref>
-               c. <locus>108r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-4), <abbr xml:id="SLT">T</abbr> (vv 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">a(bbas) paulus</hi>.
+               c. <locus>108r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-4), <abbr xml:id="SLT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">a(bbas) paulus</hi>.
             </witness>
             </listWit>
            <listApp type="substantial">
