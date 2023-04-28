@@ -85,11 +85,11 @@
          <listWit>
             <witness xml:id="Pit">
                <!--ref target="X"-->Pit<!--/ref-->
-               cc. <locus>130v-131r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-4), <abbr xml:id="PitT">T</abbr> (vv 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">do(n) pa(olo)</hi>(eraso)
+               cc. <locus>130v-131r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-4), <abbr xml:id="PitT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">do(n) pa(olo)</hi>(eraso)
             </witness>
             <witness xml:id="Lu">
                 <!--<ref target="X">Lu</ref>-->
-               c. <locus>44v</locus>, <abbr xml:id="LuC">C</abbr> (vv. 1-4), <abbr xml:id="LuT">T</abbr> (vv 1-4), <hi rend="italic">resid</hi>. (vv. 5-8).
+               c. <locus>44v</locus>, <abbr xml:id="LuC">C</abbr> (vv. 1-4), <abbr xml:id="LuT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8).
             </witness>
             </listWit>
            <listApp type="substantial">
