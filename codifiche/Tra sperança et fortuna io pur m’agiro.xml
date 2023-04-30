@@ -128,14 +128,14 @@
                  <head>6</head>
                  <app from="#l6a1" to="#l6a2">
                   <lem>per che invano</lem>
-                  <rdg wit="#Lu"><hi rend="italic">ill. </hi></rdg>
+                  <rdg wit="#Lu"><gap reason="illegible" rend="ill."/></hi></rdg>
                  </app>
               </listApp>
               <listApp>
                <head>7</head>
                <app from="#l7a1" to="#l7a2">
                   <lem>Ma io non</lem>
-                  <rdg wit="#Lu"><hi rend="italic">ill. </hi></rdg>
+                  <rdg wit="#Lu"><gap reason="illegible" rend="ill."/></hi></rdg>
                </app>
                <app from="#l7a3" to="#l7a4">
                   <lem>però</lem>
@@ -146,7 +146,7 @@
                <head>8</head>
                <app from="#l8a1" to="#l8a2">
                   <lem>d’Amor</lem>
-                  <rdg wit="#Lu"><hi rend="italic">ill. </hi></rdg>
+                  <rdg wit="#Lu"><gap reason="illegible" rend="ill."/></hi></rdg>
                </app>
                <app from="#l8a3" to="#l8a4">
                   <lem>pel</lem>
