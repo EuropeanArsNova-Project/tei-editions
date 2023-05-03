@@ -66,7 +66,7 @@
 		    Essa nel viso d’un vechio <anchor xml:id="l4a1"/>si<anchor xml:id="l4a2"/> spechia,
 	    </l>
             <anchor xml:id="l5a3"/><l xml:id="l5" n="5">
-		    faccendo per <anchor xml:id="l5a1"/>piace[r]gli<anchor xml:id="l5a2"/> astuta guarda,
+		faccendo per <anchor xml:id="l5a1"/>piace<supplied>[r]</supplied>gli<anchor xml:id="l5a2"/> astuta guarda,
 	    </l>
             <l xml:id="l6">
 		    così quel malvissuto s’ingagliarda.
@@ -175,8 +175,10 @@
                <head>8</head>
                <app from="#l8a3" to="#l8a4">
                   <lem>vechio</lem>
-                  <rdg>vechio vechio <wit><ref target="#PitC #SL">Pit<hi rend="super">C</hi></ref></wit></rdg>
-                  <rdg>vechio vechi <wit><ref target="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+		  <rdgGrp>     
+                  	<rdg>vechio vechio <wit><ref target="#PitC #SL">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                  	<rdg>vechio vechi <wit><ref target="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+		  </rdgGrp>
                </app>
             </listApp>
          </listApp>
