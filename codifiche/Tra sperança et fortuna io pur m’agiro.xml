@@ -102,8 +102,7 @@
                </app>
                <app from="#l1a3" to="#l1a4">
                   <lem>io</lem>
-                  <rdg><hi rend="italic">om</hi>. che
-                  <wit><ref target="#LuC">Lu</ref><hi rend="super">C</hi></wit></rdg>
+                  <rdg><wit><ref target="#LuC">Lu</ref><hi rend="super">C</hi></wit></rdg>
                </app>
               </listApp>
             <listApp>
