@@ -97,8 +97,7 @@
                <head>1</head>
                <app from="#l1a1" to="#l1a2">
                   <lem>Tra</lem>
-                  <rdg>ra <hi rend="italic">per l.m. </hi>
-                  <wit><ref target="#LuT">Lu</ref><hi rend="super">T</hi></wit></rdg>
+                  <rdg>ra <gap reason="illegible" rend="per l.m."/> <wit><ref target="#LuT">Lu</ref><hi rend="super">T</hi></wit></rdg>
                </app>
                <app from="#l1a3" to="#l1a4">
                   <lem>io</lem>
@@ -109,47 +108,47 @@
                <head>2</head>
                <app from="#l2a1" to="#l2a2">
                   <lem>martiro</lem>
-                  <rdg>mar ro <hi rend="italic">per l.m. </hi><wit><ref target="#LuC">Lu</ref><hi rend="super">C</hi></wit></rdg>
+                  <rdg>mar ro <gap reason="illegible" rend="per l.m."/> <wit><ref target="#LuC">Lu</ref><hi rend="super">C</hi></wit></rdg>
                </app>
               </listApp>
               <listApp>
                  <head>3</head>
                  <app from="#l3a1" to="#l3a2">
                     <lem>più m’aretra</lem>
-                    <rdg>iu maretra <hi rend="italic">per l.m. </hi><wit><ref target="#SLT">SL<hi rend="super">T</hi></ref></wit></rdg>
+                    <rdg>iu maretra <gap reason="illegible" rend="per l.m."/> <wit><ref target="#SLT">SL<hi rend="super">T</hi></ref></wit></rdg>
                  </app>
                  <app from="#l3a3" to="#l3a4">
                     <lem>da sé</lem>
-                    <rdg>asse <hi rend="italic">per l.m. </hi><wit><ref target="#LuT">Lu<hi rend="super">T</hi></ref></wit></rdg>
+                    <rdg>asse <gap reason="illegible" rend="per l.m."/> <wit><ref target="#LuT">Lu<hi rend="super">T</hi></ref></wit></rdg>
                  </app>
               </listApp>
               <listApp>
                  <head>6</head>
                  <app from="#l6a1" to="#l6a2">
                   <lem>per che invano</lem>
-                  <rdg wit="#Lu"><gap reason="illegible" rend="ill."/></hi></rdg>
+                  <rdg wit="#Lu"><gap reason="illegible" rend="ill."/></rdg>
                  </app>
               </listApp>
               <listApp>
                <head>7</head>
                <app from="#l7a1" to="#l7a2">
                   <lem>Ma io non</lem>
-                  <rdg wit="#Lu"><gap reason="illegible" rend="ill."/></hi></rdg>
+                  <rdg wit="#Lu"><gap reason="illegible" rend="ill."/></rdg>
                </app>
                <app from="#l7a3" to="#l7a4">
                   <lem>però</lem>
-                  <rdg wit="#Lu">per</hi></rdg>
+                  <rdg wit="#Lu">per</rdg>
                </app>
               </listApp>
               <listApp>
                <head>8</head>
                <app from="#l8a1" to="#l8a2">
                   <lem>d’Amor</lem>
-                  <rdg wit="#Lu"><gap reason="illegible" rend="ill."/></hi></rdg>
+                  <rdg wit="#Lu"><gap reason="illegible" rend="ill."/></rdg>
                </app>
                <app from="#l8a3" to="#l8a4">
                   <lem>pel</lem>
-                  <rdg wit="#Lu">per quel</hi></rdg>
+                  <rdg wit="#Lu">per quel</rdg>
                </app>
               </listApp>
             </listApp>
