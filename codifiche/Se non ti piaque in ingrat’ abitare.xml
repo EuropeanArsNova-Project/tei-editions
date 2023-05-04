@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Se non ti piaque in ingrat’ abitare,</title>
+            <title>Se non ti piaque in ingrat’ abitare</title>
             <respStmt>
                <resp>Digital scholarly edition created within the </resp>
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
@@ -144,7 +144,7 @@
                  </app>
                  <app from="#l4a3" to="#l4a4">
                   <lem>lor</lem>
-                  <rdg>/olor/ <wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+		  <rdg><add place="above">/olor/</add> <wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                  </app>
                  <app from="#l4a5" to="#l4a6">
                   <lem>colpi</lem>
@@ -177,7 +177,7 @@
                  <head>9</head>
                  <app from="#l9a1" to="#l9a2">
                   <lem>Chi falso monta, folminando piove</lem>
-                  <rdg>chifalsomonta ‹chifalsomonta› folminando pio <wit><ref target="#PitT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+			 <rdg>chifalsomonta <del rend="overstrike">‹chifalsomonta›</del> folminando pio <wit><ref target="#PitT">Lo<hi rend="super">T</hi></ref></wit></rdg>
                  </app>
                  <app from="#l9a3" to="#l9a4">
                   <lem>folminando</lem>
