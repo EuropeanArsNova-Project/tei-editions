@@ -68,10 +68,10 @@
 		    Et se lucente divino splendore
 	        </l>
             <l xml:id="l5" n="5">
-            non abaglia suo vista, vedrà <name type="senhal" rend="small-caps">COSA</name>
+            	non abaglia suo vista, vedrà <name type="senhal" rend="small-caps">COSA</name>
 	        </l>
-            <anchor xml:id="l6a1"/><l xml:id="l6">
-		    che creder no·l potrà, e dir’ «Amore
+            <l xml:id="l6">
+		    <anchor xml:id="l6a1"/>che creder no·l potrà, e dir’ «Amore
 	        </l>
             <l xml:id="l7">
 		    e ’l ciel, che di rotar giama’ non posa,
@@ -83,8 +83,8 @@
 		    perch’ a·ffé muova, che di sopra sia
 	        </l>
             <l xml:id="l10" n="10">
-		    perfecta suo potença ch’ella cria».
-	        </l><anchor xml:id="l10a1"/>
+		    perfecta suo potença ch’ella cria».<anchor xml:id="l10a1"/>
+	        </l>
         </lg>
        </body>
       <back>
