@@ -111,7 +111,7 @@
                  <head>4</head>
                  <app from="#l4a1" to="#l4a2">
                     <lem>si</lem>
-                    <rdg wit="#SL"><gap reason="editorial" rend="om."/></rdg>
+                    <rdg wit="#SL" rend="om."></rdg>
                  </app>
                </listApp>
                <listApp>
@@ -207,11 +207,11 @@
             </note>
             <note target="#l6">
                <num>6</num>
-               <hi rend="italic">s’ingagliarda</hi>: ‘diventa baldanzoso’, cfr. <hi rend="italic">TLIO</hi>, s. v. <hi rend="italic">ingagliardare</hi>. 
+               <hi rend="italic">s’ingagliarda</hi>: ‘diventa baldanzoso’, cfr. <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">ingagliardare</hi>. 
             </note>
             <note target="#l8">
                <num>8</num>
-               <hi rend="italic">impront’</hi>: ‘molesto’, cfr. <hi rend="italic">TLIO</hi>, s. v. <hi rend="italic">impronto</hi>, § 2.1.
+               <hi rend="italic">impront’</hi>: ‘molesto’, cfr. <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">impronto</hi>, § 2.1.
             </note>
          </div>
          <listBibl type="editionsBibliography">
