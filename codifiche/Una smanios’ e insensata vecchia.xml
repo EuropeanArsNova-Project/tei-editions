@@ -65,12 +65,12 @@
             <l xml:id="l4">
 		    Essa nel viso d’un vechio <anchor xml:id="l4a1"/>si<anchor xml:id="l4a2"/> spechia,
 	    </l>
-            <anchor xml:id="l5a3"/><l xml:id="l5" n="5">
-		faccendo per <anchor xml:id="l5a1"/>piace<supplied>[r]</supplied>gli<anchor xml:id="l5a2"/> astuta guarda,
+            <l xml:id="l5" n="5">
+		<anchor xml:id="l5a3"/>faccendo per <anchor xml:id="l5a1"/>piace<supplied>[r]</supplied>gli<anchor xml:id="l5a2"/> astuta guarda,
 	    </l>
             <l xml:id="l6">
-		    così quel malvissuto s’ingagliarda.
-	    </l><anchor xml:id="l6a1"/>
+		    così quel malvissuto s’ingagliarda.<anchor xml:id="l6a1"/>
+	    </l>
         </lg>
         <lg>
             <l xml:id="l7">
