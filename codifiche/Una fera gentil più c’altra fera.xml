@@ -93,7 +93,7 @@
                  <head>2</head>
                  <app from="#l2a1" to="#l2a2">
                     <lem>et</lem>
-                    <rdg>om. <wit><ref target="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                    <rdg><wit><ref target="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                  </app>
                </listApp>
             </listApp>
