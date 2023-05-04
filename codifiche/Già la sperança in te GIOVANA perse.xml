@@ -143,15 +143,6 @@
             <p>Rima inclusiva ai vv. 2 : 11.</p>
             </div>
          <listBibl type="editions">
-            <bibl corresp="#LiGotti1952">
-               Li Gotti 1952, p. 604;
-            </bibl>
-            <bibl corresp="#Corsi1969">
-               Corsi 1969, p. 1077.
-            </bibl>
-            <bibl corresp="#Corsi1970">
-               Corsi 1970, p. 283-4.
-            </bibl>
          </listBibl>
          <div type="commentary">
             <note target="#l3">
@@ -165,15 +156,6 @@
             </note>
          </div>
          <listBibl type="editionsBibliography">
-            <bibl xml:id="LiGotti1952">
-               E. Li Gotti, <hi rend="italic">Paolo tenorista, fiorentino "extra moenia"</hi>, in <hi rend="italic">Estudios dedicados a Menéndez Pidal</hi>, tomo III, Madrid, C.S.I.C., 1952, pp. 577-606
-            </bibl>
-            <bibl xml:id="Corsi1969">
-               G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
-            </bibl>
-            <bibl xml:id="Corsi1970">
-               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
-            </bibl>
          </listBibl>
       </back>
    </text>
