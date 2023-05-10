@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title><!-- Aggiungi Titolo --></title>
-            <author><ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830">Francesco Landini</ref></author>
+            <author><ref target="X"><!-- Aggiungi autore se presente nel file word --></ref></author>
             <respStmt>
                <resp>Digital scholarly edition created within the ERC</resp>
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
@@ -57,6 +57,7 @@
                <!-- Crea un <l> per ogni verso nel testo. Aggiungi per ogni verso l'attributo xml:id con valore 'l' + il n° di verso -->
                <!-- Per ogni porzione soggetta a variazione nella tradizione, crea un anchor (<anchor xml:id="l1a1"/>).
                     Il valore dell'xml:id deve essere 'id del verso' + 'a' + n° dell'anchor nel verso. -->
+               <!-- Ai versi multipli di 5 aggiungi l'attributo n -->
             </l>
          </lg>
       </body>
@@ -104,7 +105,7 @@
                </app>
             </listApp>
          </listApp>
-         <listApp type="orthographic">
+         <listApp type="formal">
             <listApp>
                <head><!-- Aggiungi il numero del verso --></head>
                <app from="" to="">
@@ -124,22 +125,13 @@
             </p>
          </div>
          <listBibl type="editions">
-            <bibl corresp="#"><!-- Per una citazione semplice: aggiungi qui il riferimento bibliografico --> <!--ref target="URL">Testo del collegamento</ref--></bibl>
+            <bibl corresp="#">
+               <!-- Sigla -->
+            </bibl>
          </listBibl>
          <listBibl type="bibliography">
             <bibl corresp="#">
                <!-- Sigla -->
-               <!--  <ref target="http://">Sigla con link esterno (possibilmente usare permalink)</ref> -->
-               <!-- Per un riferimento bibliografico che può essere sciolto,
-                  dentro a @corresp di <bibl> inserisci l'id del biblStruct corrispondente -->
-               <!-- Se lo scioglimento non si trova nella bibliografia minima sotto, utilizza qui
-                  <relatedItem> inserendo al suo interno un <bibl> o un <biblStruct> </relatedItem> -->
-            </bibl>
-            <bibl>
-               Autore anno, pp. x-xx
-               <relatedItem>
-                  <bibl>Riferimento bibliografico completo</bibl>
-               </relatedItem>
             </bibl>
          </listBibl>
          <div type="commentary">
@@ -151,68 +143,8 @@
             </note>
          </div>
          <listBibl type="editionsBibliography">
-            <bibl xml:id="Apel1970">
-               <hi rend="italic">French Secular Compositions of the Fourteenth Century,</hi> I. <hi rend="italic">Ascribed Compositions</hi>, ed. by W. Apel. Edition of the literary texts by S. N. Rosenberg., Roma, AIM, 1970 (CMM, 53/1)
-            </bibl>
-            <bibl xml:id="Apel1971">
-               Willi Apel, <hi rend="italic">French Secular Compositions of the Fourteenth Century II. Anonymous Ballades</hi>, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1971 (CMM, 53/2)
-            </bibl>
-            <bibl xml:id="Apel1972">
-               Willi Apel, <hi rend="italic">French Secular Compositions of the Fourteenth Century III. Anonymous Virelais, Rondeaux, Chansons, Canons</hi>, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1972 (CMM, 53/3)
-            </bibl>
-            <bibl xml:id="Bent1985">
-               Margaret Bent, Anne Hallmark, <hi rend="italic">The Works of Johannes Ciconia</hi>, Monaco, Éditions de l’Oiseau-Lyre, 1985 (Polyphonic Music of the Fourteenth Century, XXIV)
-            </bibl>
-            <bibl xml:id="Brambilla_Ageno1975">
-               Franca Brambilla Ageno, rec. a <hi rend="italic">Giuseppe Corsi, «Poesie musicali del Trecento»</hi>, «Romance Philology», 28 (1975), pp. 696-706
-            </bibl>
-            <bibl xml:id="Calvia2017">
-               Nicolò del Preposto, <hi rend="italic">Opera Completa</hi>. Edizione critica commentata dei testi intonati e delle musiche, a cura di A. Calvia, Firenze, Edizioni del Galluzzo per la Fondazione Ezio Franceschini, 2017
-            </bibl>
-            <bibl xml:id="Corsi1969">
-               G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
-            </bibl>
             <bibl xml:id="Corsi1970">
                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
-            </bibl>
-            <bibl xml:id="Epifani2019">          
-               <hi rend="italic">La caccia nell'Ars Nova italiana</hi>, edizione critica commentata dei testi e delle intonazioni, a cura di Michele Epifani, Firenze, Edizioni del Galluzzo, 2019
-            </bibl>
-            <bibl xml:id="Huck2007">
-               <hi rend="italic">Die mehrfach überlieferten Kompositionen des frühen Trecento: Anonyme Madrigale und Cacce sowie Kompositionen von Piero, Giovanni da Firenze und Jacopo da Bologna</hi>, Hrsg. von O. Huck und S. Dieckmann, unter Mitarbeit von E. Arnrich und J. Gehring in Verbindung mit M. Gozzi, 2 voll., Hildesheim, Olms Verlag, 2007
-            </bibl>
-            <bibl xml:id="Pasquinucci2007">
-               Enrico Pasquinucci, <hi rend="italic">La poesia musicale di Niccolò Soldanieri</hi>, «Studi di filologia italiana», 65 (2007), pp. 65-193
-            </bibl>
-            <bibl xml:id="Pirrotta1954">
-               Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy I. Bartholus de Florentia; Johannes de Florentia; Gherardellus de Florentia</hi>, Amsterdam, American Institute of Musicology, 1954 (CMM, 8/1)
-            </bibl>
-            <bibl xml:id="Pirrotta1960">
-               Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy II. Maestro Piero; Codex Vatican Rossi 215; Anonymous Madrigals and Cacce from Other Manuscripts</hi>, Amsterdam, American Institute of Musicology, 1960 (CMM, 8/2)
-            </bibl>
-            <bibl xml:id="Pirrotta1962">
-               Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy III. Laurentius Masii de Florentia; Donatus de Florentia; Rosso da Collegrano, and Nine anonymous pieces</hi>, Amsterdam, American Institute of Musicology, 1962 (Corpus Mensurabilis Musicae, 8/3)
-            </bibl>
-            <bibl xml:id="Pirrotta1963">
-               Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy IV. Jacobus de Bononia; Vincentius de Arimino</hi>, Amsterdam, American Institute of Musicology, 1963 (Corpus Mensurabilis Musicae, 8/4)
-            </bibl>
-            <bibl xml:id="Pirrotta1964">
-               Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy V. Andreas de Florentia; Guilielmus de Francia; Bonaiutus Corsini; Andrea Stefani; Ser Feo; Jacopo Pianelaio; Gian Toscano and Anonymous</hi>, Amsterdam, American Institute of Musicology, 1964 (Corpus Mensurabilis Musicae, 8/5)
-            </bibl>
-            <bibl xml:id="Sacchetti1990">
-               Franco Sacchetti, <hi rend="italic">Il libro delle rime</hi>, ed. F. Brambilla Ageno, Firenze, Olschki, 1990
-            </bibl>
-            <bibl xml:id="Sacchetti2007">
-               Franco Sacchetti, <hi rend="italic">Il libro delle rime con le lettere</hi>, ed. D. Puccini, Torino, UTET, 2007
-            </bibl>
-            <bibl xml:id="Sapegno1952">
-               Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952
-            </bibl>
-            <bibl xml:id="Sucato2003">
-               Tiziana Sucato, <hi rend="italic">Il codice rossiano 215. Madrigali, ballate, una caccia, un rotondello</hi>, Pisa, ETS, 2003 («Diverse voci...» 1)
-            </bibl>
-            <bibl xml:id="Zenari2004">
-               Massimo Zenari, <hi rend="italic">Undici madrigali a testimone unico del Panciatichiano 26 (Firenze, Biblioteca Nazionale Centrale)</hi>, «Studi di filologia italiana», 57 (2004), pp. 131-60
             </bibl>
          </listBibl>
       </back>
