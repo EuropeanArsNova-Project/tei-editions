@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quel sole che nutrica ’l gentil fiore</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+      <!-- <front>
+         <div>
+            <p>
+            </p>
+         </div>
+      </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1">
+                Quel sole che nutrica ’l gentil fiore
+            </l>
+            <l xml:id="l2">
+                discende talor giù per veder quello
+            </l>
+            <l xml:id="l3">
+                ch’a·llui di lui par <anchor xml:id="l3a1"/>esser<supplied reason="illegible">[e]</supplied><anchor xml:id="l3a2"/> più bello.
+            </l>
+            <l xml:id="l4">
+                Poi <anchor xml:id="l4a1"/>ch<supplied reason="illegible">[e]</supplied><anchor xml:id="l4a2"/> alquanto seco à contemplato,
+            </l>
+            <l xml:id="l5" n="5">
+                ritorna su et riferisce alli dei
+            </l>
+            <l xml:id="l6">
+                la mirabil belleça di costei.
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l7">
+                <anchor xml:id="l7a1"/>Or<anchor xml:id="l7a2"/> sol in alto<anchor xml:id="l7a3"/> ciel di tuo biltate
+            </l>
+            <l xml:id="l8">
+                <anchor xml:id="l8a1"/>laudan<anchor xml:id="l8a2"/> gli angioli la somm’ onestate.
+            </l>
+         </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="Sq">
+                <!--ref target=""-->Sq<!--/ref-->
+                cc. <locus>106v-107r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">magister frater bartolinus de padua</hi>
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+                <head>3</head>
+                <app from="#l3a1" to="#l3a2">
+                   <lem>essere</lem>
+                   <rdg wit="#Sq">esser </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>4</head>
+                <app from="#l4a1" to="#l4a2">
+                   <lem>che</lem>
+                   <rdg wit="#Sq">ch</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>8</head>
+                <app from="#l8a1" to="#l8a2">
+                    <lem>laudan</lem>
+                    <rdg>laudano <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+               <head>7</head>
+               <app from="#l7a1" to="#l7a2">
+                  <lem>Or</lem>
+                  <rdg>ho hor <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app from="#l7a1" to="#l7a3">
+                <lem>Or sol in alto</lem>
+                <rdg>ho hor sol in al hor sol in alto <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+             </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+                Madrigale 10’a 10’b 10’b, 10’c 10’d 10’d; 10’e 10’e. 
+            </p>
+            <p>
+                <hi rend="italic">Capovilla</hi> <hi rend="small-caps">XLVIII</hi>.
+            </p>
+            <p>
+                Rima ricca ai vv. 7 : 8.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+                Corsi 1970, p. 243.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+         <!-- <div type="commentary">
+            <note target="#">
+               <num></num>
+               <p></p>
+            </note>
+         </div> -->
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1970">
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

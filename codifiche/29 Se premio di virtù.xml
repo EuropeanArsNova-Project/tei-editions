@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Se premio de virtut’ è sol’ onore</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+      <!-- <front>
+         <div>
+            <p>
+            </p>
+         </div>
+      </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1">
+                Se premio <anchor xml:id="l1a3"/>de <anchor xml:id="l1a4"/>virtut’<anchor xml:id="l1a5"/> è <anchor xml:id="l1a1"/>sol’<anchor xml:id="l1a2"/> onore,
+            </l>
+            <l xml:id="l2">
+                molt’ è fallace <anchor xml:id="l2a1"/>de çascun<anchor xml:id="l2a2"/> la brama
+            </l>
+            <l xml:id="l3">
+                che <anchor xml:id="l3a1"/>sença<anchor xml:id="l3a2"/> lei <anchor xml:id="l3a3"/>se<anchor xml:id="l3a4"/> crede aquistar fama,
+            </l>
+            <l xml:id="l4">
+                <anchor xml:id="l4a1"/>unde ala<anchor xml:id="l4a2"/> vista et al parer attende,
+            </l>
+            <l xml:id="l5" n="5">
+                voltando sempre, <anchor xml:id="l5a1"/>col<anchor xml:id="l5a2"/> disio fervente,	
+            </l>
+            <l xml:id="l6">
+                <anchor xml:id="l6a1"/>dal<anchor xml:id="l6a2"/>’eser proprio la <anchor xml:id="l6a3"/>volubel<anchor xml:id="l6a4"/> mente.
+            </l>
+            <l xml:id="l7">
+                <anchor xml:id="l7a1"/>Ma se<anchor xml:id="l7a2"/> pur gloria al mondo è <anchor xml:id="l7a3"/>digna<anchor xml:id="l7a4"/> laude,
+            </l>
+            <l xml:id="l8">
+                <anchor xml:id="l8a1"/>cerca<anchor xml:id="l8a2"/> ’l disio nel’<anchor xml:id="l8a3"/>umano <anchor xml:id="l8a4"/>intelletto<anchor xml:id="l8a5"/>,
+            </l>
+            <l xml:id="l9">
+                <anchor xml:id="l9a1"/>vertute <anchor xml:id="l9a2"/>aquista <anchor xml:id="l9a3"/>e <anchor xml:id="l9a4"/>çonçevi <anchor xml:id="l9a5"/>l’<anchor xml:id="l9a6"/>efetto.
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l10" n="10">
+                Sich’ <anchor xml:id="l10a1"/>ela è<anchor xml:id="l10a2"/> priva <anchor xml:id="l10a5"/>e for<anchor xml:id="l10a6"/> d’ogni <anchor xml:id="l10a3"/>sïentia<anchor xml:id="l10a4"/>, 
+            </l>
+            <l xml:id="l11">
+                seguendo l’ombra <anchor xml:id="l11a3"/>e<anchor xml:id="l11a4"/> non la vera <anchor xml:id="l11a1"/>esençia<anchor xml:id="l11a2"/>,
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l12">
+                <anchor xml:id="l12a1"/>perché lei è lo fruto, e la radice<anchor xml:id="l12a2"/>
+            </l>
+             <l xml:id="l13">
+                <anchor xml:id="l13a1"/>di cotal sper’ è con piacer <anchor xml:id="l13a3"/>fellice<anchor xml:id="l13a4"/>.<anchor xml:id="l13a2"/>
+            </l>
+         </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="R">
+                <!--ref target=""-->R<!--/ref-->
+                c. <locus>44r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3 e 12-13), <hi rend="italic">resid.</hi> (vv. 4-11)
+            </witness>
+            <witness xml:id="SL">
+                <!--ref target=""-->SL<!--/ref-->
+                cc. <locus>33v-34r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 12-13), <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 12-13): <hi rend="italic">resid.</hi> (vv. 4-9). Il <hi rend="italic">tenor</hi> è quasi del tutto illeggibile, ciò che si distingue coincide con il testo del <hi rend="italic">cantus</hi>.
+            </witness>
+            <witness xml:id="Sq">
+                <!--ref target=""-->Sq<!--/ref-->
+                c. <locus>113r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 12-13), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 12-13), <hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic">magister frater bartolinus de padua</hi>
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+                <head>1</head>
+                <app from="#l1a1" to="#l1a2">
+                   <lem>sol’</lem>
+                   <rdg>sole <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>5</head>
+                <app from="#l5a1" to="#l5a2">
+                   <lem>col</lem>
+                   <rdg wit="#SL #Sq">con</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>8</head>
+                <app from="#l8a1" to="#l8a2">
+                    <lem>cerca</lem>
+                    <rdg wit="#SL #Sq">cera </rdg>
+                </app>
+                <app from="#l8a3" to="#l8a4">
+                    <lem>umano</lem>
+                    <rdg wit="#SL #Sq">vano </rdg>
+                </app>
+                <app from="#l8a4" to="#l8a5">
+                    <lem>intelletto</lem>
+                    <rdg wit="#SL"><gap reason="illegible" rend="ill."/></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>9</head>
+                <app from="#l9a1" to="#l9a2">
+                   <lem>vertute</lem>
+                   <rdg wit="#SL"><gap reason="illegible" rend="ill."/></rdg>
+                </app>
+                <app from="#l9a2" to="#l9a3">
+                    <lem>aquista</lem>
+                    <rdg wit="#SL #Sq">aquisti </rdg>
+                </app>
+                <app from="#l9a4" to="#l9a5">
+                    <lem>çonçevi</lem>
+                    <rdg wit="#R">concevi</rdg>
+                    <rdg wit="#Sq">giungine</rdg>
+                    <rdg wit="#SL">giun <witDetail><hi rend="italic">seguono grafi ill.</hi></witDetail></rdg>
+                </app>
+                <app from="#l9a5" to="#l9a6">
+                    <lem>l'</lem>
+                    <rdg wit="#SL #Sq">all </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>10</head>
+                <app from="#l10a1" to="#l10a2">
+                   <lem>ela è</lem>
+                   <rdg wit="#SL">elle </rdg>
+                   <rdg>el <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                   <rdg>ela <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+                <app from="#l10a3" to="#l10a4">
+                    <lem>sïentia</lem>
+                    <rdg wit="#SL">scien </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>11</head>
+                <app from="#l11a1" to="#l11a2">
+                    <lem>esençia</lem>
+                    <rdg wit="#R">essença </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>12</head>
+                <app from="#l12a1" to="#l12a2">
+                    <lem>perché lei è lo fruto, e la radice </lem>
+                    <rdg wit="#SL #Sq"/>
+                </app>
+            </listApp>
+            <listApp>
+                <head>13</head>
+                <app from="#l13a1" to="#l13a2">
+                    <lem>di cotal sper’ è con piacer fellice.</lem>
+                    <rdg wit="#SL #Sq"/>
+                </app>
+                <app from="#l13a3" to="#l13a4">
+                    <lem>fellice</lem>
+                    <rdg wit="#R">se premio <hi rend="italic">add.</hi></rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+                <head>1</head>
+                <app from="#l1a4" to="#l1a5">
+                    <lem>virtut’</lem>
+                    <rdg wit="#SL">virtu <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+                <app from="#l1a3" to="#l1a4">
+                    <lem>de</lem>
+                    <rdg wit="#SL #Sq">di </rdg>
+                </app>
+                <app from="#l1a1" to="#l1a2">
+                    <lem>sol’</lem>
+                    <rdg wit="#SL">solo <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>>
+                </app>
+            </listApp>
+            <listApp>
+                <head>2</head>
+                <app from="#l2a1" to="#l2a2">
+                    <lem>de çascun</lem>
+                    <rdg wit="#SL #Sq">di ciascun</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>3</head>
+                <app from="#l3a1" to="#l3a2">
+                    <lem>sença</lem>
+                    <rdg wit="#SL #Sq">sança</rdg>
+                </app>
+                <app from="#l3a3" to="#l3a4">
+                    <lem>se</lem>
+                    <rdg wit="#SL #Sq">si</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>4</head>
+                <app from="#l4a1" to="#l4a3">
+                    <lem>unde ala</lem>
+                    <rdg wit="#SL #Sq">onde alla </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>6</head>
+                <app from="#l6a1" to="#l6a2">
+                    <lem>dal</lem>
+                    <rdg wit="#SL #Sq">dall </rdg>
+                </app>
+                <app from="#l6a3" to="#l6a4">
+                    <lem>volubel</lem>
+                    <rdg wit="#SL #Sq">volubil </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>7</head>
+                <app from="#l7a1" to="#l7a2">
+                    <lem>Ma se</lem>
+                    <rdg wit="#SL #Sq">masse </rdg>
+                </app>
+                <app from="#l7a3" to="#l7a4">
+                    <lem>digna</lem>
+                    <rdg wit="#SL #Sq">degna </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>9</head>
+                <app from="#l9a1" to="#l9a2">
+                    <lem>vertute</lem>
+                    <rdg wit="#Sq">virtute </rdg>
+                </app>
+                <app from="#l9a3" to="#l9a4">
+                    <lem>e</lem>
+                    <rdg wit="#SL #Sq">et </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>10</head>
+                <app from="#l10a5" to="#l10a6">
+                    <lem>e for</lem>
+                    <rdg wit="#SL #Sq">et fuor </rdg>
+                </app>
+                <app from="#l10a3" to="#l10a4">
+                    <lem>sïentia</lem>
+                    <rdg wit="#Sq">sciençia</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>11</head>
+                <app from="#l11a3" to="#l11a4">
+                    <lem>e</lem>
+                    <rdg wit="#SL #Sq">et</rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+                Madrigale con doppio ritornello 10’a 10’b 10’b, 10’c 10’d 10’d, 10’e 10’f 10’f; 10’g 10’g; 10’h 10’h.
+            </p>
+            <p>
+                <hi rend="italic">Capovilla </hi> <hi rend="small-caps">XLIV </hi> in base all’ed. Corsi 1970, ma schema non repertoriato, che si differenzia da LIII solo per l’aggiunta del secondo ritornello.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+                Corsi 1970, pp. 243-4.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+         <div type="commentary">
+            <note target="#l1 #13">
+                <num>1-13</num>
+                <p>‘Se l’onore è il premio solo della virtù, è fallace il desiderio di chi crede di acquistare fama senza di lei (la virtù), per cui si preoccupa solo delle apparenze, distogliendo continuamente la mente volubile dall’essenza, a causa di un fervente (irrazionale) desiderio. Ma se è vero che la gloria in questo mondo viene da una lode meritata, cerca il desiderio nell’intelletto umano, acquista la virtù e raggiungi lì l’effetto. Pertanto (possiamo dire che la gloria) è lontana da ogni forma di scienza se segue l’apparenza e non l’essenza, perché lei (la gloria) è il frutto, e la radice di tale speranza (di gloria) è nel piacere che dà felicità (provenendo da un desiderio non irrazionale)’.</p>
+            </note>
+            <note target="#l2">
+                <num>2</num>
+                <p><hi rend="italic">esençia</hi>: si uniforma l’uscita tenendo conto dell’intonazione.</p>
+            </note>
+            <note target="#l2">
+                <num>2</num>
+                <p><hi rend="italic">sper’</hi>: per <hi rend="italic">spera</hi> ‘speranza’. R aggiunge <hi rend="italic">Se premio</hi> per errore, forse pensando alla ripresa di una ballata.</p>
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1970">
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>
