@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Per subito comando</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the </resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Maria Sofia Lannutti</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Carla Congiu</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>
+         <div>
+            <p>
+           </p>
+         </div>         
+      </front-->
+      <body>
+        <lg>
+            <l xml:id="l1">
+		      <anchor xml:id="l1a1"/>Per<anchor xml:id="l1a2"/> subito comando,
+	        </l>
+            <l xml:id="l2">
+		      tu <anchor xml:id="l2a1"/>d’ogn’ altro<anchor xml:id="l2a2"/> piacer <anchor xml:id="l2a5"/>me<anchor xml:id="l2a6"/> desti <anchor xml:id="l2a3"/>el<anchor xml:id="l2a4"/> bando,
+	        </l>
+        </lg>
+        <lg>
+            <l xml:id="l3">
+		      <anchor xml:id="l3a1"/>dona<anchor xml:id="l3a2"/>, quand’ io <anchor xml:id="l3a3"/>te<anchor xml:id="l3a4"/> vidi
+	        </l>
+            <l xml:id="l4">
+		      di <anchor xml:id="l4a3"/>duo<anchor xml:id="l4a4"/> <anchor xml:id="l4a1"/>collor<anchor xml:id="l4a2"/> i<supplied reason="illegible">[n]</supplied> una vaga vesta,
+	        </l>
+            <l xml:id="l5" n="5">
+              <anchor xml:id="l5a1"/>la<anchor xml:id="l5a2"/> qual bela et onesta
+	        </l>
+            <l xml:id="l6">
+		     me te mostrò, che per ti trasi i cridi
+	        </l>
+            <l xml:id="l7">
+		      d’<anchor xml:id="l7a1"/>amor<anchor xml:id="l7a2"/>. Perché me sfidi?
+	        </l>
+            <l xml:id="l8">
+		      State con Dio, ch’a lui <anchor xml:id="l8a1"/>ti<anchor xml:id="l8a2"/> ricomando.
+	        </l>
+        </lg>
+       </body>
+      <back>
+         <listWit>
+            <witness xml:id="R">
+               <ref target="http://www.mirabileweb.it/manuscript-rom/paris-biblioth%C3%A8que-nationale-de-france-n-a-fr-6771-manoscript/LIO_30658">R</ref>
+               c. <locus>24v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-4), <abbr xml:id="RT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8)
+            </witness>
+            <witness xml:id="Sq">
+               <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-medicea-laurenziana-med-pal-87--manoscript/ARSNOVA_224962">Sq</ref>
+               cc. <locus>103v-104r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4): <hi rend="italic">magister frater bartolinus de padua</hi>
+            </witness>
+          </listWit>
+           <listApp type="substantial">
+            <listApp>
+                <listApp>
+                 <head>1</head>
+                 <app from="#l1a1" to="#l1a2">
+                  <lem>Per</lem>
+                  <rdg>er <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>2</head>
+                 <app from="#l2a1" to="#l2a2">
+                  <lem>d’ogn’ altro</lem>
+                  <rdgGrp>
+                    <rdg>do glal tro <wit><ref target="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                    <rdg>do g<del rend="overstrike">ra</del><add place="above">onal</add> tro  <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                  </rdgGrp>
+                 </app>
+                 <app from="#l2a3" to="#l2a4">
+                  <lem>el</lem>
+                  <rdg wit="#Sq"></rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>4</head>
+                 <app from="#l4a1" to="#l4a2">
+                  <lem>collor</lem>
+                  <rdgGrp>
+                    <rdg>collori <wit><ref target="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
+                    <rdg wit="#Sq">colori <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
+                  </rdgGrp>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>5</head>
+                 <app from="#l5a1" to="#l5a2">
+                  <lem>la</lem>
+                  <rdg wit="#R">lo</rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>7</head>
+                 <app from="#l7a1" to="#l7a2">
+                  <lem>amor</lem>
+                  <rdg wit="#R">amore</rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>8</head>
+                 <app from="#l8a1" to="#l8a2">
+                  <lem>ti</lem>
+                  <rdg wit="#R">ci</rdg>
+                 </app>
+               </listApp>
+            </listApp>
+         <listApp type="formal">
+            <listApp>
+                 <head>2</head>
+                 <app from="#l2a5" to="#l2a6">
+                  <lem>me</lem>
+                  <rdg wit="#Sq">mi</rdg>
+                 </app>
+            </listApp>
+            <listApp>
+                 <head>3</head>
+                 <app from="#l3a1" to="#l3a2">
+                  <lem>dona</lem>
+                  <rdg wit="#Sq">donna</rdg>
+                 </app>
+                 <app from="#l3a3" to="#l3a4">
+                  <lem>te</lem>
+                  <rdg wit="#Sq">ti</rdg>
+                 </app>
+            </listApp>
+            <listApp>
+                 <head>4</head>
+                 <app from="#l4a3" to="#l4a4">
+                  <lem>duo</lem>
+                  <rdg>du duo <wit><ref target="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
+                 </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>Ballata minore 6’z 10’z; 6’a 10’b, 6’b 10’a; 6’a 10’z.</p> 
+            <p><hi rend="italic">Pagnotta</hi> 154 : 12.</p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+               Corsi 1970, p. 253-4.
+            </bibl>
+         </listBibl>
+         <div type="commentary">
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1970">
+               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>
