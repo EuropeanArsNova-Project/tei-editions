@@ -122,7 +122,7 @@
                <head> 2</head> 
                <app from="#l2a1" to="#l2a2"> 
                   <lem> 'l</lem> 
-                  <rdg wit="#Lw"><gap reason="illegible" rend="om."/></rdg> 
+                  <rdg wit="#Lw"/>
                </app> 
             </listApp> 
 
@@ -161,8 +161,8 @@
 
 
          <listApp type="formal"> 
-            <listApp>
-	       <head> 3</head>
+            <listApp> 
+               <head> 3</head>
                <app from="#l3a3" to="#l3a4"> 
                   <lem> avene</lem> 
                   <rdg> advene
