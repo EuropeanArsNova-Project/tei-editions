@@ -133,7 +133,7 @@
                <head> 11</head>
                <app from="#l11a1" to="#l11a2">
                   <lem> et</lem>
-                  <rdg wit="#Pit"><gap reason="illegible" rend="om."/></rdg>
+                  <rdg wit="#Pit"/>
                </app>            
             </listApp>
          </listApp>
