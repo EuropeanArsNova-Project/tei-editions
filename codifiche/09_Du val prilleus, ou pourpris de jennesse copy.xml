@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Du val prilleus, ou pourpris de jennesse</title>
+            <!--<author><ref target="X"></ref></author>-->
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt> 
+               <resp> Edited by</resp> 
+               <name> Maria Sofia Lannutti</name> 
+            </respStmt> 
+            <respStmt> 
+               <resp> Revised by</resp> 
+               <name> Luca Gatti</name> 
+            </respStmt> 
+            <respStmt> 
+               <resp> TEI-encoded by</resp> 
+               <name> Elvira Mercatanti</name> 
+            </respStmt> 
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--<front> 
+         <div> 
+            <p> 
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> --> 
+      <body>
+         <lg>
+            <l xml:id="l1">
+               <anchor xml:id="l1a1"/>Du val prilleus<anchor xml:id="l1a2"/>, ou pourpris de <anchor xml:id="l1a3"/><anchor xml:id="l1a5"/>jennesse<anchor xml:id="l1a6"/><anchor xml:id="l1a4"/>,
+            </l>
+            <l xml:id="l2">
+               vers <anchor xml:id="l2a3"/>orïent<anchor xml:id="l2a4"/> un bel <anchor xml:id="l2a1"/>castel<anchor xml:id="l2a2"/> voi luire,
+            </l>
+            <l xml:id="l3">
+               mais entre <anchor xml:id="l3a1"/>deus<anchor xml:id="l3a2"/> <anchor xml:id="l3a3"/>est<anchor xml:id="l3a4"/> <anchor xml:id="l3a5"/>la mer<anchor xml:id="l3a6"/> de <anchor xml:id="l3a7"/>destresse<anchor xml:id="l3a8"/>,
+            </l>
+            <l xml:id="l4">
+               ou <anchor xml:id="l4a1"/>j’oi les vois<anchor xml:id="l4a2"/> <anchor xml:id="l4a3"/>en haut<anchor xml:id="l4a4"/> <anchor xml:id="l4a5"/>t <supplied reason="illegible">[o]</supplied>n<supplied reason="illegible">[e]</supplied>r e<anchor xml:id="l4a6"/> <anchor xml:id="l4a7"/>bruire<anchor xml:id="l4a8"/>
+            </l>
+            <l xml:id="l5" n="5">
+               des <anchor xml:id="l5a1"/>amoreux<anchor xml:id="l5a2"/>, que <anchor xml:id="l5a3"/>desir<anchor xml:id="l5a4"/> fist destruire.
+            </l>
+            <l xml:id="l6">
+               En ce païs, <anchor xml:id="l6a1"/>ou je ne truis<anchor xml:id="l6a2"/> confort,
+            </l>
+            <l xml:id="l7">
+               <anchor xml:id="l7a1"/>si pri<anchor xml:id="l7a2"/> <anchor xml:id="l7a5"/>Pité<anchor xml:id="l7a6"/> que me <anchor xml:id="l7a3"/>vueille conduire<anchor xml:id="l7a4"/>
+            </l>
+            <l xml:id="l8">
+               <hi rend="italic"><anchor xml:id="l8a1"/>a ce<anchor xml:id="l8a2"/> castel, ariver a bon port.</hi>
+            </l>
+         </lg>
+      </body>
+
+
+
+      <back>
+         <listWit>            
+            <witness xml:id="MoA">
+               <!--ref target="X"-->MoA<!--/ref-->
+               c. 13v, <abbr xml:id="MoAC">C</abbr> (vv.1-8): <hi rend="italic">antonellus</hi>.
+            </witness>
+
+            <witness xml:id="R">
+               <!--ref target="X"-->R<!--/ref-->
+               c. 47r, <abbr xml:id="RC">C</abbr> (vv. 1-8)
+            </witness>
+
+            <witness xml:id="To">
+               <!--ref target="X"-->To<!--/ref-->
+               c. 5r, <abbr xml:id="ToC">C</abbr> (vv. 1-8)
+            </witness>
+         </listWit>
+
+
+         <listApp type="substantial">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem> Du val prilleus</lem>
+                  <rdg wit="#R"> u ciel perileus</rdg>
+                  <rdg wit="#To"> pilleus</rdg>
+               </app>   
+
+               <app from="#l1a3" to="#l1a4">
+                  <lem> jennesse</lem>
+                  <rdg wit="#To"> jounesce</rdg>
+               </app>
+            </listApp>
+
+            <listApp>
+               <head>2</head>
+               <app from="#l2a1" to="#l2a2">
+                  <lem> castel</lem>
+                  <rdg wit="#MoA"/>
+               </app>          
+
+               <app from="#l2a3" to="#l2a4">
+                  <lem> orïent</lem>
+                  <rdg wit="#To"> orisant</rdg>
+               </app>
+            </listApp>
+
+            <listApp>
+               <head>3</head>
+               <app from="#l3a1" to="#l3a2">
+                  <lem> deus</lem>
+                  <rdg wit="#To"> eaoux</rdg>
+               </app>
+
+               <app from="#l3a3" to="#l3a4">
+                  <lem> est</lem>
+                  <rdg wit="#MoA">en</rdg>
+               </app>
+
+               <app from="#l3a5" to="#l3a6">
+                  <lem> la mer</lem>
+                  <rdg wit="#To">lamour </rdg>
+               </app>               
+            </listApp>
+
+            <listApp>
+               <head> 4</head>
+               <app from="#l4a1" to="#l4a2">
+                  <lem> j’oi les vois</lem>
+                  <rdg wit="#To"> joye le</rdg>
+               </app>
+
+               <app from="#l4a3" to="#l4a4">
+                  <lem> en haut</lem>
+                  <rdg wit="#R"> ensamble</rdg>
+               </app>
+
+               <app from="#l4a5" to="#l4a6">
+                  <lem>toner e</lem>
+                  <rdg wit="#MoA"> tenoyre </rdg>
+                  <rdg wit="#R"> tonnoier e</rdg>
+                  <rdg wit="#To"> tenoice</rdg>
+               </app>
+
+               <app from="#l4a7" to="#l4a8">
+                  <lem> bruire</lem>
+                  <rdg wit="#To"> bruy</rdg>
+               </app>
+            
+            </listApp>
+
+            <listApp>
+               <head> 5</head>
+               <app from="#l5a1" to="#l5a2">
+                  <lem> amoreux</lem>
+                  <rdg wit="#To"> amourz </rdg>
+               </app>
+
+               <app from="#l5a3" to="#l5a4">
+                  <lem> desir</lem>
+                  <rdg wit="#To"> desire</rdg>
+               </app>         
+            </listApp>
+
+            <listApp>
+               <head> 6</head>
+               <app from="#l6a1" to="#l6a2">
+                  <lem> ou je ne truis</lem>
+                  <rdg wit="#To"> ure</rdg>
+               </app>            
+            </listApp>
+
+
+            <listApp>
+               <head> 7</head>
+               <app from="#l7a1" to="#l7a2">
+                  <lem> si pri</lem>
+                  <rdg wit="#To"> s‹o›i</rdg>
+               </app>
+
+               <app from="#l7a3" to="#l7a4">
+                  <lem> vueille conduire</lem>
+                  <rdg wit="#To"> vuelzlie condure</rdg>
+               </app>
+            </listApp>
+
+
+            <listApp>
+               <head> 8</head>
+               <app from="#l8a1" to="#l8a2">
+                  <lem>a ce</lem>
+                  <rdg wit="#R"> au</rdg>
+               </app>           
+            </listApp>
+         </listApp>
+
+
+
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a5" to="#l1a6">
+                  <lem> jennesse</lem>
+                  <rdg wit="#R"> genese</rdg>
+               </app>
+            </listApp>
+
+            <listApp>
+               <head>3</head>
+               <app from="#l3a7" to="#l3a8">
+                  <lem> destresse</lem>
+                  <rdg wit="#R"> destrese</rdg>
+                  <rdg wit="#To"> destresce</rdg>
+               </app>
+            </listApp>
+
+            <listApp>
+               <head> 7</head>
+               <app from="#l7a5" to="#l7a6">
+                  <lem> Pité</lem>
+                  <rdg wit="#R"> pitie</rdg>
+                  <rdg wit="#To"> pitie</rdg>
+               </app>
+            </listApp>
+         </listApp>
+
+
+         <div type="metricalScheme">
+            <p> <hi rend="italic">Ballade</hi> 10’a 10’b, 10’a 10’b; 10’b 10c 10’b 10C.</p>
+            <p> Rima ricca ai vv. 4 : 5.</p>
+         </div>
+
+
+         <listBibl type="editions">
+            <bibl corresp="#Apel-Rosenberg1970">
+               Apel-Rosenberg 1970, p. XLVI
+            </bibl>
+
+            <bibl corresp="#Vivarelli2005">
+               Vivarelli 2005, pp. 91-2.
+            </bibl>
+         </listBibl>
+
+
+         <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl>-->
+
+
+         <div type="commentary">
+            <note target="#l1">
+               <num> 1.</num>
+               <p><hi rend="italic">prilleus</hi>: la forma bisillabica è attestata nel francese del tardo Trecento (cfr. <hi rend="italic">DMF</hi>, s. v. <hi rend="italic">périlleux</hi>)</p>
+
+               <p> <hi rend="italic">ou</hi>: per <hi rend="italic">el</hi>, ‘nel giardino di giovinezza’.</p>
+            </note>
+
+            <note target="#l4">
+               <num> 4.</num>
+               <p> <hi rend="italic"> toner e</hi>: <hi rend="italic"> tenoire</hi> di MoA, da potersi sciogliere in <hi rend="italic"> tenoir e</hi>, è lezione non attestata altrove e quindi con ogni probabilità erronea; la congettura <hi rend="italic"> toner</hi> è riflessa nella variante <hi rend="italic"> tonnoier</hi> di R </p>
+
+               <p> <hi rend="italic"> en haut</hi>: «Loc. adv. <hi rend="italic"> En haut.</hi>“À pleine voix”» (<hi rend="italic"> DMF</hi>, s. v. <hi rend="italic"> haut</hi>, 2 a).</p>
+            </note>
+
+            <note target="#l4 #l5">
+               <num> 4-5.</num>
+               <p>‘dove odo tuonare e strepitare con forza le voci degli innamorati, che il desiderio ha condotto alla rovina’.</p>
+            </note>
+
+            <note target="#l7">
+               <num> 7.</num>
+               <p> <hi rend="italic"> que</hi>: per <hi rend="italic"> qui</hi>.</p>
+               
+               <p> <hi rend="italic"> vueille</hi>: regge sia <hi rend="italic"> conduire</hi> sia <hi rend="italic">ariver</hi> 
+               al verso successivo, che ha funzione fattitiva (‘mi voglia … far arrivare’). </p>
+            </note>
+            
+         </div>
+
+
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Apel-Rosenberg1970">
+               <hi rend="italic">French Secular Compositions of the Fourteenth Century, </hi>I. <hi rend="italic">Ascribed Compositions</hi>, ed. by W. Apel. Edition of the literary texts by S. N. Rosenberg., Roma, AIM, 1970 (CMM, 53/1)
+            </bibl>
+
+            <bibl xml:id="Vivarelli2005">
+               Carla Vivarelli, <hi rend="italic">Le composizioni francesi di Filippotto e Antonello da Caserta tràdite nel Codice Estense a.M.5.24</hi>, Pisa, ETS, 2005 («Diverse voci... 6»)
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>
