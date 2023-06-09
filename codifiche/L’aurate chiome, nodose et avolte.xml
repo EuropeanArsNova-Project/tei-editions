@@ -135,10 +135,10 @@
                             <rdg wit="#Lu">senti <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit> <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                             <rdg>sento <wit><ref target="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
                         </rdgGrp>
-                        <app from="#l8a3" to="#l8a4">
-                            <lem>en</lem>
-                            <rdg wit="#R">e</rdg>
-                        </app>
+                    </app>
+		    <app from="#l8a3" to="#l8a4">
+                        <lem>en</lem>
+                        <rdg wit="#R">e</rdg>
                     </app>
                 </listApp>
             </listApp>
