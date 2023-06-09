@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>I be’ sembianti co’ bugiardi effetti</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the </resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Maria Sofia Lannutti</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Carla Congiu</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>
+         <div>
+            <p>
+           </p>
+         </div>         
+      </front-->
+      <body>
+        <lg>
+            <l xml:id="l1">
+		      <anchor xml:id="l1a1"/>I<anchor xml:id="l1a2"/> <anchor xml:id="l1a5"/>be’<anchor xml:id="l1a6"/> <anchor xml:id="l1a3"/>sembianti<anchor xml:id="l1a4"/> <anchor xml:id="l1a7"/>co’ bugiardi effetti<anchor xml:id="l1a8"/>,
+	        </l>
+            <l xml:id="l2">
+		      <anchor xml:id="l2a3"/>che <anchor xml:id="l2a1"/>in<anchor xml:id="l2a4"/> vece di<anchor xml:id="l2a2"/> prudença il mondo onora,
+	        </l>
+            <l xml:id="l3">
+		      <anchor xml:id="l3a3"/>discepoli<anchor xml:id="l3a4"/> già fece <anchor xml:id="l3a5"/>assai<anchor xml:id="l3a6"/> <anchor xml:id="l3a1"/>provetti<anchor xml:id="l3a2"/>.
+	        </l>
+            <l xml:id="l4">
+		      Ahi, quanta industria a <anchor xml:id="l4a1"/>quel<anchor xml:id="l4a2"/> che più <anchor xml:id="l4a3"/>corregge<anchor xml:id="l4a4"/>
+	        </l>
+            <l xml:id="l5" n="5">
+              <anchor xml:id="l5a3"/>fia<anchor xml:id="l5a4"/> necessaria, <anchor xml:id="l5a5"/>acciò<anchor xml:id="l5a6"/> che, <anchor xml:id="l5a7"/>troppo<anchor xml:id="l5a8"/> <anchor xml:id="l5a1"/>in<anchor xml:id="l5a2"/> <anchor xml:id="l5a9"/>fretta<anchor xml:id="l5a10"/>,
+	        </l>
+            <l xml:id="l6">
+		      a creder non <anchor xml:id="l6a1"/>s’<anchor xml:id="l6a3"/>arische<anchor xml:id="l6a4"/><anchor xml:id="l6a2"/> contra <anchor xml:id="l6a5"/>legge<anchor xml:id="l6a6"/>!
+	        </l>
+        </lg>
+        <lg>
+            <l xml:id="l7">
+		      <anchor xml:id="l7a3"/>Però<anchor xml:id="l7a4"/>, <anchor xml:id="l7a1"/>signor, a <anchor xml:id="l7a5"/>voi<anchor xml:id="l7a6"/><anchor xml:id="l7a2"/> non <anchor xml:id="l7a7"/>sia<anchor xml:id="l7a8"/> fatica
+	        </l>
+            <l xml:id="l8">
+		      <anchor xml:id="l8a1"/>discerner<anchor xml:id="l8a2"/> ben la <anchor xml:id="l8a3"/>rosa<anchor xml:id="l8a4"/> <anchor xml:id="l8a5"/>dall’ortica<anchor xml:id="l8a6"/>.
+	        </l>
+        </lg>
+       </body>
+      <back>
+         <listWit>
+            <witness xml:id="Sq">
+               <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-medicea-laurenziana-med-pal-87--manoscript/ARSNOVA_224962">Sq</ref>
+               cc. <locus>102v-103r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SqCt">Ct</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid</hi>. (vv. 4-6): <hi rend="italic">magister frater bartolinus de padua</hi>
+            </witness>
+            <witness xml:id="MoA">
+               <!--<ref target="X">-->MoA<!--</ref>-->
+               c. <locus>21r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="MoACt">Ct</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid</hi>. (vv. 4-6): <hi rend="italic">frater ca(r)melitus</hi>
+            </witness>
+            <witness xml:id="R">
+               <ref target="http://www.mirabileweb.it/manuscript-rom/paris-biblioth%C3%A8que-nationale-de-france-n-a-fr-6771-manoscript/LIO_30658">R</ref>
+               cc. <locus>45v-46r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="RT">T</abbr> (vv. 1-3 e 7-8), <abbr xml:id="RCt">Ct</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid</hi>. (vv. 4-6)
+            </witness>
+            <witness xml:id="SL">
+                <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-archivio-del-capitolo-di-san-lorenzo-2211-manoscript/ARSNOVA_21819">SL</ref>
+               cc. <locus>6v-7r</locus> (illeggibile)
+            </witness>
+          </listWit>
+           <listApp type="substantial">
+            <listApp>
+                <listApp>
+                 <head>1</head>
+                 <app from="#l1a1" to="#l1a2">
+                  <lem>I</lem>
+                  <rdg wit="#R"></rdg>
+                 </app>
+                 <app from="#l1a3" to="#l1a4">
+                  <lem>sembianti</lem>
+                  <rdg wit="#MoA">senbiati</rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>2</head>
+                 <app from="#l2a1" to="#l2a2">
+                  <lem>in vece di</lem>
+                  <rdg wit="#R">
+                    <app type="subvariants">
+                        <lem>vice</lem>
+                        <rdg>vece <wit> <ref corresp="#RT">R</ref><hi rend="super">T</hi></wit></rdg>
+                    </app>
+                    de
+                  </rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>3</head>
+                 <app from="#l3a1" to="#l3a2">
+                  <lem>provetti</lem>
+                  <rdg wit="#R">profetti</rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>5</head>
+                 <app from="#l5a1" to="#l5a2">
+                  <lem>in</lem>
+                  <rdg wit="#R">i</rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>6</head>
+                 <app from="#l6a1" to="#l6a2">
+                  <lem>s’arische</lem>
+                  <rdg wit="#R">salisca</rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>7</head>
+                 <app from="#l7a1" to="#l7a2">
+                  <lem>signor, a voi</lem>
+                  <rdg wit="#R">a
+                    <app type="subvariants">
+                        <lem>vu</lem>
+                        <rdg>vui <wit> <ref corresp="#RT #RCt">R</ref><hi rend="super">TCt</hi></wit></rdg>
+                    </app>
+                    <app type="subvariants">
+                        <lem>signor</lem>
+                        <rdg>si signor <wit><ref corresp="#RT">R</ref><hi rend="super">T</hi></wit></rdg>
+                     </app>
+                  </rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>8</head>
+                 <app from="#l8a1" to="#l8a2">
+                  <lem>discerner</lem>
+                  <rdg>e discerner <wit><ref corresp="#SqCt">Sq</ref><hi rend="super">Ct</hi></wit></rdg>
+                 </app>
+               </listApp>
+            </listApp>
+         <listApp type="formal">
+            <listApp>
+                 <head>1</head>
+                 <app from="#l1a5" to="#l1a6">
+                  <lem>be’</lem>
+                  <rdg wit="#MoA #R">bei</rdg>
+                 </app>
+                 <app from="#l1a7" to="#l1a8">
+                  <lem>co' bugiardi effetti</lem>
+                  <rdg wit="#MoA">
+                    <app type="subvariants">
+                        <lem>coy</lem>
+                        <rdg>co<wit><ref corresp="#MoACt">MoA<hi rend="super">Ct</hi></ref></wit></rdg>
+                    </app> busardi effecti
+                  </rdg>
+                  <rdg wit="#R">con busiardi
+                    <app type="subvariants">
+                        <lem>efetti</lem>
+                        <rdg>efeti<wit><ref corresp="#RCt">R<hi rend="super">Ct</hi></ref></wit></rdg>
+                    </app>
+                  </rdg>
+               </app>
+            </listApp>
+            <listApp>
+                 <head>2</head>
+                 <app from="#l2a3" to="#l2a4">
+                  <lem>che in</lem>
+                  <rdg wit="#MoA">chen</rdg>
+                 </app>
+                 <app from="#l2a5" to="#l2a6">
+                  <lem>il</lem>
+                  <rdg wit="#MoA #R">el <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                 </app>
+            </listApp>
+            <listApp>
+                 <head>3</head>
+                 <app from="#l3a3" to="#l3a4">
+                  <lem>discepoli già</lem>
+                  <rdgGrp>
+                    <rdg>discepoli discepoli già <wit><ref target="#SqCt">Sq<hi rend="super">Ct</hi></ref></wit></rdg>
+                    <rdg wit="#MoA">discipuli ça <wit><ref target="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
+                    <rdg>disipoli za <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
+                    <rdg>disipuli disipuli za <wit><ref target="#RCt">R<hi rend="super">Ct</hi></ref></wit></rdg>
+                  </rdgGrp>
+                 </app>
+                 <app from="#l3a5" to="#l3a6">
+                  <lem>assai</lem>
+                  <rdgGrp>
+                    <rdg>assa <wit><ref target="#RC #RT">R<hi rend="super">CT</hi></ref></wit></rdg>
+                    <rdg>asay <wit><ref target="#RCt">R<hi rend="super">Ct</hi></ref></wit></rdg>
+                  </rdgGrp>
+                 </app>
+                 <app from="#l3a1" to="#l3a2">
+                  <lem>provetti</lem>
+                  <rdg wit="#MoA">provecti</rdg>
+                 </app>
+            </listApp>
+            <listApp>
+                 <head>4</head>
+                 <app from="#l4a1" to="#l4a2">
+                  <lem>quel</lem>
+                  <rdg wit="#MoA">quei</rdg>
+                 </app>
+                 <app from="#l4a3" to="#l4a4">
+                  <lem>corregge</lem>
+                  <rdgGrp>
+                     <rdg wit="#Sq">correge</rdg>
+                     <rdg wit="#MoA">coreççe</rdg>
+                     <rdg wit="#R">choreçe</rdg>
+                  </rdgGrp>
+                 </app>
+            </listApp>
+            <listApp>
+                 <head>5</head>
+                 <app from="#l5a3" to="#l5a4">
+                  <lem>fia</lem>
+                  <rdg wit="#MoA #R">fi</rdg>
+                 </app>
+                 <app from="#l5a5" to="#l5a6">
+                  <lem>acciò</lem>
+                  <rdg wit="#MoA">acio</rdg>
+                 </app>
+                 <app from="#l5a7" to="#l5a8">
+                  <lem>troppo</lem>
+                  <rdg wit="#MoA #R">tropo</rdg>
+                 </app>
+                 <app from="#l5a9" to="#l5a10">
+                  <lem>fretta</lem>
+                  <rdgGrp>
+                     <rdg wit="#MoA">frecta</rdg>
+                     <rdg wit="#R">freta</rdg>
+                  </rdgGrp>
+                 </app>
+            </listApp>
+            <listApp>
+                 <head>6</head>
+                 <app from="#l6a3" to="#l6a4">
+                  <lem>arische</lem>
+                  <rdg wit="#MoA">arischa</rdg>
+                 </app>
+                 <app from="#l6a5" to="#l6a6">
+                  <lem>legge</lem>
+                  <rdgGrp>
+                     <rdg wit="#MoA">leççe</rdg>
+                     <rdg wit="#R">leçe</rdg>
+                  </rdgGrp>
+                 </app>
+            </listApp>
+            <listApp>
+                 <head>7</head>
+                 <app from="#l7a3" to="#l7a4">
+                  <lem>Però</lem>
+                  <rdgGrp>
+                    <rdg>pero pero 
+                     <wit><ref target="#SqC">Sq<hi rend="super">C</hi></ref></wit>
+                     <wit><ref target="#MoAC">MoA<hi rend="super">C</hi></ref></wit>
+                     <wit><ref target="#RC #RCt">R<hi rend="super">CCt</hi></ref></wit>
+                    </rdg>
+                    <rdg>pero ro <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
+                    <rdg>per per ho <wit><ref target="#MoACt">MoA<hi rend="super">Ct</hi></ref></wit></rdg>
+                  </rdgGrp>
+                 </app>
+                 <app from="#l7a5" to="#l7a6">
+                  <lem>voi</lem>
+                  <rdg wit="#MoA">vu</rdg>
+                 </app>
+                 <app from="#l7a7" to="#l7a8">
+                  <lem>sia</lem>
+                  <rdg>sie <wit><ref target="#SqT #SqCT">Sq<hi rend="super">TCt</hi></ref></wit></rdg>
+                 </app>
+            </listApp>
+            <listApp>
+                 <head>8</head>
+                 <app from="#l8a3" to="#l8a4">
+                  <lem>discerner</lem>
+                  <rdgGrp>
+                    <rdg>disserner 
+                     <wit><ref target="#MoAC">MoA<hi rend="super">C</hi></ref></wit>
+                    </rdg>
+                    <rdg>diserner <wit><ref target="#MoACt">MoA<hi rend="super">Ct</hi></ref></wit></rdg>
+                    <rdg wit="#R">dicerner</rdg>
+                  </rdgGrp>
+                 </app>
+                 <app from="#l8a5" to="#l8a6">
+                  <lem>rosa</lem>
+                  <rdg>roxa <wit><ref target="#RT #RCT">Sq<hi rend="super">TCt</hi></ref></wit></rdg>
+                 </app>
+                 <app from="#l8a7" to="#l8a8">
+                  <lem>dall’ortica</lem>
+                  <rdg wit="#MoA #R">dalortica</rdg>
+                 </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>Madrigale 10’a 10’b 10’a, 10’c 10’d 10’c; 10’e 10’e.</p> 
+            <p><hi rend="italic">Capovilla</hi> XIX.</p>
+            <p>Rima ricca ai vv. 7 : 8.</p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+               Corsi 1970, pp. 240-1.
+            </bibl>
+         </listBibl>
+         <div type="commentary">
+            <note target="#l4 #l5 #l6">
+               <num>4-6</num>
+               ‘Ahi, quanto più impegno occorre a chi svolge il ruolo di guida, perché non corra il rischio di credere in modo troppo avventato a ciò che è contrario alla legge!’.
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1970">
+               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>
