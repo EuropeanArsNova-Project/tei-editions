@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Madonna, bench’ i’ miri in altra parte</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the </resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Maria Sofia Lannutti</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Carla Congiu</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>
+         <div>
+            <p>
+           </p>
+         </div>         
+      </front-->
+      <body>
+        <lg>
+            <l xml:id="l1">
+		        <anchor xml:id="l1a1"/>Madonna<anchor xml:id="l1a2"/>, bench’ <anchor xml:id="l1a3"/>i’<anchor xml:id="l1a4"/> miri in altra parte,
+	        </l>
+            <l xml:id="l2">
+		        Amor da <anchor xml:id="l2a3"/>voi<anchor xml:id="l2a4"/> però mie cor non <anchor xml:id="l2a1"/>parte<anchor xml:id="l2a2"/>.
+	        </l>
+        </lg>
+        <lg>
+            <l xml:id="l3">
+		        El <anchor xml:id="l3a1"/>non si può già<anchor xml:id="l3a2"/> mai partir, <anchor xml:id="l3a3"/>mie<anchor xml:id="l3a4"/> core,
+	        </l>
+            <l xml:id="l4">
+		        da la vostra <anchor xml:id="l4a1"/><supplied>[alta]</supplied><anchor xml:id="l4a2"/> <anchor xml:id="l4a5"/><anchor xml:id="l4a3"/>et<anchor xml:id="l4a4"/> nobil<anchor xml:id="l4a6"/> signoria,
+	        </l>
+            <l xml:id="l5" n="5">
+                <anchor xml:id="l5a1"/>onde<anchor xml:id="l5a2"/> d’ogni biltà singular fiore   
+	        </l>
+            <l xml:id="l6">
+                <anchor xml:id="l6a1"/>in voi si trova, virtù et legiadria<anchor xml:id="l6a2"/>. 
+	        </l>
+            <l xml:id="l7">
+		        Sola in <anchor xml:id="l7a3"/>voi<anchor xml:id="l7a4"/> <anchor xml:id="l7a1"/>poso<anchor xml:id="l7a2"/> la sperança mia
+	        </l>
+            <l xml:id="l8">
+		        sì ch’ogn’ altro piacer da <anchor xml:id="l8a1"/>me diparte<anchor xml:id="l8a2"/>.
+	        </l>
+        </lg>
+        <lg>
+            <l xml:id="l9">
+		        <anchor xml:id="l9a1"/>Dunque da voi si muova ogni sospetto<anchor xml:id="l9a2"/>,
+	        </l>
+            <l xml:id="l10">
+		        tenendomi per servo com’ <anchor xml:id="l10a1"/>e’<anchor xml:id="l10a2"/> sono,
+	        </l>
+            <l xml:id="l11">
+		        ch’Amor <anchor xml:id="l11a1"/>di voi<anchor xml:id="l11a2"/> <anchor xml:id="l11a3"/>sì<anchor xml:id="l11a4"/> m’à fatto <anchor xml:id="l11a5"/>subgetto<anchor xml:id="l11a6"/>,
+	        </l>
+            <l xml:id="l12">
+		        et d’ogni spirto mio v’à fatto dono:
+	        </l>
+            <l xml:id="l13">
+		        però liberamente in voi dispono
+	        </l>
+            <l xml:id="l14">
+		        el cor et l’alma, in tutto sanza parte.
+	        </l>
+        </lg>
+       </body>
+      <back>
+        <listWit>
+            <witness xml:id="Sq">
+               <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-medicea-laurenziana-med-pal-87--manoscript/ARSNOVA_224962">Sq</ref>
+               c. <locus>110v</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-14): <hi rend="italic">magister frater bartolinus de padua</hi>
+            </witness>
+            <witness xml:id="R">
+               <ref target="http://www.mirabileweb.it/manuscript-rom/paris-biblioth%C3%A8que-nationale-de-france-n-a-fr-6771-manoscript/LIO_30658">R</ref>
+               c. <locus>21r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-4), <abbr xml:id="RT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-11)
+            </witness>
+        </listWit>
+        <listApp type="substantial">
+            <listApp>
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>parte</lem>
+                        <rdg>se parte <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>alta</lem>
+                        <rdg wit="#Sq"></rdg>
+                    </app>
+                    <app from="#l4a3" to="#l4a4">
+                        <lem>et</lem>
+                        <rdg><wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a1" to="#l5a2">
+                        <lem>onde</lem>
+                        <rdg type="indifferentVariant" wit="#R">vuy si</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l5a2">
+                        <lem>in voi si trova, virtù et legiadria</lem>
+                        <rdg type="indifferentVariant" wit="#R">en vu vertu se trova e liçiadria</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>poso</lem>
+                        <rdg wit="#R">possa</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>Madonna</lem>
+                        <rdg>madona <wit><ref target="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                    <app from="#l1a3" to="#l1a4">
+                        <lem>i’</lem>
+                        <rdg wit="#R">io</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a3" to="#l2a4">
+                        <lem>voi</lem>
+                        <rdg wit="#R">vuy</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>non si può già</lem>
+                        <rdg wit="#R">no se po ça</rdg>
+                    </app>
+                    <app from="#l3a3" to="#l3a4">
+                        <lem>mie</lem>
+                        <rdg wit="#R">mio</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a5" to="#l4a6">
+                        <lem>et nobil</lem>
+                        <rdg wit="#R">e nobel</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a3" to="#l7a4">
+                        <lem>voi</lem>
+                        <rdg wit="#R">vu</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem>me diparte</lem>
+                        <rdg wit="#R">mi departe</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>9</head>
+                    <app from="#l9a1" to="#l9a2">
+                        <lem>Dunque da voi si muova ogni sospetto</lem>
+                        <rdg wit="#R">dunqua da vu se mova ogni sospeto</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>10</head>
+                    <app from="#l10a1" to="#l10a2">
+                        <lem>e’</lem>
+                        <rdg wit="#R">io</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>11</head>
+                    <app from="#l11a1" to="#l11a2">
+                        <lem>di voi</lem>
+                        <rdg wit="#R">de vuy</rdg>
+                    </app>
+                    <app from="#l11a3" to="#l11a4">
+                        <lem>sì</lem>
+                        <rdg wit="#R"></rdg>
+                    </app>
+                    <app from="#l11a5" to="#l11a6">
+                        <lem>subgetto</lem>
+                        <rdg wit="#R">sogeto</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p>Ballata minore 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z.</p>
+                <p><hi rend="italic">Pagnotta</hi> 111 : 144.</p> 
+                <p>Rima equivoca ai vv. 2 e 14; rima identica ai vv. 1 e 14; rima derivativa e inclusiva ai vv. 2 e 8; rima inclusiva ai vv. 1, 8 e 14.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Corsi1970">
+                    Corsi 1970, p. 248-9.
+                </bibl>
+            </listBibl>
+            <div type="commentary">
+                <note target="#l5 #l6">
+                    <num>5-6</num>
+                    La versione di R, dove la forma <hi rend="italic">si</hi> è II pers. sing. del pres. ind. di <hi rend="italic">essere</hi>, è adiafora e più regolare sotto il profilo ritmico.
+                </note>
+            </div>
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Corsi1970">
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
