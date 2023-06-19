@@ -175,7 +175,7 @@
                         <rdgGrp>
                             <rdg>so cor <wit><ref target="#MoAC">MoA<hi rend="super">C</hi></ref></wit></rdg>
                             <rdg wit="#R">cor soa <wit><ref target="#MoAT">MoA<hi rend="super">T</hi></ref></wit></rdg>
-                            <rdg>cor a soa</rdg>
+                            <rdg wit="#Lu">cor a soa</rdg>
                             <rdg>cor suoa <witDetail><hi rend="italic">con</hi> a <hi rend="italic">espunto</hi></witDetail><wit><ref target="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
                             <rdg>cor sua<wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                         </rdgGrp>
