@@ -138,7 +138,7 @@
                <head>3</head>
                <app from="#l3a1" to="#l3a2">
                   <lem> col</lem>
-                  <!--da capire come si codifica omissione con testimone così--> 
+                  <rdg type="omission"><hi rend="italic">om.</hi><wit><ref corresp="#RsC"> Rs<hi rend="super">C</hi></ref></wit></rdg> 
                </app>  
 
                <app from="#l3a3" to="#l3a4">
