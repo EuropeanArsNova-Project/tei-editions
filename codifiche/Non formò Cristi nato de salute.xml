@@ -84,8 +84,8 @@
         <back>
             <listWit>
                 <witness xml:id="Rs">
-                    <ref target="http://www.mirabileweb.it/manuscript-rom/paris-biblioth%C3%A8que-nationale-de-france-n-a-fr-6771-manoscript/LIO_30658">R</ref>
-                    c. <locus>22r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-4),  <hi rend="italic">resid</hi>. (vv. 5-8)
+                    >!--<ref target="X">-->Rs<!--</ref>-->
+                    c. <locus>22r</locus>, <abbr xml:id="RsC">C</abbr> (vv. 1-4),  <hi rend="italic">resid</hi>. (vv. 5-8)
                 </witness>
             </listWit>
             <!--<listApp type="substantial">
