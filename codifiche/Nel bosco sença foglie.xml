@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nel bosco sença foglie</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+      <!-- <front>
+         <div>
+            <p>
+            </p>
+         </div>
+      </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1">
+                Nel bosco sença foglie
+            </l>
+            <l xml:id="l2">
+                cacciando una perdice molto stanca,
+            </l>
+            <l xml:id="l3">
+                saltomm’ innançi una lepre bianca.
+            </l>
+            <l xml:id="l4">
+                La sua bella vagheçça
+            </l>
+            <l xml:id="l5" n="5">
+                lasciar mi fece la caccia primera,
+            </l>
+            <l xml:id="l6">
+                et seguir lʼaltra con la mia levriera.
+            </l>
+            <l xml:id="l7">
+                Voltandosi più volte,
+            </l>
+            <l xml:id="l8">
+                uscì deʼ cani e fuçì in una tana,
+            </l>
+            <l xml:id="l9">
+                et lì fu presa, temorosa e sana. 
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l10" n="10">
+                In <anchor xml:id="l10a1"/>braccio<anchor xml:id="l10a2"/> la ricolsi e la baciai:	
+            </l>
+            <l xml:id="l11">
+                caccia più dolce <anchor xml:id="l11a1"/>giamai<anchor xml:id="l11a2"/> non cacciai.
+            </l>
+        </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="Fp">
+                <!--ref target=""-->Fp<!--/ref-->
+                cc. <locus>97v-98r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-9 e 10-11), <abbr xml:id="FpT">T</abbr> (vv. 10-11), <abbr xml:id="FpCt">Ct</abbr> (vv. 10-11): <hi rend="italic">m(agister) giovan(n)i</hi>]
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+                <head>11</head>
+                <app from="#l11a1" to="#l11a2">
+                   <lem>giamai</lem>
+                   <rdg>gia giamai <wit><ref corresp="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+                <head>10</head>
+                <app from="#l10a1" to="#l10a2">
+                    <lem>braccio</lem>
+                    <rdg>bracio  <wit><ref corresp="#FpCt">Fp<hi rend="super">Ct</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>11</head>
+                <app from="#l11a1" to="#l11a2">
+                    <lem>giamai</lem>
+                    <rdg>giamaʼ <wit><ref corresp="#FpTCt">Fp<hi rend="super">T</hi><hi rend="super">Ct</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+                Madrigale 6ʼa 10ʼb 10ʼb, 6ʼc 10ʼd 10ʼd, 6ʼe 10ʼf 10ʼf; 10ʼg 10ʼg.
+            </p>
+            <p>
+                <hi rend="italic">Capovilla </hi> <hi rend="small-caps">LIII<hi rend="super">2</hi></hi>
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#LiGotti1944a">
+                Li Gotti 1944a, p. 378
+            </bibl>
+            <bibl corresp="#Corsi1969">
+                Corsi 1969, pp. 1013-4
+            </bibl>
+            <bibl corresp="#Corsi1970">
+                Corsi 1970, p. 16.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+        <div type="commentary">
+            <note target="#l2">
+                <num>2</num>
+                <p><hi rend="italic">perdice</hi>: dal lat. <hi rend="small-caps">PERDIX</hi> ʻperniceʼ.</p>
+            </note>
+            <note target="#l8">
+                <num>8</num>
+                <p> <hi rend="italic">uscì deʼ cani</hi>: ʻscappò dai caniʼ.</p>
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="LiGotti1944a">
+                Ettore Li Gotti, <hi rend="italic">L'«Ars nova» e il madrigale</hi>, serie 4, vol. IV, parte II, Atti della Reale Accademia di Scienze Lettere e Arti di Palermo, Palermo, 1944, pp. 339-89
+            </bibl>
+            <bibl xml:id="Corsi1969">
+                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
+            </bibl>
+            <bibl xml:id="Corsi1970">
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>
