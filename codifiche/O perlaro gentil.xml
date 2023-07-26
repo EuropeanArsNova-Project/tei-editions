@@ -98,11 +98,11 @@
             </witness>
             <witness xml:id="Lo">
                 <!--ref target=""-->Lo<!--/ref-->
-                cc. <locus>4v-5r,</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid.</hi> (vv. 4-6), <abbr xml:id="LoT">T</abbr> (vv. 1-3 e 7-8)
+                cc. <locus>4v-5r</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid.</hi> (vv. 4-6), <abbr xml:id="LoT">T</abbr> (vv. 1-3 e 7-8)
             </witness>
             <witness xml:id="SL">
                 <!--ref target=""-->SL<!--/ref-->
-                cc. <locus>31v-32r,</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SLT">T</abbr> <gap reason="illegible" rend="(illeggibile)"/>,<hi rend="italic">resid.</hi> (vv. 4-6) <gap reason="illegible" rend="(illeggibile)"/>[c. 27r: <hi rend="italic">m ... Cascia</hi>]
+                cc. <locus>31v-32r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SLT">T</abbr> <gap reason="illegible" rend="(illeggibile)"/>,<hi rend="italic">resid.</hi> (vv. 4-6) <gap reason="illegible" rend="(illeggibile)"/>[c. 27r: <hi rend="italic">m ... Cascia</hi>]
             </witness>
          </listWit>
          <listApp type="substantial">
@@ -318,3 +318,4 @@
       </back>
    </text>
 </TEI>
+
