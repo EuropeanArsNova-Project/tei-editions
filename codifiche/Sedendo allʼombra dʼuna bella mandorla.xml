@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Sedendo allʼombra dʼuna bella mandorla</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp> Edited by</resp>
+                    <name> Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp> Revised by</resp>
+                    <name> Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp> TEI-encoded by</resp>
+                    <name> Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p> 
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1"> Sedendo <anchor xml:id="l1a1"/>allʼ<anchor xml:id="l1a2"/>ombra dʼuna bella mandorla</l>
+                <l xml:id="l2"> sonno mi venne subito,</l>
+                <l xml:id="l3"> <anchor xml:id="l3a5"/>ondʼ io<anchor xml:id="l3a6"/> <anchor xml:id="l3a7"/>dormetti <anchor xml:id="l3a8"/><anchor xml:id="l3a1"/>in <anchor xml:id="l3a2"/> <anchor xml:id="l3a9"/>sulla<anchor xml:id="l3a10"/> <anchor xml:id="l3a3"/>man del<anchor xml:id="l3a4"/> gombito.</l>
+                <l xml:id="l4"> <anchor xml:id="l4a3"/>Poscia<anchor xml:id="l4a4"/> veder <anchor xml:id="l4a5"/>mi<anchor xml:id="l4a6"/> parve un <anchor xml:id="l4a1"/>agnel<anchor xml:id="l4a2"/> candido</l>
+                <l xml:id="l5" n="5"> <anchor xml:id="l5a3"/>chʼavea<anchor xml:id="l5a4"/> dal destro <anchor xml:id="l5a1"/>un aspido<anchor xml:id="l5a2"/>,</l>
+                <l xml:id="l6"> <anchor xml:id="l6a7"/>dallʼ<anchor xml:id="l6a8"/>altro <anchor xml:id="l6a3"/>un<anchor xml:id="l6a4"/> <anchor xml:id="l6a9"/>struço<anchor xml:id="l6a10"/> <anchor xml:id="l6a1"/>più varo<anchor xml:id="l6a2"/> <anchor xml:id="l6a5"/>che iaspido<anchor xml:id="l6a6"/>.</l>
+            </lg>
+            <lg>
+                <l xml:id="l7"> <anchor xml:id="l7a1"/>Ferì lʼagnel, sì <anchor xml:id="l7a2"/> che <anchor xml:id="l7a5"/><anchor xml:id="l7a3"/>ʼnverʼ<anchor xml:id="l7a4"/><anchor xml:id="l7a6"/> <anchor xml:id="l7a7"/>me ricolsesi<anchor xml:id="l7a8"/>,</l>
+                <l xml:id="l8"> per <anchor xml:id="l8a1"/>cotal<anchor xml:id="l8a2"/> <anchor xml:id="l8a3"/>modo<anchor xml:id="l8a4"/> <anchor xml:id="l8a5"/>ʼl<anchor xml:id="l8a6"/> sonno <anchor xml:id="l8a9"/>mio<anchor xml:id="l8a10"/> <anchor xml:id="l8a7"/>disciolsesi<anchor xml:id="l8a8"/>.</l>
+            </lg>
+
+        </body>
+
+
+
+        <back>
+            <listWit>
+                
+                <witness xml:id="Fp">
+                    <!--ref target="X"-->Fp<!--/ref--> cc. <locus>52v-53r</locus>, <abbr
+                        xml:id="FpC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="FpT">T</abbr> (vv. 1-3 e
+                    7-8), <hi rend="italic">resid.</hi> (vv. 4-6): <hi rend="italic">m(agister) g(iovanni)</hi>
+                </witness>
+                
+                <witness xml:id="Sq">
+                    <!--ref target="X"-->Sq<!--/ref--> c. 2v, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8),<abbr xml:id="SqT">T</abbr>(vv. 1-3 e 7-8), <hi rend="italic">resid.</hi> (vv. 4-6): <hi rend="italic">magister iovannes de florentia</hi>
+                </witness>                
+
+                <witness xml:id="Lo">
+                    <!--ref target="X"-->Lo<!--/ref--> c. 8r., <abbr xml:id="LoC"
+                        >C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="LoT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic"> resid.</hi> (vv. 4-6): <hi rend="italic">mag(ist)ri joh(ann)is de fror(entia)</hi>
+                </witness>
+               
+                
+            </listWit>
+
+
+            <listApp type="substantial">
+                
+                <listApp>
+                    <head> 3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem> in</lem>
+                        <rdg wit="#Lo"/>
+                    </app>
+                    
+                    <app from="#l3a3" to="#l3a4">
+                        <lem> man del</lem>
+                        <rdg wit="#Lo"> manel</rdg>
+                    </app>                    
+                </listApp>
+
+                <listApp>
+                    <head> 4</head>
+                    <app from="#l4a1" to="l4a2">
+                        <lem> agnel</lem>
+                        <rdg wit="#Sq"> algel </rdg>
+                    </app>
+                </listApp>
+
+                <listApp>
+                    <head> 5</head>
+                    <app from="#l5a1" to="l5a2">
+                        <lem> un aspido</lem>
+                        <rdg wit="#Lo"> la donnaspido </rdg>
+                    </app>
+                </listApp>
+
+
+                <listApp>
+                    <head> 6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem> più varo</lem>
+                        <rdg wit="#Sq">l piu vago </rdg>
+                    </app>
+                    
+                    <app from="#l6a3" to="#l6a4">
+                        <lem> un</lem>
+                        <rdg wit="#Fp"> uno</rdg>
+                        <rdg wit="#Sq"> uno</rdg>
+                        <rdg wit="#SL"> uno</rdg>
+                    </app>
+                    
+                    <app from="#l6a5" to="#l6a6">
+                        <lem> che iaspido</lem>
+                        <rdg wit="#Fp"> che llaspido </rdg>
+                        <rdg wit="#Lo"> chayaspido </rdg>
+                    </app>
+                </listApp>
+                           
+                
+
+                <listApp>
+                    <head> 7</head>
+                    <app from="#l7a1" to="l7a2">
+                        <lem> Ferì lʼagnel, sì</lem>
+                        <rdg wit="#Sq"> fe rilla non si </rdg>
+                        <rdg> ferimo gniōsi <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit> </rdg>
+                        <rdg> fe ri mo gn/o/si  <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit> </rdg>
+                    </app>
+
+                    <app from="#l7a3" to="#l7a4">
+                        <lem> ʼnverʼ</lem>
+                        <rdg wit="#Lo"> ver </rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem> cotal</lem>
+                        <rdg wit="#Lo"> contal </rdg>
+                    </app>                       
+                    
+                    <app from="#l8a3" to="#l8a4">
+                        <lem> modo</lem>
+                        <rdg> mō <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>                        
+                    </app>
+                    
+                    <app from="#l8a5" to="#l8a6">
+                        <lem> ʼl</lem>
+                        <rdg wit="#Lo"/>                        
+                    </app>
+                    
+                    <app from="#l8a7" to="#l8a8">
+                        <lem> disciolsesi</lem>
+                        <rdg wit="#Lo"> destolsese </rdg>                        
+                    </app>
+                </listApp>
+              
+            </listApp>
+
+
+
+            <listApp type="formal">
+                <listApp>
+                    <head> 1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem> allʼ</lem>
+                        <rdg wit="#Lo"> al</rdg>                        
+                    </app>                    
+                </listApp>
+                
+                <listApp>
+                    <head> 3</head>
+                    <app from="#l3a5" to="#l3a6">
+                        <lem> ondʼ io</lem>
+                        <rdg wit="#Sq"> on di</rdg>
+                        <rdg> onde <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l3a7" to="#l3a8">
+                        <lem> dormetti</lem>
+                        <rdg wit="#Sq"> dormett</rdg>
+                        <rdg wit="#Lo"> dormiti</rdg>                       
+                    </app>
+                    
+                    <app from="#l3a9" to="#l3a10">
+                        <lem> sulla</lem>
+                        <rdg wit="#Sq"> sula</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 4</head>
+                    <app from="#l4a3" to="#l4a4">
+                        <lem> Poscia</lem>
+                        <rdg wit="#Lo"> possa</rdg>                        
+                    </app>
+                    
+                    <app from="#l4a5" to="#l4a6">
+                        <lem> mi</lem>
+                        <rdg wit="#Lo"> me</rdg>                        
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 5</head>
+                    <app from="#l5a3" to="#l5a4">
+                        <lem> chʼavea</lem> 
+                        <rdg wit="#Lo"> chave</rdg>
+                    </app>                    
+                </listApp>
+                
+                <listApp>
+                    <head> 6</head>
+                    <app from="#l6a7" to="#l6a8">
+                        <lem> dallʼ</lem>
+                        <rdg wit="#Lo"> dal</rdg>                       
+                    </app>
+                    
+                    <app from="#l6a9" to="#l6a10">
+                        <lem> struço</lem>
+                        <rdg wit="#Lo"> struçço </rdg>                        
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 7</head>
+                    <app from="#l7a5" to="#l7a6">
+                        <lem> ʼnverʼ</lem>
+                        <rdg wit="#Sq"> in ver </rdg>
+                    </app>
+                    
+                    <app from="#l7a7" to="#l7a8">
+                        <lem> me ricolsesi</lem>
+                        <rdg wit="#Lo"> mircolsese </rdg>                        
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 8</head>
+                    <app from="#l8a9" to="#l8a10">
+                        <lem> mio</lem>
+                        <rdg wit="#Sq">mi</rdg>
+                        <rdg wit="#Lo">me</rdg>
+                    </app>
+                </listApp> 
+                    
+              
+                
+            </listApp>
+
+
+            <div type="metricalScheme">
+                <p> Madrigale 10ʼʼa 6ʼʼb 10ʼʼb, 10ʼʼc 6ʼʼd 10ʼʼd; 10ʼʼe 10ʼʼe.</p>
+                <p> Rima imperfetta (guittoniana e assonanza) ai vv. 2 : 3; rima inclusiva ai vv. 5 : 6.</p>
+            </div>
+
+
+            <listBibl type="editions">
+
+                <bibl corresp="#LiGotti1944a"> Li Gotti 1944a, p. 379</bibl>
+                <bibl corresp="#Corsi1970"> Corsi 1970, p. 21-2</bibl>
+
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl>-->
+
+
+            <div type="commentary">
+                <note target="#l1">
+                    <num> 1.</num>
+                    <p> <hi rend="italic">mandorla</hi>: la pianta ʻmandorloʼ.</p>
+                </note>
+
+                <note target="#l5">
+                    <num> 5.</num>
+                    <p> <hi rend="italic">destro</hi>: sottintendi ʻlatoʼ, come al v. successivo (<hi rend="italic">altro</hi>).</p> 
+                    <p> <hi rend="italic">aspido</hi>: ʻserpente velenosoʼ (cfr. <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">àspide <hi rend="super">1</hi></hi>).</p>
+                </note>
+                
+                <note target="#l6">
+                    <num> 6.</num>
+                    <p> <hi rend="italic"> varo</hi>: lʼaggettivo vale ʻmutevoleʼ (in Giacomo da Lentini), ʻdifferenteʼ in Tommaso di Sasso, qui forse ha il senso di ʻvariopintoʼ. Li Gotti 1944a intende invece ʻinsidiosoʼ, senso che non spiegherebbe però lʼassociazione al diaspro. </p>
+                    <p> <hi rend="italic"> iaspido</hi>: ʻpietra preziosa di diversi colori, dotata di straordinarie virtùʼ, per cui vedi <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">diaspro</hi>. Erronea la lezione di Fp, <hi rend="italic">più varo che llaspido</hi> (quindi <hi rend="italic">che·llʼaspido</hi>), che probabilmente non ha colto lʼallusione al diaspro e ha ripetuto la parola rima del verso precedente.</p>
+                </note>
+                
+                <note target="#l7">
+                    <num> 7.</num>
+                    <p> <hi rend="italic"> Ferì lʼagnel</hi>: la lezione, di Fp, sembra da preferire alle altre, anche se non è chiaro quale sia il soggetto. Sq legge <hi rend="italic">fe rilla non si</hi>, Lo <hi rend="italic">ferimo gniōsi</hi> (forse <hi rend="italic">ferimʼ ognior sì</hi>), a cui però non si riconosce un senso. Le due lezioni potrebbero essere il frutto di sviste paleografiche.</p>
+                    <p> <hi rend="italic"> ʼnverʼ me ricolsesi</hi>: ʻsi concentrò, si indirizzò su di meʼ (vedi <hi rend="italic">GDLI</hi>, s.v. <hi rend="italic">raccogliere</hi>).</p>
+                </note>
+                
+                <note target="#l8">
+                    <num> 8.</num>
+                    <p> <hi rend="italic"> disciolsesi: </hi> ʻsi sciolseʼ, cioè ʻsi interruppeʼ, facendo svegliare il poeta dormiente (<hi rend="italic"> TLIO</hi>, s.v. <hi rend="italic">disciogliere</hi>, § 2.1.1.1).</p> 
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                
+                <bibl xml:id="LiGotti1944a">Ettore Li Gotti, <hi rend="italic">L'«Ars nova» e il madrigale</hi>, serie 4, vol. IV, parte II, Atti
+                    della Reale Accademia di Scienze Lettere e Arti di Palermo, Palermo, 1944, pp. 339-89                  
+                </bibl>
+
+                <bibl xml:id="Corsi1970"> Giuseppe Corsi, <hi rend="italic">Poesie musicali del
+                        Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione
+                    di opere inedite o rare, 131) </bibl>
+
+            </listBibl>
+        </back>
+    </text>
+</TEI>
