@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Più non mi curo della tua rampogna</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp> Edited by</resp>
+                    <name> Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp> Revised by</resp>
+                    <name> Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp> TEI-encoded by</resp>
+                    <name> Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p> 
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1"> Più <anchor xml:id="l1a3"/>non<anchor xml:id="l1a4"/> mi curo della <anchor xml:id="l1a5"/>tua<anchor xml:id="l1a6"/> <anchor xml:id="l1a7"/><anchor xml:id="l1a1"/>rampogna<anchor xml:id="l1a2"/><anchor xml:id="l1a8"/>,</l>
+                <l xml:id="l2"> <anchor xml:id="l2a5"/> Amor<anchor xml:id="l2a6"/>, che <anchor xml:id="l2a7"/><anchor xml:id="l2a1"/>lungamente<anchor xml:id="l2a2"/><anchor xml:id="l2a8"/> <anchor xml:id="l2a9"/>mʼài<anchor xml:id="l2a10"/> <anchor xml:id="l2a3"/>beffato<anchor xml:id="l2a4"/>,</l>
+                <l xml:id="l3"> <anchor xml:id="l3a1"/>e ʼl<anchor xml:id="l3a2"/> bianco <anchor xml:id="l3a7"/>per lo<anchor xml:id="l3a8"/> <anchor xml:id="l3a3"/>perso<anchor xml:id="l3a4"/> <anchor xml:id="l3a9"/><anchor xml:id="l3a5"/>dimostrato<anchor xml:id="l3a6"/><anchor xml:id="l3a10"/>.</l>
+                <l xml:id="l4"> <anchor xml:id="l4a1"/> <anchor xml:id="l4a2"/>Onde<anchor xml:id="l4a3"/> ben mi <anchor xml:id="l4a4"/>contenta el non servire<anchor xml:id="l4a5"/>,</l>
+                <l xml:id="l5" n="5"> <anchor xml:id="l5a1"/>poiché per te non si teme vergogna,</l>
+                <l xml:id="l6"> falso, crudele, pien dʼogni mençogna. <anchor xml:id="l6a2"/><anchor xml:id="l6a1"/></l>
+            </lg>
+            <lg>
+                <l xml:id="l7"> Così <anchor xml:id="l7a1"/>ti<anchor xml:id="l7a2"/> fida <anchor xml:id="l7a3"/>ʼnn<anchor xml:id="l7a4"/> Amor <anchor xml:id="l7a5"/>come ʼn monico<anchor xml:id="l7a6"/>:</l>
+                <l xml:id="l8"> <anchor xml:id="l8a3"/>credilo<anchor xml:id="l8a4"/> <anchor xml:id="l8a5"/>a me<anchor xml:id="l8a6"/>, ché <anchor xml:id="l8a1"/>tutto ʼl dì<anchor xml:id="l8a2"/> ne <anchor xml:id="l8a7"/>rumico<anchor xml:id="l8a8"/></l>
+            </lg>
+
+        </body>
+
+
+
+        <back>
+            <listWit>
+                
+                <witness xml:id="Fp">
+                    <!--ref target="X"-->Fp<!--/ref--> cc. <locus>53v-54r</locus>, <abbr
+                        xml:id="FpC">C</abbr> (vv. 1-3 e 7), <abbr xml:id="FpT">T</abbr> (vv. 1-3 e
+                    7), <hi rend="italic">resid.</hi> (vv. 4-6 e 8): <hi rend="italic">m(agister) giova(nni)</hi>
+                </witness>
+                
+                <witness xml:id="Sq">
+                    <!--ref target="X"-->Sq<!--/ref--> cc. <locus>1v-2r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8),<abbr xml:id="SqT">T</abbr>(vv. 1-3 e 7): <hi rend="italic">m(agister) iovannes de florentia</hi>
+                </witness>                
+
+                <witness xml:id="Lo">
+                    <!--ref target="X"-->Lo<!--/ref--> cc. <locus>18v-19r</locus>, <abbr xml:id="LoC"
+                        >C</abbr> (vv. 1-3 e 7), <abbr xml:id="LoT">T</abbr> (vv. 1-3 e 7), <hi rend="italic"> resid.</hi> (vv. 4-6 e 8): <hi rend="italic">m(ae)stro giovanni de chascina</hi>
+                </witness>
+                
+                <witness xml:id="O1">
+                    <!--ref target="X"-->O1<!--/ref-->
+                    c. 1v, <abbr xml:id="O1C">C</abbr> (vv. 1-3: testo illeggibile)
+                </witness>
+                
+                <witness xml:id="SL">
+                    <!--ref target="X"-->SL<!--/ref-->
+                    cc. <locus>34v-35r</locus> (<hi rend="italic">cantus</hi> e <hi rend="italic">tenor</hi> sono illeggibili): [c. 35r: <hi rend="italic">m(agister) io&lt;...&gt; d&lt;...&gt; c&lt;...&gt;]</hi>]
+                </witness>
+                
+                <witness xml:id="Ve1">
+                    <!--ref target="X"-->Ve1<!--/ref-->
+                    c. 2v: il frammento ad oggi risulta disperso. 
+                </witness>
+                
+            </listWit>
+
+
+            <listApp type="substantial">
+                <listApp>
+                    <head> 1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem> rampogna</lem>
+                        <rdg> ra po o o o gnia <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+
+                <listApp>
+                    <head> 2</head>
+                    <app from="#l2a1" to="l2a2">
+                        <lem> lungamente</lem>
+                        <rdg> lungamente <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l2a3" to="l2a4">
+                        <lem> beffato</lem>
+                        <rdg wit="#Lo"> ben fatto </rdg>
+                    </app>
+                </listApp>
+
+                <listApp>
+                    <head> 3</head>
+                    <app from="#l3a1" to="l3a2">
+                        <lem> e ’l</lem>
+                        <rdg> et<wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l3a3" to="l3a4">
+                        <lem> perso</lem>
+                        <rdg> pro<wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l3a5" to="l3a6">
+                        <lem> dimostrato</lem>
+                        <rdg> de ma stra a a a to <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+
+
+                <listApp>
+                    <head> 4-6</head>
+                    <app from="#l4a1" to="#l6a1">
+                        <lem> Onde ben mi contenta el non servire,
+                            poiché per te non si teme vergogna,
+                            falso, crudele, pien dʼogni mençogna.
+                        </lem>
+                        <rdg wit="#Sq"/>
+                    </app>
+                </listApp>
+                
+                
+
+                <listApp>
+                    <head> 4</head>
+                    <app from="#l4a2" to="l4a3">
+                        <lem> Onde</lem>
+                        <rdg wit="#Lo"> ondio</rdg>
+                    </app>
+
+                    <app from="#l4a4" to="#l4a5">
+                        <lem> contenta el non servire</lem>
+                        <rdg wit="#Lo"> contento no seguirte </rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 5-6</head>
+                    <app from="#l5a1" to="#l6a2">
+                        <lem> poiché per te non si teme vergogna,
+                            falso, crudele, pien dʼogni mençogna
+                        </lem>
+                        <rdg wit="#Lo"> però che perte sente mensognia / falso crudelle pien dogni verghognia </rdg>
+                    </app>                       
+                </listApp>
+                
+                <listApp>
+                    <head> 8</head>
+                    <app from="#l8a3" to="#l8a4">
+                        <lem> credilo</lem>
+                        <rdg> credil <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg> credell <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>                        
+                    </app>    
+                    
+                    <app from="#l8a5" to="#l8a6">
+                        <lem> a me</lem>
+                        <rdg> a mi <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l8a7" to="#l8a8">
+                        <lem> rumico</lem>
+                        <rdg> ro mico <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>                        
+                    </app>
+                </listApp>
+
+
+
+            </listApp>
+
+
+
+            <listApp type="formal">
+                
+                <listApp>
+                    <head> 1</head>
+                    <app from="#l1a3" to="#l1a4">
+                        <lem> non</lem>
+                        <rdg wit="Lo"> no </rdg>
+                    </app>
+                    
+                    <app from="#l1a5" to="#l1a6">
+                        <lem> tua</lem>
+                        <rdg> tuo <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                        <rdg> tu <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l1a7" to="#l1a8">
+                        <lem> rampogna</lem>
+                        <rdg> ran po o o o o gnia  <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                    
+                </listApp>
+
+                <listApp>
+                    <head> 2</head>
+                    <app from="#l2a5" to="#l2a6">
+                        <lem> Amor</lem>
+                        <rdg> a a a a mor <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>                        
+                    </app>
+                    
+                    <app from="#l2a7" to="#l2a8">
+                        <lem> lungamente</lem>
+                        <rdg> longhamente  <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>                        
+                    </app>
+                    
+                    <app from="#l2a9" to="#l2a10">
+                        <lem> mʼài</lem>
+                        <rdg> ma <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>                        
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 3</head>
+                    <app from="#l3a7" to="#l3a8">
+                        <lem> per lo</lem>
+                        <rdg> pello <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l3a9" to="#l3a10">
+                        <lem> dimostrato</lem>
+                        <rdg> dimostra a a a a a a to  <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 7</head>
+                    
+                    <app from="#l7a1" to="#l7a2">
+                        <lem> ti</lem>
+                        <rdg wit="#Lo"> te</rdg>                       
+                    </app>
+                    
+                    <app from="#l7a3" to="#l7a4">
+                        <lem> ʼnn</lem>
+                        <rdg wit="#Sq"> inn</rdg>
+                        <rdg> in <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg> in/n/ <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l7a5" to="#l7a6">
+                        <lem> come ʼn monico</lem>
+                        <rdg> come in monico <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit> </rdg>
+                        <rdg> come in monaco <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                        <rdg> cho(m)mi mo o o o o nicho <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg> cho mi moni cho <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 8</head>
+                    <app from="#l8a1" to="#l8a2"> 
+                    
+                    </app>
+                    
+                </listApp>
+                
+            </listApp>
+
+
+            <div type="metricalScheme">
+                <p> Madrigale 10ʼa 10ʼb 10ʼb, 10ʼc 10ʼa 10ʼa; 10ʼʼd 10ʼʼd.</p>
+                <p><hi rend="italic">Capovilla</hi> XXXVIII.</p>
+                <p> Rima imperfetta (guittoniana e assonanza) ai vv. 7 : 8.</p>
+            </div>
+
+
+            <listBibl type="editions">
+
+                <bibl corresp="#LiGotti1944a"> Li Gotti 1944a, p. 379</bibl>
+                <bibl corresp="#Corsi1970"> Corsi 1970, p. 20</bibl>
+
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl>-->
+
+
+            <div type="commentary">
+                <note target="#l3">
+                    <num> 3.</num>
+                    <p> ʻHai spacciato una cosa (<hi rend="italic">bianco</hi>) per il suo contrario (<hi rend="italic">perso</hi>)ʼ, per cui vedi <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">perso<hi rend="super">1</hi></hi>, § 3. 2.</p>
+                </note>
+
+                <note target="#l7 #l8">
+                    <num> 7-8.</num>
+                    <p> Col ritornello cambia il destinatario del brano, e la sentenza conclusiva si rivolge ad un tu generico, forse chi erroneamente ripone la sua fiducia in Amore. Il monaco è protagonista anche di una ballata anonima tràdita dal ms. Firenze, Biblioteca Nazionale Centrale, Magl. VII. 1078, c. 27v <hi rend="italic">Monico son tuto çoioso</hi>, costruita attorno allʼidea del monaco ingannatore e barattiere di cui è bene non fidarsi.</p>
+                </note>
+                
+                <note target="#l8">
+                    <num> 8.</num>
+                    <p> <hi rend="italic"> rumico</hi>: ʻrimuginoʼ (cfr. <hi rend="italic">GDLI</hi>, s.v. <hi rend="italic">rumigare</hi>). </p>
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                
+                <bibl xml:id="LiGotti1944a">Ettore Li Gotti, <hi rend="italic">L'«Ars nova» e il madrigale</hi>, serie 4, vol. IV, parte II, Atti
+                    della Reale Accademia di Scienze Lettere e Arti di Palermo, Palermo, 1944, pp. 339-89                  
+                </bibl>
+
+                <bibl xml:id="Corsi1970"> Giuseppe Corsi, <hi rend="italic">Poesie musicali del
+                        Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione
+                    di opere inedite o rare, 131) </bibl>
+
+            </listBibl>
+        </back>
+    </text>
+</TEI>
