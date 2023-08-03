@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nel meço a sei pagon ne vidi un bianco</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+      <!-- <front>
+         <div>
+            <p>
+            </p>
+         </div>
+      </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1">
+                Nel meço a <anchor xml:id="l1a3"/>sei <anchor xml:id="l1a4"/>pagon <anchor xml:id="l1a1"/>ne <anchor xml:id="l1a2"/>vidi<anchor xml:id="l1a5"/> un bianco
+            </l>
+            <l xml:id="l2">
+                con cresta d’oro <anchor xml:id="l2a3"/>e<anchor xml:id="l2a4"/> <anchor xml:id="l2a1"/>con<anchor xml:id="l2a2"/> <anchor xml:id="l2a5"/>morbida <anchor xml:id="l2a6"/>penna<anchor xml:id="l2a7"/>,
+            </l>
+            <l xml:id="l3">
+                <anchor xml:id="l3a1"/>sì<anchor xml:id="l3a2"/> bel che dolçemente ’l cor mi <anchor xml:id="l3a3"/>spenna<anchor xml:id="l3a4"/>.
+            </l>
+            <l xml:id="l4">
+                E <anchor xml:id="l4a1"/>quanto <anchor xml:id="l4a2"/>più mostrava sua belleça<anchor xml:id="l4a3"/>,
+            </l>
+            <l xml:id="l5" n="5">
+                onor <anchor xml:id="l5a1"/>facea<anchor xml:id="l5a2"/> ciascun d’altro <anchor xml:id="l5a3"/>colore<anchor xml:id="l5a4"/>
+            </l>
+            <l xml:id="l6">
+                per la legiadra vista <anchor xml:id="l6a1"/>ch’à<anchor xml:id="l6a2"/> d’amore.
+            </l>
+            <l xml:id="l7">
+                <anchor xml:id="l7a1"/>E ’l <anchor xml:id="l7a2"/>suo<anchor xml:id="l7a6"/> compagno <anchor xml:id="l7a3"/>pur <anchor xml:id="l7a4"/>lo va guardando<anchor xml:id="l7a5"/>
+            </l>
+            <l xml:id="l8">
+                <anchor xml:id="l8a1"/>sempre <anchor xml:id="l8a2"/>cantando <anchor xml:id="l8a3"/>e<anchor xml:id="l8a4"/> da·llui non si <anchor xml:id="l8a6"/>parte<anchor xml:id="l8a5"/>,
+            </l>
+            <l xml:id="l9">
+                <anchor xml:id="l9a1"/>ed e’ da·ssé lo fa partir<anchor xml:id="l9a2"/> per arte.
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l10">
+                <anchor xml:id="l10a6"/>Perché <anchor xml:id="l10a5"/>glie <anchor xml:id="l10a1"/>spiace<anchor xml:id="l10a2"/> ’l suo <anchor xml:id="l10a3"/>noioso<anchor xml:id="l10a4"/> canto,<anchor xml:id="l10a7"/>
+            </l>
+            <l xml:id="l11">
+                <anchor xml:id="l11a3"/>poi<anchor xml:id="l11a4"/> di biltate <anchor xml:id="l11a1"/>s’en fa<anchor xml:id="l11a2"/> rota e manto.
+            </l>
+        </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="Fp">
+                <!--ref target=""-->Fp<!--/ref-->
+                cc. <locus>55r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-3), <abbr xml:id="FpT">T</abbr> (vv. 1-3 e 10), <hi rend="italic">resid.</hi> (vv. 4-9 e 11): <hi rend="italic">idem m(agister) g(iovanni)</hi>
+            </witness>
+            <witness xml:id="Sq">
+                <!--ref target=""-->Sq<!--/ref-->
+                cc. <locus>3v-4r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic">magister iovannes de frorentia</hi>
+            </witness>
+            <witness xml:id="R">
+                <!--ref target=""-->R<!--/ref-->
+                c. <locus>32v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3 e 10), <hi rend="italic">resid.</hi> (vv. 4-9),<abbr xml:id="RT">T</abbr> (vv. 1-3 e 10)
+            </witness>
+            <witness xml:id="Ol">
+                <!--ref target=""-->Ol<!--/ref-->
+                c. <locus>77v</locus>, <abbr xml:id="OC">C</abbr> (vv. 10)
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+                <head>1</head>
+                <app from="#l1a1" to="#l1a2">
+                   <lem>ne</lem>
+                   <rdg>ni <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                   <rdg wit="#R"/>
+                </app>
+            </listApp>
+            <listApp>
+                <head>4</head>
+                <app from="#l4a1" to="#l4a2">
+                    <lem>quanto</lem>
+                    <rdg wit="#R">quando </rdg>
+                </app>
+                <app from="#l4a2" to="#l4a3">
+                    <lem>più mostrava sua belleça</lem>
+                    <rdg wit="#Sq">p‹i›uo mostrar la suo belleça </rdg>
+                    <rdg wit="#R">po mostrar la sua beleça </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>5</head>
+                <app from="#l5a1" to="#l5a2">
+                    <lem>facea</lem>
+                    <rdg wit="#Sq">gli fa </rdg>
+                    <rdg wit="#R">ge fa </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>7</head>
+                <app from="#l7a1" to="#l7a2">
+                    <lem>E ’l</lem>
+                    <rdg wit="#Sq">mal </rdg>
+                </app>
+                <app from="#l7a3" to="#l7a4">
+                    <lem>pur</lem>
+                    <rdg wit="#Sq">sempre </rdg>
+                </app>
+                <app from="#l7a4" to="#l7a5">
+                    <lem>lo va guardando</lem>
+                    <rdg wit="#R">si ge sta in petto </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>8</head>
+                <app from="#l8a1" to="#l8a2">
+                    <lem>sempre</lem>
+                    <rdg wit="#Sq">et pur </rdg>
+                    <rdg wit="#R"/>
+                </app>
+                <app from="#l8a3" to="#l8a4">
+                    <lem>e</lem>
+                    <rdg wit="#Sq"/>
+                </app>
+                <app from="#l8a2" to="#l8a5">
+                    <lem>cantando e da·llui non si parte</lem>
+                    <rdg wit="#R">va gentorno e daluy non se parte </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>9</head>
+                <app from="#l9a1" to="#l9a2">
+                    <lem>ed e’ da·ssé lo fa partir </lem>
+                    <rdg wit="#Sq">et eglil fa partir dasse</rdg>
+                    <rdg wit="#R">et el da si partir lo fa </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>10</head>
+                <app from="#l10a1" to="#l10a2">
+                    <lem>spiace</lem>
+                    <rdg wit="#Sq">spiacque </rdg>
+                </app>
+                <app from="#l10a3" to="#l10a4">
+                    <lem>noioso</lem>
+                    <rdg wit="#Ol">no g/i/oso  </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>11</head>
+                <app from="#l11a1" to="#l11a2">
+                    <lem>sen fa</lem>
+                    <rdg wit="#Sq">si fe </rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+                <head>1</head>
+                <app from="#l1a3" to="#l1a4">
+                    <lem>sei</lem>
+                    <rdg wit="#Sq">ssei </rdg>
+                </app>
+                <app from="#l1a4" to="#l1a1">
+                    <lem>pagon</lem>
+                    <rdg wit="#Sq">paon </rdg>
+                    <rdg wit="#R">paun </rdg>
+                </app>
+                <app from="#l1a2" to="#l1a5">
+                    <lem>vidi</lem>
+                    <rdg>vid <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>2</head>
+                <app from="#l2a1" to="#l2a2">
+                    <lem>con<hi rend="subscript">2</hi></lem>
+                    <rdg wit="#R">cum </rdg>
+                </app>
+                <app from="#l2a3" to="#l2a4">
+                    <lem>e</lem>
+                    <rdg>‹e› <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+                <app from="#l2a5" to="#l2a6">
+                    <lem>morbida</lem>
+                    <rdg wit="#R">morbeda </rdg>
+                </app>
+                <app from="#l2a6" to="#l2a7">
+                    <lem>penna</lem>
+                    <rdg wit="#R">pena </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>3</head>
+                <app from="#l3a1" to="#l3a2">
+                    <lem>sì</lem>
+                    <rdg>si si <wit><ref corresp="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+                <app from="#l3a3" to="#l3a4">
+                    <lem>spenna</lem>
+                    <rdg wit="#R">spena </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>5</head>
+                <app from="#l5a3" to="#l5a4">
+                    <lem>colore</lem>
+                    <rdg wit="#R">collore </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>6</head>
+                <app from="#l6a1" to="#l6a3">
+                    <lem>ch’à</lem>
+                    <rdg wit="#Sq">chea </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>7</head>
+                <app from="#l7a2" to="#l7a6">
+                    <lem>suo</lem>
+                    <rdg wit="#R">so</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>8</head>
+                <app from="#l8a6" to="#l8a5">
+                    <lem>parte</lem>
+                    <rdg  wit="#Fp">p/a/rte </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>10</head>
+                <app from="#l10a6" to="#l10a7">
+                    <rdg><hi rend="italic">rip.</hi><wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+                <app from="#l10a5" to="#l10a1">
+                    <lem>glie</lem>
+                    <rdg wit="#Fp">lle </rdg>
+                    <rdg wit="#Sq #Ol">gli </rdg>
+                    <rdg>ge <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+                <app from="#l10a3" to="#l10a4">
+                    <lem>noioso</lem>
+                    <rdg wit="#Ol">noiosso </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>11</head>
+                <app from="#l11a3" to="#l11a4">
+                    <lem>poi</lem>
+                    <rdg wit="#Sq">po </rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+                Madrigale 10’a 10’b 10’b, 10’c 10’d 10’d, 10’e (4’e)10’f 10’f; 10’g 10’g.
+            </p>
+            <p>
+                <hi rend="italic">Capovilla</hi> <hi rend="small-caps">LIII</hi>.
+            </p>
+            <p>
+                Rima inclusiva e derivativa ai vv. 2 : 3; rima inclusiva ai vv. 8 : 9.
+            </p>
+            <p>
+                Punti sottoscritti: v. 2 (<hi rend="italic">e</hi>) Sq<hi rend="super">T</hi>.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#LiGotti1948">
+                Li Gotti 1948, p. 49
+            </bibl>
+            <bibl corresp="#Corsi1969">
+                Corsi 1969, pp. 1014-5
+            </bibl>
+            <bibl corresp="#Corsi1970">
+                Corsi 1970, p. 16-7.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+        <div type="commentary">
+            <note target="#l3">
+                <num>3</num>
+                <p> <hi rend="italic">spenna</hi>: sembrerebbe occorrenza del verbo <hi rend="italic">spenare</hi> ‘togliere una pena, alleggerire di una sofferenza’ (cfr. <hi rend="italic">TLIO</hi>, s.v.).</p>
+            </note>
+            <note target="#l9">
+                <num>9</num>
+                <p> <hi rend="italic">per arte</hi>: ‘volontariamente’.</p>
+            </note>
+            <note target="#l11">
+                <num>11</num>
+                <p> ʻpoi della sua bellezza si riveste e fa una ruotaʼ. ▪ <hi rend="italic">fa ... manto</hi>: : il costrutto <hi rend="italic">fare manto di qualcosa</hi> significa ‘vestirsene, coprirsene’.</p>
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="LiGotti1948">
+                E. Li Gotti, <i>Madrigali del Trecento</i>, «Poesia», 9 (1948), pp. 40-59
+            </bibl>
+            <bibl xml:id="Corsi1969">
+                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
+            </bibl>
+            <bibl xml:id="Corsi1970">
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>
