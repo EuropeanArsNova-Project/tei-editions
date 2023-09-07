@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Serva ciascuno com’è facto a lui</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+      <!-- <front>
+         <div>
+            <p>
+            </p>
+         </div>
+      </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1">
+                Serva  <anchor xml:id="l1a1"/>ciascuno <anchor xml:id="l1a2"/>com’è<anchor xml:id="l1a3"/> facto a lui,
+            </l>
+            <l xml:id="l2">
+                <anchor xml:id="l2a1"/>faccia <anchor xml:id="l2a2"/> per sì e lassi stare altrui.
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l3">
+                Non serve chi non crede
+            </l>
+            <l xml:id="l4">
+                per quel <anchor xml:id="l4a1"/>do<supplied reason="illegible">[n]</supplied><anchor xml:id="l4a2"/> tanto <anchor xml:id="l4a3"/>aver<anchor xml:id="l4a4"/> possa per sé,
+            </l>
+            <l xml:id="l5" n="5">
+                sì che ben <anchor xml:id="l5a1"/>chiar<anchor xml:id="l5a2"/> se vede	
+            </l>
+            <l xml:id="l6">
+                che ogi non c’è amor né data fé.
+            </l>
+            <l xml:id="l7">
+                Per ogne modo adonca far se dé
+            </l>
+            <l xml:id="l8">
+                de quel ad altri che ven facto a lui.
+            </l>
+         </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="Lu">
+                <!--ref target=""-->Lu<!--/ref-->
+                c. <locus>2v [XXIV]</locus>, <abbr xml:id="LuC">C</abbr> (vv. 1-4),, <abbr xml:id="LuT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">fr(atr)is bartholini</hi>
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+                <head>1</head>
+                <app from="#l1a1" to="#l1a2">
+                   <lem>ciascuno</lem>
+                   <rdg>çiascuno <wit><ref corresp="#LuC">Lu<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>2</head>
+                <app from="#l2a1" to="#l2a2">
+                   <lem>faccia</lem>
+                   <rdg >y faccia <wit><ref corresp="#LuT">Lu<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>4</head>
+                <app from="#l4a1" to="#l4a2">
+                    <lem>don</lem>
+                    <rdg wit="#Lu">do </rdg>
+                </app>
+                <app from="#l4a3" to="#l4a4">
+                    <lem>aver</lem>
+                    <rdg>avere <wit><ref corresp="#LuC">Lu<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>5</head>
+                <app from="#l5a1" to="#l5a2">
+                   <lem>chiar</lem>
+                   <rdg wit="#Lu">chiaro</rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+                <head>1</head>
+                <app from="#l1a2" to="#l1a3">
+                    <lem>com’è</lem>
+                    <rdg wit="#SL">como e <wit><ref corresp="#LuT">Lu<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+                Ballata minore 10’z 10’z; 6’a 10b, 6’a 10b; 10b 10’z. 
+            </p>
+            <p>
+                <hi rend="italic">Pagnotta </hi> 111 : 208.
+            </p>
+            <p>
+                Rima identica: vv. 1 : 8.
+            </p>
+            <p>
+                Punti sottoscritti: v. 1 (<hi rend="italic">facto</hi>) Lu<hi rend="super">C</hi>, (<hi rend="italic">como</hi>) Lu<hi rend="super">T</hi>; v. 2 (<hi rend="italic">stare</hi>) Lu<hi rend="super">C</hi>; v. 3 (<hi rend="italic">tanto</hi>) Lu<hi rend="super">C</hi>, (<hi rend="italic">avere</hi>) Lu<hi rend="super">C</hi>; v. 7 (<hi rend="italic">modo</hi>) Lu.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Pirrotta-LiGrotti1950">
+                Pirrotta-Li Gotti 1950, p. 113
+            </bibl>
+            <bibl corresp="#Corsi1970">
+                Corsi 1970, pp. 258-9.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+         <div type="commentary">
+            <note target="#42">
+                <num>4</num>
+                <p><hi rend="italic">don</hi>: in Lu <hi rend="italic">do</hi> per caduta del titulus per la nasale.</p>
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Pirrotta-LiGrotti1950">
+                N. Pirrotta - E. Li Gotti, <hi rend="italic">Il Codice di Lucca: II. Testi letterari</hi>, «Musica Disciplina», 4 (1950), pp. 111-152.
+            </bibl>
+            <bibl xml:id="Corsi1970">
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>
