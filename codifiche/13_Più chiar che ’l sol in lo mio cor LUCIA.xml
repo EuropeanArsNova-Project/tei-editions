@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Più chiar che ’l sol in lo mio cor Lucia</title>
+            <!--<author><ref target="X"></ref></author>-->
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt> 
+               <resp> Edited by</resp> 
+               <name> Maria Sofia Lannutti</name> 
+            </respStmt> 
+            <respStmt> 
+               <resp> Revised by</resp> 
+               <name> Luca Gatti</name> 
+            </respStmt> 
+            <respStmt> 
+               <resp> TEI-encoded by</resp> 
+               <name> Elvira Mercatanti</name> 
+            </respStmt> 
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--<front> 
+         <div> 
+            <p> 
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> --> 
+      <body>
+         <lg>
+            <l xml:id="l1">
+              <anchor xml:id="l1a1"/><anchor xml:id="l1a3"/>Più<anchor xml:id="l1a4"/> chiar che ’l sol in lo mio cor <name type="senhal" rend="small-caps">LUCIA</name> <anchor xml:id="l1a2"/>
+            </l>
+            <l xml:id="l2">
+               <anchor xml:id="l2a1"/>la<anchor xml:id="l2a3"/> figura de vui, madonna mia. 
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l3">
+               <anchor xml:id="l3a1"/>Con tanta beltà v <supplied reason="illegible">[u]</supplied>i <anchor xml:id="l3a3"/>pose<anchor xml:id="l3a4"/> natura, <anchor xml:id="l3a2"/>
+            </l>
+            <l xml:id="l4">
+               <anchor xml:id="l4a1"/><anchor xml:id="l4a3"/>che lo<anchor xml:id="l4a4"/> mio core è tutto sfiamiçato <anchor xml:id="l4a2"/>
+            </l>
+            <l xml:id="l5" n="5">
+               et arde <anchor xml:id="l5a1"/>çorno <anchor xml:id="l5a3"/>e<anchor xml:id="l5a4"/> notte<anchor xml:id="l5a2"/>, <anchor xml:id="l5a5"/>e<anchor xml:id="l5a6"/> mia fortuna
+            </l>
+            <l xml:id="l6">
+               non <anchor xml:id="l6a1"/>vol<anchor xml:id="l6a2"/> <anchor xml:id="l6a7"/>ch’<anchor xml:id="l6a8"/>un <anchor xml:id="l6a3"/>po’<anchor xml:id="l6a4"/> da vui io sia <anchor xml:id="l6a5"/>aittato<anchor xml:id="l6a6"/>, 
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l7">
+               ma sempre <anchor xml:id="l7a3"/>el<anchor xml:id="l7a4"/> vostro <anchor xml:id="l7a1"/>cor<anchor xml:id="l7a2"/> crudo <anchor xml:id="l7a5"/>e<anchor xml:id="l7a6"/> spietato 
+            </l>
+            <l xml:id="l8">
+               sta inverso mi, non ça per mia folia. 
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l9">
+               Però prego che umile e gracïosa 
+            </l>
+            <l xml:id="l10" n="10">
+               vui siate alquanto, poi che ’l vero Dio 
+            </l>
+            <l xml:id="l11">
+               v’à facta tanto bella e vertüosa, 
+            </l>
+            <l xml:id="l12">
+               che al mondo non à <anchor xml:id="l12a1"/>par<anchor xml:id="l12a2"/> quel volto pio,
+            </l>
+            <l xml:id="l13">
+               se non che inverso mi troppo è zudio
+            </l>
+            <l xml:id="l14">
+               in darme pena con fortuna ria. 
+            </l>
+         </lg>
+      </body>
+
+
+
+      <back>
+         <listWit>            
+            <witness xml:id="Lu">
+               <!--ref target="X"-->Lu<!--/ref-->
+               cc. <locus>24v-25v</locus>, <abbr xml:id="LuC">C</abbr> (vv.1-4), <abbr xml:id="LuT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-14): <hi rend="italic">antonellus</hi>
+            </witness>
+
+            <witness xml:id="Pr">
+               <!--ref target="X"-->Pr<!--/ref-->
+               c. 1r, <abbr xml:id="PrC">C</abbr> (vv. 1-4), <abbr xml:id="PrT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">a. marotus de caserta abbas</hi>
+            </witness>
+         </listWit>
+
+
+         <listApp type="substantial">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>Più chiar che ’l sol in lo mio cor LUCIA</lem>
+                  <rdg>piu chiar chel sole in lo mio cor piu chiar chel sole in lo mio cor <wit><ref corresp="#PrC">Pr</ref><hi rend="super">C</hi></wit></rdg>
+                  <rdg> piu chiar chel sole piu chiar chel sole in lo mio cor <wit><ref corresp="#PrT">Pr</ref><hi rend="super">T</hi></wit></rdg>
+               </app>
+            </listApp>
+
+            <listApp>
+               <head>2</head>
+               <app from="#l2a1" to="#l2a2">
+                  <lem>la</lem>
+                  <rdg>liçadra <wit><ref corresp="#LuC"><hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg>et liçadra Lu <wit><ref corresp="#LuT"><hi rend="super">T</hi></ref></wit></rdg>
+                  <rdg>la lizadra <wit><ref corresp="#PrC">Pr<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg>la lizzadra <wit><ref corresp="#PrT">Pr<hi rend="super">T</hi></ref></wit></rdg>
+               </app>           
+            </listApp>
+
+            <listApp>
+               <head>3</head>
+               <app from="#l3a1" to="#l3a2">
+                  <lem>Con tanta beltà v[u]i pose natura</lem>
+                  <rdg>con tanta beltate ve pose ve pose natura con tanta beltate ve pose natura </rdg>
+               </app>
+
+               <app from="#l3a3" to="#l3a4">
+                  <lem>pose</lem>
+                  <rdg>pose pose <wit><ref corresp="#PrT">Pr<hi rend="super">T</hi></ref></wit></rdg>
+               </app>           
+            </listApp>
+
+            <listApp>
+               <head>4</head>
+               <app from="#l4a1" to="#l4a2">
+                  <lem>che lo mio core è tutto sfiamiçato</lem>
+                  <rdg>che lo mio core che lo mio core se tucto infiamma tucto infiama infiamato <wit><ref corresp="#PrC">Pr <hi rend="super">C</hi></ref></wit> </rdg>
+                  <rdg> chel <gap reason="illegible" quantity="3" rend="***"/> core mio core lo mio <gap reason="illegible" rend="grafi ill."/> tucto fiamma tucto infiama <wit> <ref corresp="#PrT">Pr <hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            
+               <app from="#l4a3" to="#l4a4">
+                  <lem>che lo</lem>
+                  <rdg wit="#Lu">chel </rdg>
+               </app>
+            </listApp>
+
+            <listApp>
+               <head>5</head>
+               <app from="#l5a1" to="#l5a2">
+                  <lem>çorno e notte</lem>
+                  <rdg type="indifferentVariant" wit="#Pr">nocte et zorno </rdg>
+               </app>
+            </listApp>
+            
+
+            <listApp>
+               <head>6</head>
+               <app from="#l6a1" to="#l6a2">
+                  <lem>vol</lem>
+                  <rdg wit="#Lu">vole</rdg>
+               </app>
+
+               <app from="#l6a3" to="#l6a4">
+                  <lem>po’</lem>
+                  <rdg wit="#Lu">poco</rdg>
+                  <rdg wit="#Pr">poco</rdg>                 
+               </app>
+
+               <app from="#l6a5" to="#l6a6">
+                  <lem>aittato</lem>
+                  <rdg wit="#Pr"><gap reason="illegible" rend="ill."/></rdg>
+               </app>                      
+            </listApp>
+
+
+            <listApp>
+               <head>7</head>
+               <app from="#l7a1" to="#l7a2">
+                  <lem>cor</lem>
+                  <rdg wit="#Pr">core</rdg>
+               </app>           
+            </listApp>
+
+            <listApp>
+               <head>12</head>
+               <app from="#l12a1" to="#l12a2">
+                  <lem>par</lem>
+                  <rdg wit="#Lu">paro</rdg>
+               </app>           
+            </listApp>
+         </listApp>
+
+
+
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a3" to="#l1a4">
+                  <lem>Più</lem>
+                  <rdg>più più <wit><ref corresp="#LuC">Lu <hi rend="super">C</hi></ref></wit></rdg>
+               </app>           
+            </listApp>
+
+            <listApp>
+               <head>5</head>
+               <app from="#l5a3" to="#l5a4">
+                  <lem>e</lem>
+                  <rdg wit="#Pr">et</rdg>
+               </app>   
+
+               <app from="#l5a5" to="#l5a6">
+                  <lem>e</lem>
+                  <rdg wit="#Pr">et</rdg>
+               </app>
+            </listApp>
+
+            <listApp>
+               <head>6</head>
+               <app from="#l6a7" to="#l6a8">
+                  <lem>ch’</lem>
+                  <rdg wit="#Pr">che</rdg>
+               </app>            
+            </listApp>
+
+            <listApp>
+               <head>7</head>
+               <app from="#l7a3" to="#l7a4">
+                  <lem>el</lem>
+                  <rdg wit="#Pr">il</rdg>
+               </app>
+
+               <app from="#l7a5" to="#l7a6">
+                  <lem>e</lem>
+                  <rdg wit="#Pr">et</rdg>
+               </app>            
+            </listApp>
+            
+         </listApp>
+
+
+         <div type="metricalScheme">
+            <p> Ballata minore 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z.</p>
+            <p> <hi rend="italic">Pagnotta</hi> 111 : 165.</p>
+            <p> Rima imperfetta (assonanza) ai vv. 3 : 5; rima inclusiva ai vv. 10 : 13.</p>
+            <p> Punti sottoscritti: v. 2 (<hi rend="italic">figura</hi>) Lu; v. 13 (<hi rend="italic">troppo</hi>) Lu. </p>
+         </div>
+
+
+         <listBibl type="editions">
+            <bibl corresp="#Pirrotta-LiGotti1950">
+               Pirrotta-Li Gotti 1950, p. 130.
+            </bibl>
+         </listBibl>
+
+
+         <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl>-->
+
+
+         <div type="commentary">
+            <note target="#l11">
+               <num> 11.</num>
+               <p><hi rend="italic">zudio</hi>:‘spietato’.</p>
+            </note>
+         </div>
+
+
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Pirrotta-LiGotti1950">
+               N. Pirrotta-E. Li Gotti, <hi rend="italic">Il Codice di Lucca: II. Testi letterari</hi>, «Musica Disciplina», 4 (1950), pp. 111-152
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

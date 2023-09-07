@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title><!-- Aggiungi Titolo --></title>
-            <author><ref target="X"><!-- Aggiungi autore se presente nel file word --></ref></author>
+            <author><!--ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830"-->Francesco Landini<!--/ref--></author>
             <respStmt>
                <resp>Digital scholarly edition created within the ERC</resp>
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mort’ è la fé et lo sperar va giù</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt> 
+               <resp> Edited by</resp> 
+               <name> Maria Sofia Lannutti</name> 
+            </respStmt> 
+            <respStmt> 
+               <resp> Revised by</resp> 
+               <name> Luca Gatti</name> 
+            </respStmt> 
+            <respStmt> 
+               <resp> TEI-encoded by</resp> 
+               <name> Elvira Mercatanti</name> 
+            </respStmt> 
+         </titleStmt>
+         <publicationStmt> 
+            <p> </p> 
+            <!--publisher> Edizioni del Galluzzo</publisher> 
+            <pubPlace> Firenze, Italia</pubPlace> 
+            <date> 2021</date> 
+            <availability> 
+               <p> L'edizione è disponibile su licenza.</p> 
+            </availability>            
+            <idno type="ISBN"> ISBN</idno> 
+            <idno type="DOI"> DOI</idno> 
+            <idno type="URI"> permalink della scheda ANT</idno--> 
+         </publicationStmt> 
+         <sourceDesc> 
+            <p> </p> 
+         </sourceDesc> 
+      </fileDesc> 
+      <encodingDesc> 
+         <variantEncoding method="double-end-point" location="internal"/> 
+      </encodingDesc> 
+   </teiHeader> 
+   <text> 
+      <!--<front> 
+         <div> 
+            <p> 
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> --> 
+
+      <body>
+         <lg>
+            <l xml:id="l1">
+               Mort’ è la fé <anchor xml:id="l1a1"/>et<anchor xml:id="l1a2"/> lo sperar va giù,
+            </l>
+            <l xml:id="l2">
+               però si <anchor xml:id="l2a1"/>fugge<anchor xml:id="l2a2"/> Amor quanto <anchor xml:id="l2a3"/>pò<anchor xml:id="l2a4"/> più.
+            </l>
+         </lg>
+
+         <lg>
+            <l xml:id="l3">
+               Amor sança sperar venir non pò,
+            </l>
+            <l xml:id="l4">
+               né <anchor xml:id="l4a1"/>può<anchor xml:id="l4a2"/> <anchor xml:id="l4a3"/>giammai<anchor xml:id="l4a4"/> sperar chi non à fé,
+            </l>
+            <l xml:id="l5" n="5">
+               <anchor xml:id="l5a1"/>e<anchor xml:id="l5a2"/> poca fé in donna esser ben so,
+            </l>
+            <l xml:id="l6">
+               però perfecto amar <anchor xml:id="l6a1"/>giama’<anchor xml:id="l6a2"/> non fe’.
+            </l>
+            <l xml:id="l7">
+               <anchor xml:id="l7a1"/>Qual<anchor xml:id="l7a2"/> <anchor xml:id="l7a3"/>dunque<anchor xml:id="l7a4"/> in donna crede trovar te
+            </l>
+            <l xml:id="l8">
+               sarà <anchor xml:id="l8a1"/>inganato<anchor xml:id="l8a2"/>, Amor, sì com’io fu’.
+            </l>
+         </lg>
+      </body>
+
+
+      <back>
+         <listWit>            
+            <witness xml:id="Pit">
+               <!--ref target="X"--> Pit<!--/ref -->
+               cc. <locus> 94v-95r</locus>, <abbr xml:id="PitC"> C</abbr> (vv. 1-4), <abbr xml:id="PitT"> T</abbr> (vv. 1-4), <hi rend="italic"> resid.</hi> (vv. 5-8):[c.93v: <hi rend="italic">fra(n)ciscus</hi>]
+            </witness>
+
+            <witness xml:id="Cil">
+               <!--ref target="X"--> Cil <!--/ref--> 
+               c. 94v, <abbr xml:id="CilC"> C </abbr> (vv.1-4), <abbr xml:id="CilT"> T</abbr> (vv. 1-4), <hi rend="italic"> resid. </hi> (vv.5-8): [c.94r: <hi rend="italic">d(ominus) p(aulus)</hi>]
+            </witness>
+         </listWit>
+
+
+         <listApp type="substantial">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>et</lem>
+                  <rdg wit="#Cil"><gap reason="illegible" rend="ill."/></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head> 7</head>
+               <app from="#l7a1" to="#l7a2">
+                  <lem>Qual</lem>
+                  <rdg wit="#Cil">‹donque› qual </rdg>
+               </app>
+            </listApp>
+         </listApp>
+
+
+         <listApp type="formal">
+            <listApp>
+               <head>2</head>
+               <app from="#l2a1" to="#l2a2">
+                  <lem>fugge</lem>
+                  <rdg>fuge <wit><ref corresp="#CilT">Cil<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+
+               <app from="#l2a3" to="#l2a4">
+                  <lem> pò</lem>
+                  <rdg wit="#Cil"> puo</rdg>
+               </app>
+            </listApp>
+
+            <listApp>
+               <head> 4</head>
+               <app from="#l4a1" to="#l4a2">
+                  <lem> può</lem>
+                  <rdg>po <wit><ref corresp="#CilT">Cil<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+
+               <app from="#l4a3" to="#l4a4">
+                  <lem>giammai</lem>
+                  <rdg>giama <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+
+            <listApp>
+               <head> 5</head>
+               <app from="#l5a1" to="#l5a2">
+                  <lem>e</lem>
+                  <rdg wit="#Cil">et</rdg>
+               </app>               
+            </listApp>
+
+            <listApp>
+               <head> 6</head>
+               <app from="#l6a1" to="#l6a2">
+                  <lem> giama’</lem>
+                  <rdg wit="#Cil">giammai</rdg>
+               </app>            
+            </listApp>
+
+            <listApp>
+               <head> 7</head>
+               <app from="#l7a3" to="#l7a4">
+                  <lem> dunque</lem>
+                  <rdg wit="#Cil"> donque</rdg>
+               </app>            
+            </listApp>
+
+            <listApp>
+               <head> 8</head>
+               <app from="#l8a1" to="#l8a2">
+                  <lem> inganato</lem>
+                  <rdg wit="#Cil">ingannato </rdg>
+               </app>
+            </listApp>
+         </listApp>
+
+
+         <div type="metricalScheme">
+            <p>Ballata minore 10z 10z; 10a 10b, 10a 10b; 10b 10z.</p>
+            <p><hi rend="italic">Pagnotta</hi> 111 : 148.</p>
+            <p>Rima equivoca ai vv. 4 : 6.</p>
+            <p>Punti sottoscritti: v. 4 (<hi rend="italic">giammai</hi>) Pit <hi rend="super">C</hi> Cil; v. 8 (<hi rend="italic">io</hi>) Pit.</p> 
+         </div>
+
+
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970"> 
+               Corsi 1970, p. 354
+            </bibl> 
+         </listBibl>
+
+         <!--<listBibl type="bibliography"> 
+            <bibl corresp="#"> </bibl> 
+         </listBibl> --> 
+
+
+         <!--<div type="commentary"> 
+            <note target="# #"> 
+               <num> </num> 
+               <hi rend="italic"> </hi> 
+            </note> 
+         </div> --> 
+
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1970">
+               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>
