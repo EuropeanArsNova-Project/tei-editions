@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?> 
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+  <teiHeader> 
+     <fileDesc> 
+        <titleStmt> 
+           <title> Benché partito da·tte 'l corpo sia</title> 
+           <respStmt> 
+              <resp> Digital scholarly edition created within the ERC</resp> 
+              <orgName><ref target="https://www.europeanarsnova.eu/"> European Ars Nova</ref> project.</orgName> 
+           </respStmt> 
+           <respStmt> 
+              <resp> Edited by</resp> 
+              <name> Maria Sofia Lannutti</name> 
+           </respStmt> 
+           <respStmt> 
+              <resp> Revised by</resp> 
+              <name> Luca Gatti</name> 
+           </respStmt> 
+           <respStmt> 
+              <resp> TEI-encoded by</resp> 
+              <name> Elvira Mercatanti</name> 
+           </respStmt> 
+        </titleStmt> 
+        <publicationStmt> 
+           <p></p> 
+           <!--publisher> Edizioni del Galluzzo</publisher> 
+           <pubPlace> Firenze, Italia</pubPlace> 
+           <date> 2021</date> 
+           <availability> 
+              <p> L'edizione è disponibile su licenza.</p> 
+           </availability>            
+           <idno type="ISBN"> ISBN</idno> 
+           <idno type="DOI"> DOI</idno> 
+           <idno type="URI"> permalink della scheda ANT</idno--> 
+        </publicationStmt> 
+        <sourceDesc> 
+           <p></p> 
+        </sourceDesc> 
+     </fileDesc> 
+     <encodingDesc> 
+        <variantEncoding method="double-end-point" location="internal"/> 
+     </encodingDesc> 
+  </teiHeader> 
+  <text> 
+     <!--front> 
+        <div> 
+           <p> 
+          </p> 
+        </div>         
+     </front--> 
+     <body> 
+        <lg> 
+           <l xml:id="l1"> 
+               Benché partito<anchor xml:id="l1a1"/> da·tte<anchor xml:id="l1a2"/> ’l corpo sia,
+           </l> 
+           <l xml:id="l2"> 
+               sospir’ e piange lo cor noct’ e dia.
+           </l> 
+        </lg> 
+        <lg> 
+           <l xml:id="l3"> 
+               Io non rimiro colla mente alcuna
+           </l> 
+           <l xml:id="l4"> 
+               che nata sie con sì nobil aspecto
+           </l> 
+           <l xml:id="l5" n="5"> 
+              <supplied reason="illegible"> [… -una]</supplied> 
+           </l> 
+           <l xml:id="l6"> 
+              <supplied reason="illegible"> [… -etto]</supplied> 
+           </l> 
+           <l xml:id="l7"> 
+              <supplied reason="illegible"> [… -etto]</supplied> 
+           </l> 
+           <l xml:id="l8"> 
+              <supplied reason="illegible"> [… -ia]</supplied> 
+           </l> 
+        </lg> 
+     </body> 
+     <back> 
+
+        <listWit>            
+           <witness xml:id="Pit"> 
+              <!--ref target="X"--> Pit<!--/ref--> 
+               c. 84r,<abbr xml:id="PitC"> C</abbr> (vv.1-4):<hi rend="italic"> do(mino) paolo</hi> 
+           </witness> 
+        </listWit> 
+
+        <!--<listApp type="substantial"> 
+        </listApp> --> 
+
+        <listApp type="formal"> 
+           <listApp> 
+              <head> 1</head> 
+              <app from="#l1a1" to="#l1a2"> 
+                 <lem> da·tte</lem> 
+                 <rdg wit="#Pit"> dacte</rdg> 
+              </app> 
+           </listApp> 
+        </listApp> 
+
+
+        <div type="metricalScheme"> 
+           <p> Ballata minore 10’z 10’z; 10’a 10’b, [10’a 10’b; 10’b 10’z].</p>               
+           <p><hi rend="italic"> Pagnotta</hi> [111].</p> 
+        </div> 
+
+
+        <listBibl type="editions"> 
+           <bibl corresp="#LiGotti1952"> 
+               Li Gotti 1952, p. 606.
+           </bibl> 
+
+           <bibl corresp="#Corsi1970"> 
+               Corsi 1970, p. 286
+           </bibl>          
+        </listBibl> 
+
+
+        <!--<listBibl type="bibliography"> 
+           <bibl corresp="#"></bibl> 
+        </listBibl> --> 
+
+
+        <!--<div type="commentary"> 
+           <note target="# #"> 
+              <num></num> 
+              <hi rend="italic"></hi> 
+           </note> 
+        </div> --> 
+
+
+        <listBibl type="editionsBibliography"> 
+           <bibl xml:id="LiGotti1952"> 
+               E. Li Gotti,<hi rend="italic"> Paolo tenorista, fiorentino "extra moenia"</hi> , in<hi rend="italic"> Estudios dedicados a Menéndez Pidal</hi> , tomo III, Madrid, C.S.I.C., 1952, pp. 577-606
+           </bibl> 
+
+           <bibl xml:id="Corsi1970"> 
+               Giuseppe Corsi,<hi rend="italic"> Poesie musicali del Trecento</hi> , Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+           </bibl> 
+        </listBibl> 
+     </back> 
+  </text> 
+</TEI> 
