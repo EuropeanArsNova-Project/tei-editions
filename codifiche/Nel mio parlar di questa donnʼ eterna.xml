@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Nel mio parlar di questa donnʼ eterna</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+         <div>
+            <p>
+           </p>
+         </div>         
+      </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    Nel mio parlar di questa donnʼ <anchor xml:id="l1a1"/>eterna<anchor xml:id="l1a2"/>,
+                </l>
+                <l xml:id="l2">
+                    doname, <anchor xml:id="l2a1"/>Cristo<anchor xml:id="l2a2"/>, gratia sempiterna.
+                </l>
+            </lg>
+            <lg>
+                <l xml:id="l3">
+                    Nel mondo fu la donna peccatrice,
+                </l>
+                <l xml:id="l4">
+                    di quel mortal <anchor xml:id="l4a1"/>peccato<anchor xml:id="l4a2"/> <supplied>[…]</supplied>
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="Fp">
+                    <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-nazionale-centrale-pal-panciati-manoscript/ARSNOVA_185275">Fp</ref>
+                    cc. <locus>74v-75r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-4), <abbr xml:id="FpT">T</abbr> (vv. 1-4): [c. 74v: <hi rend="italic">m(agister) jacopo da bolo(gna)</hi>; c. 75r: <hi rend="italic">idem m(agister)</hi>]
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>peccato</lem>
+                        <rdg>potato <wit><ref target="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>eterna</lem>
+                        <rdg>etterna <wit><ref target="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>Cristo</lem>
+                        <rdg wit="#Fp">Xρisto</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p>Frammento di ballata piccola a due voci, di cui si conservano tre endecasillabi ed un verso interrotto. Lo schema di ciò che si conserva potrebbe essere: 10ʼz 10ʼz; 10ʼa […].</p>
+                <p>Rima derivativa e ricca ai vv. 1 : 2.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Corsi1970">
+                    Corsi 1970, p. 58.
+                </bibl>
+            </listBibl>
+            <!--<div type="commentary">
+            </div>-->
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Corsi1970">
+                    Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
+
