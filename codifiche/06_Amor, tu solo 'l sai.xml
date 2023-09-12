@@ -151,10 +151,7 @@
                <head> 7</head> 
                <app from="#l7a3" to="l7a4"> 
                   <lem> cui</lem> 
-                  <rdg> chi
-                     <wit> <ref corresp="#PitT"> Pit<hi rend="super"> T</hi> </ref> </wit> 
-                     <wit> <ref corresp="#Lw"> Lw</ref> </wit> 
-                  </rdg> 
+                  <rdg wit="#Lw"> chi <wit> <ref corresp="#PitT"> Pit<hi rend="super"> T</hi> </ref> </wit> </rdg> 
                </app>            
             </listApp> 
          </listApp> 
@@ -165,10 +162,7 @@
                <head> 3</head>
                <app from="#l3a3" to="#l3a4"> 
                   <lem> avene</lem> 
-                  <rdg> advene
-                     <wit> <ref corresp="#PitT"> Pit</ref> <hi rend="super"> T</hi> </wit> 
-                     <wit> <ref corresp="#Lw"> Lw</ref> </wit> 
-                  </rdg> 
+                  <rdg wit="#Lw"> advene  <wit> <ref corresp="#PitT"> Pit</ref> <hi rend="super"> T</hi> </wit> </rdg>
                </app> 
             </listApp> 
 
