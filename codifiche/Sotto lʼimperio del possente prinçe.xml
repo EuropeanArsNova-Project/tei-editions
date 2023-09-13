@@ -128,8 +128,7 @@
                     <app from="#l5a3" to="#l5a4">
                         <lem> cor mi</lem>
                         <rdg wit="#Np3"> mio chor</rdg>
-                        <rdg> cor mio <wit><ref corresp="#FpCt">Fp<hi rend="super">Ct</hi></ref></wit> </rdg>
-                        <rdg wit="#R"> cor mio </rdg>
+                        <rdg wit="#R"> cor mio <wit><ref corresp="#FpCt">Fp<hi rend="super">Ct</hi></ref></wit> </rdg>
                     </app>
                     
                     <app from="#l5a5" to="#l5a6">
@@ -149,8 +148,7 @@
                     
                     <app from="#l6a3" to="#l6a4">
                         <lem> sì</lem>
-                        <rdg wit="#Np3"> se</rdg>
-                        <rdg wit="#R"> se</rdg>
+                        <rdg wit="#Np3 #R"> se</rdg>
                     </app>
                 </listApp>
                 
@@ -194,8 +192,7 @@
                     
                     <app from="#l8a3" to="#l8a4">
                         <lem> si fuçe</lem>
-                        <rdg wit="#Fp"> sen fuçe</rdg>
-                        <rdg wit="#R"> sen fuçe </rdg>
+                        <rdg wit="#Fp #R"> sen fuçe</rdg>
                     </app> 
                 </listApp>
                 
@@ -217,8 +214,7 @@
                     
                     <app from="#l10a3" to="#l10a4">
                         <lem> mʼançide</lem>
-                        <rdg wit="#Fp"> macecha </rdg>
-                        <rdg wit="#R"> macecha </rdg>
+                        <rdg wit="#Fp #R"> macecha </rdg>
                     </app>
                 </listApp>
                 
@@ -304,7 +300,7 @@
                     
                     <app from="#l1a5" to="#l1a6">
                         <lem> prinçe</lem>
-                        <rdg wit="#R"> posente</rdg>
+                        <rdg wit="#R"> prince</rdg>
                     </app>
                 </listApp>
                 
@@ -354,8 +350,7 @@
                     
                     <app from="#l3a7" to="#l3a8">
                         <lem> mi</lem>
-                        <rdg wit="#Fp"> me</rdg>
-                        <rdg wit="#R"> me</rdg>                        
+                        <rdg wit="#Fp #R"> me</rdg>
                     </app>
                     
                     <app from="#l3a9" to="#l3a10">
@@ -373,17 +368,13 @@
                     
                     <app from="#l4a5" to="#l4a6">
                         <lem> da lle’</lem>
-                        <rdg> da llei <wit><ref corresp="#SqCt">Sq<hi rend="super">Ct</hi></ref></wit></rdg>
-                        <rdg wit="#Fp"> da llei</rdg>
-                        <rdg wit="#Np3"> da llei</rdg>
+                        <rdg wit="#Fp #Np3"> da llei <wit><ref corresp="#SqCt">Sq<hi rend="super">Ct</hi></ref></wit></rdg>
                         <rdg wit="#R"> da lei</rdg>
                     </app>
                     
                     <app from="#l4a7" to="#l4a8">
                         <lem> fugir</lem>
-                        <rdg> fuggir <wit><ref corresp="#SqCt">Sq<hi rend="super">Ct</hi></ref></wit></rdg>
-                        <rdg> fuggir <wit><ref corresp="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
-                        <rdg wit="#Np3"> fuggir</rdg>
+                        <rdg wit="#Np3"> fuggir <wit><ref corresp="#SqCt">Sq<hi rend="super">Ct</hi></ref></wit>  <wit><ref corresp="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l4a9" to="#l4a10">
@@ -424,9 +415,7 @@
                     <head> 6</head>
                     <app from="#l6a5" to="#l6a6">
                         <lem> poʼ</lem>
-                        <rdg> poi <wit><ref corresp="#SqCt">Sq<hi rend="super">Ct</hi></ref></wit></rdg>
-                        <rdg wit="#Fp"> poi</rdg>
-                        <rdg wit="#R"> poi</rdg>
+                        <rdg wit="#Fp #R"> poi <wit><ref corresp="#SqCt">Sq<hi rend="super">Ct</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l6a7" to="#l6a8">
@@ -449,8 +438,7 @@
                     <head> 7</head>
                     <app from="#l7a8" to="#l7a9">
                         <lem> sʼaccorçe</lem>
-                        <rdg> sacorçe  <wit><ref corresp="FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
-                        <rdg wit="#R"> sacorçe </rdg>
+                        <rdg wit="R"> sacorçe  <wit><ref corresp="FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                 </listApp>
                 
@@ -481,8 +469,7 @@
                     
                     <app from="#l9a5" to="#l9a6">
                         <lem> porçe</lem>
-                        <rdg wit="#Sq"> porge</rdg>
-                        <rdg wit="#Pit"> porge</rdg>
+                        <rdg wit="#Sq #Pit"> porge</rdg>
                     </app>
                 </listApp>
                 
@@ -495,8 +482,7 @@
                     
                     <app from="#l10a7" to="#l10a8">
                         <lem> fiama</lem>
-                        <rdg> fiamma <wit><ref corresp="FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
-                        <rdg wit="#Pit"> fiamma</rdg>
+                        <rdg wit="#Pit"> fiamma <wit><ref corresp="FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l10a9" to="#l10a10">
@@ -528,8 +514,7 @@
                     <head> 13</head>
                     <app from="#l13a3" to="#l13a4">
                         <lem> Costeʼ</lem>
-                        <rdg> Costei <wit><ref corresp="FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
-                        <rdg wit="#Np3"> Costei</rdg>
+                        <rdg wit="#Np3"> Costei <wit><ref corresp="FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg wit="#R"> cu stei </rdg>
                     </app>
                     
@@ -565,9 +550,7 @@
                             </wit>
                         </rdg>
                         <rdg wit="#R">ço</rdg>
-                        <rdg wit="#Fp">ciò</rdg>
-                        <rdg wit="#Pit">ciò</rdg>
-                        <rdg wit="#Np3">ciò</rdg>
+                        <rdg wit="#Fp #Pit #Np3">ciò</rdg>
                     </app>
                     
                     <app from="#l14a9" to="#l14a10">

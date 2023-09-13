@@ -60,7 +60,7 @@
                 <l xml:id="l3"> <anchor xml:id="l3a1"/><anchor xml:id="l3a3"/>di<anchor xml:id="l3a4"/><anchor xml:id="l3a2"/> <anchor xml:id="l3a5"/>questa<anchor xml:id="l3a6"/> <anchor xml:id="l3a7"/>rea<anchor xml:id="l3a8"/> <anchor xml:id="l3a9"/>fuor<anchor xml:id="l3a10"/> dʼ<anchor xml:id="l3a11"/>ogni<anchor xml:id="l3a12"/> <anchor xml:id="l3a13"/>bon<anchor xml:id="l3a14"/> costume,</l>
                 <l xml:id="l4"> a <anchor xml:id="l4a1"/><anchor xml:id="l4a5"/>cui<anchor xml:id="l4a6"/><anchor xml:id="l4a2"/> <anchor xml:id="l4a3"/><anchor xml:id="l4a7"/>di<anchor xml:id="l4a8"/> fedel cor<anchor xml:id="l4a4"/> <anchor xml:id="l4a9"/>tutto<anchor xml:id="l4a10"/> <anchor xml:id="l4a11"/>mi diedi<anchor xml:id="l4a12"/>.</l>
                 <l xml:id="l5" n="5"> <anchor xml:id="l5a3"/>Ma sʼella<anchor xml:id="l5a4"/> <anchor xml:id="l5a5"/>vien<anchor xml:id="l5a6"/> <anchor xml:id="l5a7"/>più<anchor xml:id="l5a8"/> a·<anchor xml:id="l5a9"/>tte<anchor xml:id="l5a10"/>, lʼ<anchor xml:id="l5a11"/>acqua<anchor xml:id="l5a12"/> <anchor xml:id="l5a1"/>le<anchor xml:id="l5a2"/><anchor xml:id="l5a13"/>niega<anchor xml:id="l5a14"/></l>
-                <l xml:id="l6"> sʼa <anchor xml:id="l6a5"/>darmi<anchor xml:id="l6a6"/> pace <anchor xml:id="l6a1"/><anchor xml:id="l6a7"/>alquanto<anchor xml:id="l6a8"/><anchor xml:id="l6a2"/> <anchor xml:id="l6a9"/>non<anchor xml:id="l6a10"/> <anchor xml:id="l6a3"/><anchor xml:id="l6a11"/>si<anchor xml:id="l6a12"/> <anchor xml:id="l6a4"/> piega.</l>
+                <l xml:id="l6"> sʼa <anchor xml:id="l6a5"/>darmi<anchor xml:id="l6a6"/> pace <anchor xml:id="l6a1"/>alquanto<anchor xml:id="l6a2"/> <anchor xml:id="l6a9"/>non<anchor xml:id="l6a10"/> <anchor xml:id="l6a3"/><anchor xml:id="l6a11"/>si<anchor xml:id="l6a12"/> <anchor xml:id="l6a4"/> piega.</l>
             </lg>
             <lg>
                 <l xml:id="l7"> Ahi <anchor xml:id="l7a3"/>lassʼ<anchor xml:id="l7a4"/>  <anchor xml:id="l7a1"/>a me<anchor xml:id="l7a2"/>, <anchor xml:id="l7a5"/>non<anchor xml:id="l7a6"/> <anchor xml:id="l7a7"/>vol<anchor xml:id="l7a8"/> <anchor xml:id="l7a9"/>venir<anchor xml:id="l7a10"/> più <name type="senhal" rend="small-caps"><anchor xml:id="l7a11"/>A·NNA</name>ve<anchor xml:id="l7a12"/>  </l>
@@ -111,8 +111,7 @@
                     <head> 1</head>
                     <app from="#l1a1" to="#l1a2">
                         <lem> perlaro</lem>
-                        <rdg> perlarun<wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
-                        <rdg> perlarun<wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg> perlarun<wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit>  <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                 </listApp>
                 
@@ -219,7 +218,6 @@
                     <head> 1</head>
                     <app from="#l1a3" to="#l1a4">
                         <lem> dolçʼ</lem>
-                        <rdg> dolce </rdg>
                         <rdg wit="#Fp #R"> dolce <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                         <rdg wit="#Pit"> dolci</rdg>
                         <rdg> dolcie <wit><ref corresp="#Lo1T">Lo<hi rend="subscript">1</hi><hi rend="super">T</hi></ref></wit></rdg>
@@ -360,11 +358,6 @@
                     <app from="#l6a5" to="#l6a6">
                         <lem> darmi</lem>
                         <rdg wit="#R"> darme <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit>  <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
-                    </app>
-                    
-                    <app from="#l6a7" to="#l6a8">
-                        <lem> alquantʼ</lem>
-                        <rdg wit="#Fp #Lo #R #Fc"> alquanto <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l6a9" to="#l6a10">

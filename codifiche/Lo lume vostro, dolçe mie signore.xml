@@ -109,8 +109,7 @@
                     <head> 1</head>
                     <app from="#l1a2" to="#l1a3">
                         <lem> dolçe mie</lem>
-                        <rdg wit="#Fp">dolcel mio</rdg>
-                        <rdg wit="#R">dolcel mio</rdg>
+                        <rdg wit="#Fp #R">dolcel mio</rdg>
                     </app>
                 </listApp>
 
@@ -223,10 +222,7 @@
 
                     <app from="#l3a8" to="#l3a9">
                         <lem> boni</lem>
-                        <rdg> buoni <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
-                        <rdg wit="#Fp">buoni</rdg>
-
-
+                        <rdg wit="#Fp"> buoni <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>
 
@@ -255,9 +251,7 @@
                     <head> 8</head>
                     <app from="#l8a1" to="#l8a2">
                         <lem> no</lem>
-                        <rdg wit="#Sq"> non</rdg>
-                        <rdg> non  <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
-                        <rdg wit="#R"> non</rdg>
+                        <rdg wit="#Sq #R"> non  <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
 
                 </listApp>

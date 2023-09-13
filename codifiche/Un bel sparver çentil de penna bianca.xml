@@ -113,8 +113,7 @@
                         <lem> su per</lem>
                         <rdg wit="#Fp"> for per</rdg>
                         <rdg wit="#R"> sopra </rdg>
-                        <rdg wit="#Sq"> fuor per </rdg>
-                        <rdg wit="#Pit"> fuor per </rdg>
+                        <rdg wit="#Sq #Pit"> fuor per </rdg>
                     </app>
                 </listApp>
                 
@@ -137,8 +136,7 @@
                     
                     <app from="#l4a4" to="#l4a5">
                         <lem> de</lem>
-                        <rdg wit="#Fp"> del</rdg>
-                        <rdg wit="#Sq"> del</rdg>
+                        <rdg wit="#Fp #Sq"> del</rdg>
                     </app>
 
                     <app from="#l4a6" to="#l4a7">
@@ -156,8 +154,7 @@
                     
                     <app from="#l5a3" to="#l5a4">
                         <lem> quel</lem>
-                        <rdg wit="#Sq"> esto</rdg>
-                        <rdg wit="#Pit"> esto</rdg>
+                        <rdg wit="#Sq #Pit"> esto</rdg>
                     </app>
                 </listApp>
                 
@@ -182,9 +179,7 @@
                             l’andai chiamando in fin a meça notte,
                             poi me colcai in meço [de] due grotte.
                         </lem>
-                        <rdg wit="#Sq"/>
-                        <rdg wit="#Pit"/>
-                        <rdg wit="#SL"/>
+                        <rdg wit="#Sq #Pit #SL"/>
                         <rdg wit="#Fp"> Volando amonte tutto giorno lvidi / urlar gridando insino a meça nocte / poscia si chollegava infra due grotte </rdg>
                     </app>
                 </listApp>
@@ -193,8 +188,7 @@
                     <head> 9</head>
                     <app from="#l9a2" to="#l9a3">
                         <lem> de</lem>
-                        <rdg wit="#Fp"/>
-                        <rdg wit="#R"/>
+                        <rdg wit="#Fp #R"/>
                     </app>
                 </listApp>
                 
@@ -223,15 +217,12 @@
                     <head> 1</head>
                     <app from="#l1a1" to="#l1a2">
                         <lem> çentil</lem>
-                        <rdg wit="#Sq"> gentil</rdg>
-                        <rdg wit="#Pit"> gentil</rdg>
+                        <rdg wit="#Sq #Pit"> gentil</rdg>
                     </app>
                     
                     <app from="#l1a3" to="#l1a4">
                         <lem> de</lem>
-                        <rdg wit="#Fp"> di</rdg>
-                        <rdg wit="#Sq"> di</rdg>
-                        <rdg wit="#Pit"> di</rdg>
+                        <rdg wit="#Fp #Sq #Pit"> di</rdg>
                     </app>
                 </listApp>
                 
@@ -240,8 +231,7 @@
                     <app from="#l2a3" to="#l2a4">
                         <lem> aïre</lem>
                         <rdg wit="#Fp"> ayere</rdg>
-                        <rdg wit="#Sq"> aere</rdg>
-                        <rdg wit="#Pit"> aere</rdg>
+                        <rdg wit="#Sq #Pit"> aere</rdg>
                     </app>
                 </listApp>
 
@@ -259,8 +249,7 @@
                     <head> 4</head>
                     <app from="#l4a8" to="#l4a9">
                         <lem> mai</lem>
-                        <rdg wit="#Sq"> ma</rdg>
-                        <rdg wit="#Pit"> ma</rdg>
+                        <rdg wit="#Sq #Pit"> ma</rdg>
                     </app>
                 </listApp>
                 
@@ -268,15 +257,12 @@
                     <head> 5</head>
                     <app from="#l5a5" to="#l5a6">
                         <lem> me</lem>
-                        <rdg wit="#Fp"> mi</rdg>
-                        <rdg wit="#Sq"> mi</rdg>
-                        <rdg wit="#Pit"> mi</rdg>
+                        <rdg wit="#Fp #Sq #Pit"> mi</rdg>
                     </app>
                     
                     <app from="#l5a7" to="#l5a8">
                         <lem> sparviero</lem>
-                        <rdg wit="#Fp"> sparvero</rdg>
-                        <rdg wit="#Pit"> sparvero</rdg>
+                        <rdg wit="#Fp #Pit"> sparvero</rdg>
                     </app>
                 </listApp>
                 
@@ -289,8 +275,7 @@
                     
                     <app from="#l6a8" to="#l6a9">
                         <lem> maniero</lem>
-                        <rdg wit="#Fp"> manero</rdg>
-                        <rdg wit="#Pit"> manero</rdg>                        
+                        <rdg wit="#Fp #Pit"> manero</rdg>
                     </app>
                 </listApp>
                 
@@ -317,15 +302,13 @@
                     
                     <app from="#l10a7" to="#l10a8">
                         <lem> çorno</lem>
-                        <rdg wit="#Sq"> giorno</rdg>
-                        <rdg wit="#Pit"> giorno</rdg>
+                        <rdg wit="#Sq #Pit"> giorno</rdg>
                     </app>
                     
                     <app from="#l10a9" to="#l10a10">
                         <lem> aparvʼ</lem>
                         <rdg wit="#Fp"> apparv</rdg>
-                        <rdg wit="#Sq"> apparve</rdg>
-                        <rdg wit="#Pit"> apparve</rdg>
+                        <rdg wit="#Sq #Pit"> apparve</rdg>
                     </app>
                 </listApp>
                 
@@ -333,22 +316,17 @@
                     <head> 11</head>
                     <app from="#l11a3" to="#l11a4">
                         <lem> quello ʼn</lem>
-                        <rdg wit="#Sq"> quell in</rdg>
-                        <rdg> quell in <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                        <rdg wit="#Sq"> quell in <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l11a5" to="#l11a6">
                         <lem> alora</lem>
-                        <rdg wit="#Fp"> allora</rdg>
-                        <rdg wit="#Sq"> allora</rdg>
-                        <rdg wit="#Pit"> allora</rdg>
+                        <rdg wit="#Fp #Sq #Pit"> allora</rdg>
                     </app>
                     
                     <app from="#l11a7" to="#l11a8">
                         <lem> me</lem>
-                        <rdg wit="#Fp"> mi</rdg>
-                        <rdg wit="#Sq"> mi</rdg>
-                        <rdg wit="#Pit"> mi</rdg>
+                        <rdg wit="#Fp #Sq #Pit"> mi</rdg>
                     </app>
                 </listApp>
             </listApp>

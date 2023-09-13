@@ -155,8 +155,7 @@
                     <head>8</head>
                     <app from="#l8a1" to="#l8a2">
                         <lem> Luca et Giovanni a chi lor nome piacquero. </lem>
-                        <rdg type="omission"> <hi rend="italic">om.</hi> <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
-                        <rdg type="omission"> <hi rend="italic">om.</hi> <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg type="omission"> <hi rend="italic">om.</hi> <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit>  <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                 </listApp>
 
@@ -264,8 +263,7 @@
 
                     <app from="#l5a9" to="#l5a10">
                         <lem> cristianesimo</lem>
-                        <rdg> cristianessimo <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
-                        <rdg wit="#R"> cristianessimo </rdg>
+                        <rdg wit="#R"> cristianessimo <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
                     </app>                    
                 </listApp>
 
