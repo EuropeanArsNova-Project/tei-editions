@@ -104,8 +104,7 @@
                <head>1</head>
                <app from="#l1a1" to="#l1a2">
                   <lem> L’antico Iopiter, fra sette stelle</lem>
-                  <rdg> Lanticho dio biber lanticho dio biber <wit><ref corresp="#RsC"><hi rend="italic">C</hi></ref></wit> </rdg>
-                  <rdg> Lanticho dio biper lanticho dio biber  <wit><ref corresp="#RsT"><hi rend="italic">T</hi></ref></wit> </rdg>
+                  <rdg> Lanticho dio biber lanticho dio biber <wit><ref corresp="#RsC"><hi rend="italic">C</hi></ref></wit> <wit><ref corresp="#RsT"><hi rend="italic">T</hi></ref></wit> </rdg>
                </app>  
 
                <app from="#l3a3" to="#l3a4">
