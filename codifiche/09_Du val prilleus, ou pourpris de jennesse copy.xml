@@ -245,8 +245,7 @@
                <head> 7</head>
                <app from="#l7a5" to="#l7a6">
                   <lem> Pité</lem>
-                  <rdg wit="#R"> pitie</rdg>
-                  <rdg wit="#To"> pitie</rdg>
+                  <rdg wit="#R #To"> pitie</rdg>
                </app>
             </listApp>
          </listApp>

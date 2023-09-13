@@ -189,8 +189,7 @@
 
                <app from="#l6a3" to="#l6a4">
                   <lem>po’</lem>
-                  <rdg wit="#Lu">poco</rdg>
-                  <rdg wit="#Pr">poco</rdg>                 
+                  <rdg wit="#Lu #Pr">poco</rdg>
                </app>
 
                <app from="#l6a5" to="#l6a6">
