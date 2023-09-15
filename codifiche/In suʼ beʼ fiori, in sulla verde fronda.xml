@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>In suʼ beʼ fiori, in sulla verde fronda</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <front>
+         <div>
+            <p>
+                Tra il v. 6 e il v. 8, il ms. Per inserisce quattro ulteriori versi: <hi rend="italic">grafiandomi nel viso e per la ghola / di qua di là mordendomy la mano / ma infine pur la vinsse et e la queda / e pur dirò chomo io fuʼ vilano</hi>. Ne risulta un testo che fino al v. 6 segue, almeno dal punto di vista della sostanza, la lezione verosimilmente originaria (eccezion fatta per la variante <hi rend="italic">prixila</hi> in luogo di <hi rend="italic">chiamaʼ·la</hi> Fp per cui vedi le <hi rend="italic">Note al testo</hi>), ma che il copista parrebbe aver trascritto pensando ad un genere diverso: il testo di Per (di 12 versi) è strutturato in due quartine (con schema: a b b a; c c c d) e due distici (corrispondenti ai vv. 5-8 di Fp, con schema: e d, f f), come si ricava dallʼuso di iniziali staccate per ciascuna partizione e dal testo rientrato. Il madrigale sembra aver offerto lo spunto per sviluppare un testo diverso, tanto per forma quanto per contenuto: la pastorella che ne deriva, molto più esplicita e violenta del madrigale, racconta i tentativi di difendersi e poi la resa della ragazza, quindi lʼammissione da parte del poeta di essersi comportato da villano. 
+           </p>
+         </div>         
+      </front>
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    In suʼ <anchor xml:id="l1a1"/>beʼ<anchor xml:id="l1a2"/> <anchor xml:id="l1a7"/>fiori<anchor xml:id="l1a8"/>, <anchor xml:id="l1a3"/>in sulla<anchor xml:id="l1a4"/> verde <anchor xml:id="l1a5"/>fronda<anchor xml:id="l1a6"/>,
+                </l>
+                <l xml:id="l2">
+                    sotto <anchor xml:id="l2a1"/>novi<anchor xml:id="l2a2"/> arboretti <anchor xml:id="l2a3"/>spessi<anchor xml:id="l2a4"/> et lunghi,
+                </l>
+                <l xml:id="l3">
+                    <anchor xml:id="l3a1"/>pasturella<anchor xml:id="l13a2"/> <anchor xml:id="l3a3"/>trovai<anchor xml:id="l3a4"/> che <anchor xml:id="l3a5"/>cogliea<anchor xml:id="l3a6"/> <anchor xml:id="l3a7"/>funghi<anchor xml:id="l3a8"/>.
+                </l>
+                <l xml:id="l4">
+                    <anchor xml:id="l4a1"/>Im panni bigi, alçatʼ alla ritonda<anchor xml:id="l4a2"/>,
+                </l>
+                <l xml:id="l5" n="5">
+                    per <anchor xml:id="l5a1"/>un<anchor xml:id="l5a2"/> boschetto <anchor xml:id="l5a3"/>se ne giva<anchor xml:id="l5a4"/> sola,
+                </l>
+                <l xml:id="l6">
+                    <anchor xml:id="l6a1"/><anchor xml:id="l6a3"/>chiamaʼ·la a me<anchor xml:id="l6a4"/> per dirle una parola.<anchor xml:id="l6a2"/>
+                </l>
+            </lg>
+            <lg>
+                <l xml:id="l7">
+                    <anchor xml:id="l7a1"/>Del<anchor xml:id="l7a2"/> <anchor xml:id="l7a5"/>grembo<anchor xml:id="l7a6"/> <anchor xml:id="l7a3"/>un fior<anchor xml:id="l7a4"/>, che ellʼ avea, <anchor xml:id="l7a7"/>le tolsi<anchor xml:id="l7a8"/>:
+                </l>
+                <l xml:id="l8">
+                    sì <anchor xml:id="l8a3"/>fu<anchor xml:id="l8a4"/> <anchor xml:id="l8a1"/>çentil<anchor xml:id="l8a2"/>, che <anchor xml:id="l8a5"/>maʼ<anchor xml:id="l8a6"/> più bel <anchor xml:id="l8a7"/>non<anchor xml:id="l8a8"/> colsi.
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="Fp">
+                    <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-nazionale-centrale-pal-panciati-manoscript/ARSNOVA_185275">Fp</ref>
+                    c. <locus>69v</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="FpT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid</hi>. (vv. 4-6): <hi rend="italic">m(agister) jacopo da bolo(nia)</hi>
+                </witness>
+                <witness xml:id="Per">
+                    <!--ref target="X"-->Per<!--/ref-->
+                    c. <locus>46r</locus>
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>beʼ</lem>
+                        <rdg wit="#Per">bie</rdg>
+                    </app>
+                    <app from="#l1a3" to="#l1a4">
+                        <lem>in sulla</lem>
+                        <rdg wit="#Per">e su la</rdg>
+                    </app>
+                    <app from="#l1a5" to="#l1a6">
+                        <lem>fronda</lem>
+                        <rdg wit="#Per">fronde <wit><ref target="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>Im panni bigi, alçatʼ alla ritonda,</lem>
+                        <rdg wit="#Per">i panni bixy alça (<hi rend="italic">?</hi>) ta alarittondo</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a1" to="#l5a2">
+                        <lem>un</lem>
+                        <rdg wit="#Per">uno</rdg>
+                    </app>
+                    <app from="#l5a3" to="#l5a4">
+                        <lem>se ne giva</lem>
+                        <rdg wit="#Per">se nandava</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>chiamaʼ·la a me per dirle una parola.</lem>
+                        <rdg wit="#Per"><add>grafiandomi nel viso e per la ghola / di qua di là mordendomy la mano / Ma infine pur la vinsse et ela queda / a pur dirò chomo io fu vilano</add></rdg>
+                    </app>
+                    <app from="#l6a3" to="#l6a4">
+                        <lem>chiamaʼ·la a me</lem>
+                        <rdg wit="#Per">prixila a my per dirli</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>Del</lem>
+                        <rdg wit="#Per">de</rdg>
+                    </app>
+                    <app from="#l7a3" to="#l7a4">
+                        <lem>un fior</lem>
+                        <rdg wit="#Per">uno fiore</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem>çentil</lem>
+                        <rdg wit="#Per">çentile</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a7" to="#l1a8">
+                        <lem>fiori</lem>
+                        <rdg wit="#Per">fiury</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>novi</lem>
+                        <rdg wit="#Per">nuovi</rdg>
+                    </app>
+                    <app from="#l2a3" to="#l2a4">
+                        <lem>spessi</lem>
+                        <rdg wit="#Per">spisy</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>pasturella</lem>
+                        <rdg wit="#Per">pasturela</rdg>
+                    </app>
+                    <app from="#l3a3" to="#l3a4">
+                        <lem>trovai</lem>
+                        <rdg>trova <wit><ref target="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    <app from="#l3a7" to="#l3a8">
+                        <lem>cogliea</lem>
+                        <rdg wit="#Per">chuliea</rdg>
+                    </app>
+                    <app from="#l3a9" to="#l3a10">
+                        <lem>funghi</lem>
+                        <rdg wit="#Per">fungy</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a3" to="#l7a4">
+                        <lem>grembo un</lem>
+                        <rdg>grembun <wit><ref target="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    <app from="#l7a5" to="#l7a6">
+                        <lem>le tolsi</lem>
+                        <rdg wit="#Per">li ttolsy</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a3" to="#l8a4">
+                        <lem>fu</lem>
+                        <rdg wit="#Per">fo</rdg>
+                    </app>
+                    <app from="#l8a5" to="#l8a6">
+                        <lem>maʼ</lem>
+                        <rdg wit="#Per">may</rdg>
+                    </app>
+                    <app from="#l8a7" to="#l8a8">
+                        <lem>non</lem>
+                        <rdg wit="#Per">nom</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p>Madrigale 10ʼa 10ʼb 10ʼb, 10ʼa 10ʼc 10ʼc; 10ʼd 10ʼ d.</p>
+                <p><hi rend="italic">Capovilla</hi> XXX.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#LiGotti1948">
+                    Li Gotti 1948, p. 49.
+                </bibl>
+                <bibl corresp="#Corsi1969">
+                    Corsi 1969, p. 1018.
+                </bibl>
+                <bibl corresp="#Corsi1970">
+                    Corsi 1970, pp. 34-5 (testo secondo Fp).
+                </bibl>
+                <bibl corresp="#Corsi1970">
+                    Corsi 1970, pp. 54-5 (testo secondo Per).
+                </bibl>
+            </listBibl>
+            <div type="commentary">
+                <note target="#l4">
+                    <num>4</num>
+                    ʻIn panni scuri alzati sui fianchiʼ (?), quindi in abiti succinti (per cui vedi anche Corsi 1969, nota  <hi rend="italic">ad loc.</hi>). La locuz.  <hi rend="italic">alla rotonda</hi> è documentata nel  <hi rend="italic">TLIO</hi>, s.v.  <hi rend="italic">rotondo</hi>, però col senso di ʻin cerchioʼ o ʻin modo completoʼ, che non sembra congruo nel contesto.
+                </note>
+                <note target="#l6">
+                    <num>6</num>
+                    La variante di Per <hi rend="italic">prixila</hi> in luogo di <hi rend="italic">chiamaʼ·la</hi> Fp fa presagire lʼatmosfera molto più esplicita che si coglie nellʼintero testo di Per con lʼinterpolazione probabilmente spuria di 4 versi.
+                </note>
+            </div>
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="LiGotti1948">
+                    E. Li Gotti, <hi rend="italic">Madrigali del Trecento</hi>, «Poesia», 9 (1948), pp. 40-59
+                </bibl>
+                <bibl xml:id="Corsi1969">
+                    G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
+                </bibl>
+                <bibl xml:id="Corsi1970">
+                    Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
+
