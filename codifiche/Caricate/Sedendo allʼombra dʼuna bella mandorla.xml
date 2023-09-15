@@ -136,9 +136,7 @@
                     
                     <app from="#l6a3" to="#l6a4">
                         <lem> un</lem>
-                        <rdg wit="#Fp"> uno</rdg>
-                        <rdg wit="#Sq"> uno</rdg>
-                        <rdg wit="#SL"> uno</rdg>
+                        <rdg wit="#Fp #Sq #SL"> uno</rdg>
                     </app>
                     
                     <app from="#l6a5" to="#l6a6">

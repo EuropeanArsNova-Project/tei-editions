@@ -75,7 +75,7 @@
                ma perché l’arc’ alenta
             </l>
             <l xml:id="l6">
-               verso l’<anchor xml:id="l6a1"/>oggett[o] ond’ entrass’ al<anchor xml:id="l6a2"/> core.
+               verso l’<anchor xml:id="l6a1"/>oggett<supplied reason="illegible">[o]</supplied> ond’ entrass’ al<anchor xml:id="l6a2"/> core.
             </l>
             <l xml:id="l7">
                <supplied reason="illegible">[...]</supplied>
@@ -119,7 +119,7 @@
             <listApp>
                <head> 6</head>
                <app from="#l6a1" to="#l6a2">
-                  <lem>oggett[o] ond’ entrass’ al</lem>
+                  <lem>oggetto ond’ entrass’ al</lem>
                   <rdg wit="#R">oggettondentrassal </rdg>
                </app>
             </listApp>

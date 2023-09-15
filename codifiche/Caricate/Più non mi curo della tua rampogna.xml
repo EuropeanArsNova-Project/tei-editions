@@ -281,8 +281,7 @@
                     
                     <app from="#l7a5" to="#l7a6">
                         <lem> come ʼn monico</lem>
-                        <rdg> come in monico <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit> </rdg>
-                        <rdg> come in monaco <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                        <rdg> come in monico <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit>  <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                         <rdg> cho(m)mi mo o o o o nicho <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> cho mi moni cho <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
                     </app>

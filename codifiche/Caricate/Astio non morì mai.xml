@@ -108,7 +108,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <listApp> 
             <head> 1 </head> 
             <app from="#l1a1" to="#l1a2"> 
-               <lem> Astio </lem> 
+               <lem > Astio </lem> 
                <rdg wit="#SL"> stio </rdg> 
             </app> 
          </listApp> 
@@ -168,10 +168,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             <head> 2 </head> 
             <app from="#l2a1" to="#l2a2"> 
                <lem> pò </lem> 
-               <rdg> può
-                  <wit> <ref corresp="#PitT"> Pit <hi rend="super"> T </hi> </ref> </wit> 
-                  <wit> <ref corresp="#SL"> SL </ref> </wit> 
-               </rdg> 
+               <rdg wit="#SL"> può <ref corresp="#PitT"> Pit <hi rend="super"> T </hi> </ref></rdg> 
             </app> 
          </listApp> 
 

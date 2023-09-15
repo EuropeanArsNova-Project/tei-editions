@@ -124,8 +124,7 @@
                     <head> 5</head>
                     <app from="#l5a1" to="l5a2">
                         <lem> guardo</lem>
-                        <rdg type="indifferentVariant" wit="#Sq">sguardo</rdg>
-                        <rdg type="indifferentVariant" wit="#Pit">sguardo</rdg> 
+                        <rdg type="indifferentVariant" wit="#Sq #Pit">sguardo</rdg>
                     </app>
                     
                     <app from="#l5a3" to="l5a4">
@@ -215,8 +214,7 @@
                     
                     <app from="#l5a7" to="#l5a8">
                         <lem> vuoʼ</lem>
-                        <rdg wit="#Sq"> vo </rdg>
-                        <rdg wit="#Pit"> vo </rdg>                        
+                        <rdg wit="#Sq #Pit"> vo </rdg>
                     </app>
                 </listApp>
                 
@@ -225,8 +223,7 @@
                     <head> 6</head>
                     <app from="#l6a1" to="#l6a2">
                         <lem> smarretti</lem>
-                        <rdg wit="#Fp"> smarretti </rdg>
-                        <rdg wit="#Pit"> smarretti </rdg>
+                        <rdg wit="#Fp #Pit"> smarretti </rdg>
                     </app>
                 </listApp>
                 
@@ -235,8 +232,7 @@
                     <app from="#l7a2" to="#l7a3">
                         <lem> acorsʼ e</lem>
                         <rdg wit="#Sq"> accorse</rdg>
-                        <rdg> acorse e <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
-                        <rdg> acorse e <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                        <rdg> acorse e <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit>  <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>
                 
