@@ -322,7 +322,7 @@
                     <head> 5</head>
                     <app from="#l5a3" to="#l5a4">
                         <lem> Ma sʼella</lem>
-                        <rdg> ma‹l› sella<wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
+                        <rdg> ma<del>l</del> sella<wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l5a5" to="#l5a6">
@@ -332,7 +332,7 @@
                     
                     <app from="#l5a7" to="#l5a8">
                         <lem> più</lem>
-                        <rdg> p/i/u <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                        <rdg> p<add place="above">i</add>u <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l5a9" to="#l5a10">
@@ -344,7 +344,7 @@
                     
                     <app from="#l5a11" to="#l5a12">
                         <lem> acqua</lem>
-                        <rdg> a/c/qua <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                        <rdg> a<add place="above">c</add>qua <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l5a13" to="#l5a14">
@@ -408,12 +408,12 @@
                         <rdg wit="#Fp #R"> tiene <wit><ref corresp="#Lo1C">Lo<hi rend="subscript">1</hi><hi rend="super">C</hi></ref></wit></rdg>
                         <rdg wit="#Fc"> ctene <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> ttene <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
-                        <rdg> tti‹o›ne <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg> tti<del>o</del>ne <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l8a9" to="#l8a10">
                         <lem> chiave</lem>
-                        <rdg> c/i/ a a a a ve <wit><ref corresp="#Lo1C">Lo<hi rend="subscript">1</hi><hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg> c<add place="above">i</add>a a a a ve <wit><ref corresp="#Lo1C">Lo<hi rend="subscript">1</hi><hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> ciave <wit><ref corresp="#Lo1T">Lo<hi rend="subscript">1</hi><hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>
