@@ -345,7 +345,7 @@
                     
                     <app from="#l3a5" to="#l3a6">
                         <lem> morso mi vinçe</lem>
-                        <rdg> ‹uene› /morso me uin/ ce <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit> </rdg>
+                        <rdg> <del>uene</del> <add place="above">morso me uin</add> ce <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit> </rdg>
                     </app>
                     
                     <app from="#l3a7" to="#l3a8">
@@ -555,13 +555,13 @@
                     
                     <app from="#l14a9" to="#l14a10">
                         <lem> ricordo</lem>
-                        <rdg> r/i/cordo <wit><ref corresp="#FpCt">Fp<hi rend="super">Ct</hi></ref></wit></rdg>
+                        <rdg> r<add place="place">i</add>cordo <wit><ref corresp="#FpCt">Fp<hi rend="super">Ct</hi></ref></wit></rdg>
                         <rdg> recordo <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit> </rdg>
                     </app>
                     
                     <app from="#l14a11" to="#l14a12">
                         <lem> mi dole</lem>
-                        <rdg> m/i/dole <wit><ref corresp="#FpCt">Fp<hi rend="super">Ct</hi></ref></wit></rdg>
+                        <rdg> m<add place="above">i</add>dole <wit><ref corresp="#FpCt">Fp<hi rend="super">Ct</hi></ref></wit></rdg>
                         <rdg wit="#R"> me dole</rdg> 
                     </app>
                 </listApp>

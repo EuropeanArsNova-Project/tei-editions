@@ -180,7 +180,7 @@
                             poi me colcai in meço [de] due grotte.
                         </lem>
                         <rdg wit="#Sq #Pit #SL"/>
-                        <rdg wit="#Fp"> Volando amonte tutto giorno lvidi / urlar gridando insino a meça nocte / poscia si chollegava infra due grotte </rdg>
+                        <rdg wit="#Fp"> Volando amonte tutto giorno lvidi <add place="above">urlar gridando insino a meça nocte</add>poscia si chollegava infra due grotte </rdg>
                     </app>
                 </listApp>
                 
@@ -297,7 +297,7 @@
                     
                     <app from="#l10a5" to="#l10a6">
                         <lem> el</lem>
-                        <rdg wit="#Pit"> ‹e›l</rdg>
+                        <rdg wit="#Pit"> <del>e</del>l</rdg>
                     </app>
                     
                     <app from="#l10a7" to="#l10a8">

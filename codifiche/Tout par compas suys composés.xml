@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Tout par compas suys composés</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp> Edited by</resp>
+                    <name> Maria Sofia Lannutti</name> 
+                </respStmt>
+                <respStmt>
+                    <resp> Revised by</resp>
+                    <name> Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp> TEI-encoded by</resp>
+                    <name> Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p> 
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1"> Tout par compas suys composés</l>
+                <l xml:id="l2"> en ceste rode proprement</l>
+                <l xml:id="l3"> pour moy chanter plus seurement.</l>
+            </lg>
+            <lg>
+                <l xml:id="l4"> Regarde com suys disposés,</l>
+                <l xml:id="l5" n="5"> compaing, je te pri chierement;</l>
+                <l xml:id="l6"> <hi rend="italic">tout par compas suys composés</hi></l>
+                <l xml:id="l7"> <hi rend="italic"> en ceste rode proprement.</hi></l>
+                <l xml:id="l8"> Trois temps entiers par toy posés</l>
+                <l xml:id="l9"> chacer me pues joyeusement,</l>
+                <l xml:id="l10" n="10"> s’en chantant as vray sentement:</l>
+                <l xml:id="l11"> <hi rend="italic">tout par compas suys composés</hi></l>
+                <l xml:id="l12"> <hi rend="italic">en ceste rode proprement</hi></l>
+                <l xml:id="l13"> <hi rend="italic"> pour moy chanter plus seurement.</hi></l>
+            </lg>
+
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Ch">
+                    <!--ref target="X"-->Ch<!--/ref--> c. 12r, <abbr xml:id="ChC">C</abbr> (vv. 1-3), <hi rend="italic">resid.</hi> (vv. 4-16; <hi rend="italic">Seigneurs, je vous pri chierement</hi> vv. 1-8; <hi rend="italic">Maistre Baude Cordier se nomme</hi> vv. 1-8; <hi rend="italic">Par bonne amour, par dilection</hi> vv. 1-8): <hi rend="italic">m(agister) baude cordier</hi>
+                </witness>
+            </listWit>
+
+
+            <!--<listApp type="substantial">
+                
+            </listApp>-->
+
+
+
+            <!--<listApp type="formal">
+                
+            </listApp>-->
+
+
+            <div type="metricalScheme">
+                <p> <hi rend="italic">Rondeau</hi> 8A 8B 8B; 8a 8b, 8A 8B; 8a 8b 8b; 8A 8B 8B.</p>
+                <p> Rima identica ai vv. 1 : 6 : 11, 2 : 7 : 12, 3 : 13; rima ricca ai vv. 2 : 3 : 5 : 7 : 9 : 10 : 12 : 13; rima inclusiva derivativa ai vv. 1 : 4 : 6 : 11 (e inclusiva al v. 8).</p>
+            </div>
+
+
+            <listBibl type="editions">                
+                <bibl corresp="#Reaney1955"> Reaney 1955, p. II.</bibl>
+            </listBibl>
+            
+            
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl>-->
+            
+            
+            <!--<div type="commentary">
+                
+            </div>-->
+            
+            
+            <listBibl type="editionsBibliography">
+                
+                <bibl xml:id="Reaney1955"><hi rend="italic">Early Fifteenth-Century Music, I. Baude Cordier, Johannis Cesaris, Johannis
+                    Carmen, Johannis Tapissier</hi>, ed. by G. Reaney, Roma, AIM, 1955 (CMM, 11/1)</bibl>
+                
+            </listBibl>
+        </back>
+    </text>
+</TEI>
