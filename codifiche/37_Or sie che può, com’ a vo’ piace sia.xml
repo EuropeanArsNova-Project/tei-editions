@@ -137,7 +137,7 @@
                <head> 4</head>
                <app from="#l4a1" to="#l4a2">
                   <lem> partir</lem>
-                  <rdg> par/tir/ <wit><ref corresp="#SLT">SL<hi rend="super">T</hi></ref></wit></rdg>
+                  <rdg> par<add place="above">tir</add> <wit><ref corresp="#SLT">SL<hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>
 
