@@ -182,7 +182,7 @@
                         <lem> poiché per te non si teme vergogna,
                             falso, crudele, pien dʼogni mençogna
                         </lem>
-                        <rdg wit="#Lo"> però che perte sente mensognia / falso crudelle pien dogni verghognia </rdg>
+                        <rdg wit="#Lo"> però che perte sente mensognia falso crudelle pien dogni verghognia </rdg>
                     </app>                       
                 </listApp>
                 
@@ -276,7 +276,7 @@
                         <lem> ʼnn</lem>
                         <rdg wit="#Sq"> inn</rdg>
                         <rdg> in <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
-                        <rdg> in/n/ <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                        <rdg> in <add place="above">n</add> <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l7a5" to="#l7a6">
