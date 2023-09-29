@@ -57,7 +57,7 @@
                 <body>
                     <lg>
                         <l xml:id="l1">
-		                    Chi <anchor xml:id="l1a1"/>temp’ à <anchor xml:id="l1a3"/>e<anchor xml:id="l1a4"/> tempo per viltade<anchor xml:id="l1a2"/> <anchor xml:id="l1a1"/>aspecta<anchor xml:id="l1a1"/>,
+		                    Chi <anchor xml:id="l1a1"/>temp’ à <anchor xml:id="l1a3"/>e<anchor xml:id="l1a4"/> tempo per viltade<anchor xml:id="l1a2"/> <anchor xml:id="l1a5"/>aspecta<anchor xml:id="l1a6"/>,
 	                    </l>
                         <l xml:id="l2">
 		                    <anchor xml:id="l2a1"/>se<anchor xml:id="l2a2"/> <anchor xml:id="l2a3"/>quel el perde<anchor xml:id="l2a4"/>, <anchor xml:id="l2a5"/>no·l<anchor xml:id="l2a6"/> <anchor xml:id="l2a7"/>raquista<anchor xml:id="l2a8"/> <anchor xml:id="l2a9"/>in<anchor xml:id="l2a10"/> <anchor xml:id="l2a11"/>fretta<anchor xml:id="l2a12"/>.
@@ -315,7 +315,7 @@
                 </body>
                 <back>
                 </back>
-            <text>
+            </text>
         </group>
     </text>
 </TEI>
