@@ -153,7 +153,7 @@
                <head> 2</head>
                <app from="#l2a1" to="#l2a2">
                   <lem> mercé</lem>
-                  <rdg>mer‹c› çe<wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                  <rdg>mer<del>c</del> çe<wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>
          </listApp>

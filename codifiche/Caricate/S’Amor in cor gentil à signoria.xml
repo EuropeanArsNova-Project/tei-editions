@@ -170,7 +170,7 @@
                <head> 4</head>
                <app from="#l4a1" to="#l4a2">
                   <lem> ragion</lem>
-                  <rdg> /ra/gion <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                  <rdg> <add place="above">ra</add>gion <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>
 
@@ -178,7 +178,7 @@
                <head> 5</head>
                <app from="#l5a1" to="#l5a2">
                   <lem> lei</lem>
-                  <rdg> le/i/ <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg> le<add place="above">i</add> <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                </app>
             </listApp>
          </listApp>

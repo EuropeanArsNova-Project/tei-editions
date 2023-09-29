@@ -120,12 +120,12 @@
                <head> 5</head>
                <app from="#l5a1" to="#l5a2">
                   <lem>ornata</lem>
-                  <rdg>or/na/ta <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg>or<add place="above">na</add>ta <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                </app>
 
                <app from="#l5a3" to="#l5a4">
                   <lem>tanto</lem>
-                  <rdg>ta‹u›/n/to <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg>ta<del>u</del><add place="above">n</add>to <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                </app>
             </listApp>
 
