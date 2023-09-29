@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Posand’ al’onbra delle verde fronde</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+            <div>
+                <p>
+                </p>
+            </div>         
+        </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    <anchor xml:id="l1a1"/><supplied>[P]</supplied>osand’ <supplied>[a]</supplied>l’onbra<anchor xml:id="l1a2"/>  delle verde fronde
+                </l>
+                <l xml:id="l2">
+                    apresso un fiumicello, in un bel’ orto,
+                </l>
+                <l xml:id="l3">
+                    <anchor xml:id="l3a1"/>la<anchor xml:id="l3a2"/> chiara luce mi donò conforto.
+                </l>
+                <l xml:id="l4">
+                    Gentil madon’, a <anchor xml:id="l4a1"/>mandamento<anchor xml:id="l4a2"/> dolce,
+                </l>
+                <l xml:id="l5" n="5">
+                    ché cantar comandasti nel tu’ aspetto,
+                </l>
+                <l xml:id="l6">
+                    novelle <anchor xml:id="l6a1"/>note<anchor xml:id="l6a2"/> intendi del sugetto.
+                </l>
+                <l xml:id="l7">
+                    Ài ochi di falcon <supplied>[di lume]</supplied> <anchor xml:id="l7a1"/>accesi<anchor xml:id="l7a2"/>, 
+                </l>
+                <l xml:id="l8">
+                    di <anchor xml:id="l8a1"/><supplied>[c]</supplied>ui chiareçç’, <supplied>[e]</supplied><anchor xml:id="l8a2"/> no varebe <anchor xml:id="l8a3"/>sc<supplied>[h]</supplied>ermo<anchor xml:id="l8a4"/>
+                </l>
+                <l xml:id="l9">
+                    che da voi ci <anchor xml:id="l9a1"/>ascondesse<anchor xml:id="l9a2"/>, <anchor xml:id="l9a3"/><supplied>[e]</supplied><anchor xml:id="l9a4"/> questo è fermo,
+                </l>
+            </lg>
+            <lg>
+                <l xml:id="l10">
+                    che sempre vostro viso <anchor xml:id="l10a1"/>m’ann<supplied>[amora]</supplied><anchor xml:id="l10a2"/>.
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="R">
+                    <!--ref target="X"-->Lo<!--/ref-->
+                    c. <locus>53v</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-3 e 10), <hi rend="italic">resid. (vv. 4-9)</hi>
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>Posando al’ombra</lem>
+                        <rdg wit="#Lo"><del>os</del> osando lombra</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>mandamento</lem>
+                        <rdg wit="#Lo">commandamento</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem>cui chiareçç’ e</lem>
+                        <rdg wit="#Lo">qui chiareçça</rdg>
+                    </app>
+                    <app from="#l8a3" to="#l8a4">
+                        <lem>schermo</lem>
+                        <rdg wit="#Lo">scermo</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>9</head>
+                    <app from="#l9a1" to="#l9a2">
+                        <lem>ascondesse</lem>
+                        <rdg wit="#Lo">asconondesse</rdg>
+                    </app>
+                    <app from="#l9a3" to="#l9a4">
+                        <lem>e</lem>
+                        <rdg wit="#Lo">con</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>10</head>
+                    <app from="#l10a1" to="#l10a2">
+                        <lem>m’annamora</lem>
+                        <rdg wit="#Lo">man n n n</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>la</lem>
+                        <rdg wit="#Lo">la a a</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>note</lem>
+                        <rdg wit="#Lo">notte</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>accesi</lem>
+                        <rdg wit="#Lo">accessi</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p>Madrigale 10’a 10’b 10’b, 10’c 10’d 10’d; 10’e 10’f 10’f; 10’g.</p>
+                <p><hi rend="italic">Capovilla</hi> LII.</p>
+                <p>Rima inclusiva ai vv. 2 : 3.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#LiGotti1944a">
+                    Li Gotti 1944a, p. 47.
+                </bibl>
+                <bibl corresp="#Pirrotta1960">
+                    Pirrotta 1960, p. XI.
+                </bibl>
+                <bibl corresp="#Corsi1970">
+                    Corsi 1970, p. 338-9.
+                </bibl>
+            </listBibl>
+            <div type="commentary">
+                <note target="#l4">
+                    <num>4</num>
+                    <hi rend="italic">a mandamento dolce</hi>: ‘secondo il dolce comando’. La lezione <hi rend="italic">commandamento</hi> del ms., che genera ipermetria, sarà dovuta ad errore d’anticipo indotto dal <hi rend="italic">comandasti</hi> al verso successivo. Li Gotti e Corsi preferiscono invece adottare <hi rend="italic">dona</hi> in luogo di <hi rend="italic">madona</hi>.
+                </note>
+                <note target="#l5">
+                    <num>5</num>
+                    <hi rend="italic">aspetto</hi>: ‘sguardo’.
+                </note>
+                <note target="#l6">
+                    <num>6</num>
+                    <hi rend="italic">del sugetto</hi>: ‘di chi ti serve, è soggetto alla tua volontà’.
+                </note>
+                <note target="#l7">
+                    <num>7</num>
+                    Il verso è lacunoso, gli editori precedenti integrano in vario modo (Li Gotti e Corsi: <hi rend="italic">accesi e belli</hi>, Pirrotta: <hi rend="italic">accesi e negri</hi>), ma è più probabile che, anche tenendo conto di quanto segue (<hi rend="italic">di cui chiareçç[a]</hi>), <hi rend="italic">accesi</hi> fosse preceduto da un complemento di qualità, <hi rend="italic">di luce</hi> o piuttosto <hi rend="italic">di lume</hi>, come in Petrarca, <hi rend="italic">T. Cupidinis</hi>, vv. 137-138 «gli occhi, ch’accesi d’un celeste lume / m’infiamman sì ch’io son d’arder contento».
+                </note>
+                <note target="#l8">
+                    <num>8</num>
+                    <hi rend="italic">di cui chiareçç’</hi>: ‘dal quale (lume proviene) luminosità’. L’emendamento, necessario per la misura del verso, è già in Li Gotti ed è accolto da Corsi.
+                </note>
+                <note target="#l9">
+                    <num>9</num>
+                    <hi rend="italic">e</hi>: l’emendamento è già in Li Gotti ed è accolto da Corsi.
+                </note>
+                <note target="#l10">
+                    <num>10</num>
+                    L’integrazione è già in Li Gotti, che vi vede il <hi rend="italic">senhal</hi> ANNA, ed è accolta da Corsi.
+                </note>
+            </div>
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="LiGotti1944a">
+                    Ettore Li Gotti, <hi rend="italic">L'«Ars nova» e il madrigale</hi>, serie 4, vol. IV, parte II, Atti della Reale Accademia di Scienze Lettere e Arti di Palermo, Palermo, 1944, pp. 339-89
+                </bibl>
+                <bibl xml:id="Pirrotta1960">
+                    Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy II. Maestro Piero; Codex Vatican Rossi 215; Anonymous Madrigals and Cacce from Other Manuscripts</hi>, Amsterdam, American Institute of Musicology, 1960 (CMM, 8/2)</bibl>
+                <bibl xml:id="Corsi1970">
+                    Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
