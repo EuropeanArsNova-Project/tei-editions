@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Trover ne puis aucunemant confort</title>
+                <title> Già da rete d’amor libera et sciolta </title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -122,9 +122,9 @@
             </div>
 
 
-            <listBibl type="editions">
+            <!--<listBibl type="editions">
                 <bibl corresp="#ApelRosenberg1970"> Apel-Rosenberg 1970, p. LXII.</bibl>
-            </listBibl>
+            </listBibl>-->
 
 
             <!--<listBibl type="bibliography">
@@ -133,24 +133,15 @@
          </listBibl>-->
 
 
-            <div type="commentary">
-                <note target="#l10">
-                    <num> 10.</num>
-                    <p> <hi rend="italic">m’envie</hi>: ‘mi impedisce’, per latinismo semantico.</p>
-                </note>
-                
-                <note target="#l12">
-                    <num> 12.</num>
-                    <p> <hi rend="italic">si</hi>: l’integrazione è già in Apel-Rosenberg 1970.</p>
-                </note>
-            </div>
+            <!--<div type="commentary">
+            </div>-->
 
 
-            <listBibl type="editionsBibliography">
+            <!--<listBibl type="editionsBibliography">
                 
                 <bibl xml:id="ApelRosenberg1970"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1)</bibl>
 
-            </listBibl>
+            </listBibl>-->
         </back>
     </text>
 </TEI>
