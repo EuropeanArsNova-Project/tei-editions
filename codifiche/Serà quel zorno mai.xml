@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Già da rete d’amor libera et sciolta </title>
+                <title> Serà quel zorno mai</title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -57,18 +57,22 @@
       </front> -->
         <body>
             <lg>
-                <l xml:id="l1"> Già da rete d’amor libera et sciolta </l>
-                <l xml:id="l2"> era questa alma, et or è in pianti volta. </l>
+                <l xml:id="l1"> Serà quel zorno mai,</l>
+                <l xml:id="l2"> dolze madonna mia, </l>
+                <l xml:id="l3"> che per toa cortesia</l>
+                <l xml:id="l4"> prenda el mio cor, <anchor xml:id="l4a1"/>che vive in tanti guai<anchor xml:id="l4a2"/>?</l>
             </lg>
             <lg>
-                <l xml:id="l3"> <anchor xml:id="l3a1"/>Che<anchor xml:id="l3a2"/> tue eterne bellezze al mondo sole,</l>
-                <l xml:id="l4"> <anchor xml:id="l4a1"/>qual’ non ebbe<anchor xml:id="l4a2"/> Dïana in fonte o in riva,</l>
-                <l xml:id="l5" n="5"> con sembianti leggiadri e con parole,</l>
-                <l xml:id="l6"> han d’ogni altro pensar la mente priva.</l>
-                <l xml:id="l7"> Però, nimpha celeste tanto diva,</l>
-                <l xml:id="l8"> <anchor xml:id="l8a1"/>n<supplied reason="illegible">[o]</supplied><anchor xml:id="l8a2"/> me sia dal bel viso mercé tolta.</l>
+                <l xml:id="l5" n="5"> Certo non ben convensi</l>
+                <l xml:id="l6"> zentil cosa trovar <anchor xml:id="l6a1"/>sença pietate<anchor xml:id="l6a2"/>,</l>
+                <l xml:id="l7"> né che in summa beltate</l>
+                <l xml:id="l8"> cortesia manchi ai lassi spirti accensi. </l>
+                <l xml:id="l9"> Dunque, perché non pensi</l>
+                <l xml:id="l10" n="10"> al mio grave dolore?</l>
+                <l xml:id="l11"> Non vedi tu ch’el core </l>
+                <l xml:id="l12"> per ti si struze et manca in pianti omai?</l>
             </lg>
-            
+
         </body>
 
 
@@ -76,39 +80,31 @@
         <back>
             <listWit>
                 <witness xml:id="MoA">
-                    <!--ref target="X"-->MoA<!--/ref--> c. 47r, <abbr xml:id="MoAC">C</abbr> (vv. 1-4), <abbr xml:id="MoAT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (5-8): <hi rend="italic"> idem </hi> [c. 47r: <hi rend="italic"> m(attheus) d(e) p(erusio)</hi>]
+                    <!--ref target="X"-->MoA<!--/ref--> cc. <locus>48v-49r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-6), <abbr xml:id="MoAT">T</abbr> (vv. 1-6), <hi rend="italic">resid.</hi> (6-12): <hi rend="italic">idem</hi>[c. 47r: <hi rend="italic">m(attheus) de p(er)usio</hi>]
                 </witness>
             </listWit>
 
 
             <!--<listApp type="substantial">
-               
             </listApp>-->
 
 
 
             <listApp type="formal">
                 <listApp>
-                    <head> 3</head>
-                    <app from="#l3a1" to="#l3a2">
-                        <lem> che</lem>
-                        <rdg wit="#MoA">che che</rdg>
-                    </app>
-                </listApp>
-                
-                <listApp>
                     <head> 4</head>
                     <app from="#l4a1" to="#l4a2">
-                        <lem> qual’ non ebbe</lem>
-                        <rdg wit="#MoA"> <hi rend="italic">rip.</hi></rdg>
+                        <lem> che vive in tanti guai</lem>
+                        <rdg wit="#MoA"><hi rend="italic">rip.</hi></rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 8</head>
-                    <app from="#l8a1" to="#l8a2">
-                        <lem> no</lem>
-                        <rdg wit="#MoA"> ne</rdg>
+                    <head> 6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem> sença pietate</lem>
+                        <rdg><hi rend="italic">rip.</hi> <wit><ref corresp="#MoAC">MoA<hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg> sença pieta zentil cosa trovar sença pietate sença pietate <wit><ref corresp="#MoAT">MoA<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>
             </listApp>
@@ -116,9 +112,9 @@
 
 
             <div type="metricalScheme">
-                <p> Ballata 10’z 10’y; 10’a 10’b, 10’a 10’b; 10’b 10’z</p>
-                <p> <hi rend="italic">Pagnotta </hi>111 : 127</p>
-                <p> Punti sottoscritti: v. 3 (<hi rend="italic">tue</hi>) MoA.</p>
+                <p> Ballata grande 6’z 6’y 6’y 10’z; 6’a 10’b, 6’a 10’b; 6’b 6’c 6’c 10’z.</p>
+                <p> <hi rend="italic">Pagnotta </hi>150 : 5.</p>
+                <p> Rima inclusiva e derivativa ai vv. 1 : 12; rima ricca ai vv. 6 : 7.</p>
             </div>
 
 
