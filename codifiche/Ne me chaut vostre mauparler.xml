@@ -239,6 +239,30 @@
                         
                     </listApp>
                     
+                    <div type="commentary">
+                        <note target="#l2m"> 
+                            <num> 2.</num>
+                            <p> ‘riferite nel modo peggiore (con malignità) ciò che sapete’.</p>
+                        </note>
+                        
+                        <note target="#l3m">
+                            <num> 3.</num>
+                            <p> <hi rend="italic"> je vueil bien que</hi>: la lezione di Ln7 è innovazione banalizzante.</p>
+                        </note>
+                        
+                        <note target="#l5m">
+                            <num> 5.</num>
+                            <p> <hi rend="italic"> chetis mesdisans</hi>: nella versione di MoA, la rima imperfetta risulta graficamente regolarizzata attraverso l’assunzione del <hi rend="italic">cas sujet</hi> plurale secondo l’a. fr., ma è da tener presente che a quest’altezza cronologica le consonanti finali coinvolte non venivano più pronunciate. </p>
+                        </note>
+                        
+                        <note target="#l9m">
+                            <num> 9.</num> 
+                            <p> <hi rend="italic"> cher</hi>: la forma <hi rend="italic">chier</hi> di MoA è dell’a. fr.</p>
+                            
+                        </note>
+                    </div>
+                    
+                    
                 </back>
         
                     
@@ -315,31 +339,7 @@
                         </bibl>
                     </listBibl>-->
             
-            
-            <div type="commentary">
-                <note target="#l2m"> 
-                    <num> 2.</num>
-                    <p> ‘riferite nel modo peggiore (con malignità) ciò che sapete’.</p>
-                </note>
-                
-                <note target="#l3m">
-                    <num> 3.</num>
-                    <p> <hi rend="italic"> je vueil bien que</hi>: la lezione di Ln7 è innovazione banalizzante.</p>
-                </note>
-                
-                <note target="#l5m">
-                    <num> 5.</num>
-                    <p> <hi rend="italic"> chetis mesdisans</hi>: nella versione di MoA, la rima imperfetta risulta graficamente regolarizzata attraverso l’assunzione del <hi rend="italic">cas sujet</hi> plurale secondo l’a. fr., ma è da tener presente che a quest’altezza cronologica le consonanti finali coinvolte non venivano più pronunciate. </p>
-                </note>
-                
-                <note target="#l9m">
-                    <num> 9.</num> 
-                    <p> <hi rend="italic"> cher</hi>: la forma <hi rend="italic">chier</hi> di MoA è dell’a. fr.</p>
-                    
-                </note>
-            </div>
-            
-            
+                   
             <listBibl type="editionsBibliography">
                 <bibl xml:id="ApelRosenberg1970"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1)</bibl>
             </listBibl>
