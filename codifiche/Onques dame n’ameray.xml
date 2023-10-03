@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Onques dame n’ameray</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp> Edited by</resp>
+                    <name> Maria Sofia Lannutti</name> 
+                </respStmt>
+                <respStmt>
+                    <resp> Revised by</resp>
+                    <name> Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp> TEI-encoded by</resp>
+                    <name> Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p> 
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1"> <anchor xml:id="l1a1"/>Onques<anchor xml:id="l1a2"/> dame n’ameray,</l>
+                <l xml:id="l2"> car m’amie m’a pris en hé,</l>
+                <l xml:id="l3"> a qui j’ay mon cuer donné,</l>
+                <l xml:id="l4"> l’achaison je ne la scay.</l>
+            </lg>
+            <lg>
+                <l xml:id="l5" n="5"> Sans celle toujours vëoir,</l>
+                <l xml:id="l6"> je n’<anchor xml:id="l6a1"/>av<supplied reason="illegible">[rai]</supplied><anchor xml:id="l6a2"/> confort ne bien,</l>
+                <l xml:id="l7"> j’ay veü le sien voloir,</l>
+                <l xml:id="l8"> il n’est pas com est le mien.</l>
+                <l xml:id="l9"> <anchor xml:id="l9a1"/>Loyauté<anchor xml:id="l9a2"/> mise li ay,</l>
+                <l xml:id="l10" n="10"> si vous jure en verité:</l>
+                <l xml:id="l11"> belle dame ay refusé</l>
+                <l xml:id="l12"> qui m’amoye de cuer vray.</l>
+            </lg>
+            <lg>
+                <l xml:id="l13"> Retrayre du tout, par voir,</l>
+                <l xml:id="l14"> je <anchor xml:id="l14a1"/>querray<anchor xml:id="l14a2"/> de l’amour sien,</l>
+                <l xml:id="l15" n="15"> des que, pour faulx decevoir,</l>
+                <l xml:id="l16"> n’a de moy pitié que un chien.</l>
+                <l xml:id="l17"> Helas! <anchor xml:id="l17a1"/>Me<anchor xml:id="l17a2"/> voy en esmay</l>
+                <l xml:id="l18"> car Desir joste a durté:</l>
+                <l xml:id="l19"> c’est contre ma volanté,</l>
+                <l xml:id="l20" n="20"> pourtant chante sans delay.</l>
+            </lg>
+            
+            <lg>
+                <l xml:id="l21"> Umais nul plaisir avoir</l>
+                <l xml:id="l22"> spoire qui m’agree de rien,</l>
+                <l xml:id="l23"> fors que vivre en desespoir,</l>
+                <l xml:id="l24"> hayneus, fuyant son <anchor xml:id="l24a1"/>maintien<anchor xml:id="l24a2"/>.</l>
+                <l xml:id="l25" n="25">De mes eulz <anchor xml:id="l25a1"/>ne<anchor xml:id="l25a2"/> la veray,</l>
+                <l xml:id="l26">et se la voy, maul dité</l>
+                <l xml:id="l27"><anchor xml:id="l27a1"/>de<anchor xml:id="l27a2"/> moy ert <supplied reason="illegible">[d]</supplied>e sa beauté,</l>
+                <l xml:id="l28">qui m’envoye a dir ce lay.</l>
+            </lg>
+
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="MoA">
+                    <!--ref target="X"-->MoA<!--/ref--> cc. <locus>9v-10r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-8), <hi rend="italic">resid.</hi> (vv. 9-28): [c. lr: <hi rend="italic">m(attheus) de p(er)usio</hi>]
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">
+                <listApp>
+                    <head> 1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem> Onques</lem>
+                        <rdg wit="#MoA">plus onques</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem> avrai</lem>
+                        <rdg wit="#MoA"> avoye</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 9</head>
+                    <app from="#l9a1" to="#l9a2">
+                        <lem> Loyauté</lem>
+                        <rdg wit="#MoA"> et loyaute</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 14</head>
+                    <app from="#l14a1" to="#l14a2">
+                        <lem> querray</lem>
+                        <rdg wit="#MoA"> me querray</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 17</head>
+                    <app from="#l17a1" to="#l17a2">
+                        <lem> Me</lem>
+                        <rdg wit="#MoA"> or me</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 24</head>
+                    <app from="#l24a1" to="#l24a2">
+                        <lem> maintien</lem>
+                        <rdg wit="#MoA"> doulz maintien</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 25</head>
+                    <app from="#l25a1" to="#l25a2">
+                        <lem> ne</lem>
+                        <rdg wit="#MoA"> plus ne</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 27</head>
+                    <app from="#l27a1" to="#l27a2">
+                        <lem> de</lem>
+                        <rdg wit="#MoA"> et</rdg>
+                    </app>
+                </listApp>
+
+            </listApp>
+
+
+
+            <!--<listApp type="formal">
+               
+            </listApp>-->
+            
+
+
+            <div type="metricalScheme">
+                <p> <hi rend="italic">Virelai</hi>7a 7b 7b 7a; 7c 7d, 7c 7d; 7a 7b 7b 7a.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#ApelRosenberg1972"> Apel-Rosenberg 1972, pp. XXXVIII-XXXIX.</bibl>
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl>-->
+
+
+            <div type="commentary">
+                <note target="#l1">
+                    <num> 1.</num>
+                    <p> <hi rend="italic">Onques</hi>: il monosillabo iniziale è stato espunto per ripristinare la regolarità sillabica. Sono diversi i versi crescenti di una sillaba in questo testo, dovuti presumibilmente all’adozione insolita dell’<hi rend="italic">eptasyllabe</hi>, che è stato indebitamente ricondotto al più frequente <hi rend="italic">octosyllabe</hi>.</p>
+                </note>
+                
+                <note target="#l16">
+                    <num> 16.</num>
+                    <p> <hi rend="italic">que</hi>: vale <hi rend="italic">plus que</hi>.</p>
+                </note>
+                
+                <note target="#l18">
+                    <num> 18.</num>
+                    <p> <hi rend="italic">joste a durté</hi>: ‘mi contrasta duramente’.</p>
+                </note>
+                
+                <note target="#l21">
+                    <num> 21.</num>
+                    <p> <hi rend="italic">Umais</hi>: per <hi rend="italic">huimais</hi> ‘ora’.</p>
+                </note>
+                
+                <note target="#l22">
+                    <num> 22.</num>
+                    <p> <hi rend="italic">spoire</hi>: forma priva di prostesi, riconducibile alla <hi rend="italic">scripta</hi> franco-italiana. Non è da escludersi però che abbia sostituito un originario <hi rend="italic">espoir</hi>.</p>
+                </note>
+                
+                <note target="#l26 #l28">
+                    <num> 26-28.</num>
+                    <p> ‘E se la vedo, scriverò un poema malevolo sulla sua bellezza, che mi induce a dire questo <hi rend="italic">lai</hi>’.</p>
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                
+                <bibl xml:id="ApelRosenberg1972"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. III, Anonymous Virelais, Rondeaux, Chansons, Canons</hi>, ed. by W. Apel, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1972 (CMM, 53/3)</bibl>
+
+            </listBibl>
+        </back>
+    </text>
+</TEI>
