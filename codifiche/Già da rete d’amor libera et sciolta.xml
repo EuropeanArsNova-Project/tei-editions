@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> A qui Fortune est toudis ennemie</title>
+                <title> Già da rete d’amor libera et sciolta </title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -57,21 +57,18 @@
       </front> -->
         <body>
             <lg>
-                <l xml:id="l1">A qui Fortune est toudis ennemie,</l>
-                <l xml:id="l2"> il m’est avis, vivre doit en langor,</l>
-                <l xml:id="l3"> sans joy avoir, fors tristesse et dolour:</l>
-                <l xml:id="l4"> pour moy le di, que fortment me guerrie.</l>
+                <l xml:id="l1"> Già da rete d’amor libera et sciolta </l>
+                <l xml:id="l2"> era questa alma, et or è in pianti volta. </l>
             </lg>
             <lg>
-                <l xml:id="l5" n="5"> Si ne se doit nulz homs meraveller</l>
-                <l xml:id="l6"> se je <anchor xml:id="l6a1"/><supplied reason="illegible">[ne]</supplied><anchor xml:id="l6a2"/> sui de cuer gay et jolis:</l>
-                <l xml:id="l7"> si perdu ay, <anchor xml:id="l7a1"/><supplied reason="illegible">[ne]</supplied><anchor xml:id="l7a2"/> bien say recouvrer,</l>
-                <l xml:id="l8"> tous mes desduis en estrange païs.</l>
-                <l xml:id="l9"><supplied reason="illegible">[…]</supplied></l>
-                <l xml:id="l10" n="10"><supplied reason="illegible">[…]</supplied></l>
-                <l xml:id="l11"><supplied reason="illegible">[…]</supplied></l>
+                <l xml:id="l3"> <anchor xml:id="l3a1"/>Che<anchor xml:id="l3a2"/> tue eterne bellezze al mondo sole,</l>
+                <l xml:id="l4"> <anchor xml:id="l4a1"/>qual’ non ebbe<anchor xml:id="l4a2"/> Dïana in fonte o in riva,</l>
+                <l xml:id="l5" n="5"> con sembianti leggiadri e con parole,</l>
+                <l xml:id="l6"> han d’ogni altro pensar la mente priva.</l>
+                <l xml:id="l7"> Però, nimpha celeste tanto diva,</l>
+                <l xml:id="l8"> <anchor xml:id="l8a1"/>n<supplied reason="illegible">[o]</supplied><anchor xml:id="l8a2"/> me sia dal bel viso mercé tolta.</l>
             </lg>
-
+            
         </body>
 
 
@@ -79,64 +76,68 @@
         <back>
             <listWit>
                 <witness xml:id="MoA">
-                    <!--ref target="X"-->MoA<!--/ref--> cc. <locus>20v-21r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-8),<hi rend="italic">anthonellus </hi> [c. 21r: <hi rend="italic">m(agiste)r filipoctus</hi>]
+                    <!--ref target="X"-->MoA<!--/ref--> c. 47r, <abbr xml:id="MoAC">C</abbr> (vv. 1-4), <abbr xml:id="MoAT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (5-8): <hi rend="italic"> idem </hi> [c. 47r: <hi rend="italic"> m(attheus) d(e) p(erusio)</hi>]
                 </witness>
             </listWit>
 
 
-            <listApp type="substantial">
+            <!--<listApp type="substantial">
+               
+            </listApp>-->
+
+
+
+            <listApp type="formal">
                 <listApp>
-                    <head> 6</head>
-                    <app from="#l6a1" to="#l6a2">
-                        <lem> ne</lem>
-                        <rdg wit="#MoA"/>
+                    <head> 3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem> che</lem>
+                        <rdg wit="#MoA">che che</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 7</head>
-                    <app from="#l7a1" to="#l7a2">
-                        <lem> ne</lem>
-                        <rdg wit="#MoA"/>
+                    <head> 4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem> qual’ non ebbe</lem>
+                        <rdg wit="#MoA"> <hi rend="italic">rip.</hi></rdg>
                     </app>
                 </listApp>
-
+                
+                <listApp>
+                    <head> 8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem> no</lem>
+                        <rdg wit="#MoA"> ne</rdg>
+                    </app>
+                </listApp>
             </listApp>
-
-
-
-            <!--<listApp type="formal">
-            </listApp>-->
+            
 
 
             <div type="metricalScheme">
-                <p> <hi rend="italic">Virelai</hi> 10’a 10b 10b 10’a; 10c 10d, 10c 10d; [10’a 10b 10b 10’a]. </p>
+                <p> Ballata 10’z 10’y; 10’a 10’b, 10’a 10’b; 10’b 10’z</p>
+                <p> <hi rend="italic">Pagnotta </hi>111 : 127</p>
+                <p> Punti sottoscritti: v. 3 (<hi rend="italic">tue</hi>) MoA.</p>
             </div>
 
 
-            <listBibl type="editions">
-
-                <bibl corresp="#ApelRosenberg1972"> Apel-Rosenberg 1972, p. XXXI.</bibl>
-
-            </listBibl>
+            <!--<listBibl type="editions">
+            </listBibl>-->
 
 
             <!--<listBibl type="bibliography">
             <bibl corresp="#">
             </bibl>
-         </listBibl>-->
+            </listBibl>-->
 
 
             <!--<div type="commentary">
-                
             </div>-->
 
 
-            <listBibl type="editionsBibliography">
-                
-                <bibl xml:id="ApelRosenberg1972"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. III, Anonymous Virelais, Rondeaux, Chansons, Canons</hi>, ed. by W. Apel, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1972 (CMM, 53/3)</bibl>
-
-            </listBibl>
+            <!--<listBibl type="editionsBibliography">
+            </listBibl>-->
         </back>
     </text>
 </TEI>
