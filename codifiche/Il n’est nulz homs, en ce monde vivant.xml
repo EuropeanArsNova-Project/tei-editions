@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Il n’est nulz homs, en ce monde vivant</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+            <div>
+                <p>
+                </p>
+            </div>         
+        </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    Il n’est nulz homs, en ce monde vivant,
+                </l>
+                <l xml:id="l2">
+                    ce m’est avis, qui <anchor xml:id="l2a1"/>peut<anchor xml:id="l2a2"/> considerer,
+                </l>
+                <l xml:id="l3">
+                    tant <anchor xml:id="l3a1"/>f<supplied>[a]</supplied>it<anchor xml:id="l3a2"/> subtilz <anchor xml:id="l3a3"/><supplied>[d]</supplied>e<anchor xml:id="l3a4"/> pris, apercevant,
+                </l>
+                <l xml:id="l4">
+                    la grant dolour qu’il me faut endurer.
+                </l>
+                <l xml:id="l5" n="5">
+                    Si ne sçay, las, commant tel faiz porter
+                </l>
+                <l xml:id="l6">
+                    puis sanz confort ne nul esbatement,
+                </l>
+                <l xml:id="l7">
+                    <hi rend="italic">mais doulz espoirs me donne alegement</hi>.
+                </l>
+            </lg>
+            <lg>
+                <l xml:id="l8">
+                    Arriere vois quant cuide aler avant,
+                </l>
+                <l xml:id="l9">
+                    trouver ne puis port ou puisse passer,
+                </l>
+                <l xml:id="l10" n="10">
+                    tant fort me va nuit et jorn guerrïant
+                </l>
+                <l xml:id="l11">
+                    Fortune, qui maint <anchor xml:id="l11a1"/>homme<supplied>[s fait]</supplied><anchor xml:id="l11a2"/> tumber
+                </l>
+                <l xml:id="l12">
+                    de haut en bas sanz sa röe cesser,
+                </l>
+                <l xml:id="l13">
+                    fait dont me voy triste, chetif et lent,
+                </l>
+                <l xml:id="l14">
+                    <anchor xml:id="l14a1"/><hi rend="italic">mais doulz espoirs me donne alegement</hi>.<anchor xml:id="l14a2"/>
+                </l>
+            </lg>
+            <lg>
+                <l xml:id="l15" n="15">
+                    S’espoir n’estoit qui me va confortant,
+                </l>
+                <l xml:id="l16">
+                    tost me faudroit de ce monde finer,
+                </l>
+                <l xml:id="l17">
+                    pour quoy je pri le roy au tout puissant
+                </l>
+                <l xml:id="l18">
+                    que tost me vueille a joie remener
+                </l>
+                <l xml:id="l19">
+                    ens ou païz qui tant fait a louer,
+                </l>
+                <l xml:id="l20" n="20">
+                    car certes mes cuers vit a grant comant,
+                </l>
+                <l xml:id="l21">
+                    <anchor xml:id="l21a1"/><hi rend="italic">mais doulz espoirs me donne alegement</hi>.<anchor xml:id="l21a2"/>
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="Ch">
+                    <!--ref target="X"-->Ch<!--/ref-->
+                    c. <locus>38v</locus>, <abbr xml:id="ChC">C</abbr> (vv. 1-7),  <hi rend="italic">resid. (vv. 8-21)</hi>: <hi rend="italic">ph(ilip)ot(us)</hi>
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>peut</lem>
+                        <rdg wit="#Ch">peust</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>fait</lem>
+                        <rdg wit="#Ch">foit</rdg>
+                    </app>
+                    <app from="#l3a3" to="#l3a4">
+                        <lem>de</lem>
+                        <rdg wit="#Ch">ne</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>11</head>
+                    <app from="#l11a1" to="#l11a2">
+                        <lem>hommes fait</lem>
+                        <rdg wit="#Ch">homme</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>14</head>
+                    <app from="#l14a1" to="#l14a2">
+                        <lem>mais doulz espoirs me donne alegement</lem>
+                        <rdg wit="#Ch"><witDetail wit="Ch"><hi rend="italic">refrain abbreviato</hi> mais doulz etc</witDetail></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>21</head>
+                    <app from="#l21a1" to="#l21a2">
+                        <lem>mais doulz espoirs me donne alegement</lem>
+                        <rdg wit="#Ch"><witDetail wit="Ch"><hi rend="italic">refrain abbreviato</hi> mais doulz espoirs etc</witDetail></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p><hi rend="italic">Ballade</hi> 10a 10b, 10a 10b; 10b 10c 10C. <hi rend="italic">Coblas unissonans</hi> (ma, nella terza strofe, c = b).</p>
+                <p>Rima ricca ai vv. 1 : 3 : 8, 2 : 4, 6 : 7, 3 : 8, 9 : 12, 16 : 18.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Apel-Rosenberg1970">
+                    Apel-Rosenberg 1970, p. LXIV.
+                </bibl>
+            </listBibl>
+            <div type="commentary">
+                <note target="#l1 #l2 #l3 #l4">
+                    <num>1-4</num>
+                    Si costruisca: «En ce monde vivant, il n’est nulz homs, ce m’est avis, fait tant subtilz de pris, qui peut considerer, apercevant, la grant dolour qu’il me faut endurer».
+                </note>
+                <note target="#l11">
+                    <num>11</num>
+                    L'integrazione di <hi rend="italic">fait</hi> è già in Apel-Rosenberg 1970.
+                </note>
+            </div>
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Apel-Rosenberg1970">
+                    <hi rend="italic">French Secular Compositions of the Fourteenth Century, </hi>I. <hi rend="italic">Ascribed Compositions</hi>, ed. by W. Apel. Edition of the literary texts by S. N. Rosenberg., Roma, AIM, 1970 (CMM, 53/1)
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
