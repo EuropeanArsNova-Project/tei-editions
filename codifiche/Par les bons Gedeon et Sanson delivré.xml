@@ -103,7 +103,7 @@
             <listWit>
                 <witness xml:id="MoA">
                     <!--ref target="X"-->MoA<!--/ref-->
-                    c. <locus>32r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-7),  <hi rend="italic">resid. (vv. 8-14)</hi>: <hi rend="italic">philipoctus de caserta</hi>
+                    c. <locus>32r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-7),  <hi rend="italic">resid.</hi> (vv. 8-14): <hi rend="italic">philipoctus de caserta</hi>
                 </witness>
                 <witness xml:id="Ch">
                     <!--ref target="X"-->Ch<!--/ref-->
