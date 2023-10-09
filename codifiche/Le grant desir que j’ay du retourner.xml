@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Avendo me’ falcon tanto seguito</title>
+                <title>Le grant desir que j’ay du retourner</title>
                 <respStmt>
                     <resp>Digital scholarly edition created within the </resp>
                     <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
@@ -17,7 +17,7 @@
                 </respStmt>
                 <respStmt>
                     <resp>Revised by</resp>
-                    <name>Vittoria Brancato</name>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
                     <resp>TEI-encoded by</resp>
@@ -54,85 +54,94 @@
         <body>
             <lg>
                 <l xml:id="l1">
-                    <anchor xml:id="l1a1"/><supplied>[A]</supplied>vendo<anchor xml:id="l1a2"/> me’ falcon tanto seguito
+                    Le grant desir que j’ay du retourner
                 </l>
                 <l xml:id="l2">
-                    per gran <anchor xml:id="l2a1"/>pallude<anchor xml:id="l2a2"/>, che calar lo vidi 
+                    devers vous, <anchor xml:id="l2a1"/>douche<anchor xml:id="l2a2"/> dame de valour,
                 </l>
                 <l xml:id="l3">
-                    de fin in terra pur traendo gridi, 
+                    fet tout <anchor xml:id="l3a3"/>mon cuer<anchor xml:id="l3a4"/> <anchor xml:id="l3a1"/><supplied>[en]</supplied><anchor xml:id="l3a2"/>fondre et secchier,
                 </l>
                 <l xml:id="l4">
-                    <supplied>[…]</supplied>
-                </l>
+                    ansi ma vie fenis de jour en jour,
+                </l>    
                 <l xml:id="l5" n="5">
-                    <supplied>[…]</supplied>
+                    car vrayemant, belle dame d’<anchor xml:id="l5a1"/><supplied>[h]</supplied><anchor xml:id="l5a2"/>onour,
                 </l>
                 <l xml:id="l6">
-                    <supplied>[…]</supplied>
+                    tant con ne voy voutre beauté exmeréa,
                 </l>
-            </lg>
-            <lg>
                 <l xml:id="l7">
-                    <anchor xml:id="l7a1"/>Pascisce<anchor xml:id="l7a2"/> alocta cum pocheta lena, 
-                </l>
-                <l xml:id="l8">
-                    però che nel volar porta gran pena. 
+                    <hi rend="italic"><anchor xml:id="l7a1"/>n’ystra<anchor xml:id="l7a2"/> mon cuer <anchor xml:id="l7a3"/>de dolereux panséa<anchor xml:id="l7a4"/>.</hi>
                 </l>
             </lg>
         </body>
         <back>
             <listWit>
-                    <witness xml:id="R">
-                        <ref target="http://www.mirabileweb.it/manuscript-rom/paris-biblioth%C3%A8que-nationale-de-france-n-a-fr-6771-manoscript/LIO_30658">R</ref>
-                        c. <locus>30r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-5), <abbr xml:id="RT">T</abbr> (vv. 1-5)
-                    </witness>
+                <witness xml:id="MoA">
+                    <!--ref target="X"-->MoA<!--/ref-->
+                    c. <locus>34v</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-7): <hi rend="italic">m(attheus) de perusio</hi>
+                </witness>
             </listWit>
             <listApp type="substantial">
                 <listApp>
-                    <head>1</head>
-                    <app from="#l1a1" to="#l1a2">
-                        <lem>Avendo</lem>
-                        <rdg wit="#R">vendo</rdg>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>douche</lem>
+                        <rdg wit="#MoA">ma douche</rdg>
+                    </app>   
+                </listApp>
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>enfondre</lem>
+                        <rdg wit="#MoA">fondre</rdg>
+                    </app>   
+                </listApp>
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a1" to="#l5a2">
+                        <lem>honour</lem>
+                        <rdg wit="#MoA">onohur</rdg>
+                    </app>   
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>n’ystra</lem>
+                        <rdg wit="#MoA">noystra mon cuer noystra mon cuer</rdg>
+                    </app>   
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a3" to="#l3a4">
+                        <lem>mon cuer</lem>
+                        <rdg wit="#MoA">mon cuer mon cuer</rdg>
                     </app>
                 </listApp>
                 <listApp>
                     <head>7</head>
                     <app from="#l7a1" to="#l7a2">
-                        <lem>Pascisce</lem>
-                        <rdg>pasesse <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
-                    </app>
-                </listApp>
-            </listApp>
-            <listApp type="formal">
-                <listApp>
-                    <head>2</head>
-                    <app from="#l2a1" to="#l2a2">
-                        <lem>pallude</lem>
-                         <rdg>palude <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
+                        <lem>de dolereux panséa</lem>
+                        <rdg wit="#MoA">de dolereux pansea pansea de dolereux pansea</rdg>
                     </app>
                 </listApp>
             </listApp>
             <div type="metricalScheme">
-                <p>Madrigale 10’a 10’b 10’b, […]; 10’m 10’m.</p>
-                <p><hi rend="italic">Capovilla</hi> LVIII.</p>
+                <p><hi rend="italic">Ballade</hi> 10a 10b, 10a 10b; 10b 10’c 10’C.</p>
             </div>
             <listBibl type="editions">
-                <bibl corresp="#Wilkins1964">
-                   Wilkins 1964, p. 174.
-                </bibl>
-                <bibl corresp="#Fantini2020">
-                    Fantini 2021, pp. 370-2.
+                <bibl corresp="#Apel-Rosenberg1971">
+                    Apel-Rosenberg 1971, p. LVII.
                 </bibl>
             </listBibl>
             <!--div type="commentary">
             </div-->
             <listBibl type="editionsBibliography">
-                <bibl xml:id="Wilkins1964">
-                    N. Wilkins, <hi rend="italic">A critical edition of the French and Italian texts and music contained in the Codex Reina</hi>, PhD Thesis, University of Nottingham, 1964
-                </bibl>
-                <bibl xml:id="Fantini2021">
-                    S. M. Fantini, <hi rend="italic"> Il codice F-PN6771 (Reina): contenuto, struttura, generi</hi>, tesi di dottorato, Università di Siena, 2021
+                <bibl xml:id="Apel-Rosenberg1971">
+                    Willi Apel, <hi rend="italic">French Secular Compositions of the Fourteenth Century II. Anonymous Ballades</hi>, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1971 (CMM, 53/2)
                 </bibl>
             </listBibl>
         </back>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Par les bons Gedeon et Sanson delivré</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+            <div>
+                <p>
+                </p>
+            </div>         
+        </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    <anchor xml:id="l1a1"/>Par<anchor xml:id="l1a2"/> <anchor xml:id="l1a3"/>les<anchor xml:id="l1a4"/> bons <anchor xml:id="l1a5"/>Gedeon<anchor xml:id="l1a6"/> et Sanson delivré
+                </l>
+                <l xml:id="l2">
+                    fu le peuple de Dieu de <anchor xml:id="l2a1"/>tous<anchor xml:id="l2a2"/> ses <anchor xml:id="l2a3"/>enemis<anchor xml:id="l2a4"/>,
+                </l>
+                <l xml:id="l3">
+                    <anchor xml:id="l3a1"/>de mourtel<anchor xml:id="l3a2"/> servitù <anchor xml:id="l3a3"/>au quel<anchor xml:id="l3a4"/> estoit livré
+                </l>
+                <l xml:id="l4">
+                    <anchor xml:id="l4a5"/>pour<anchor xml:id="l4a6"/> la <anchor xml:id="l4a1"/>iniquité<anchor xml:id="l4a2"/> <anchor xml:id="l4a3"/>que<anchor xml:id="l4a4"/> il avoit comis.
+                </l>
+                <l xml:id="l5" n="5">
+                    <anchor xml:id="l5a1"/>Ainsi <anchor xml:id="l5a3"/>sera<anchor xml:id="l5a4"/><anchor xml:id="l5a2"/> le monde de bas en <anchor xml:id="l5a5"/>haut<anchor xml:id="l5a6"/> <anchor xml:id="l5a7"/>remis<anchor xml:id="l5a8"/>,
+                </l>
+                <l xml:id="l6">
+                    en <anchor xml:id="l6a1"/>la<anchor xml:id="l6a2"/> <anchor xml:id="l6a3"/>sainte<anchor xml:id="l6a4"/> <anchor xml:id="l6a5"/>vretu<anchor xml:id="l6a6"/> de <anchor xml:id="l6a7"/>celi<anchor xml:id="l6a8"/> qui ne ment,
+                </l>
+                <l xml:id="l7">
+                    <hi rend="italic">par le <anchor xml:id="l7a1"/>souverayn<anchor xml:id="l7a2"/> <anchor xml:id="l7a3"/>pape<anchor xml:id="l7a4"/> qui s’apelle <anchor xml:id="l7a5"/>Clement<anchor xml:id="l7a6"/></hi>.
+                </l>
+            </lg>
+            <lg>
+                <l xml:id="l8">
+                    Ire, devisïon et partïalité,
+                </l>
+                <l xml:id="l9">
+                    inordiné desir, desus orgueil assis,
+                </l>
+                <l xml:id="l10" n="10">
+                    sunt cause de la sisme, per quoy humilité,
+                </l>
+                <l xml:id="l11">
+                    unïon, karité et la foy sont vis mis:
+                </l>
+                <l xml:id="l12">
+                    le mondes est vis mis, se Diex, par sum avis,
+                </l>
+                <l xml:id="l13">
+                    ne le remet en vïe de <anchor xml:id="l13a1"/>verai<anchor xml:id="l13a2"/> sentiment,
+                </l>
+                <l xml:id="l14">
+                   <hi rend="italic">par le souverayn pape qui s’apelle Clement!</hi>
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="MoA">
+                    <!--ref target="X"-->MoA<!--/ref-->
+                    c. <locus>32r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-7),  <hi rend="italic">resid.</hi> (vv. 8-14): <hi rend="italic">philipoctus de caserta</hi>
+                </witness>
+                <witness xml:id="Ch">
+                    <!--ref target="X"-->Ch<!--/ref-->
+                    c. <locus>45v</locus>, <abbr xml:id="ChC">C</abbr> (vv. 1-7)
+                </witness>
+                <witness xml:id="To">
+                    <!--ref target="X"-->To<!--/ref-->
+                    c. <locus>5v</locus>, <abbr xml:id="ToC">C</abbr> (vv. 1-7)
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>Par</lem>
+                        <rdg wit="#Ch">ar</rdg>
+                    </app>
+                    <app from="#l1a3" to="#l1a4">
+                        <lem>les</lem>
+                        <rdg wit="#To"><gap reason="illegible" rend="ill."/></rdg>
+                    </app>
+                    <app from="#l1a5" to="#l1a6">
+                        <lem>Gedeon</lem>
+                        <rdg wit="#MoA">gedeons</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>tous</lem>
+                        <rdg wit="#MoA">tout</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>de mourtel</lem>
+                        <rdg wit="#Ch">du mortes</rdg>
+                    </app>
+                    <app from="#l3a3" to="#l3a4">
+                        <lem>au quel</lem>
+                        <rdgGrp>
+                            <rdg wit="#MoA">dau quil</rdg>
+                            <rdg wit="#To">en quel</rdg>
+                        </rdgGrp>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>iniquité</lem>
+                        <rdgGrp>
+                            <rdg wit="#MoA">iniquiite</rdg>
+                            <rdg wit="#To">inquire</rdg>
+                        </rdgGrp>                 
+                    </app>
+                    <app from="#l4a3" to="#l4a4">
+                        <lem>que</lem>
+                        <rdg wit="#To">quel</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a1" to="#l5a2">
+                        <lem>Ainsi sera le monde</lem>
+                        <rdg wit="#Ch">annesi sira lin mons</rdg>
+                    </app>
+                    <app from="#l5a3" to="#l5a4">
+                        <lem>sera</lem>
+                        <rdg wit="#To">serat</rdg>
+                    </app>
+                    <app from="#l5a5" to="#l5a6">
+                        <lem>haut</lem>
+                        <rdg wit="#Ch">hauc</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>la</lem>
+                        <rdg wit="#To"></rdg>
+                    </app>
+                    <app from="#l6a3" to="#l6a4">
+                        <lem>sainte</lem>
+                        <rdg wit="#MoA">samt</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>souverayn</lem>
+                        <rdgGrp>
+                            <rdg>souverayne <wit><ref target="#MoAC">MoA<hi rend="super">C</hi></ref></wit></rdg>
+                            <rdg wit="#To">sonbray</rdg>
+                        </rdgGrp>                 
+                    </app>
+                    <app from="#l7a3" to="#l7a4">
+                        <lem>pape</lem>
+                        <rdg wit="#To">antipape</rdg>
+                    </app>
+                    <app from="#l7a5" to="#l7a6">
+                        <lem>Clement</lem>
+                        <rdg wit="#Ch"></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>13</head>
+                    <app from="#l13a1" to="#l13a2">
+                        <lem>verai</lem>
+                        <rdg wit="#MoA">vrai</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a3" to="#l2a4">
+                        <lem>enemis</lem>
+                        <rdg wit="#To">ennemis</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a5" to="#l4a6">
+                        <lem>pour</lem>
+                        <rdg wit="#Ch">por</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a7" to="#l5a8">
+                        <lem>remis</lem>
+                        <rdg wit="#To">ramis</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a5" to="#l6a6">
+                        <lem>vretu</lem>
+                        <rdg wit="#Ch #To">vertu</rdg>
+                    </app>
+                    <app from="#l6a7" to="#l6a8">
+                        <lem>celi</lem>
+                        <rdg wit="#Ch #To">celui</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p><hi rend="italic">Ballade</hi> 6+6a 6+6b, 6(’)+6a 6+6b; 6(’)+6b 6(’)+6c 6’+6C. <hi rend="italic">Coblas unissonans</hi>.</p>
+                <p>Rima inclusiva ai vv. 1 : 3, 6 : 7; rima ricca ai vv. 2 : 4 : 5, 8 : 10, 13 : 14; rima identica interna (alla cesura) non strutturale ai vv. 11 : 12.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Apel-Rosenberg1970">
+                    Apel-Rosenberg 1970, pp. XLIV-XLV.
+                </bibl>
+                <bibl corresp="#Vivarelli2005">
+                  Vivarelli 2005, pp. 89-90.
+                </bibl>
+            </listBibl>
+            <div type="commentary">
+                <note target="#l2">
+                    <num>2</num>
+                    <hi rend="italic">servitù</hi>: è voce dell’italiano, cfr. il raro a. fr. <hi rend="italic">serveté</hi>, registrato in Tobler-Lommatsch, IX, p. 563.
+                </note>
+                <note target="#l7">
+                    <num>7</num>
+                    <hi rend="italic">souverayn pape</hi>: la variante di To <hi rend="italic">sonbray antipape</hi> ‘oscuro antipapa’ (-<hi rend="italic">ay</hi> è ipercorrettismo grafico per -<hi rend="italic">e</hi>) è da mettere in relazione con l’obbedienza pisano-bolognese propria dell’ambiente d’origine del manoscritto (Vivarelli 2005, p. 90).
+                </note>
+                <note target="#l11">
+                    <num>11</num>
+                    <hi rend="italic">verai</hi>: forma consueta nell’a. fr., necessaria per il metro. L’inserimento di una vocale nel nesso consonantico chiuso da una liquida è del resto tendenza fonetica propria del piccardo non sconosciuta ad altri dialetti (cfr. Gossen 1976, § 44, p. 103, e § 74, pp. 131-132).
+                </note>
+            </div>
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Apel-Rosenberg1970">
+                    <hi rend="italic">French Secular Compositions of the Fourteenth Century, </hi>I. <hi rend="italic">Ascribed Compositions</hi>, ed. by W. Apel. Edition of the literary texts by S. N. Rosenberg., Roma, AIM, 1970 (CMM, 53/1)
+                </bibl>
+                <bibl xml:id="Vivarelli2005">
+                    Carla Vivarelli, <hi rend="italic">Le composizioni francesi di Filippotto e Antonello da Caserta tràdite nel Codice Estense a.M.5.24</hi>, Pisa, ETS, 2005 («Diverse voci... 6»)
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
