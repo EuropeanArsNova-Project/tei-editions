@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Ma douce amour et ma sperance</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp> Edited by</resp>
+                    <name> Alice Colantuoni</name> 
+                </respStmt>
+                <respStmt>
+                    <resp> Revised by</resp>
+                    <name> Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp> TEI-encoded by</resp>
+                    <name> Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p> 
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1"> Ma douce amour et <anchor xml:id="l1a1"/>ma sperance<anchor xml:id="l1a2"/>,</l>
+                <l xml:id="l2"> je <anchor xml:id="l2a1"/>vos<anchor xml:id="l2a2"/> creant de bon cuer vray </l>
+                <l xml:id="l3"> que de ce <anchor xml:id="l3a1"/>qu’a<anchor xml:id="l3a2"/> vous fis fiance</l>
+                <l xml:id="l4"> <anchor xml:id="l4a1"/>jusque a<anchor xml:id="l4a2"/> la mort bien atendray.</l>
+            </lg>
+            <lg>
+                <l xml:id="l5" n="5"> Et sans <anchor xml:id="l5a1"/>mentire<anchor xml:id="l5a2"/> <anchor xml:id="l5a3"/>aiés<anchor xml:id="l5a4"/> certance</l>
+                <l xml:id="l6"> <anchor xml:id="l6a1"/>que onques<anchor xml:id="l6a2"/> <anchor xml:id="l6a3"/>nulle<anchor xml:id="l6a4"/> autre serviray:</l>
+                <l xml:id="l7"> je sui mis en <anchor xml:id="l7a3"/><anchor xml:id="l7a1"/>voutre<anchor xml:id="l7a2"/><anchor xml:id="l7a4"/> obeisance</l>
+                <l xml:id="l8"> et tous jours <anchor xml:id="l8a1"/>mez<anchor xml:id="l8a2"/> ensi seray.</l>
+                <l xml:id="l9"> Et vous <anchor xml:id="l9a1"/>sacchiés<anchor xml:id="l9a2"/> bien sans doubtance</l>
+                <l xml:id="l10" n="10"> qu’<anchor xml:id="l10a1"/>onques<anchor xml:id="l10a2"/> ne vous <anchor xml:id="l10a3"/>oblïeray<anchor xml:id="l10a4"/></l>
+                <l xml:id="l11"> tant <anchor xml:id="l11a1"/>qu’en moi<anchor xml:id="l11a2"/> <anchor xml:id="l11a3"/>facche<anchor xml:id="l11a4"/> demorance</l>
+                <l xml:id="l12"> la rien qu’<anchor xml:id="l12a1"/>onques<anchor xml:id="l12a2"/> vi ne <anchor xml:id="l12a3"/>veray<anchor xml:id="l12a4"/>.</l>
+            </lg>
+            
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="MoA">
+                    <!--ref target="X"-->MoA<!--/ref--> c. 27v, <abbr xml:id="MoAC">C</abbr> (vv. 1-8), <hi rend="italic"> resid.</hi> (vv. 11-12): <hi rend="italic">jo. de janua</hi>                    
+                </witness>
+                
+                <witness xml:id="Ln7">
+                    <!--ref target="X"-->Ln7<!--/ref--> c. 3v (vv. 1-12)                    
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">
+                <listApp>
+                    <head> 3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem> qu’a</lem>
+                        <rdg wit="#MoA"> que</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem> voutre</lem>
+                        <rdg wit="#MoA">noutre</rdg>
+                    </app>
+                </listApp>  
+                
+                <listApp>
+                    <head> 8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem> mez</lem>
+                        <rdg wit="#MoA"/>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 11</head>
+                    <app from="#l11a1" to="#l11a2">
+                        <lem> qu’en moi</lem>
+                        <rdg wit="#MoA"> que my </rdg>
+                    </app>
+                </listApp>
+            </listApp>
+
+            <listApp type="formal">
+                <listApp>
+                    <head> 1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem> ma sperance</lem>
+                        <rdg wit="#Ln7"> me sperance </rdg>
+                    </app>                        
+                </listApp>
+                
+                <listApp>
+                    <head> 2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem> vos</lem>
+                        <rdg wit="#Ln7"> vous</rdg>
+                    </app>                        
+                </listApp>
+                
+                <listApp>
+                    <head> 4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem> jusque a</lem>
+                        <rdg wit="#Ln7"> jusqua</rdg>
+                    </app>                        
+                </listApp>
+                
+                <listApp>
+                    <head> 5</head>
+                    <app from="#l5a1" to="#l5a2">
+                        <lem> mentire</lem>
+                        <rdg wit="#Ln7"> mentir</rdg>
+                    </app>    
+
+                    <app from="#l5a3" to="#l5a4">
+                        <lem> aiés</lem>
+                        <rdg wit="#Ln7"> aiez</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem> que onques</lem>
+                        <rdg wit="#Ln7"> quonquez </rdg>
+                    </app> 
+                    
+                    <app from="#l6a3" to="#l6a4">
+                        <lem> nulle</lem>
+                        <rdg wit="#Ln7"> nule</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 7</head>
+                    <app from="#l7a3" to="#l7a4">
+                        <lem> voutre</lem>
+                        <rdg wit="#Ln7"> vostre</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 9</head>
+                    <app from="#l9a1" to="#l9a2">
+                        <lem> sacchiés</lem>
+                        <rdg wit="#Ln7"> sachez </rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 10</head>
+                    <app from="#l10a1" to="#l10a2">
+                        <lem> onques</lem>
+                        <rdg wit="#Ln7"> onquez</rdg> 
+                    </app>
+                    
+                    <app from="#l10a3" to="#l10a4">
+                        <lem> oblïeray</lem>
+                        <rdg wit="#Ln7"> oublieray</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 11</head>
+                    <app from="#l11a3" to="#l11a4">
+                        <lem> facche</lem>
+                        <rdg wit="#Ln7">fache</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 12</head>
+                    <app from="#l12a1" to="#l12a2">
+                        <lem> onques</lem>
+                        <rdg wit="#Ln7">onquez</rdg>
+                    </app>
+                    
+                    <app from="#l12a3" to="#l12a4">
+                        <lem> veray</lem>
+                        <rdg wit="#Ln7">verray</rdg>
+                    </app>
+                </listApp>
+                
+                
+                
+            </listApp>
+            
+
+
+            <div type="metricalScheme">
+                <p> <hi rend="italic"> Virelai</hi> 8’a 8b 8’a 8b; 8’a 8b, 8’a 8b; 8’a 8b 8’a 8b.</p>
+                <p> Rima ricca ai vv. 1 : 11, 2 : 4 : 6 : 8 : 10 : 12, 5 : 9.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Bertoni1917"> Bertoni 1917, p. 39</bibl>
+                <bibl corresp="#Apel-Rosenberg1970"> Apel-Rosenberg 1970, p. LVI</bibl>
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+            </listBibl>-->
+
+
+            <div type="commentary">
+                <note target="#l1">
+                    <num> 1.</num>
+                    <p> <hi rend="italic">sperance</hi>: forma italianizzante ampiamente documentata nei testi franco-italiani (cfr. RIALFrI). La copia del manoscritto e con grande probabilità anche la composizione del testo sono localizzabili in Italia (l’intonatore è di sicura origine genovese, cfr. Günther-Plumley 2001).</p>
+                </note>
+                
+                <note target="#l5">
+                    <num> 5.</num>
+                    <p> <hi rend="italic">mentire</hi>: forma italianizzante.</p>
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Bertoni1917">Giulio Bertoni, <hi rend="italic">Poesie musicali francesi nel cod. Estense Lat. n. 568</hi>, in «Archivium Romanicum», 1 (1917), pp. 21-57.</bibl>
+                <bibl xml:id="Apel-Rosenberg1970"> <hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1)</bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
