@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Tutta soletta si gìa mormorando</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Vittoria Brancato</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+            <div>
+                <p>
+                </p>
+            </div>         
+        </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    <anchor xml:id="l1a3"/>Tutta<anchor xml:id="l1a4"/> <anchor xml:id="l1a1"/>soletta<anchor xml:id="l1a2"/> si gìa mormorando
+                </l>
+                <l xml:id="l2">
+                    la <anchor xml:id="l2a1"/>pulçelletta<anchor xml:id="l2a2"/> bella, 
+                </l>
+                <l xml:id="l3">
+                    dicendo <anchor xml:id="l3a1"/>in<anchor xml:id="l3a2"/> <anchor xml:id="l3a3"/>suo<anchor xml:id="l3a4"/> favella:
+                </l>
+                <l xml:id="l4">
+                    «<anchor xml:id="l4a1"/>Padre<anchor xml:id="l4a2"/>, perché mi <anchor xml:id="l4a3"/>faʼ<anchor xml:id="l4a4"/> <anchor xml:id="l4a5"/>gir<anchor xml:id="l4a6"/> lagrimando?»
+                </l>
+            </lg>
+            <lg>
+                <l xml:id="l5" n="5">
+                    Ne’ suoʼ lamenti <anchor xml:id="l5a1"/>et versetti<anchor xml:id="l5a2"/> <anchor xml:id="l5a3"/>pietosi<anchor xml:id="l5a4"/>
+                </l>
+                <l xml:id="l6">
+                    <anchor xml:id="l6a1"/>dicëa: «Padre<anchor xml:id="l6a2"/>, tu mi <anchor xml:id="l6a3"/>fai<anchor xml:id="l6a4"/> <anchor xml:id="l6a5"/>gram<anchor xml:id="l6a6"/> torto!
+                </l>
+                <l xml:id="l7">
+                    Nel tenpo <anchor xml:id="l7a1"/>son<anchor xml:id="l7a2"/> che ʼ <anchor xml:id="l7a3"/>diletti<anchor xml:id="l7a4"/> <anchor xml:id="l7a5"/>amorosi<anchor xml:id="l7a6"/>
+                </l>
+                <l xml:id="l8">
+                    dovrien <anchor xml:id="l8a1"/>con meco<anchor xml:id="l8a2"/> <anchor xml:id="l8a3"/>far<anchor xml:id="l8a4"/> <anchor xml:id="l8a5"/>grande<anchor xml:id="l8a6"/> conforto,
+                </l>
+                <l xml:id="l9">
+                    et tu mi tien rinchiusa in questo porto!
+                </l>
+                <l xml:id="l10" n="10">
+                    Et non <anchor xml:id="l10a1"/>so<anchor xml:id="l10a2"/> che·tti fai,
+                </l>
+                <l xml:id="l11">
+                    marito <anchor xml:id="l11a1"/>non mi<anchor xml:id="l11a2"/> dài,
+                </l>
+                <l xml:id="l12">
+                    <anchor xml:id="l12a3"/>e in<anchor xml:id="l12a4"/> questo <anchor xml:id="l12a1"/>mondo<anchor xml:id="l12a2"/> mi sto tapinando. 
+                </l>
+            </lg>
+            <lg>
+                <l xml:id="l13">
+                    Dè, <anchor xml:id="l13a3"/>giovineça<anchor xml:id="l13a4"/> mia, come ti <anchor xml:id="l13a1"/>strugi<anchor xml:id="l13a2"/>   
+                </l>
+                <l xml:id="l14">
+                    <anchor xml:id="l14a1"/>che<anchor xml:id="l14a2"/> <anchor xml:id="l14a5"/>correndo<anchor xml:id="l14a6"/> te·n vai sança <anchor xml:id="l14a3"/>ritorna<anchor xml:id="l14a4"/>!
+                </l>
+                <l xml:id="l15" n="15">
+                    <anchor xml:id="l15a1"/>De dolçe gaio tenpo ben ti <anchor xml:id="l15a3"/>fugi<anchor xml:id="l15a4"/><anchor xml:id="l15a2"/>
+                </l>
+                <l xml:id="l16">
+                    con tutta mia piacevoleça adorna. 
+                </l>
+                <l xml:id="l17">
+                    Ben <anchor xml:id="l17a1"/>fuge<anchor xml:id="l17a2"/> el tenpo mio, che non <anchor xml:id="l17a3"/>sogiorna<anchor xml:id="l17a4"/>,
+                </l>
+                <l xml:id="l18">
+                    et vedova <anchor xml:id="l18a1"/>rimango<anchor xml:id="l18a2"/>,
+                </l>
+                <l xml:id="l19">
+                    <anchor xml:id="l19a1"/>di ciò molto mi piango,<anchor xml:id="l19a2"/>
+                </l>
+                <l xml:id="l20" n="20">
+                    con gran <anchor xml:id="l20a1"/>dolori<anchor xml:id="l20a2"/>, <anchor xml:id="l20a3"/>lassa<anchor xml:id="l20a4"/>, sospirando.
+                </l>
+            </lg>
+            <lg>
+                <l xml:id="l21">
+                    <anchor xml:id="l21a1"/>Poiché<anchor xml:id="l21a2"/> non <anchor xml:id="l21a5"/>trovo<anchor xml:id="l21a6"/> in te, <anchor xml:id="l21a3"/>padre<anchor xml:id="l21a4"/>, <anchor xml:id="l21a7"/>pietade<anchor xml:id="l21a8"/>,   
+                </l>
+                <l xml:id="l22">
+                    tu, cançonetta <anchor xml:id="l22a1"/>adorna<anchor xml:id="l22a2"/> di sospiri,
+                </l>
+                <l xml:id="l23">
+                    lamentando tʼandrai per la cittade,
+                </l>
+                <l xml:id="l24">
+                    a <anchor xml:id="l24a1"/>qualunche<anchor xml:id="l24a2"/> persona o donna miri
+                </l>
+                <l xml:id="l25" n="25">
+                    <anchor xml:id="l25a1"/>faʼ<anchor xml:id="l25a2"/> che <anchor xml:id="l25a3"/>raconti<anchor xml:id="l25a4"/> loro <anchor xml:id="l25a5"/>eʼ<anchor xml:id="l25a6"/> <anchor xml:id="l25a7"/>mie<anchor xml:id="l25a8"/> martiri
+                </l>
+                <l xml:id="l26">
+                    et le pene dogliose
+                </l>
+                <l xml:id="l27">
+                    che in me sono ascose
+                </l>
+                <l xml:id="l28">
+                    et come dʼ<anchor xml:id="l28a3"/>allegreça<anchor xml:id="l28a4"/> <anchor xml:id="l28a1"/>sono<anchor xml:id="l28a2"/> in bando».  
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="Sq">
+                    <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-medicea-laurenziana-med-pal-87--manoscript/ARSNOVA_224962">Sq</ref>
+                    c. <locus>174r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-8), <hi rend="italic">resid.</hi> (vv. 9-28): <hi rend="italic">m(agister) frater egidius (et) guilielmus de francia</hi>
+                </witness>
+                <witness xml:id="Fp">
+                    <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-nazionale-centrale-pal-panciati-manoscript/ARSNOVA_185275">Fp</ref>
+                    cc. <locus>6v-7r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-6),  <abbr xml:id="FpT">T</abbr> (vv. 7-28), ): il brano, riempitivo nei due fogli, è accolto nella sezione dedicata a Francesco Landini. La rubrica, sul margine alto della pagina, riporta: <hi rend="italic">m(agister) f.</hi> [Francesco Landini].
+                </witness>
+                <witness xml:id="Pit">
+                    <!--ref target="X"-->Pit<!--/ref-->
+                    c. <locus>10r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-6): <hi rend="italic">fr(ate) guilielm(o)</hi>
+                </witness>
+                <witness xml:id="D1">
+                    <!--ref target="X"-->D1<!--/ref-->
+                    c. <locus>16v</locus>
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>soletta</lem>
+                        <rdg wit="#Pit">sole</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>in</lem>
+                        <rdg wit="#Fp"></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>Padre</lem>
+                        <rdg wit="#Sq">Oi padre <hi rend="italic">(+1)</hi></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a1" to="#l5a2">
+                        <lem>et versetti</lem>
+                        <rdg wit="#D1">in noiosetti</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>dicëa: «Padre</lem>
+                        <rdg wit="#Pit">diceal padre</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>son</lem>
+                        <rdg wit="#D1">io sono</rdg>
+                    </app>
+                    <app from="#l7a3" to="#l7a4">
+                        <lem>diletti</lem>
+                        <rdg wit="#D1">vel latti</rdg>
+                    </app>
+                    <app from="#l7a5" to="#l7a6">
+                        <lem>amorosi</lem>
+                        <rdg wit="#Fp">amorsi</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem>con meco</lem>
+                        <rdg wit="#Fp">come che</rdg>
+                    </app>
+                    <app from="#l8a3" to="#l8a4">
+                        <lem>far</lem>
+                        <rdg wit="#D1">sentir</rdg>
+                    </app>
+                    <app from="#l8a5" to="#l8a6">
+                        <lem>grande</lem>
+                        <rdgGrp>
+                            <rdg wit="#Fp">un gran</rdg>
+                            <rdg wit="#D1">gran</rdg>
+                        </rdgGrp>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>10</head>
+                    <app from="#l10a1" to="#l10a2">
+                        <lem>so</lem>
+                        <rdg wit="#D1">sai</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>11</head>
+                    <app from="#l11a1" to="#l11a2">
+                        <lem>non mi</lem>
+                        <rdg wit="#D1">a me non</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>12</head>
+                    <app from="#l12a1" to="#l12a2">
+                        <lem>mondo</lem>
+                        <rdg wit="#Fp">modo</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>13</head>
+                    <app from="#l13a1" to="#l13a2">
+                        <lem>strugi</lem>
+                        <rdg wit="#D1">fuggi</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>14</head>
+                    <app from="#l14a1" to="#l14a2">
+                        <lem>che</lem>
+                        <rdg wit="#D1">e</rdg>
+                    </app>
+                    <app from="#l14a3" to="#l14a4">
+                        <lem>ritorna</lem>
+                        <rdgGrp>
+                            <rdg wit="#Sq">ritorno</rdg>
+                            <rdg wit="#D1">sogiorno</rdg>
+                        </rdgGrp>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>15</head>
+                    <app from="#l15a1" to="#l15a2">
+                        <lem>De dolçe gaio tenpo ben ti fugi</lem>
+                        <rdg wit="#D1">o tenpo chaio mio chome ti fuggi</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>17</head>
+                    <app from="#l17a1" to="#l17a2">
+                        <lem>fuge</lem>
+                        <rdg wit="#Fp">fuggei</rdg>
+                    </app>
+                    <app from="#l17a3" to="#l17a4">
+                        <lem>sogiorna</lem>
+                        <rdg wit="#D1">ritorna</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>18</head>
+                    <app from="#l18a1" to="#l18a2">
+                        <lem>rimango</lem>
+                        <rdgGrp>
+                            <rdg wit="#Sq">rimago</rdg>
+                            <rdg wit="#D1">rimagno</rdg>
+                        </rdgGrp>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>19</head>
+                    <app from="#l19a1" to="#l19a2">
+                        <lem>di ciò molto mi piango,</lem>
+                        <rdg wit="#D1"></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>20</head>
+                    <app from="#l20a1" to="#l20a2">
+                        <lem>dolori</lem>
+                        <rdg wit="#D1">dolore</rdg>
+                    </app>
+                    <app from="#l20a3" to="#l20a4">
+                        <lem>lassaa</lem>
+                        <rdg wit="#D1">ai lassa</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>21</head>
+                    <app from="#l21a1" to="#l21a2">
+                        <lem>Poiché</lem>
+                        <rdgGrp>
+                            <rdg wit="#Fp">po chi</rdg>
+                            <rdg wit="#D1">poi chio</rdg>
+                        </rdgGrp>
+                    </app>
+                    <app from="#l21a3" to="#l21a4">
+                        <lem>padre</lem>
+                        <rdg wit="#Sq"></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>22</head>
+                    <app from="#l22a1" to="#l22a2">
+                        <lem>adorna</lem>
+                        <rdg wit="#Fp">piena</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>25</head>
+                    <app from="#l25a1" to="#l25a2">
+                        <lem>fa’</lem>
+                        <rdg wit="#D1">e fa</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>28</head>
+                    <app from="#l28a1" to="#l28a2">
+                        <lem>sono</lem>
+                        <rdg wit="#Lo">isono</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a3" to="#l1a4">
+                        <lem>Tutta</lem>
+                        <rdg wit="#Pit">tuta</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>pulçelletta</lem>
+                        <rdg wit="#D1">pulçeletta</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a3" to="#l3a4">
+                        <lem>in</lem>
+                        <rdg wit="#Pit">n</rdg>
+                    </app>
+                    <app from="#l3a5" to="#l3a6">
+                        <lem>suo</lem>
+                        <rdg wit="#D1">sua</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a3" to="#l4a4">
+                        <lem>fa</lem>
+                        <rdg wit="#D1">fai</rdg>
+                    </app>
+                    <app from="#l4a5" to="#l4a6">
+                        <lem>gir</lem>
+                        <rdg wit="#Pit">ir</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a3" to="#l5a4">
+                        <lem>pietosi</lem>
+                        <rdg wit="#Fp #D1">piatosi</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a3" to="#l6a4">
+                        <lem>fai</lem>
+                        <rdg wit="#Fp">fa</rdg>
+                    </app>
+                    <app from="#l6a5" to="#l6a6">
+                        <lem>gram</lem>
+                        <rdg wit="#D1">gran</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem>con meco</lem>
+                        <rdg wit="#D1">chomeco</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>12</head>
+                    <app from="#l12a3" to="#l12a4">
+                        <lem>e in</lem>
+                        <rdg wit="#Fp #D1">en</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>13</head>
+                    <app from="#l13a3" to="#l13a4">
+                        <lem>giovineça</lem>
+                        <rdg wit="#Fp">giovineçça</rdg>
+                    </app>
+                    <app from="#l13a1" to="#l13a2">
+                        <lem>strugi</lem>
+                        <rdg wit="#Fp">struggi</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>14</head>
+                    <app from="#l14a5" to="#l14a6">
+                        <lem>correndo</lem>
+                        <rdg wit="#D1">corendo</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>15</head>
+                    <app from="#l15a3" to="#l15a4">
+                        <lem>fugi</lem>
+                        <rdg wit="#Fp">fuggi</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>17</head>
+                    <app from="#l17a3" to="#l17a4">
+                        <lem>sogiorna</lem>
+                        <rdg wit="#Fp">soggiorna</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>21</head>
+                    <app from="#l21a5" to="#l21a6">
+                        <lem>trovo</lem>
+                        <rdg wit="#D1">truovo</rdg>
+                    </app>
+                    <app from="#l21a7" to="#l21a8">
+                        <lem>pietade</lem>
+                        <rdg wit="#Fp">piatate</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>24</head>
+                    <app from="#l24a1" to="#l24a2">
+                        <lem>qualunche</lem>
+                        <rdg wit="#D1">qualunque</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>25</head>
+                    <app from="#l25a3" to="#l25a4">
+                        <lem>raconti</lem>
+                        <rdg wit="#Fp">racconti</rdg>
+                    </app>
+                    <app from="#l25a5" to="#l25a6">
+                        <lem>e’</lem>
+                        <rdg wit="#Fp">i</rdg>
+                    </app>
+                    <app from="#l25a7" to="#l25a8">
+                        <lem>mie</lem>
+                        <rdg wit="#D1">miei</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>28</head>
+                    <app from="#l28a3" to="#l28a4">
+                        <lem>allegreça</lem>
+                        <rdgGrp>
+                            <rdg wit="#Fp">allegreçça</rdg>
+                            <rdg wit="#D1">alegreça</rdg>
+                        </rdgGrp>
+                    </app>
+                    <app from="#l28a1" to="#l28a2">
+                        <lem>sono</lem>
+                        <rdg wit="#D1">son</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p>Ballata grande 10ʼy 6ʼz 6ʼz 10ʼy; 10ʼa 10ʼb, 10ʼa 10ʼb; 10ʼb 6ʼc 6ʼc 10ʼy.</p>
+                <p><hi rend="italic">Pagnotta</hi> 98: 31.</p>
+                <p>Rima ricca ai vv. 21 : 23.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Corsi1970">
+                    Corsi 1970, pp. 91-2.
+                </bibl>
+            </listBibl>
+            <!--div type="commentary">
+            </div-->
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Corsi1970">
+                    Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
