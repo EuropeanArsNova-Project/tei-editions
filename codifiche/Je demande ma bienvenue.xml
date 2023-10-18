@@ -148,8 +148,8 @@
 
             <listBibl type="editionsBibliography">
                 <bibl xml:id="Stainer-Stainer1898"> J.Stainer - C. Stainer, <hi rend="italic">Dufay and His Contemporaries. Fifty Compositions Transcribed from MS. Canonici misc. 213 in the Bodleian Library, Oxford</hi>, London and New York: Novello, 1898.</bibl>
-                <bibl xml:id="Upton2013"></bibl>
-                <bibl xml:id="Reaney1959"></bibl>
+                <bibl xml:id="Upton2013">Elizabeth Randell Upton, <hi rend="italic">The Creation of the Chantilly Codex (Ms. 564)</hi>, in «Studi musicali», nuova serie iii 2012, n. 2, pp. 287-352</bibl>
+                <bibl xml:id="Reaney1959">Reaney 1959 <hi rend="italic">Early Fifteenth Century Music</hi>, edited by Gilbert Reaney, American Institute of Musicology, 1959 <hi rend="italic">(Corpus Mensurabilis Musicae 11/II)</hi></bibl>
             </listBibl>
         </back>
     </text>
