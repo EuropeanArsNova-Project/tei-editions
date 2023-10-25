@@ -57,7 +57,7 @@
       </front> -->
         <body>
             <lg>
-                <l xml:id="l1"> En <anchor xml:id="l1a1"/>esperant<anchor xml:id="l1a2"/> que de vous amés soye,</l>
+                <l xml:id="l1"> En esperant que de vous amés soye,</l>
                 <l xml:id="l2"> dame que aim plus qu’altre qui soit nee,</l>
                 <l xml:id="l3"> vous ai m’amor entirement donee,</l>
                 <l xml:id="l4"> car de vous vient ma souveraine joye.</l>
@@ -87,15 +87,7 @@
 
 
             <listApp type="substantial">               
-               
-                <listApp>
-                    <head> 1</head>
-                    <app from="#l1a1" to="#l1a2">
-                        <lem> esperant</lem>
-                        <rdg> sperant <wit><ref corresp="#BobT">Bob<hi rend="super">T</hi></ref></wit></rdg>
-                    </app>
-                </listApp>
-               
+                             
                 <listApp>
                     <head> 6</head>
                     <app from="#l6a1" to="#l6a2">

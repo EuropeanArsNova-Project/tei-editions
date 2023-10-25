@@ -49,7 +49,7 @@
     <text>
         <group>
             
-            <text>  <!-- TESTO PRINCIPALE -->
+            <text>  
                 <!--<front> 
                  <div> 
                     <p> 
@@ -59,7 +59,7 @@
                  </div>         
               </front> -->
                 <body>
-                    <p><hi rend="italic">Espoir me f[ui]t a mon plus grant besoin</hi></p>
+                    <head><hi rend="italic">Espoir me f[ui]t a mon plus grant besoin</hi></head>
                     <lg>
                         <l xml:id="l1"> <anchor xml:id="l1a7"/><anchor xml:id="l1a1"/>Espoir<anchor xml:id="l1a2"/><anchor xml:id="l1a8"/> me <anchor xml:id="l1a3"/>faut <anchor xml:id="l1a4"/> a <anchor xml:id="l1a5"/>mon plus grant <anchor xml:id="l1a9"/>besoin<anchor xml:id="l1a6"/><anchor xml:id="l1a10"/>:</l>
                         <l xml:id="l2"> <anchor xml:id="l2a1"/>com<anchor xml:id="l2a2"/> plus <anchor xml:id="l2a3"/>me <anchor xml:id="l2a5"/>voit en<anchor xml:id="l2a6"/> peril<anchor xml:id="l2a4"/>, plus <anchor xml:id="l2a9"/>s’<anchor xml:id="l2a7"/>eslogne<anchor xml:id="l2a8"/><anchor xml:id="l2a10"/>.</l>
@@ -215,10 +215,10 @@
            </text>
             
             
-           <text> <!-- SECONDO TESTO -->
+           <text> 
                 <!--<front></front>-->
                 <body>
-                    <p> <hi rend="italic"> Revien, Espoir, confort aïe party</hi></p>
+                    <head><hi rend="italic"> Revien, Espoir, confort aïe party</hi></head> 
                     <lg>
                         <l xml:id="l1.2"> <anchor xml:id="l1a1-2"/>Revien<anchor xml:id="l1a2-2"/>, Espoir, confort aïe <anchor xml:id="l1a3-2"/>party<anchor xml:id="l1a4-2"/>,</l>
                         <l xml:id="l2.2"> car <anchor xml:id="l2a1-2"/>Pitez s’est<anchor xml:id="l2a2-2"/> en ma dame <anchor xml:id="l2a3-2"/>endormy<supplied reason="illegible">[e]</supplied><anchor xml:id="l2a4-2"/>:</l>
@@ -273,130 +273,19 @@
                 </back>
            </text>
             
-              
-           
-            <text type="secondaryText"> <!-- TERZO TESTO C1-->
-                <!--<front></front>-->
-                <body> 
-                    <lg>
-                        <l xml:id="l1C1"><anchor xml:id="l1a1-C1"/>Espoirs<anchor xml:id="l1a2-C1"/> me fuit a <anchor xml:id="l1a3-C1"/><supplied reason="illegible">[mon plus grant besoing]</supplied><anchor xml:id="l1a4-C1"/>:</l>
-                        <l xml:id="l2C1"> <anchor xml:id="l2a1-C1"/><supplied reason="illegible">[com]</supplied><anchor xml:id="l2a2-C1"/> plus me <anchor xml:id="l2a3-C1"/><supplied reason="illegible">[…]</supplied><anchor xml:id="l2a4-C1"/> peril, plus s’<anchor xml:id="l2a5-C1"/>esloinge<anchor xml:id="l2a6-C1"/>.</l>
-                        <l xml:id="l3C1"> <anchor xml:id="l3a5-C1"/>Quant <anchor xml:id="l3a1-C1"/><supplied reason="illegible">[de]</supplied> m<anchor xml:id="l3a2-C1"/>erchi de dame me sens <anchor xml:id="l3a3-C1"/><supplied reason="illegible">[loing]</supplied><anchor xml:id="l3a4-C1"/>,</l>
-                        <l xml:id="l4C1"><supplied reason="illegible">[Espoirs me fuit a mon plus grant besoing].</supplied></l>
-                        <l xml:id="l5C1" n="5">Du retourner envers <supplied reason="illegible">[…]</supplied> soing,</l>
-                        <l xml:id="l6C1">dont je mourray se <supplied reason="illegible">[…]</supplied>soinge;</l>
-                        <l xml:id="l7C1"><hi rend="italic">Espoir <supplied xml:id="suppl1" reason="illegible">[me fuit a mon plus grant besoing:</supplied></hi></l>
-                        <l xml:id="l8C1"><hi rend="italic"><supplied xml:id="suppl2" corresp="#suppl1" reason="illegible">com plus me <supplied reason="illegible">[…]</supplied> peril, plus s’esloinge].</supplied><anchor xml:id="l8a1-C1"/></hi></l>
-                        
-                    </lg>
-                </body>
-                    
-                
-                <back>
-                    
-                    
-                    <listApp type="formal">
-                        <listApp>
-                            <head> 1</head>
-                            <app from="#l1a1-C1" to="#l1a2-C1">
-                                <lem> Espoirs</lem>
-                                <rdg wit="#Ut"> <gap reason="illegible" rend="l.m."/></rdg>
-                            </app>
-                            
-                            <app from="#l1a3-C1" to="#l1a4-C1">
-                                <lem>mon plus grant besoing</lem>
-                                <rdg wit="#Ca5"> <gap reason="illegible" rend="ill."/></rdg>
-                            </app>
-                        </listApp>
-                        
-                        <listApp>
-                            <head> 2</head>
-                            <app from="#l2a1-C1" to="#l2a2-C2">
-                                <lem> com</lem>
-                                <rdg wit="#Ca5"><gap reason="illegible" rend="ill."/></rdg>
-                            </app>
-                            
-                            <app from="#l2a3-C1" to="#l2a4-C1">
-                                <lem> […]</lem>
-                                <rdg wit="#Ca5"> <gap reason="illegible" rend="ill."/></rdg>
-                            </app>
-                            
-                            <app from="#l2a5-C1" to="#l2a6-C1">
-                                <lem> esloinge</lem>
-                                <rdg type="indifferentVariant" wit="#Ut">enlonge </rdg>
-                            </app>
-                        </listApp>
-                        
-                        <listApp>
-                            <head> 3</head>
-                            <app from="#l3a1-C1" to="#l3a2-C1">
-                                <lem> <hi rend="italic"> de</hi> m</lem>
-                                <rdg wit="#Ca5"/>
-                            </app>
-                            
-                            <app from="#l3a3-C1" to="#l3a4-C1">
-                                <lem> loing</lem>
-                                <rdg wit="#Ca5"> <gap reason="illegible" rend="l.m."/></rdg>
-                            </app>
-                        </listApp>
-                    </listApp>
-                    
-                    <listApp>
-                        <head> 3-8</head>
-                        <app from="#l3a5-C1" to="#l8a1-C1">
-                            <lem> Quant [de] merchi de dame me sens [loing],
-                                [Espoirs me fuit a mon plus grant besoing].
-                                Du retourner envers […] soing,
-                                dont je mourray se […]soinge;
-                                Espoir [me fuit a mon plus grant besoing:
-                                com plus me […] peril, plus s’esloinge].
-                            </lem>
-                            <rdg wit="#Ut"/>
-                        </app>
-                    </listApp>
-                    
-                    
-                </back>
-            </text>
-            
-            <text type="secondaryText">
-                <!--<front></front>-->
-                <body>
-                    <lg>
-                        <l xml:id="l1C2"><supplied reason="illegible">[…]</supplied>g, Espoir, confort aïe <anchor xml:id="l1a1-C2"/>parti<anchor xml:id="l1a2-C2"/>,</l>
-                        <l xml:id="l2C2">car <supplied reason="illegible">[…]</supplied> en ma dame <anchor xml:id="l2a1-C2"/>endormie<anchor xml:id="l2a2-C2"/>.</l>
-                    </lg>
-                </body>
-                
-                <back>
-                    
-                    <listApp type="formal">
-                        <listApp>
-                            <head> 1</head>
-                            <app from="#l1a1-C2" to="#l1a2-C2">
-                                <lem> parti</lem>
-                                <rdg wit="#Ut"> partie</rdg>
-                            </app>
-                        </listApp>
-                        
-                        <listApp>
-                            <head> 2</head>
-                            <app from="#l2a1-C2" to="#l2a2-C2">
-                                <lem> endormie</lem>
-                                <rdg wit="#Ut"> endormi dormie </rdg>
-                            </app>
-                        </listApp>
-                    </listApp>
-                    
-                </back>
-            </text>
-           
-           
            
         </group>
         
         <back>
             <listWit>
+                
+                <desc>Pen conserva il testo completo e integro ma privo di intonazione; 
+                    nel manoscritto, il testo di <hi rend="italic">Revien, Espoir, confort aïe party</hi> (C2 nei testimoni musicali)
+                    precede quello di <hi rend="italic">Espoir me f[ui]t a mon plus grant besoin </hi>(C1).
+                    Dei testimoni musicali, Ut è lacunoso in quanto tagliato sul margine sinistro,
+                    mentre lo stato di conservazione di Ca5 rende il testo del Cantus largamente illeggibile
+                    e il <hi rend="italic">residuum</hi> lacunoso per la rifilatura del margine destro.</desc>
+                
                 <witness xml:id="Pen">
                     <!--ref target="X"-->Pen<!--/ref--> c. 41v,<hi rend="italic">Revien, Espoir, confort aïe party </hi> vv. 1-8, <hi rend="italic">Espoir me f[ui]t a mon plus grant besoin </hi> vv. 1-8
                 </witness>
@@ -415,17 +304,11 @@
                 
                 <witness xml:id="Str">
                     <!--ref target="X"-->Str<!--/ref--> c. 72r (perduto)
-                </witness>
+                </witness>              
                 
-                <!-- forse dentro DESC la seguente parte -->
-                <!-- Pen conserva il testo completo e integro ma privo di intonazione; 
-                            nel manoscritto, il testo di Revien, Espoir, confort aïe party (C2 nei testimoni musicali) 
-                            precede quello di Espoir me f[ui]t a mon plus grant besoin (C1). 
-                            Dei testimoni musicali, Ut è lacunoso in quanto tagliato sul margine sinistro, 
-                            mentre lo stato di conservazione di Ca5 rende il testo del Cantus largamente illeggibile 
-                            e il residuum lacunoso per la rifilatura del margine destro.-->
+                
             </listWit>
-                        
+            
             <listBibl type="editions">
                 <bibl corresp="#Apel-Rosenberg1972">Apel-Rosenberg 1972, p. XLVI</bibl>
                 <bibl corresp="#Greene1989">Greene 1989, pp. 61-63.</bibl>
@@ -436,17 +319,6 @@
                 <bibl xml:id="Greene1989">Gordon Greene, <hi rend="italic">French Secular Music. Rondeaux and Miscellaneous Pieces</hi>, Monaco, Éditions de l’Oiseau-Lyre, 1989 (Polyphonic Music of the Fourteenth Century, XXII)</bibl>
             </listBibl>
         </back>
-        
-       
-           
-           
-           
-           
-        
-     
-    
-        
-        
-    
+                 
     </text>
 </TEI>
