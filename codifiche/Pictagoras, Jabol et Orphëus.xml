@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Pictagoras, Jabol et Orphëus</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp> Edited by</resp>
+                    <name> Alice Colantuoni</name> 
+                </respStmt>
+                <respStmt>
+                    <resp> Revised by</resp>
+                    <name> Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp> TEI-encoded by</resp>
+                    <name> Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p> 
+            </p> 
+         </div>         
+      </front>-->
+        <body>
+            <lg>
+                <l xml:id="l1"> <anchor xml:id="l1a5"/><anchor xml:id="l1a1"/>Pictagoras<anchor xml:id="l1a2"/><anchor xml:id="l1a6"/>, <anchor xml:id="l1a7"/>Jabol<anchor xml:id="l1a8"/> <anchor xml:id="l1a3"/>et<anchor xml:id="l1a4"/> Orphëus</l>
+                <l xml:id="l2"> furent <anchor xml:id="l2a3"/>primer<anchor xml:id="l2a4"/> <anchor xml:id="l2a5"/>pere<anchor xml:id="l2a6"/> de <anchor xml:id="l2a1"/>melodie<anchor xml:id="l2a2"/>,</l>
+                <l xml:id="l3"> <anchor xml:id="l3a5"/>selonc<anchor xml:id="l3a6"/> <anchor xml:id="l3a1"/>l’escripture<anchor xml:id="l3a2"/> <anchor xml:id="l3a7"/>molt<anchor xml:id="l3a8"/> <anchor xml:id="l3a3"/>pourvëus<anchor xml:id="l3a4"/> </l>
+                <l xml:id="l4"> <anchor xml:id="l4a1"/>de sa<anchor xml:id="l4a2"/> <anchor xml:id="l4a7"/>douçor<anchor xml:id="l4a8"/> et <anchor xml:id="l4a3"/>de son<anchor xml:id="l4a4"/> <anchor xml:id="l4a5"/>armonie<anchor xml:id="l4a6"/>.</l>
+                <l xml:id="l5" n="5"> <anchor xml:id="l5a1"/>Si<anchor xml:id="l5a2"/> <anchor xml:id="l5a5"/>doivent<anchor xml:id="l5a6"/> <anchor xml:id="l5a3"/>donc<anchor xml:id="l5a4"/> <anchor xml:id="l5a7"/>ceulz<anchor xml:id="l5a8"/> qui or sont en vie </l>
+                <l xml:id="l6"> leur scïence <anchor xml:id="l6a1"/>louer<anchor xml:id="l6a2"/> et <anchor xml:id="l6a3"/>lour<anchor xml:id="l6a4"/> <anchor xml:id="l6a5"/>mestrie<anchor xml:id="l6a6"/> </l>
+                <l xml:id="l7"> <anchor xml:id="l7a1"/>pour<anchor xml:id="l7a2"/> droit prouver que <anchor xml:id="l7a3"/>musique<anchor xml:id="l7a4"/> <anchor xml:id="l7a5"/>est<anchor xml:id="l7a6"/> fontayne</l>
+                <l xml:id="l8"> <hi rend="italic">de <anchor xml:id="l8a3"/>toute<anchor xml:id="l8a4"/> <anchor xml:id="l8a5"/>honnour<anchor xml:id="l8a6"/> et d’amour <anchor xml:id="l8a1"/>souverayne<anchor xml:id="l8a2"/>.</hi></l>
+            </lg>
+            <lg>
+                <l xml:id="l9"> Par musique ont esté cil congnëus</l>
+                <l xml:id="l10" n="10"> per tout lo monde, <anchor xml:id="l10a1"/>noble<anchor xml:id="l10a2"/> seignourie,</l>
+                <l xml:id="l11"> et <anchor xml:id="l11a1"/>son<supplied reason="illegible">[t]</supplied><anchor xml:id="l11a2"/> encor regreté et lëus </l>
+                <l xml:id="l12"> per plaisance de desir. En oublie</l>
+                <l xml:id="l13"> <anchor xml:id="l13a1"/>o<supplied reason="illegible">[r]</supplied><anchor xml:id="l13a2"/> en sont maint que je ne noumme <anchor xml:id="l13a3"/>mi<supplied reason="illegible">[e]</supplied><anchor xml:id="l13a4"/></l>
+                <l xml:id="l14"> affin qu’<anchor xml:id="l14a1"/>a<supplied reason="illegible">[u]</supplied>cun<anchor xml:id="l14a2"/> n’en puist <anchor xml:id="l14a3"/>gous<supplied reason="illegible">[t]</supplied>er<anchor xml:id="l14a4"/> envie</l>
+                <l xml:id="l15" n="15"> a qui sa flour puet estre aussi prouchaine</l>
+                <l xml:id="l16"> de toute honnour <supplied reason="illegible">[et d’amour souverayne]</supplied>.</l>
+            </lg>
+            
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Ch">
+                    <!--ref target="X"-->Ch<!--/ref--> c. 30v, <abbr xml:id="ChC">C</abbr> (vv. 1-8), <hi rend="italic"> resid.</hi> (vv. 11-20): <hi rend="italic">suzoy</hi>                    
+                </witness>
+                
+                <witness xml:id="Bov">
+                    <!--ref target="X"-->Bov<!--/ref--> cc <locus>4v-5r</locus>, <abbr xml:id="BovC">C</abbr> (vv. 1-8)                    
+                </witness>
+                
+                <witness xml:id="P11">
+                    <!--ref target="X"-->P11<!--/ref--> cc <locus>153r</locus>, <abbr xml:id="P11C">C</abbr> (vv. 1-8)                    
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">
+               <listApp>
+                   <head> 1</head>
+                   <app from="#l1a1" to="#l1a2">
+                       <lem> Pictagoras</lem>
+                       <rdg wit="#P11"><gap reason="illegible" unit="chars" quantity="1" rend="*"/>ytagoras</rdg>
+                   </app>
+                   
+                   <app from="#l1a3" to="#l1a4">
+                       <lem> et</lem>
+                       <rdg wit="#Bov"/>
+                   </app>
+               </listApp>
+                
+                <listApp>
+                    <head> 2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem> melodie</lem>
+                        <rdg wit="#Bov"><gap reason="illegible" rend="ill."/></rdg>                        
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem> l’escripture</lem>
+                        <rdg type="indifferentVariant" wit="#P11"> lescrit</rdg>
+                        <rdg wit="#Bov">les eript </rdg>
+                    </app>
+                    
+                    <app from="#l3a3" to="#l3a4">
+                        <lem> pourvëus</lem>
+                        <rdg type="indifferentVariant" wit="#P11"> furent porveus </rdg>
+                        <rdg type="indifferentVariant" wit="#Bov">  furent porveous</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem> de sa</lem>
+                        <rdg wit="#Bov"> dea</rdg>
+                        <rdg wit="#Ch"> furent de sa </rdg>
+                    </app>
+                    
+                    <app from="#l4a3" to="#l4a4">
+                        <lem> de son</lem>
+                        <rdg wit="#Ch"/>
+                    </app>
+                    
+                    <app from="#l4a5" to="#l4a6">
+                        <lem> armonie</lem>
+                        <rdg wit="#Bov"><gap reason="illegible" rend="ill."/></rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 5</head>
+                    <app from="#l5a1" to="#l5a2">
+                        <lem> si</lem>
+                        <rdg wit="#Bov"> se</rdg>
+                    </app>
+                    
+                    <app from="#l5a3" to="#l5a4">
+                        <lem> donc</lem>
+                        <rdg wit="#Ch"> doquez</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem> pour</lem>
+                        <rdg wit="#Bov"> par</rdg>
+                    </app>
+                    
+                    <app from="#l7a3" to="#l7a4">
+                        <lem> musique</lem>
+                        <rdg wit="#Bov"> misaque </rdg>
+                    </app>
+                    
+                    <app from="#l7a5" to="#l7a6">
+                        <lem> est</lem>
+                        <rdg wit="#Ch"> es</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem> souverayne</lem>
+                        <rdg wit="#Bov"><gap reason="illegible" rend="ill."/></rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 10</head>
+                    <app from="#l10a1" to="#l10a2">
+                        <lem> noble</lem>
+                        <rdg wit="#Ch">c’est noble </rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 11</head>
+                    <app from="#l11a1" to="#l11a2">
+                        <lem> sont</lem>
+                        <rdg wit="#Ch"> son</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 13</head>
+                    <app from="#l13a1" to="#l13a2">
+                        <lem> or</lem>
+                        <rdg wit="#Ch"> on</rdg>
+                    </app>
+                    
+                    <app from="#l13a3" to="#l13a4">
+                        <lem> mie</lem>
+                        <rdg wit="#Ch"> mir</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 14</head>
+                    <app from="#l14a1" to="#l14a2">
+                        <lem> aucun</lem>
+                        <rdg wit="#Ch"> ancun</rdg>
+                    </app>
+                    
+                    <app from="#l14a3" to="#l14a4">
+                        <lem> gouster</lem>
+                        <rdg wit="#Ch"> gouscer </rdg>
+                    </app>
+                </listApp>
+            </listApp>
+
+            <listApp type="formal">                
+               <listApp>
+                   <head> 1</head>
+                   <app from="#l1a5" to="#l1a6">
+                       <lem> Pictagoras</lem>
+                       <rdg wit="#Bov"> Pytagoras </rdg>
+                   </app>
+                   
+                   <app from="#l1a7" to="#l1a8">
+                       <lem> Jabol</lem>
+                       <rdg wit="#P11 #Bov"> jobalz</rdg>
+                   </app>
+               </listApp> 
+                
+                <listApp>
+                    <head> 2</head>
+                    <app from="#l2a3" to="#l2a4">
+                        <lem> primer</lem>
+                        <rdg wit="#Bov"> premer</rdg>
+                        <rdg wit="#P11"> premier</rdg>
+                    </app>
+                    
+                    <app from="#l2a5" to="#l2a6">
+                        <lem> pere</lem>
+                        <rdg wit="#P11"> peres</rdg>
+                        <rdg wit="#Bov"> pereç </rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 3</head>
+                    <app from="#l3a5" to="#l3a6">
+                        <lem> selonc</lem>
+                        <rdg wit="#P11 #Bov"> selon</rdg> 
+                    </app>
+                    
+                    <app from="#l3a7" to="#l3a8">
+                        <lem> molt</lem>
+                        <rdg wit="#P11"> mont</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 4</head>
+                    <app from="#l4a7" to="#l4a8">
+                        <lem> douçor</lem>
+                        <rdg wit="#P11">doucour</rdg>
+                        <rdg wit="#Bov">doulcour</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 5</head>
+                    <app from="#l5a5" to="#l5a6">
+                        <lem> doivent</lem>
+                        <rdg wit="#Bov"> doient</rdg>
+                    </app>
+                    
+                    <app from="#l5a7" to="#l5a8">
+                        <lem> ceulz</lem>
+                        <rdg wit="#Bov"> ceu<gap reason="illegible" unit="chars" quantity="1"/>s</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem> louer</lem>
+                        <rdg wit="#Bov"> loer</rdg>
+                    </app>
+                    
+                    <app from="#l6a3" to="#l6a4">
+                        <lem> lour</lem>
+                        <rdg wit="#P11 #Bov"> leur</rdg>
+                    </app>
+                    
+                    <app from="#l6a5" to="#l6a6"> 
+                        <lem> mestrie</lem>
+                        <rdg wit="#Bov"> maistrie </rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 8</head>
+                    <app from="#l8a3" to="#l8a4">
+                        <lem> toute</lem>
+                        <rdg wit="#Bov"> tout</rdg>
+                    </app>
+                    
+                    <app from="#l8a5" to="#l8a6">
+                        <lem> honnour</lem>
+                        <rdg wit="#Bov"> honour </rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            
+
+
+            <div type="metricalScheme">
+                <p> <hi rend="italic"> Ballade</hi> 10a 10’b, 10a 10’b; 10’b 10’b 10’c 10’C.</p>
+                <p> Rima ricca ai vv. 1 : 3 : 9 : 11, 6 : 10; rima inclusiva ai vv. 5 : 14.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Apel-Rosenberg1970">Apel-Rosenberg 1970, p. LXXI- LXXII.</bibl>
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+            </listBibl>-->
+
+
+            <div type="commentary">
+                <note target="#l4">
+                    <num> 4.</num>
+                    <p> <hi rend="italic">de sa</hi>:si preferisce, con Mark Everist, la lezione di P11 e Bov in quanto la ripetizione della stessa parola all’incipit dei vv. 2 e 4 sarebbe figura piuttosto rara nel testi francesi dell’Ars Nova, (cfr. Everist 2010, pp. 288 ss).</p>
+                </note>
+                
+                <note target="#l10">
+                    <num> 10.</num>
+                    <p> <hi rend="italic">lo monde</hi>: forma italianizzante dell’articolo determinativo maschile. Altre forme, nel testo, suggeriscono una prossimità con l’italiano, come l’impiego di <hi rend="italic">per</hi> in luogo di <hi rend="italic">par</hi> (v. 10) e la caduta della consonante finale nella forma verbale <hi rend="italic">son</hi> (v. 11).</p>
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Apel-Rosenberg1970"> <hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1)</bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

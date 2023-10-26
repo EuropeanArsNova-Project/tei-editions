@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Belle plaisant, tant que j’aray duree</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp> Edited by</resp>
+                    <name> Alice Colantuoni</name> 
+                </respStmt>
+                <respStmt>
+                    <resp> Revised by</resp>
+                    <name> Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp> TEI-encoded by</resp>
+                    <name> Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p> 
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1"> Belle plaisant, tant que j’aray duree</l>
+                <l xml:id="l2"> vous serviray d’amer parfaitement,</l>
+                <l xml:id="l3"> quar en vous est tout mon esbatement,</l>
+                <l xml:id="l4"> mon bien, m’amour et toute ma <anchor xml:id="l4a1"/>pense<supplied reason="illegible">[e]</supplied><anchor xml:id="l4a2"/>.</l>
+                <l xml:id="l5" n="5"> Vous me semblés plus doulce que riens nee,</l>
+                <l xml:id="l6"> pour ce vous aim, pour ce, tres humblement,</l>
+                <l xml:id="l7"> <hi rend="italic">belle plaisant, tant que j’aray duree</hi></l>
+                <l xml:id="l8"> <hi rend="italic">vous serviray d’amer parfaitement.</hi></l>
+                <l xml:id="l9"> Blance coulour plus fresque que rousee,</l>
+                <l xml:id="l10" n="10"> maintieng joyeulx, faitich contenement:</l>
+                <l xml:id="l11"> de vostre amour me faites le <anchor xml:id="l11a1"/>present<anchor xml:id="l11a2"/></l>
+                <l xml:id="l12"><anchor xml:id="l12a1"/><supplied reason="illegible">[… -ee]</supplied><anchor xml:id="l12a2"/></l>
+                <l xml:id="l13"><hi rend="italic"><supplied xml:id="suppl3" reason="illegible">[Belle plaisant, tant que j’aray duree</supplied></hi></l>
+                <l xml:id="l14"><hi rend="italic"><supplied xml:id="suppl4" corresp="#suppl3" reason="illegible">vous serviray d’amer parfaitement,</supplied></hi></l>
+                <l xml:id="l15" n="5"><hi rend="italic"><supplied xml:id="suppl5" corresp="#suppl3" reason="illegible">quar en vous est tout mon esbatement,</supplied></hi></l>
+                <l xml:id="l16"><hi rend="italic"><supplied xml:id="suppl6" corresp="#suppl3" reason="illegible">mon bien, m’amour et toute ma pensee.]</supplied></hi></l>
+            </lg>
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Mt">
+                    <!--ref target="X"-->Mt<!--/ref--> c. 4v, <abbr xml:id="MtC">C</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-12)
+                </witness>
+            </listWit>
+
+
+            <!--<listApp type="substantial">               
+                                              
+            </listApp>-->
+
+
+
+            <listApp type="formal">
+                <listApp>
+                    <head> 4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem> pensee</lem>
+                        <rdg wit="#Mt"> pense </rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 11</head>
+                    <app from="#l11a1" to="#l11a2">
+                        <lem> present</lem>
+                        <rdg> <witDetail wit="#Mt"><hi rend="italic">parzialmente leggibile per l.m</hi></witDetail> </rdg> 
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 12</head>
+                    <app from="#l12a1" to="#l12a2">
+                        <lem> [… -ee]</lem>
+                        <rdg wit="#Mt"><gap reason="illegible" rend="per l.m."/></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            
+
+
+            <div type="metricalScheme">
+                <p> <hi rend="italic">Rondeau</hi> 10’A 10B 10B 10’A; 10’a 10b, 10’A 10B; 10’a 10b 10b [10’a; 10’A 10B 10B 10’A]. </p>
+                <p> Rima ricca ai vv. 2 : 3 : 6 : 10, 4 : 9.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Gómez-Muntané1982">Gómez Muntané 1982, p. 68.</bibl>
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+            </listBibl>-->
+
+
+            <div type="commentary">
+               <note target="#l10">
+                   <num> 10.</num>
+                   <p> <hi rend="italic">faitich</hi>: forma piccarda dell’agg. <hi rend="italic">faitis</hi>, ‘bello, elegante’, cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">faitis</hi>. </p>
+               </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Gómez-Muntané1982"></bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

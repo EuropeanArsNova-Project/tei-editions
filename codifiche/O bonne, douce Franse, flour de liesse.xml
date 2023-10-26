@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> O bonne, douce Franse, flour de liesse</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp> Edited by</resp>
+                    <name> Alice Colantuoni</name> 
+                </respStmt>
+                <respStmt>
+                    <resp> Revised by</resp>
+                    <name> Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp> TEI-encoded by</resp>
+                    <name> Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p> 
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1"> O bonne, douce Franse, flour de liesse!</l>
+                <l xml:id="l2"> He! Douhx païs <anchor xml:id="l2a1"/>o<supplied reason="illegible">[u]</supplied><anchor xml:id="l2a2"/> maint toute baudor,</l>
+                <l xml:id="l3"> quant <anchor xml:id="l3a1"/><supplied reason="illegible">[me]</supplied><anchor xml:id="l3a2"/> souvient de tantes grant douçour,</l>
+                <l xml:id="l4"> <anchor xml:id="l4a1"/>li <supplied reason="illegible">[cu]</supplied>er<anchor xml:id="l4a2"/> me part de dul e de tristesse!</l>
+                <l xml:id="l5" n="5"> <supplied reason="illegible">[... -esse]</supplied></l>
+                <l xml:id="l6"> <supplied reason="illegible">[... -our]</supplied></l>
+                <l xml:id="l7"> <hi rend="italic"><supplied xml:id="suppl1" reason="illegible">[O bonne, douce Franse, flour de liesse!</supplied></hi></l>
+                <l xml:id="l8"> <hi rend="italic"> <supplied xml:id="suppl2" corresp="#suppl1" reason="illegible">He! Douhx païs o[u] maint toute baudor]</supplied></hi></l>
+                <l xml:id="l9"> <supplied reason="illegible">[... -esse]</supplied></l>
+                <l xml:id="l10" n="10"> <supplied reason="illegible">[... -our]</supplied></l>
+                <l xml:id="l11"> <supplied reason="illegible">[... -our]</supplied></l>
+                <l xml:id="l12"> <supplied reason="illegible">[... -esse]</supplied></l>
+                <l xml:id="l13"><hi rend="italic"><supplied xml:id="suppl3" reason="illegible"> [O bonne, douce Franse, flour de liesse!</supplied></hi></l>
+                <l xml:id="l14"><hi rend="italic"><supplied xml:id="suppl4" corresp="#suppl3" reason="illegible">He! Douhx païs o<supplied reason="illegible">[u]</supplied> maint toute baudor,</supplied></hi></l>
+                <l xml:id="l15" n="5"><hi rend="italic"><supplied xml:id="suppl5" corresp="#suppl3" reason="illegible">quant <supplied reason="illegible">[me]</supplied> souvient de tantes grant douçour,</supplied></hi></l>
+                <l xml:id="l16"><hi rend="italic"><supplied xml:id="suppl6" corresp="#suppl3" reason="illegible">li <supplied reason="illegible">[cu]</supplied>er me part de dul e de tristesse!]</supplied></hi></l>
+            </lg>
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Ch">
+                    <!--ref target="X"-->Ch<!--/ref--> c. 29r, <abbr xml:id="ChC">C</abbr> (vv. 1-4)
+                </witness>
+            </listWit>
+
+
+            <!--<listApp type="substantial">               
+            
+            </listApp>-->
+
+
+
+            <listApp type="formal">
+                <listApp>
+                    <head> 2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem> ou</lem>
+                        <rdg wit="#Ch"> ont</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem> me</lem>
+                        <rdg wit="#Ch"> n</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head> 4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem> li cuer</lem>
+                        <rdg wit="#Ch"> liener</rdg>
+                    </app>
+                </listApp>
+                
+                
+            </listApp>
+            
+
+
+            <div type="metricalScheme">
+                <p> <hi rend="italic">Rondeau</hi> 10’A 10B 10B 10’A; [10’a 10b, 10’A 10B; 10’a 10b 10b 10’a; 10’A 10B 10B 10’A].</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Apel-Rosenberg1972">Apel-Rosenberg 1972, p. XLVIII</bibl>
+                <bibl corresp="#Greene1981">Greene 1981, p. 100.</bibl>
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+            </listBibl>-->
+
+
+            <div type="commentary">
+               <note target="#l2">
+                   <num> 2.</num>
+                   <p><hi rend="italic">douhx</hi>: la grafia indica una possibile pronuncia palatale per <hi rend="italic">doulx</hi>, cfr. Zinelli 2012, p. 352, nota 195; la sporadica resa in <hi rend="italic">-h-</hi> o <hi rend="italic">-ll-</hi>, nel manoscritto, del suono palatale in corrispondenza di laterale o nasale è interpretata come un catalanismo da Scully 1990, p. 517.</p>
+               </note>
+                
+                <note target="#l4">
+                    <num> 4.</num>
+                    <p> <hi rend="italic">dul</hi>: <hi rend="italic">deuil</hi>.</p>
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Apel-Rosenberg1972"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. III, Anonymous Virelais, Rondeaux, Chansons, Canons</hi>, ed. by W. Apel, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1972 (CMM, 53/3)</bibl>
+                <bibl xml:id="Greene1981">Gordon Greene, <hi rend="italic">French Secular Music. Manuscript Chantilly, Musée Condé 564. Second Part: nn. 51-100</hi>, Monaco, Éditions de l’Oiseau-Lyre, 1981 (Polyphonic Music of the Fourteenth Century, XIX)</bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

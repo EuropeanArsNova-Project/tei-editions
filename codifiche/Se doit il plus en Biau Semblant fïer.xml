@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Se doit il plus en Biau Semblant fïer</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp> Edited by</resp>
+                    <name> Alice Colantuoni</name> 
+                </respStmt>
+                <respStmt>
+                    <resp> Revised by</resp>
+                    <name> Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp> TEI-encoded by</resp>
+                    <name> Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p> 
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1"> Se doit il plus en Biau Semblant fïer</l>
+                <l xml:id="l2"> qui per son trait a esté decëu?</l>
+                <l xml:id="l3"> Je di que non, car on a bien vëu</l>
+                <l xml:id="l4"> par pluseurs fois dos fier sanz deffïer.</l>
+                <l xml:id="l5" n="5"> Je le puis bien de vray certefïer,</l>
+                <l xml:id="l6"> car je m’en suy de fait an ce <anchor xml:id="l6a1"/>lëu<anchor xml:id="l6a2"/>:</l>
+                <l xml:id="l7"> <hi rend="italic">se doit il <supplied xml:id="suppl1" reason="illegible">[plus en Biau Semblant fïer</supplied></hi></l>
+                <l xml:id="l8"> <hi rend="italic"> <supplied xml:id="suppl2" corresp="#suppl1" reason="illegible">qui per son trait a esté decëu?]</supplied></hi></l>
+                <l xml:id="l9"> Car Dous Regart, qui doit segnefïer</l>
+                <l xml:id="l10" n="10"> loiale amour, si m’avoit esmëu</l>
+                <l xml:id="l11"> de bien amer; mais j’ay despuys scëu</l>
+                <l xml:id="l12"> qu’il n’y feroit pas bon ediffïer.</l>
+                <l xml:id="l13"> <hi rend="italic"> Se doit il plus en Biau Semblant fïer</hi></l>
+                <l xml:id="l14"> <hi rend="italic"> qui per son trait a esté decëu?</hi></l>
+                <l xml:id="l15" n="15"> <hi rend="italic"> Je di que non, car on a bien vëu</hi></l>
+                <l xml:id="l16"> <hi rend="italic"> par pluseurs fois dos fier sanz deffïer.</hi></l>
+            </lg>
+            
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Ch">
+                    <!--ref target="X"-->Ch<!--/ref--> c. 15v, <abbr xml:id="ChC">C</abbr> (vv. 1-4), <hi rend="italic"> resid.</hi> (vv. 5-8): <hi rend="italic">jo. de alte curie</hi>                    
+                </witness>
+            </listWit>
+
+
+            <!--<listApp type="substantial">                                
+            </listApp>-->
+
+            <listApp type="formal">
+                <listApp>
+                    <head> 6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem> leu</lem>
+                        <rdg wit="#Ch">lu</rdg>
+                    </app>
+                </listApp>                
+            </listApp>
+            
+
+
+            <div type="metricalScheme">
+                <p> <hi rend="italic"> Rondeau</hi> 10A 10B 10B 10A; 10a 10b, 10A 10B; 10a 10b 10b 10a; 10A 10B 10B 10A.</p>
+                <p> Rima inclusiva vv. 1 : 4 : 5 : 9 : 12; rima ricca ai vv. 2 : 3 : 6 : 10 : 11.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Reaney1959"> Reaney 1959, p. XXXIV</bibl>
+                <bibl corresp="#Apel-Rosenberg1970"> Apel-Rosenberg 1970, p. LXV</bibl>
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+            </listBibl>-->
+
+
+            <div type="commentary">
+                <note target="#l4">
+                    <num> 4.</num>
+                    <p> <hi rend="italic">dos fier</hi>: l’espressione non risulta mai attestata.</p>
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Reaney1959"></bibl>
+                <bibl xml:id="Apel-Rosenberg1970"> <hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1)</bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
