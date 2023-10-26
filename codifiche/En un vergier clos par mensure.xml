@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>En un vergier clos par mensure</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Vittoria Brancato</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+            <div>
+                <p>
+                </p>
+            </div>         
+        </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    En un vergier clos par mensure,
+                </l>
+                <l xml:id="l2">
+                    say une flour de lis moult gente. 
+                </l>
+                <l xml:id="l3">
+                    Li vergier est fort de closure,
+                </l>
+                <l xml:id="l4">
+                    et la flour nasqui de bone <anchor xml:id="l4a1"/>ente<anchor xml:id="l4a2"/>.
+                </l>
+                <l xml:id="l5" n="5">
+                    Au plus noble estoit en parente,
+                </l>
+                <l xml:id="l6">
+                    et riche dʼavoir et dʼamys. 
+                </l>
+                <l xml:id="l7">
+                    Dites moi, selonc vostre entente,
+                </l>
+                <l xml:id="l8">
+                    <hi rend="italic">qui cuellera la flour de lis.</hi>
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="Ch">
+                    <!--ref target="X"-->MoA<!--/ref-->
+                    c. <locus>18v</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-8)
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>ente</lem>
+                        <rdg wit="#MoA">gente</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <!--listApp type="formal">
+            </listApp-->
+            <div type="metricalScheme">
+                <p><hi rend="italic">Ballade</hi> 8ʼa 8ʼb, 8ʼa 8ʼb; 8ʼb 8c 8ʼb 8C.</p>
+                <p>Rima ricca ai vv. 1 : 3; rima inclusiva ai vv. 4 : 2 : 5 : 7.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Apel-Rosenberg1971">
+                    Apel-Rosenberg 1971, p. XXVI.
+                </bibl>
+            </listBibl>
+            <div type="commentary">
+                <note target="#l4">
+                    <num>4</num>
+                    <hi rend="italic">de bone ente</hi>: ʻda buon semeʼ, per cui cfr. lʼespressione proverbiale <hi rend="italic">de bonne ente bon fruit</hi> (documentata in <hi rend="italic">DMF</hi>, s.v. ente<hi rend="super">1</hi> § D). Il luogo è oggetto di una correzione (già proposta in Apel-Rosenberg 1971) su <hi rend="italic">gente</hi>, forse lezione non scorretta per senso perché varrebbe ʻda buona stirpeʼ, ma probabilmente banalizzante e/o indotta da <hi rend="italic">gente</hi> del v. 2 (con cui formerebbe rima equivoca: il primo <hi rend="italic">gente</hi> è aggettivo, il secondo sostantivo). 
+                </note>
+            </div>
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Apel-Rosenberg1971">
+                    Willi Apel, <hi rend="italic">French Secular Compositions of the Fourteenth Century II. Anonymous Ballades</hi>, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1971 (CMM, 53/2)
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
