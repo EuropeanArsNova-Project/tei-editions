@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Alice Colantuoni</name> 
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -87,7 +87,7 @@
 
 
             <div type="metricalScheme">
-                <p> <hi rend="italic"> Ballade</hi> 10a 10b, 10a 10b; 10b 10’c, 10b 10’C.</p>
+                <p> <hi rend="italic">Ballade</hi> 10a 10b, 10a 10b; 10b 10’c, 10b 10’C.</p>
                 <p> Rima ricca ai vv. 2 : 4 : 5 : 7.</p>
             </div>
 

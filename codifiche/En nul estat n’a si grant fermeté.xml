@@ -102,152 +102,152 @@
 
             <listApp type="substantial">
                 <listApp>
-                    <head> 1</head>
+                    <head>1</head>
                     <app from="#l1a1" to="#l1a2">
-                        <lem> En</lem>
-                        <rdg wit="#R"> Car</rdg>
+                        <lem>En</lem>
+                        <rdg wit="#R">Car</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 2</head>
+                    <head>2</head>
                     <app from="#l2a1" to="#l2a2">
-                        <lem> barat</lem>
-                        <rdg wit="#Ch"> droyt barat</rdg>
-                        <rdg wit="#R"> droit barant</rdg>
+                        <lem>barat</lem>
+                        <rdg wit="#Ch">droyt barat</rdg>
+                        <rdg wit="#R">droit barant</rdg>
                     </app>
                     
                     <app from="#l2a3" to="#l2a4">
-                        <lem> jugement</lem>
-                        <rdg wit="#Ch"> vigement</rdg>
+                        <lem>jugement</lem>
+                        <rdg wit="#Ch">vigement</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a1" to="#l3a2">
-                        <lem> car</lem>
+                        <lem>car</lem>
                         <rdg wit="#R"/>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 4</head>
+                    <head>4</head>
                     <app from="#l4a1" to="#l4a2">
-                        <lem> entendement</lem>
-                        <rdg wit="#Ch"> grant entende demet</rdg>
-                        <rdg wit="#R"> grant dement</rdg>
+                        <lem>entendement</lem>
+                        <rdg wit="#Ch">grant entende demet</rdg>
+                        <rdg wit="#R">grant dement</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 5</head>
+                    <head>5</head>
                     <app from="#l5a1" to="#l5a2">
-                        <lem> facent</lem>
-                        <rdg wit="#Ch"> faitent</rdg>
+                        <lem>facent</lem>
+                        <rdg wit="#Ch">faitent</rdg>
                     </app>
                     
                     <app from="#l5a3" to="#l5a4">
-                        <lem> aucunz</lem>
-                        <rdg wit="#Ch"> avounz</rdg>
+                        <lem>aucunz</lem>
+                        <rdg wit="#Ch">avounz</rdg>
                     </app>
                     
                     <app from="#l5a5" to="#l5a6">
-                        <lem> avancier</lem>
-                        <rdg wit="#Ch"> avantier</rdg>
+                        <lem>avancier</lem>
+                        <rdg wit="#Ch">avantier</rdg>
                     </app>
                     
                     <app from="#l5a7" to="#l5a8">
-                        <lem> grantdement</lem>
-                        <rdg wit="#Ch"> tres grandtement</rdg>
-                        <rdg wit="#R"> trop grant</rdg>
+                        <lem>grantdement</lem>
+                        <rdg wit="#Ch">tres grandtement</rdg>
+                        <rdg wit="#R">trop grant</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 6</head>
+                    <head>6</head>
                     <app from="#l6a1" to="#l6a2">
-                        <lem> vient</lem>
-                        <rdg wit="#R"> vien</rdg>
+                        <lem>vient</lem>
+                        <rdg wit="#R">vien</rdg>
                     </app>
                     
                     <app from="#l6a3" to="#l6a4">
-                        <lem> assaut</lem>
-                        <rdg wit="#Ch"> assant</rdg>
+                        <lem>assaut</lem>
+                        <rdg wit="#Ch">assant</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 7</head>
+                    <head>7</head>
                     <app from="#l7a1" to="#l7a2">
-                        <lem> faut</lem>
-                        <rdg wit="#Ch"> fant</rdg>
+                        <lem>faut</lem>
+                        <rdg wit="#Ch">fant</rdg>
                         <rdg wit="#R"/>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 10</head>
+                    <head>10</head>
                     <app from="#l10a1" to="#l10a2">
-                        <lem> seureté</lem>
-                        <rdg wit="#Ch"> senrete</rdg>
+                        <lem>seureté</lem>
+                        <rdg wit="#Ch">senrete</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 11</head>
+                    <head>11</head>
                     <app from="#l11a1" to="#l11a2">
-                        <lem> quant</lem>
-                        <rdg wit="#Ch"> qi <hi rend="italic"> con titulus</hi></rdg>
+                        <lem>quant</lem>
+                        <rdg wit="#Ch">qi <hi rend="italic"> con titulus</hi></rdg>
                     </app>
                     
                     <app from="#l11a3" to="#l11a4">
-                        <lem> tres</lem>
-                        <rdg wit="#Ch"> si tres</rdg>
+                        <lem>tres</lem>
+                        <rdg wit="#Ch">si tres</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 12</head>
+                    <head>12</head>
                     <app from="#l12a1" to="#l12a2">
-                        <lem> trove</lem>
-                        <rdg wit="#Ch"> sache trover</rdg>
+                        <lem>trove</lem>
+                        <rdg wit="#Ch">sache trover</rdg>
                     </app>
                     
                     <app from="#l12a3" to="#l12a4">
-                        <lem> comment</lem>
-                        <rdg wit="#Ch"> ommt</rdg>
+                        <lem>comment</lem>
+                        <rdg wit="#Ch">ommt</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 13</head>
+                    <head>13</head>
                     <app from="#l13a1" to="#l13a2">
-                        <lem> saut</lem>
-                        <rdg wit="#Ch"> sant</rdg>
+                        <lem>saut</lem>
+                        <rdg wit="#Ch">sant</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 14</head>
+                    <head>14</head>
                     <app from="#l14a1" to="#l14a2">
-                        <lem> mais</lem>
-                        <rdg wit="#Ch"> murs</rdg>
+                        <lem>mais</lem>
+                        <rdg wit="#Ch">murs</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 15</head>
+                    <head>15</head>
                     <app from="#l15a1" to="#l15a2">
-                        <lem> fait</lem>
-                        <rdg wit="#Ch"> fant</rdg>
+                        <lem>fait</lem>
+                        <rdg wit="#Ch">fant</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 17</head>
+                    <head>17</head>
                     <app from="#l17a1" to="#l17a2">
-                        <lem> de</lem>
+                        <lem>de</lem>
                         <rdg wit="#Ch"/>
                     </app>
                 </listApp>
@@ -255,23 +255,23 @@
 
             <listApp type="formal">                
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a3" to="#l3a4">
-                        <lem> jonesse</lem>
-                        <rdg wit="#R"> jonese</rdg>
+                        <lem>jonesse</lem>
+                        <rdg wit="#R">jonese</rdg>
                     </app>
                     
                     <app from="#l3a5" to="#l3a6">
-                        <lem> beauté</lem>
-                        <rdg wit="#R"> biauté </rdg>
+                        <lem>beauté</lem>
+                        <rdg wit="#R">biauté </rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 5</head>
+                    <head>5</head>
                     <app from="#l5a9" to="#l5a10">
-                        <lem> aucunz</lem>
-                        <rdg wit="#R"> aucuns</rdg>
+                        <lem>aucunz</lem>
+                        <rdg wit="#R">aucuns</rdg>
                     </app>
                 </listApp>
             </listApp>

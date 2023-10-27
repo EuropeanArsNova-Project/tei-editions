@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Ma douce amour et ma sperance</title>
+                <title>Ma douce amour et ma sperance</title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Alice Colantuoni</name> 
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -57,20 +57,20 @@
       </front> -->
         <body>
             <lg>
-                <l xml:id="l1"> Ma douce amour et <anchor xml:id="l1a1"/>ma sperance<anchor xml:id="l1a2"/>,</l>
-                <l xml:id="l2"> je <anchor xml:id="l2a1"/>vos<anchor xml:id="l2a2"/> creant de bon cuer vray </l>
-                <l xml:id="l3"> que de ce <anchor xml:id="l3a1"/>qu’a<anchor xml:id="l3a2"/> vous fis fiance</l>
-                <l xml:id="l4"> <anchor xml:id="l4a1"/>jusque a<anchor xml:id="l4a2"/> la mort bien atendray.</l>
+                <l xml:id="l1">Ma douce amour et <anchor xml:id="l1a1"/>ma sperance<anchor xml:id="l1a2"/>,</l>
+                <l xml:id="l2">je <anchor xml:id="l2a1"/>vos<anchor xml:id="l2a2"/> creant de bon cuer vray </l>
+                <l xml:id="l3">que de ce <anchor xml:id="l3a1"/>qu’a<anchor xml:id="l3a2"/> vous fis fiance</l>
+                <l xml:id="l4"><anchor xml:id="l4a1"/>jusque a<anchor xml:id="l4a2"/> la mort bien atendray.</l>
             </lg>
             <lg>
-                <l xml:id="l5" n="5"> Et sans <anchor xml:id="l5a1"/>mentire<anchor xml:id="l5a2"/> <anchor xml:id="l5a3"/>aiés<anchor xml:id="l5a4"/> certance</l>
-                <l xml:id="l6"> <anchor xml:id="l6a1"/>que onques<anchor xml:id="l6a2"/> <anchor xml:id="l6a3"/>nulle<anchor xml:id="l6a4"/> autre serviray:</l>
-                <l xml:id="l7"> je sui mis en <anchor xml:id="l7a3"/><anchor xml:id="l7a1"/>voutre<anchor xml:id="l7a2"/><anchor xml:id="l7a4"/> obeisance</l>
-                <l xml:id="l8"> et tous jours <anchor xml:id="l8a1"/>mez<anchor xml:id="l8a2"/> ensi seray.</l>
-                <l xml:id="l9"> Et vous <anchor xml:id="l9a1"/>sacchiés<anchor xml:id="l9a2"/> bien sans doubtance</l>
-                <l xml:id="l10" n="10"> qu’<anchor xml:id="l10a1"/>onques<anchor xml:id="l10a2"/> ne vous <anchor xml:id="l10a3"/>oblïeray<anchor xml:id="l10a4"/></l>
-                <l xml:id="l11"> tant <anchor xml:id="l11a1"/>qu’en moi<anchor xml:id="l11a2"/> <anchor xml:id="l11a3"/>facche<anchor xml:id="l11a4"/> demorance</l>
-                <l xml:id="l12"> la rien qu’<anchor xml:id="l12a1"/>onques<anchor xml:id="l12a2"/> vi ne <anchor xml:id="l12a3"/>veray<anchor xml:id="l12a4"/>.</l>
+                <l xml:id="l5" n="5">Et sans <anchor xml:id="l5a1"/>mentire<anchor xml:id="l5a2"/> <anchor xml:id="l5a3"/>aiés<anchor xml:id="l5a4"/> certance</l>
+                <l xml:id="l6"><anchor xml:id="l6a1"/>que onques<anchor xml:id="l6a2"/> <anchor xml:id="l6a3"/>nulle<anchor xml:id="l6a4"/> autre serviray:</l>
+                <l xml:id="l7">je sui mis en <anchor xml:id="l7a3"/><anchor xml:id="l7a1"/>voutre<anchor xml:id="l7a2"/><anchor xml:id="l7a4"/> obeisance</l>
+                <l xml:id="l8">et tous jours <anchor xml:id="l8a1"/>mez<anchor xml:id="l8a2"/> ensi seray.</l>
+                <l xml:id="l9">Et vous <anchor xml:id="l9a1"/>sacchiés<anchor xml:id="l9a2"/> bien sans doubtance</l>
+                <l xml:id="l10" n="10">qu’<anchor xml:id="l10a1"/>onques<anchor xml:id="l10a2"/> ne vous <anchor xml:id="l10a3"/>oblïeray<anchor xml:id="l10a4"/></l>
+                <l xml:id="l11">tant <anchor xml:id="l11a1"/>qu’en moi<anchor xml:id="l11a2"/> <anchor xml:id="l11a3"/>facche<anchor xml:id="l11a4"/> demorance</l>
+                <l xml:id="l12">la rien qu’<anchor xml:id="l12a1"/>onques<anchor xml:id="l12a2"/> vi ne <anchor xml:id="l12a3"/>veray<anchor xml:id="l12a4"/>.</l>
             </lg>
             
         </body>
@@ -91,135 +91,135 @@
 
             <listApp type="substantial">
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a1" to="#l3a2">
-                        <lem> qu’a</lem>
-                        <rdg wit="#MoA"> que</rdg>
+                        <lem>qu’a</lem>
+                        <rdg wit="#MoA">que</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 7</head>
+                    <head>7</head>
                     <app from="#l7a1" to="#l7a2">
-                        <lem> voutre</lem>
+                        <lem>voutre</lem>
                         <rdg wit="#MoA">noutre</rdg>
                     </app>
                 </listApp>  
                 
                 <listApp>
-                    <head> 8</head>
+                    <head>8</head>
                     <app from="#l8a1" to="#l8a2">
-                        <lem> mez</lem>
+                        <lem>mez</lem>
                         <rdg wit="#MoA"/>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 11</head>
+                    <head>11</head>
                     <app from="#l11a1" to="#l11a2">
-                        <lem> qu’en moi</lem>
-                        <rdg wit="#MoA"> que my </rdg>
+                        <lem>qu’en moi</lem>
+                        <rdg wit="#MoA">que my </rdg>
                     </app>
                 </listApp>
             </listApp>
 
             <listApp type="formal">
                 <listApp>
-                    <head> 1</head>
+                    <head>1</head>
                     <app from="#l1a1" to="#l1a2">
-                        <lem> ma sperance</lem>
-                        <rdg wit="#Ln7"> me sperance </rdg>
+                        <lem>ma sperance</lem>
+                        <rdg wit="#Ln7">me sperance </rdg>
                     </app>                        
                 </listApp>
                 
                 <listApp>
-                    <head> 2</head>
+                    <head>2</head>
                     <app from="#l2a1" to="#l2a2">
-                        <lem> vos</lem>
-                        <rdg wit="#Ln7"> vous</rdg>
+                        <lem>vos</lem>
+                        <rdg wit="#Ln7">vous</rdg>
                     </app>                        
                 </listApp>
                 
                 <listApp>
-                    <head> 4</head>
+                    <head>4</head>
                     <app from="#l4a1" to="#l4a2">
-                        <lem> jusque a</lem>
-                        <rdg wit="#Ln7"> jusqua</rdg>
+                        <lem>jusque a</lem>
+                        <rdg wit="#Ln7">jusqua</rdg>
                     </app>                        
                 </listApp>
                 
                 <listApp>
-                    <head> 5</head>
+                    <head>5</head>
                     <app from="#l5a1" to="#l5a2">
-                        <lem> mentire</lem>
-                        <rdg wit="#Ln7"> mentir</rdg>
+                        <lem>mentire</lem>
+                        <rdg wit="#Ln7">mentir</rdg>
                     </app>    
 
                     <app from="#l5a3" to="#l5a4">
-                        <lem> aiés</lem>
-                        <rdg wit="#Ln7"> aiez</rdg>
+                        <lem>aiés</lem>
+                        <rdg wit="#Ln7">aiez</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 6</head>
+                    <head>6</head>
                     <app from="#l6a1" to="#l6a2">
-                        <lem> que onques</lem>
-                        <rdg wit="#Ln7"> quonquez </rdg>
+                        <lem>que onques</lem>
+                        <rdg wit="#Ln7">quonquez </rdg>
                     </app> 
                     
                     <app from="#l6a3" to="#l6a4">
-                        <lem> nulle</lem>
-                        <rdg wit="#Ln7"> nule</rdg>
+                        <lem>nulle</lem>
+                        <rdg wit="#Ln7">nule</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 7</head>
+                    <head>7</head>
                     <app from="#l7a3" to="#l7a4">
-                        <lem> voutre</lem>
-                        <rdg wit="#Ln7"> vostre</rdg>
+                        <lem>voutre</lem>
+                        <rdg wit="#Ln7">vostre</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 9</head>
+                    <head>9</head>
                     <app from="#l9a1" to="#l9a2">
-                        <lem> sacchiés</lem>
-                        <rdg wit="#Ln7"> sachez </rdg>
+                        <lem>sacchiés</lem>
+                        <rdg wit="#Ln7">sachez </rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 10</head>
+                    <head>10</head>
                     <app from="#l10a1" to="#l10a2">
-                        <lem> onques</lem>
-                        <rdg wit="#Ln7"> onquez</rdg> 
+                        <lem>onques</lem>
+                        <rdg wit="#Ln7">onquez</rdg> 
                     </app>
                     
                     <app from="#l10a3" to="#l10a4">
-                        <lem> oblïeray</lem>
-                        <rdg wit="#Ln7"> oublieray</rdg>
+                        <lem>oblïeray</lem>
+                        <rdg wit="#Ln7">oublieray</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 11</head>
+                    <head>11</head>
                     <app from="#l11a3" to="#l11a4">
-                        <lem> facche</lem>
+                        <lem>facche</lem>
                         <rdg wit="#Ln7">fache</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 12</head>
+                    <head>12</head>
                     <app from="#l12a1" to="#l12a2">
-                        <lem> onques</lem>
+                        <lem>onques</lem>
                         <rdg wit="#Ln7">onquez</rdg>
                     </app>
                     
                     <app from="#l12a3" to="#l12a4">
-                        <lem> veray</lem>
+                        <lem>veray</lem>
                         <rdg wit="#Ln7">verray</rdg>
                     </app>
                 </listApp>
@@ -231,14 +231,14 @@
 
 
             <div type="metricalScheme">
-                <p> <hi rend="italic"> Virelai</hi> 8’a 8b 8’a 8b; 8’a 8b, 8’a 8b; 8’a 8b 8’a 8b.</p>
+                <p> <hi rend="italic">Virelai</hi> 8’a 8b 8’a 8b; 8’a 8b, 8’a 8b; 8’a 8b 8’a 8b.</p>
                 <p> Rima ricca ai vv. 1 : 11, 2 : 4 : 6 : 8 : 10 : 12, 5 : 9.</p>
             </div>
 
 
             <listBibl type="editions">
-                <bibl corresp="#Bertoni1917"> Bertoni 1917, p. 39</bibl>
-                <bibl corresp="#Apel-Rosenberg1970"> Apel-Rosenberg 1970, p. LVI</bibl>
+                <bibl corresp="#Bertoni1917">Bertoni 1917, p. 39</bibl>
+                <bibl corresp="#Apel-Rosenberg1970">Apel-Rosenberg 1970, p. LVI</bibl>
             </listBibl>
 
 
@@ -263,7 +263,7 @@
 
             <listBibl type="editionsBibliography">
                 <bibl xml:id="Bertoni1917">Giulio Bertoni, <hi rend="italic">Poesie musicali francesi nel cod. Estense Lat. n. 568</hi>, in «Archivium Romanicum», 1 (1917), pp. 21-57.</bibl>
-                <bibl xml:id="Apel-Rosenberg1970"> <hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1)</bibl>
+                <bibl xml:id="Apel-Rosenberg1970"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1)</bibl>
             </listBibl>
         </back>
     </text>

@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Alice Colantuoni</name> 
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -57,14 +57,14 @@
       </front> -->
         <body>
             <lg>
-                <l xml:id="l1"> <hi rend="italic"> Loyauté me tient en espoir</hi></l>
-                <l xml:id="l2"> <hi rend="italic"> d’encor venir a <anchor xml:id="l2a1"/>m<supplied reason="illegible">[on]</supplied><anchor xml:id="l2a2"/> entente; </hi></l>
-                <l xml:id="l3"> conbien que demeure, pour voir,</l>
-                <l xml:id="l4"> <hi rend="italic"> loyaulté <supplied reason="illegible">[me tient en espoir].</supplied>.</hi></l>
-                <l xml:id="l5" n="5"> S’atendray d’amourex vouloyr,</l>
-                <l xml:id="l6"> coment <anchor xml:id="l6a1"/>qu’<supplied reason="illegible">[a]</supplied>ye<anchor xml:id="l6a2"/> longue <anchor xml:id="l6a3"/>ate<supplied reason="illegible">[n]</supplied>te<anchor xml:id="l6a4"/>:</l>
-                <l xml:id="l7"> <hi rend="italic">loyaulté <supplied xml:id="suppl1" reason="illegible">[me tient en espoir</supplied></hi></l>
-                <l xml:id="l8"> <hi rend="italic"> <supplied xml:id="suppl2" corresp="#suppl1" reason="illegible">d’encor venir a mon entente].</supplied></hi></l>
+                <l xml:id="l1"><hi rend="italic"> Loyauté me tient en espoir</hi></l>
+                <l xml:id="l2"><hi rend="italic"> d’encor venir a <anchor xml:id="l2a1"/>m<supplied reason="illegible">[on]</supplied><anchor xml:id="l2a2"/> entente; </hi></l>
+                <l xml:id="l3">conbien que demeure, pour voir,</l>
+                <l xml:id="l4"><hi rend="italic"> loyaulté <supplied reason="illegible">[me tient en espoir].</supplied>.</hi></l>
+                <l xml:id="l5" n="5">S’atendray d’amourex vouloyr,</l>
+                <l xml:id="l6">coment <anchor xml:id="l6a1"/>qu’<supplied reason="illegible">[a]</supplied>ye<anchor xml:id="l6a2"/> longue <anchor xml:id="l6a3"/>ate<supplied reason="illegible">[n]</supplied>te<anchor xml:id="l6a4"/>:</l>
+                <l xml:id="l7"><hi rend="italic">loyaulté <supplied xml:id="suppl1" reason="illegible">[me tient en espoir</supplied></hi></l>
+                <l xml:id="l8"><hi rend="italic"> <supplied xml:id="suppl2" corresp="#suppl1" reason="illegible">d’encor venir a mon entente].</supplied></hi></l>
             </lg>
 
         </body>
@@ -91,23 +91,23 @@
 
             <listApp type="formal">
                 <listApp>
-                    <head> 2</head>
+                    <head>2</head>
                     <app from="#l2a1" to="#l2a2">
-                        <lem> mon</lem>
-                        <rdg wit="#Ch"> m</rdg>
+                        <lem>mon</lem>
+                        <rdg wit="#Ch">m</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 6</head>
+                    <head>6</head>
                     <app from="#l6a1" to="#l6a2">
-                        <lem> qu’aye</lem>
-                        <rdg wit="#Ch"> quye </rdg>
+                        <lem>qu’aye</lem>
+                        <rdg wit="#Ch">quye </rdg>
                     </app>
                     
                     <app from="#l6a3" to="#l6a4">
-                        <lem> atente</lem>
-                        <rdg wit="#Ch"> antete</rdg>
+                        <lem>atente</lem>
+                        <rdg wit="#Ch">antete</rdg>
                     </app>
                 </listApp>
             </listApp>
