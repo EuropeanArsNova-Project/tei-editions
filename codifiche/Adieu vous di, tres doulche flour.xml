@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> A cuy diray le martire </title>
+                <title>Adieu vous di, tres doulche flour</title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Alice Colantuoni</name> 
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -91,23 +91,23 @@
             <listApp type="substantial">               
                
                 <listApp>
-                    <head> 2</head>
+                    <head>2</head>
                     <app from="#l2a1" to="#l2a2">
-                        <lem> je ne puis</lem>
+                        <lem>je ne puis</lem>
                         <rdg wit="#Ld3"> <gap reason="illegible" rend="ill."/> </rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a1" to="#l3a2">
-                        <lem> plo<hi rend="italic">rer</hi></lem>
+                        <lem>plo<hi rend="italic">rer</hi></lem>
                         <rdg wit="#Ld3"> <gap reason="illegible" rend="ill."/> </rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 4</head>
+                    <head>4</head>
                     <app from="#l4a1" to="#l4a2">
                         <lem>tant</lem>
                         <rdg wit="#Ld3"> <gap reason="illegible" rend="ill."/> </rdg>
@@ -120,33 +120,33 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 6</head>
+                    <head>6</head>
                     <app from="#l6a1" to="#l6a2">
-                        <lem> blasmer</lem>
+                        <lem>blasmer</lem>
                         <rdg wit="#Ld3"/> 
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 9</head>
+                    <head>9</head>
                     <app from="#l9a1" to="#l9a2">
-                        <lem> mectre</lem>
+                        <lem>mectre</lem>
                         <rdg wit="#Ld3"> <unclear reason="illegible" rend="?">mec<hi rend="italic">tra</hi></unclear> (con a <hi rend="italic">soprascritta</hi>) </rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 11</head>
+                    <head>11</head>
                     <app from="#l11a1" to="#l11a2">
-                        <lem> por</lem>
+                        <lem>por</lem>
                         <rdg wit="#Ld3"> <gap reason="illegible" rend="ill."/> </rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 12</head>
+                    <head>12</head>
                     <app from="#l12a1" to="#l12a2">
-                        <lem> <hi rend="italic">ma do</hi>lour</lem>
+                        <lem><hi rend="italic">ma do</hi>lour</lem>
                         <rdg wit="#Ld3"> <gap reason="illegible" rend="ill."/> </rdg>
                     </app>
                 </listApp>

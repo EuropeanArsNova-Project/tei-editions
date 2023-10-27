@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Belle plaisant, tant que j’aray duree</title>
+                <title>Belle plaisant, tant que j’aray duree</title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Alice Colantuoni</name> 
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -94,25 +94,25 @@
 
             <listApp type="formal">
                 <listApp>
-                    <head> 4</head>
+                    <head>4</head>
                     <app from="#l4a1" to="#l4a2">
-                        <lem> pensee</lem>
+                        <lem>pensee</lem>
                         <rdg wit="#Mt"> pense </rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 11</head>
+                    <head>11</head>
                     <app from="#l11a1" to="#l11a2">
-                        <lem> present</lem>
+                        <lem>present</lem>
                         <rdg> <witDetail wit="#Mt"><hi rend="italic">parzialmente leggibile per l.m</hi></witDetail> </rdg> 
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 12</head>
+                    <head>12</head>
                     <app from="#l12a1" to="#l12a2">
-                        <lem> [… -ee]</lem>
+                        <lem>[… -ee]</lem>
                         <rdg wit="#Mt"><gap reason="illegible" rend="per l.m."/></rdg>
                     </app>
                 </listApp>
@@ -139,7 +139,7 @@
 
             <div type="commentary">
                <note target="#l10">
-                   <num> 10.</num>
+                   <num>10.</num>
                    <p> <hi rend="italic">faitich</hi>: forma piccarda dell’agg. <hi rend="italic">faitis</hi>, ‘bello, elegante’, cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">faitis</hi>. </p>
                </note>
             </div>

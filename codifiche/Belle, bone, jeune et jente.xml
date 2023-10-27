@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Belle, bone, jeune et jente</title>
+                <title>Belle, bone, jeune et jente</title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Alice Colantuoni</name> 
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -96,33 +96,33 @@
 
             <listApp type="formal">
                 <listApp>
-                    <head> 2</head>
+                    <head>2</head>
                     <app from="#l2a1" to="#l2a2">
-                        <lem> pareille</lem>
+                        <lem>pareille</lem>
                         <rdg wit="#Pz"> pa<gap reason="illegible" unit="chars" quantity="1" rend="*"/>le </rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a1" to="#l3a2">
-                        <lem> vueilliéz</lem>
+                        <lem>vueilliéz</lem>
                         <rdg wit="#Pz"> vueilliens </rdg> 
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 6</head>
+                    <head>6</head>
                     <app from="#l6a1" to="#l6a2">
-                        <lem> fere</lem>
+                        <lem>fere</lem>
                         <rdg wit="#Pz">fer </rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 7</head>
+                    <head>7</head>
                     <app from="#l7a1" to="#l7a2">
-                        <lem> belle, bone</lem>
+                        <lem>belle, bone</lem>
                         <rdg wit="#Pz"> belle et bonne </rdg>
                     </app>
                 </listApp>

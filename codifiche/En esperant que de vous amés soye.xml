@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> En esperant que de vous amés soye</title>
+                <title>En esperant que de vous amés soye</title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Alice Colantuoni</name> 
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -89,17 +89,17 @@
             <listApp type="substantial">               
                              
                 <listApp>
-                    <head> 6</head>
+                    <head>6</head>
                     <app from="#l6a1" to="#l6a2">
-                        <lem> estes</lem>
+                        <lem>estes</lem>
                         <rdg wit="#Bob"> est</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 12</head>
+                    <head>12</head>
                     <app from="#l12a1" to="#l12a2">
-                        <lem> qu’avenir en doie</lem>
+                        <lem>qu’avenir en doie</lem>
                         <rdg wit="#Bob"> quaur est doie</rdg>
                     </app>
                 </listApp>

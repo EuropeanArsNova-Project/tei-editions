@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Combienz qu’il soyt que ne vous voy souvent</title>
+                <title>Combienz qu’il soyt que ne vous voy souvent</title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Alice Colantuoni</name> 
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -86,27 +86,27 @@
             <listApp type="substantial">               
                
                 <listApp>
-                    <head> 1</head>
+                    <head>1</head>
                     <app from="#l1a1" to="#l1a2">
-                        <lem> souvent</lem>
+                        <lem>souvent</lem>
                         <rdg wit="#R">ma chiere</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 2</head>
+                    <head>2</head>
                     <app from="#l2a1" to="#l2a2">
-                        <lem> chiere</lem>
+                        <lem>chiere</lem>
                         <rdg wit="#R"> merveglieux </rdg>
                     </app>
                     
                     <app from="#l2a3" to="#l2a4">
-                        <lem> du</lem>
+                        <lem>du</lem>
                         <rdg wit="#R">da</rdg>
                     </app>
                     
                     <app from="#l2a5" to="#l2a6">
-                        <lem> outrie</lem>
+                        <lem>outrie</lem>
                         <rdg wit="#R"> ontrie</rdg>
                     </app>
                 </listApp>

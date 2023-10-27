@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> A cuy diray le martire </title>
+                <title>A cuy diray le martire </title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Alice Colantuoni</name> 
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -95,17 +95,17 @@
 
             <listApp type="formal">
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a1" to="#l3a2">
-                        <lem> puis</lem>
+                        <lem>puis</lem>
                         <rdg wit="#Mt"> ne puis </rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 4</head>
+                    <head>4</head>
                     <app from="#l4a1" to="#l4a2">
-                        <lem> pour</lem>
+                        <lem>pour</lem>
                         <rdg wit="#Mt"> bon jour pour </rdg>
                     </app>
                 </listApp>
@@ -133,7 +133,7 @@
 
             <div type="commentary">
                 <note target="#l2">
-                    <num> 2.</num>
+                    <num>2.</num>
                     <p> <hi rend="italic">atire</hi>: da <hi rend="italic">atirer</hi> ‘tormentare, maltrattare’, cf. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">atirer1</hi> § I.</p>
                 </note>
             </div>

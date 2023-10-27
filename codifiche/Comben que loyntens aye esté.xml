@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Comben que loyntens aye esté</title>
+                <title>Comben que loyntens aye esté</title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Alice Colantuoni</name> 
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -82,30 +82,30 @@
             <listApp type="substantial">               
                
                 <listApp>
-                    <head> 1</head>
+                    <head>1</head>
                     <app from="#l1a1" to="#l1a2">
-                        <lem> loyntens</lem>
+                        <lem>loyntens</lem>
                         <rdg wit="#Iv">loyntenps </rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 2</head>
+                    <head>2</head>
                     <app from="#l2a1" to="#l2a2">
-                        <lem> vous</lem>
+                        <lem>vous</lem>
                         <rdg wit="#Iv"> <unclear reason="illegible" rend="(?)">vous ma</unclear>dame </rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 6</head>
+                    <head>6</head>
                     <app from="#l6a1" to="#l6a2">
-                        <lem> soyt</lem>
+                        <lem>soyt</lem>
                         <rdg wit="#Iv"> et soyt</rdg>
                     </app>
                     
                     <app from="#l6a3" to="#l6a4">
-                        <lem> departemant</lem>
+                        <lem>departemant</lem>
                         <rdg wit="#Iv"> nulls deptemant <witDetail wit="#Iv"><hi rend="italic">con segno di abbreviazione su </hi> p <hi rend="italic"></hi>illegibile </witDetail> </rdg>
                     </app>
                 </listApp>

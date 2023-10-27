@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Belle com rose vermeille</title>
+                <title>Belle com rose vermeille</title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Alice Colantuoni</name> 
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -94,30 +94,30 @@
 
             <listApp type="formal">
                 <listApp>
-                    <head> 1</head>
+                    <head>1</head>
                     <app from="#l1a1" to="#l1a2">
-                        <lem> com</lem>
+                        <lem>com</lem>
                         <rdg wit="#Sn2"> que</rdg>
                     </app>
                     
                     <app from="#l1a3" to="#l3a4">
-                        <lem> vermeille</lem>
+                        <lem>vermeille</lem>
                         <rdg wit="#Sn2"> vermeillle</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a1" to="#l3a2">
-                        <lem> digne</lem>
+                        <lem>digne</lem>
                         <rdg wit="#Sn2">disne </rdg> 
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 5</head>
+                    <head>5</head>
                     <app from="#l5a1" to="#l5a2">
-                        <lem> jamais</lem>
+                        <lem>jamais</lem>
                         <rdg wit="#Sn2"/>
                     </app>
                 </listApp>
@@ -143,7 +143,7 @@
 
             <div type="commentary">
                <note target="#l5">
-                   <num> 5.</num>
+                   <num>5.</num>
                    <p> <hi rend="italic">jamais</hi>: l’integrazione è già in Greene.</p>
                </note>
             </div>

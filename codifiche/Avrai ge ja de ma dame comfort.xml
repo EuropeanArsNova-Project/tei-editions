@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Avrai ge ja de ma dame comfort</title>
+                <title>Avrai ge ja de ma dame comfort</title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Alice Colantuoni</name> 
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -94,45 +94,45 @@
 
             <listApp type="formal">
                 <listApp>
-                    <head> 1</head>
+                    <head>1</head>
                     <app from="#l1a1" to="#l1a2">
-                        <lem> avrai</lem>
+                        <lem>avrai</lem>
                         <rdg wit="#Pis"> avrar</rdg>
                     </app>
                     
                     <app from="#l1a3" to="#l3a4">
-                        <lem> ja</lem>
+                        <lem>ja</lem>
                         <rdg wit="#Pis"> ra</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 2</head>
+                    <head>2</head>
                     <app from="#l2a1" to="#l2a2">
-                        <lem> molt</lem>
+                        <lem>molt</lem>
                         <rdg wit="#Pis"/> 
                     </app>
                     
                     <app from="#l2a3" to="#l2a4">
-                        <lem> m’enpire</lem>
+                        <lem>m’enpire</lem>
                         <rdg wit="#Pis"> me pire</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 4</head>
+                    <head>4</head>
                     <app from="#l4a1" to="#l4a2">
-                        <lem> ce crust</lem>
+                        <lem>ce crust</lem>
                         <rdg wit="#Pis"> ceust</rdg>
                     </app>
                     
                     <app from="#l4a3" to="#l4a4">
-                        <lem> me</lem>
+                        <lem>me</lem>
                         <rdg wit="#Pis"> <unclear reason="illegible" rend="(?)"> morti</unclear></rdg>
                     </app>
                     
                     <app from="#l4a5" to="#l4a6">
-                        <lem> juge</lem>
+                        <lem>juge</lem>
                         <rdg wit="#Pis"> inge </rdg>
                     </app>
                 </listApp>
@@ -160,7 +160,7 @@
 
             <div type="commentary">
                <note target="#l3">
-                   <num> 3.</num>
+                   <num>3.</num>
                    <p> <hi rend="italic">mire</hi>: ‘dottore’.</p>
                </note>
             </div>

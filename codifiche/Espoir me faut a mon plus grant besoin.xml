@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Espoir me faut a mon plus grant besoin</title>
+                <title>Espoir me faut a mon plus grant besoin</title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Alice Colantuoni</name> 
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -78,74 +78,74 @@
         
                     <listApp type="substantial">               
                         <listApp>
-                            <head> 1</head>
+                            <head>1</head>
                             <app from="#l1a1" to="#l1a2">
-                                <lem> Espoir</lem>
+                                <lem>Espoir</lem>
                                 <rdg wit="#Ut"> <gap reason="illegible" rend="l.m."/></rdg>
                             </app>
                             
                             <app from="#l1a3" to="#l1a4">
-                                <lem> faut</lem>
+                                <lem>faut</lem>
                                 <rdg type="indifferentVariant" wit="#Ut #Ca5"> fuit</rdg>
                             </app>
                             
                             <app from="#l1a5" to="#l1a6">
-                                <lem> mon plus grant besoin</lem>
+                                <lem>mon plus grant besoin</lem>
                                 <rdg wit="#Ca5"> <gap reason="illegible" rend="ill."/></rdg>
                             </app>
                         </listApp>
                         
                         <listApp>
-                            <head> 2</head>
+                            <head>2</head>
                             <app from="#l2a1" to="#l2a2">
-                                <lem> com</lem>
+                                <lem>com</lem>
                                 <rdg wit="#Ca5"> <gap reason="illegible" rend="ill."/></rdg>
                             </app>
                             
                             <app from="#l2a3" to="#l2a4">
-                                <lem> <hi rend="italic">me voit en per</hi>il</lem>
+                                <lem><hi rend="italic">me voit en per</hi>il</lem>
                                 <rdg wit="#Ut"> <gap reason="illegible" rend="l.m."/> </rdg>
                             </app>
                             
                             <app from="#l2a5" to="#l2a6">
-                                <lem> voit en</lem>
+                                <lem>voit en</lem>
                                 <rdg wit="#Ca5">  <gap reason="illegible" rend="ill."/></rdg>
                             </app>
                             
                             <app from="#l2a7" to="#l2a8">
-                                <lem> eslogne</lem>
+                                <lem>eslogne</lem>
                                 <rdg type="indifferentVariant" wit="#Ut"> enlonge</rdg>
                             </app>
                         </listApp>
                         
                         <listApp>
-                            <head> 3</head>
+                            <head>3</head>
                             <app from="#l3a1" to="#l3a2">
-                                <lem> <hi rend="italic">de</hi> mercy</lem>
+                                <lem><hi rend="italic">de</hi> mercy</lem>
                                 <rdg wit="#Ca5"/> 
                             </app>
                         </listApp>
                         
                         <listApp>
-                            <head> 3-4</head>
+                            <head>3-4</head>
                             <app from="#l3a3" to="#l4a1">
-                                <lem> loin, Espoir </lem>
+                                <lem>loin, Espoir </lem>
                                 <rdg wit="#Ca5"><gap reason="illegible" rend="l.m."/></rdg>
                             </app>
                         </listApp>
                         
                         <listApp>
-                            <head> 5</head>
+                            <head>5</head>
                             <app from="#l5a1" to="#l5a2">
-                                <lem> moy n’a nul</lem>
+                                <lem>moy n’a nul</lem>
                                 <rdg wit="#Ca5"> <gap reason="illegible" rend="l.m."/></rdg>
                             </app>
                         </listApp>
                         
                         <listApp>
-                            <head> 6</head>
+                            <head>6</head>
                             <app from="#l6a1" to="#l6a2">
-                                <lem> <hi rend="italic">Grace n’i b</hi>esogne</lem>
+                                <lem><hi rend="italic">Grace n’i b</hi>esogne</lem>
                                 <rdg wit="#Ca5"> <gap reason="illegible" rend="l.m."/></rdg>
                             </app>
                         </listApp>
@@ -155,51 +155,51 @@
         
                     <listApp type="formal">
                         <listApp>
-                            <head> 1</head>
+                            <head>1</head>
                             <app from="#l1a7" to="#l1a8">
-                                <lem> Espoir</lem>
+                                <lem>Espoir</lem>
                                 <rdg wit="#Ca5"> espoirs </rdg>
                             </app>
                             
                             <app from="#l1a9" to="#l1a10">
-                                <lem> besoin</lem>
+                                <lem>besoin</lem>
                                 <rdg wit="#Ut"> besoing </rdg>
                             </app>
                         </listApp>
                         
                         <listApp>
-                            <head> 2</head>
+                            <head>2</head>
                             <app from="#l2a9" to="#l2a10">
-                                <lem> s’eslogne</lem>
+                                <lem>s’eslogne</lem>
                                 <rdg wit="#Ca5"> ses loinge </rdg>
                             </app>
                         </listApp>
                         
                         <listApp>
-                            <head> 3</head>
+                            <head>3</head>
                             <app from="#l3a4" to="#l3a5">
-                                <lem> mercy</lem>
+                                <lem>mercy</lem>
                                 <rdg wit="#Ca5"> merchi </rdg>
                             </app>
                         </listApp>
                         
                         <listApp>
-                            <head> 5</head>
+                            <head>5</head>
                             <app from="#l5a3" to="#l5a4">
-                                <lem> soin</lem>
+                                <lem>soin</lem>
                                 <rdg wit="#Ca5"> soing </rdg>
                             </app>
                         </listApp>
                         
                         <listApp>
-                            <head> 6</head>
+                            <head>6</head>
                             <app from="#l6a3" to="#l6a4">
-                                <lem> morray</lem>
+                                <lem>morray</lem>
                                 <rdg wit="#Ca5"> mourray </rdg>
                             </app>
                             
                             <app from="#l6a5" to="#l6a6">
-                                <lem> besogne</lem>
+                                <lem>besogne</lem>
                                 <rdg wit="#Ca5">soinge <witDetail wit="#Ca5">preceduto da rifilatura </witDetail></rdg>
                             </app>
                         </listApp>                     
@@ -236,27 +236,27 @@
                     
                     <listApp type="substantial">               
                         <listApp>
-                            <head> 1</head>
+                            <head>1</head>
                             <app from="#l1a1-2" to="#l1a2-2">
-                                <lem> Revien</lem>
+                                <lem>Revien</lem>
                                 <rdg wit="#Ut"> g <witDetail wit="#Ut"><hi rend="italic">preceduto da l.m.</hi> </witDetail></rdg>
                             </app>
                             
                             <app from="#l1a3-2" to="#l1a4-2">
-                                <lem> party</lem>
+                                <lem>party</lem>
                                 <rdg wit="#Ut"> partie</rdg>
                             </app>
                         </listApp>
                         
                         <listApp>
-                            <head> 2</head>
+                            <head>2</head>
                             <app from="#l2a1-2" to="#l2a2-2">
-                                <lem> Pitez s’est</lem>
+                                <lem>Pitez s’est</lem>
                                 <rdg wit="#Ut"> <gap reason="illegible" rend="l.m."/></rdg>
                             </app>
                             
                             <app from="#l2a3-2" to="#l2a4-2">
-                                <lem> endormye</lem>
+                                <lem>endormye</lem>
                                 <rdg wit="#Pen"> endormy </rdg>
                                 <rdg wit="#Ut"> endormi dormie</rdg>
                             </app>
