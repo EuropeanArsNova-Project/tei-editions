@@ -137,9 +137,9 @@
                 <listApp>
                     <head> 7-8</head>
                     <app from="#l7a1" to="l8a1">
-                        <lem> donòe, ondʼ io per servo sempre a·llei mi dòe </lem>
-                        <rdg wit="#Sq"> donò, ondʼ io per servo sempre a·llei mi dòe  </rdg>
-                        <rdg wit="#SL"> donò, ondʼ io per servo sempre a·llei mi dò </rdg>
+                        <lem> donòe : dòe </lem>
+                        <rdg wit="#Sq"> donòe : dòe </rdg>
+                        <rdg wit="#SL"> donò : dò </rdg>
                     </app>
                 </listApp>
                 
