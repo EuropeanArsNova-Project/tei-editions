@@ -120,9 +120,7 @@
                 <listApp>
                     <head> 4-6</head>
                     <app from="#l4a1" to="#l6a1">
-                        <lem> Amor, che de servir mai non sʼasconde,
-                            me disse: «Vaʼ seguendo quel sparviero,
-                            che diverrà gentil tantʼ, e maniero».</lem>
+                       
                         <rdg wit="#SL"/>                            
                     </app>
                 </listApp>
@@ -175,10 +173,7 @@
                 <listApp>
                     <head> 7-9</head>
                     <app from="#l7a1" to="#l9a1">
-                        <lem> Sisi del monte tuto el çorno intiero,
-                            l’andai chiamando in fin a meça notte,
-                            poi me colcai in meço [de] due grotte.
-                        </lem>
+                        
                         <rdg wit="#Sq #Pit #SL"/>
                         <rdg wit="#Fp"> Volando amonte tutto giorno lvidi <add place="above">urlar gridando insino a meça nocte</add>poscia si chollegava infra due grotte </rdg>
                     </app>
