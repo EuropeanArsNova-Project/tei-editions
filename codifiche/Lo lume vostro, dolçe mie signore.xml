@@ -105,6 +105,15 @@
 
 
             <listApp type="substantial">
+                
+                <listApp>
+                    <head> 1-3</head>
+                    <app from="#l1a1" to="#l3a1">
+                        <rdg wit="#Lo"/>
+                    </app>
+                </listApp>
+                
+                
                 <listApp>
                     <head> 1</head>
                     <app from="#l1a2" to="#l1a3">
@@ -137,10 +146,7 @@
                 <listApp>
                     <head> 4-6</head>
                     <app from="#l4a1" to="#l6a1">
-                        <lem> Hoc est notum et satis [est] probatum
-                            In quei cʼànno sentito el gusto amaro,
-                            Nascosamente per conporre errore.
-                            </lem>
+                        
                         <rdg wit="#R"/>
                     </app>
                 </listApp>
