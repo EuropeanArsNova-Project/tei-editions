@@ -66,13 +66,13 @@
                Amor <anchor xml:id="l3a1"/>più<anchor xml:id="l3a2"/> che çamai de mi s’<anchor xml:id="l3a3"/>enpaça<anchor xml:id="l3a4"/>.
             </l>
             <l xml:id="l4">
-               <anchor xml:id="l4a1"/><supplied reason="illegible">[...]</supplied><anchor xml:id="l4a2"/>
+               <anchor xml:id="l4a1"/><supplied reason="illegible">[...]</supplied>
             </l>
             <l xml:id="l5" n="5">
-               <anchor xml:id="l5a1"/><supplied reason="illegible">[...]</supplied><anchor xml:id="l5a2"/>
+               <supplied reason="illegible">[...]</supplied>
             </l>
             <l xml:id="l6">
-               <anchor xml:id="l6a1"/><supplied reason="illegible">[...]</supplied><anchor xml:id="l6a2"/>
+               <supplied reason="illegible">[...]</supplied><anchor xml:id="l6a1"/>
             </l>
          </lg>
          <lg>
@@ -112,28 +112,11 @@
             </listApp>
 
             <listApp>
-               <head>4</head>
-               <app from="#l4a1" to="#l4a2">
-                  <lem> [...]</lem>
+               <head>4-6</head>
+               <app from="#l4a1" to="#l6a1">
+                  
                   <rdg wit="#Rs"><gap reason="illegible" rend="lac."/></rdg>
                </app>           
-            </listApp>
-
-            <listApp>
-               <head>5</head>
-               <app from="#l5a1" to="#l5a2">
-                  <lem> [...]</lem>
-                  <rdg wit="#Rs"><gap reason="illegible" rend="lac."/></rdg>                
-               </app>          
-            </listApp>
-
-
-            <listApp>
-               <head>6</head>            
-               <app from="#l6a1" to="#l6a2">
-                  <lem> [...]</lem>
-                  <rdg wit="#Rs"><gap reason="illegible" rend="lac."/></rdg>
-               </app>            
             </listApp>
          
             <listApp>
