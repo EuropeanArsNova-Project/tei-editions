@@ -260,10 +260,10 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#Apel-Rosenberg1971">
-                    Apel-Rosenberg 1971, pp. XXX-XXXI.
+                    Apel-Rosenberg 1971, pp. XXX-XXXI;
                 </bibl>
                 <bibl corresp="#Greene1981">
-                    Greene, pp. 74-6.
+                    Greene 1981, pp. 74-6.
                 </bibl>
             </listBibl>
             <div type="commentary">
@@ -290,7 +290,10 @@
             </div>
             <listBibl type="editionsBibliography">
                 <bibl xml:id="Apel-Rosenberg1971">
-                    Willi Apel, <hi rend="italic">French Secular Compositions of the Fourteenth Century II. Anonymous Ballades</hi>, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1971 (CMM, 53/2)
+                    Willi Apel, <hi rend="italic">French Secular Compositions of the Fourteenth Century II. Anonymous Ballades</hi>, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1971 (CMM, 53/2).
+                </bibl>
+                <bibl>
+                    Gordon Greene, <hi rend="italic">French Secular Music. Manuscript Chantilly, Musée Condé 564. Second Part: nn. 51-100</hi>, Monaco, Éditions de l’Oiseau-Lyre, 1981 (Polyphonic Music of the Fourteenth Century, XIX).
                 </bibl>
             </listBibl>
         </back>

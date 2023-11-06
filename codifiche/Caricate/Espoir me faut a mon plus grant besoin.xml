@@ -156,12 +156,12 @@
                             <head>1</head>
                             <app from="#l1a7" to="#l1a8">
                                 <lem>Espoir</lem>
-                                <rdg wit="#Ca5">espoirs </rdg>
+                                <rdg wit="#Ca5">espoirs</rdg>
                             </app>
                             
                             <app from="#l1a9" to="#l1a10">
                                 <lem>besoin</lem>
-                                <rdg wit="#Ut">besoing </rdg>
+                                <rdg wit="#Ut">besoing</rdg>
                             </app>
                         </listApp>
                         
@@ -169,7 +169,7 @@
                             <head>2</head>
                             <app from="#l2a9" to="#l2a10">
                                 <lem>s’eslogne</lem>
-                                <rdg wit="#Ca5">ses loinge </rdg>
+                                <rdg wit="#Ca5">ses loinge</rdg>
                             </app>
                         </listApp>
                         
@@ -177,7 +177,7 @@
                             <head>3</head>
                             <app from="#l3a4" to="#l3a5">
                                 <lem>mercy</lem>
-                                <rdg wit="#Ca5">merchi </rdg>
+                                <rdg wit="#Ca5">merchi</rdg>
                             </app>
                         </listApp>
                         
@@ -185,7 +185,7 @@
                             <head>5</head>
                             <app from="#l5a3" to="#l5a4">
                                 <lem>soin</lem>
-                                <rdg wit="#Ca5">soing </rdg>
+                                <rdg wit="#Ca5">soing</rdg>
                             </app>
                         </listApp>
                         
@@ -193,7 +193,7 @@
                             <head>6</head>
                             <app from="#l6a3" to="#l6a4">
                                 <lem>morray</lem>
-                                <rdg wit="#Ca5">mourray </rdg>
+                                <rdg wit="#Ca5">mourray</rdg>
                             </app>
                             
                             <app from="#l6a5" to="#l6a6">
