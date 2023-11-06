@@ -195,10 +195,10 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#LiGotti1952">
-                Li Gotti 1952, p. 596
+                Li Gotti 1952, p. 596;
             </bibl>
             <bibl corresp="#Corsi1970">
-                Corsi 1970, pp. 267-8
+                Corsi 1970, pp. 267-8.
             </bibl>
          </listBibl>
          <!--listBibl type="bibliography">
@@ -220,7 +220,7 @@
          </div>
          <listBibl type="editionsBibliography">
             <bibl xml:id="LiGotti1952">
-                E. Li Gotti, <hi rend="italic">Paolo tenorista, fiorentino "extra moenia"</hi>, in <hi rend="italic">Estudios dedicados a Menéndez Pidal</hi>, tomo III, Madrid, C.S.I.C., 1952, pp. 577-606
+                E. Li Gotti, <hi rend="italic">Paolo tenorista, fiorentino "extra moenia"</hi>, in <hi rend="italic">Estudios dedicados a Menéndez Pidal</hi>, tomo III, Madrid, C.S.I.C., 1952, pp. 577-606.
             </bibl>
             <bibl xml:id="Corsi1970">
                 Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).

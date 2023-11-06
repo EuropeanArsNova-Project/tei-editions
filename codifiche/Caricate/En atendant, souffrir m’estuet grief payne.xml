@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Maria Sofia Lannutti</name> 
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -49,39 +49,39 @@
     <text>
         <front> 
          <div> 
-             <p> La <hi rend="italic">varia lectio</hi> permette di accertare l’esistenza di un archetipo e di un subarchetipo da cui derivano MoA e R. L’individuazione dei rapporti tra i tre testimoni, utile a ricostruire la storia della tradizione manoscritta, non influisce sulla costituzione del testo, perché nei casi di discordanza di lezione la versione di MoA e R è sempre peggiore rispetto a quella di Ch, che è inoltre l’unico testimone completo. </p>
-             <p> L’archetipo è dimostrato da quattro errori, ai vv. 4, 5, 6 e 7 (<hi rend="italic">refrain</hi>). In due casi, ai vv. 4 e 7, l’errore d’archetipo consiste nell’aggiunta di un monosillabo superfluo che genera ipermetria e che è stato quindi eliminato. </p>
-             <p> Al v. 4, il monosillabo aggiunto nell’archetipo è la voce verbale <hi rend="italic">est</hi>. MoA riporta un <hi rend="italic">en de</hi> che anticipa il <hi rend="italic">de</hi> successivo, peggiorando ulteriormente il testo. Al v. 7, si può ritenere che nell’archetipo sia stato aggiunto il possessivo <hi rend="italic">sa</hi>. </p>
-             <p> La lezione <hi rend="italic">assouvir</hi>, che rende ipermetro il v. 6 e che Ch e R copiano dall’archetipo, ha probabilmente sostituito la rara voce <hi rend="italic">souvir</hi>, che possiamo ritenere un latinismo, considerando che il lat. SOPIRE è base etimologica anche di <hi rend="italic">assouvir</hi>. Le lezioni <hi rend="italic">a sofrir</hi> di MoA e <hi rend="italic">a sounir</hi> di R sono ulteriori banalizzazioni. Nell’ed. Vivarelli, secondo MoA, si propone invece la congettura <hi rend="italic">souplir</hi>, altrettanto plausibile per il senso, ma più lontana dalla lezione conservata. Infine, il v. 5 è ipometro in tutti i testimoni.</p>
-             <p> Il subarchetipo è dimostrato dai seguenti errori comuni a MoA e R: <hi rend="italic">que venir</hi> al v. 3, che peggiora la lezione <hi rend="italic">qu’avenir</hi> di Ch; <hi rend="italic">celle</hi> al v. 6 e <hi rend="italic">elle</hi> al v. 7, in luogo di <hi rend="italic">telle</hi> e <hi rend="italic">el</hi> in Ch: la prima annulla la frase consecutiva (<hi rend="italic">telle vertu... qu’el puet</hi>), la seconda rende il verso ipermetro. Le tre innovazioni confermano anche l’indipendenza di Ch da MoA e R.</p>
-             <p> L’indipendenza di MoA e R da Ch è provata dalle varianti <hi rend="italic">estruet</hi> (v. 1), <hi rend="italic">ruissiu</hi> and <hi rend="italic">avironne</hi> (v. 4) di Ch contro <hi rend="italic">estuet</hi>, <hi rend="italic">ruissiau</hi> and <hi rend="italic">avironnee/environee</hi> (v. 4) di MoA e R (R aggiunge una terza -e). La lezione <hi rend="italic">ontor</hi> (v. 4) di R contro <hi rend="italic">en tour</hi> di Ch e MoA separa Ch e MoA da R. Al v. 6 <hi rend="italic">a soufrir</hi> (MoA) contro <hi rend="italic">assouvir</hi> (Ch) e <hi rend="italic">assounir</hi> (R) separa Ch e R da MoA.</p>
+             <p>La <hi rend="italic">varia lectio</hi> permette di accertare l’esistenza di un archetipo e di un subarchetipo da cui derivano MoA e R. L’individuazione dei rapporti tra i tre testimoni, utile a ricostruire la storia della tradizione manoscritta, non influisce sulla costituzione del testo, perché nei casi di discordanza di lezione la versione di MoA e R è sempre peggiore rispetto a quella di Ch, che è inoltre l’unico testimone completo. </p>
+             <p>L’archetipo è dimostrato da quattro errori, ai vv. 4, 5, 6 e 7 (<hi rend="italic">refrain</hi>). In due casi, ai vv. 4 e 7, l’errore d’archetipo consiste nell’aggiunta di un monosillabo superfluo che genera ipermetria e che è stato quindi eliminato. </p>
+             <p>Al v. 4, il monosillabo aggiunto nell’archetipo è la voce verbale <hi rend="italic">est</hi>. MoA riporta un <hi rend="italic">en de</hi> che anticipa il <hi rend="italic">de</hi> successivo, peggiorando ulteriormente il testo. Al v. 7, si può ritenere che nell’archetipo sia stato aggiunto il possessivo <hi rend="italic">sa</hi>. </p>
+             <p>La lezione <hi rend="italic">assouvir</hi>, che rende ipermetro il v. 6 e che Ch e R copiano dall’archetipo, ha probabilmente sostituito la rara voce <hi rend="italic">souvir</hi>, che possiamo ritenere un latinismo, considerando che il lat. SOPIRE è base etimologica anche di <hi rend="italic">assouvir</hi>. Le lezioni <hi rend="italic">a sofrir</hi> di MoA e <hi rend="italic">a sounir</hi> di R sono ulteriori banalizzazioni. Nell’ed. Vivarelli, secondo MoA, si propone invece la congettura <hi rend="italic">souplir</hi>, altrettanto plausibile per il senso, ma più lontana dalla lezione conservata. Infine, il v. 5 è ipometro in tutti i testimoni.</p>
+             <p>Il subarchetipo è dimostrato dai seguenti errori comuni a MoA e R: <hi rend="italic">que venir</hi> al v. 3, che peggiora la lezione <hi rend="italic">qu’avenir</hi> di Ch; <hi rend="italic">celle</hi> al v. 6 e <hi rend="italic">elle</hi> al v. 7, in luogo di <hi rend="italic">telle</hi> e <hi rend="italic">el</hi> in Ch: la prima annulla la frase consecutiva (<hi rend="italic">telle vertu... qu’el puet</hi>), la seconda rende il verso ipermetro. Le tre innovazioni confermano anche l’indipendenza di Ch da MoA e R.</p>
+             <p>L’indipendenza di MoA e R da Ch è provata dalle varianti <hi rend="italic">estruet</hi> (v. 1), <hi rend="italic">ruissiu</hi> and <hi rend="italic">avironne</hi> (v. 4) di Ch contro <hi rend="italic">estuet</hi>, <hi rend="italic">ruissiau</hi> and <hi rend="italic">avironnee/environee</hi> (v. 4) di MoA e R (R aggiunge una terza -e). La lezione <hi rend="italic">ontor</hi> (v. 4) di R contro <hi rend="italic">en tour</hi> di Ch e MoA separa Ch e MoA da R. Al v. 6 <hi rend="italic">a soufrir</hi> (MoA) contro <hi rend="italic">assouvir</hi> (Ch) e <hi rend="italic">assounir</hi> (R) separa Ch e R da MoA.</p>
          </div>         
       </front> 
         <body>
             <lg>
-                <l xml:id="l1"> En atendant, <anchor xml:id="l1a3"/>souffrir<anchor xml:id="l1a4"/> m’<anchor xml:id="l1a1"/>estuet<anchor xml:id="l1a2"/> grief payne,</l>
-                <l xml:id="l2"> <anchor xml:id="l2a1"/>en<anchor xml:id="l2a2"/> <anchor xml:id="l2a5"/>languor<anchor xml:id="l2a6"/> vivre, c’est <anchor xml:id="l2a3"/>ma destinee<anchor xml:id="l2a4"/>,</l>
-                <l xml:id="l3"> <anchor xml:id="l3a1"/>puisqu’ avenir<anchor xml:id="l3a2"/> ne puis a la <anchor xml:id="l3a3"/>fontayne<anchor xml:id="l3a4"/>,</l>
-                <l xml:id="l4"> tant <anchor xml:id="l4a1"/>de<anchor xml:id="l4a2"/> <anchor xml:id="l4a3"/><anchor xml:id="l4a9"/>ruissiaus<anchor xml:id="l4a10"/><anchor xml:id="l4a4"/> <anchor xml:id="l4a5"/>en tour<anchor xml:id="l4a6"/> <anchor xml:id="l4a7"/>avironnee<anchor xml:id="l4a8"/>.</l>
-                <l xml:id="l5" n="5"> <anchor xml:id="l5a1"/>Telle<anchor xml:id="l5a2"/> <anchor xml:id="l5a7"/>vertu<anchor xml:id="l5a8"/> <anchor xml:id="l5a3"/>a li<anchor xml:id="l5a4"/> <anchor xml:id="l5a5"/>a <anchor xml:id="l5a9"/>Dieu<anchor xml:id="l5a10"/><anchor xml:id="l5a6"/> dounee</l>
-                <l xml:id="l6"> <anchor xml:id="l6a1"/>qu’el<anchor xml:id="l6a2"/> puet <anchor xml:id="l6a3"/>souvir<anchor xml:id="l6a4"/> chascun a <anchor xml:id="l6a5"/>souffisance<anchor xml:id="l6a6"/>,</l>
-                <l xml:id="l7"> <hi rend="italic">par <anchor xml:id="l7a1"/>dignité<anchor xml:id="l7a2"/> et tres noble <anchor xml:id="l7a3"/><anchor xml:id="l7a5"/>puissance<anchor xml:id="l7a6"/><anchor xml:id="l7a4"/>.</hi></l>
+                <l xml:id="l1">En atendant, <anchor xml:id="l1a3"/>souffrir<anchor xml:id="l1a4"/> m’<anchor xml:id="l1a1"/>estuet<anchor xml:id="l1a2"/> grief payne,</l>
+                <l xml:id="l2"><anchor xml:id="l2a1"/>en<anchor xml:id="l2a2"/> <anchor xml:id="l2a5"/>languor<anchor xml:id="l2a6"/> vivre, c’est <anchor xml:id="l2a3"/>ma destinee<anchor xml:id="l2a4"/>,</l>
+                <l xml:id="l3"><anchor xml:id="l3a1"/>puisqu’ avenir<anchor xml:id="l3a2"/> ne puis a la <anchor xml:id="l3a3"/>fontayne<anchor xml:id="l3a4"/>,</l>
+                <l xml:id="l4">tant <anchor xml:id="l4a1"/>de<anchor xml:id="l4a2"/> <anchor xml:id="l4a3"/><anchor xml:id="l4a9"/>ruissiaus<anchor xml:id="l4a10"/><anchor xml:id="l4a4"/> <anchor xml:id="l4a5"/>en tour<anchor xml:id="l4a6"/> <anchor xml:id="l4a7"/>avironnee<anchor xml:id="l4a8"/>.</l>
+                <l xml:id="l5" n="5"><anchor xml:id="l5a1"/>Telle<anchor xml:id="l5a2"/> <anchor xml:id="l5a7"/>vertu<anchor xml:id="l5a8"/> <anchor xml:id="l5a3"/>a li<anchor xml:id="l5a4"/> <anchor xml:id="l5a5"/>a <anchor xml:id="l5a9"/>Dieu<anchor xml:id="l5a10"/><anchor xml:id="l5a6"/> dounee</l>
+                <l xml:id="l6"><anchor xml:id="l6a1"/>qu’el<anchor xml:id="l6a2"/> puet <anchor xml:id="l6a3"/>souvir<anchor xml:id="l6a4"/> chascun a <anchor xml:id="l6a5"/>souffisance<anchor xml:id="l6a6"/>,</l>
+                <l xml:id="l7"><hi rend="italic">par <anchor xml:id="l7a1"/>dignité<anchor xml:id="l7a2"/> et tres noble <anchor xml:id="l7a3"/><anchor xml:id="l7a5"/>puissance<anchor xml:id="l7a6"/><anchor xml:id="l7a4"/>.</hi></l>
             </lg>
             <lg>
-                <l xml:id="l8"> <anchor xml:id="l8a1"/>Les grans<anchor xml:id="l8a2"/> ruissiauz, <anchor xml:id="l8a3"/>que<anchor xml:id="l8a4"/> la font <anchor xml:id="l8a5"/>leur<anchor xml:id="l8a6"/> <anchor xml:id="l8a7"/>demaine<anchor xml:id="l8a8"/>,</l>
-                <l xml:id="l9"> si ont <anchor xml:id="l9a1"/>leur condu<supplied reason="illegible">[c]</supplied>tour<supplied reason="illegible">[e]</supplied><anchor xml:id="l9a2"/> estoupee,</l>
-                <l xml:id="l10" n="10"> si c’on <anchor xml:id="l10a1"/>n’i<anchor xml:id="l10a2"/> puet trouver la <anchor xml:id="l10a3"/>droite<anchor xml:id="l10a4"/> vaine.</l>
-                <l xml:id="l11"> <anchor xml:id="l11a1"/>Tant<anchor xml:id="l11a2"/> courompue est <anchor xml:id="l11a3"/>l’ia<supplied reason="illegible">[u]</supplied>e<anchor xml:id="l11a4"/> et <anchor xml:id="l11a5"/>troublee<anchor xml:id="l11a6"/>,</l>
-                <l xml:id="l12"> <anchor xml:id="l12a1"/>gouster <anchor xml:id="l12a2"/> n’en puis une seule halevee,</l>
-                <l xml:id="l13"> <anchor xml:id="l13a1"/>si <supplied reason="illegible">[Nobleté]</supplied><anchor xml:id="l13a2"/> n’a <anchor xml:id="l13a3"/>de moy<anchor xml:id="l13a4"/> <anchor xml:id="l13a5"/>ramembrance<anchor xml:id="l13a6"/>,</l>
-                <l xml:id="l14"> <anchor xml:id="l14a1"/><hi rend="italic">par dignité et tres noble puissance.</hi><anchor xml:id="l14a2"/></l>
+                <l xml:id="l8"><anchor xml:id="l8a1"/>Les grans<anchor xml:id="l8a2"/> ruissiauz, <anchor xml:id="l8a3"/>que<anchor xml:id="l8a4"/> la font <anchor xml:id="l8a5"/>leur<anchor xml:id="l8a6"/> <anchor xml:id="l8a7"/>demaine<anchor xml:id="l8a8"/>,</l>
+                <l xml:id="l9">si ont <anchor xml:id="l9a1"/>leur condu<supplied reason="illegible">[c]</supplied>tour<supplied reason="illegible">[e]</supplied><anchor xml:id="l9a2"/> estoupee,</l>
+                <l xml:id="l10" n="10">si c’on <anchor xml:id="l10a1"/>n’i<anchor xml:id="l10a2"/> puet trouver la <anchor xml:id="l10a3"/>droite<anchor xml:id="l10a4"/> vaine.</l>
+                <l xml:id="l11"><anchor xml:id="l11a1"/>Tant<anchor xml:id="l11a2"/> courompue est <anchor xml:id="l11a3"/>l’ia<supplied reason="illegible">[u]</supplied>e<anchor xml:id="l11a4"/> et <anchor xml:id="l11a5"/>troublee<anchor xml:id="l11a6"/>,</l>
+                <l xml:id="l12"><anchor xml:id="l12a1"/>gouster <anchor xml:id="l12a2"/> n’en puis une seule halevee,</l>
+                <l xml:id="l13"><anchor xml:id="l13a1"/>si <supplied reason="illegible">[Nobleté]</supplied><anchor xml:id="l13a2"/> n’a <anchor xml:id="l13a3"/>de moy<anchor xml:id="l13a4"/> <anchor xml:id="l13a5"/>ramembrance<anchor xml:id="l13a6"/>,</l>
+                <l xml:id="l14"><anchor xml:id="l14a1"/><hi rend="italic">par dignité et tres noble puissance.</hi><anchor xml:id="l14a2"/></l>
             </lg>
             <lg>
-                <l xml:id="l15" n="15"> Si pri a Dieu que a droit la ramaine</l>
-                <l xml:id="l16"> <anchor xml:id="l16a1"/>et<anchor xml:id="l16a2"/> purefie, sanz estre entamee,</l>
-                <l xml:id="l17"> <anchor xml:id="l17a1"/>quar<anchor xml:id="l17a2"/> verement, c’est chose bien certaine,</l>
-                <l xml:id="l18"> <anchor xml:id="l18a1"/>n’en<anchor xml:id="l18a2"/> puis aprochier <anchor xml:id="l18a3"/>noit<anchor xml:id="l18a4"/> ne matinee.</l>
-                <l xml:id="l19"> <anchor xml:id="l19a1"/>S’a<supplied reason="illegible">[vis]</supplied><anchor xml:id="l19a2"/> m’estoyt <anchor xml:id="l19a3"/>qu’a<supplied reason="illegible">[in]</supplied>si<anchor xml:id="l19a4"/> fust <anchor xml:id="l19a5"/>ordenee<anchor xml:id="l19a6"/>,</l>
+                <l xml:id="l15" n="15">Si pri a Dieu que a droit la ramaine</l>
+                <l xml:id="l16"><anchor xml:id="l16a1"/>et<anchor xml:id="l16a2"/> purefie, sanz estre entamee,</l>
+                <l xml:id="l17"><anchor xml:id="l17a1"/>quar<anchor xml:id="l17a2"/> verement, c’est chose bien certaine,</l>
+                <l xml:id="l18"><anchor xml:id="l18a1"/>n’en<anchor xml:id="l18a2"/> puis aprochier <anchor xml:id="l18a3"/>noit<anchor xml:id="l18a4"/> ne matinee.</l>
+                <l xml:id="l19"><anchor xml:id="l19a1"/>S’a<supplied reason="illegible">[vis]</supplied><anchor xml:id="l19a2"/> m’estoyt <anchor xml:id="l19a3"/>qu’a<supplied reason="illegible">[in]</supplied>si<anchor xml:id="l19a4"/> fust <anchor xml:id="l19a5"/>ordenee<anchor xml:id="l19a6"/>,</l>
                 <l xml:id="l20" n="20">je vivroye en espoir <anchor xml:id="l20a1"/><supplied reason="illegible">[de]</supplied><anchor xml:id="l20a2"/> bone estance,</l>
                 <l xml:id="l21"><hi rend="italic">par dignité et tres noble puissance.</hi></l>
             </lg>
@@ -109,46 +109,46 @@
 
             <listApp type="substantial">
                <listApp>
-                   <head> 1</head>
+                   <head>1</head>
                    <app from="#l1a1" to="#l1a2">
-                       <lem> estuet</lem>
-                       <rdg wit="#Ch"> estruet</rdg>
+                       <lem>estuet</lem>
+                       <rdg wit="#Ch">estruet</rdg>
                    </app>
                </listApp>
                 
                 <listApp>
-                    <head> 2</head>
+                    <head>2</head>
                     <app from="#l2a1" to="#l2a2">
-                        <lem> en</lem>
-                        <rdg wit="#Ch #MoA"> et en </rdg>
-                        <rdg wit="#R"> ne</rdg>
+                        <lem>en</lem>
+                        <rdg wit="#Ch #MoA">et en</rdg>
+                        <rdg wit="#R">ne</rdg>
                     </app>
                     
                     <app from="#l2a3" to="#l2a4">
-                        <lem> ma destinee</lem>
-                        <rdg wit="#R"> ma destinee</rdg>
+                        <lem>ma destinee</lem>
+                        <rdg wit="#R">ma destinee</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a1" to="#l3a2">
-                        <lem> puisqu’ avenir</lem>
-                        <rdg wit="#MoA #R"> puisque venir</rdg>
+                        <lem>puisqu’ avenir</lem>
+                        <rdg wit="#MoA #R">puisque venir</rdg>
                     </app>
                     
                     <app from="#l3a3" to="#l3a4">
-                        <lem> fontayne</lem>
-                        <rdg wit="#Ch"> foyntaine </rdg>
+                        <lem>fontayne</lem>
+                        <rdg wit="#Ch">foyntaine</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 4</head>
+                    <head>4</head>
                     <app from="#l4a1" to="#l4a2">
-                        <lem> de</lem>
-                        <rdg wit="#Ch #R"> est de</rdg>
-                        <rdg wit="#MoA"> en de</rdg>
+                        <lem>de</lem>
+                        <rdg wit="#Ch #R">est de</rdg>
+                        <rdg wit="#MoA">en de</rdg>
                     </app>
                     
                     <app from="#l4a3" to="#l4a4">
@@ -157,165 +157,165 @@
                     </app>
                     
                     <app from="#l4a5" to="#l4a6">
-                        <lem> en tour</lem>
-                        <rdg wit="#R"> ontor</rdg>
+                        <lem>en tour</lem>
+                        <rdg wit="#R">ontor</rdg>
                     </app>
                     
                     <app from="#l4a7" to="#l4a8">
-                        <lem> avironnee</lem>
-                        <rdg wit="#Ch"> avironne </rdg>
-                        <rdg wit="#R"> environneee </rdg>
+                        <lem>avironnee</lem>
+                        <rdg wit="#Ch">avironne</rdg>
+                        <rdg wit="#R">environneee</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 5</head>
+                    <head>5</head>
                     <app from="#l5a1" to="#l5a2">
-                        <lem> Telle</lem>
-                        <rdg wit="#MoA #R"> celle </rdg>
+                        <lem>Telle</lem>
+                        <rdg wit="#MoA #R">celle</rdg>
                     </app>
                     
                     <app from="#l5a3" to="#l5a4">
-                        <lem> a li</lem>
+                        <lem>a li</lem>
                         <rdg wit="#MoA #R"><gap reason="omission" rend="om."/>li</rdg>
                     </app>
                     
                     <app from="#l5a5" to="#l5a6">
-                        <lem> a Dieu</lem>
+                        <lem>a Dieu</lem>
                         <rdg wit="#MoA"> as dieu</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 6</head>
+                    <head>6</head>
                     <app from="#l6a1" to="#l6a2">
-                        <lem> qu’el</lem>
+                        <lem>qu’el</lem>
                         <rdg wit="#MoA #R">quelle</rdg>
                     </app>
                     
                     <app from="#l6a3" to="#l6a4">
-                        <lem> souvir</lem>
-                        <rdg wit="#Ch"> assouvir</rdg>
-                        <rdg wit="#R"> asounir</rdg>
-                        <rdg wit="#MoA"> a soufrir</rdg>
+                        <lem>souvir</lem>
+                        <rdg wit="#Ch">assouvir</rdg>
+                        <rdg wit="#R">asounir</rdg>
+                        <rdg wit="#MoA">a soufrir</rdg>
                     </app>
                     
                     <app from="#l6a5" to="#l6a6">
-                        <lem> souffisance</lem>
-                        <rdg wit="#R"> asoufisance </rdg>
+                        <lem>souffisance</lem>
+                        <rdg wit="#R">asoufisance </rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 7</head>
+                    <head>7</head>
                     <app from="#l7a1" to="#l7a2">
-                        <lem> dignité</lem>
-                        <rdg wit="#Ch #MoA #R">sa dignité </rdg>
+                        <lem>dignité</lem>
+                        <rdg wit="#Ch #MoA #R">sa dignité</rdg>
                     </app>
                     
                     <app from="#l7a3" to="#l7a4">
-                        <lem> puissance</lem>
-                        <rdg wit="#MoA"> pousance</rdg>
+                        <lem>puissance</lem>
+                        <rdg wit="#MoA">pousance</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 8</head>
+                    <head>8</head>
                     <app from="#l8a1" to="#l8a2">
-                        <lem> Les grans</lem>
-                        <rdg wit="#MoA"> Li grant</rdg>
+                        <lem>Les grans</lem>
+                        <rdg wit="#MoA">Li grant</rdg>
                     </app>
                     
                     <app from="#l8a3" to="#l8a4">
-                        <lem> que</lem>
-                        <rdg wit="#Ch"> qui</rdg>
+                        <lem>que</lem>
+                        <rdg wit="#Ch">qui</rdg>
                     </app>
                     
                     <app from="#l8a5" to="#l8a6">
-                        <lem> leur</lem>
-                        <rdg wit="#MoA"> leuer</rdg>
+                        <lem>leur</lem>
+                        <rdg wit="#MoA">leuer</rdg>
                     </app>
                     
                     <app from="#l8a7" to="#l8a8">
-                        <lem> demaine</lem>
-                        <rdg wit="#MoA"> amaine</rdg>
+                        <lem>demaine</lem>
+                        <rdg wit="#MoA">amaine</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 9</head>
+                    <head>9</head>
                     <app from="#l9a1" to="#l9a2">
-                        <lem> leur conductoure</lem>
-                        <rdg wit="#Ch">les conduis de la font </rdg>
+                        <lem>leur conductoure</lem>
+                        <rdg wit="#Ch">les conduis de la font</rdg>
                         <rdg wit="#MoA"> leur condus tour</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 10</head>
+                    <head>10</head>
                     <app from="#l10a1" to="#l10a2">
-                        <lem> n’i</lem>
-                        <rdg wit="#MoA"> ne</rdg>
+                        <lem>n’i</lem>
+                        <rdg wit="#MoA">ne</rdg>
                     </app>
                     
                     <app from="#l10a3" to="#l10a4">
-                        <lem> droite</lem>
-                        <rdg wit="#MoA"> droit</rdg>
+                        <lem>droite</lem>
+                        <rdg wit="#MoA">droit</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 11</head>
+                    <head>11</head>
                     <app from="#l11a1" to="#l11a2">
-                        <lem> Tant</lem>
-                        <rdg wit="#Ch #MoA">tant est </rdg>
+                        <lem>Tant</lem>
+                        <rdg wit="#Ch #MoA">tant est</rdg>
                     </app>
                     
                     <app from="#l11a3" to="#l11a4">
-                        <lem> l’iaue</lem>
-                        <rdg wit="#Ch"> liane</rdg>
-                        <rdg wit="#MoA"> lique</rdg>
+                        <lem>l’iaue</lem>
+                        <rdg wit="#Ch">liane</rdg>
+                        <rdg wit="#MoA">lique</rdg>
                     </app>
                     
                     <app from="#l11a5" to="#l11a6">
-                        <lem> troublee</lem>
-                        <rdg wit="#MoA"> tourblee</rdg>
+                        <lem>troublee</lem>
+                        <rdg wit="#MoA">tourblee</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 12</head>
+                    <head>12</head>
                     <app from="#l12a1" to="#l12a2">
-                        <lem> gouster</lem>
+                        <lem>gouster</lem>
                         <rdg wit="#MoA">guster e</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 13</head>
+                    <head>13</head>
                     <app from="#l13a1" to="#l13a2">
-                        <lem> si Nobleté</lem>
-                        <rdg wit="#Ch"> si nuble pue</rdg>
-                        <rdg wit="#MoA"> sun ble pitie</rdg>
+                        <lem>si Nobleté</lem>
+                        <rdg wit="#Ch">si nuble pue</rdg>
+                        <rdg wit="#MoA">sun ble pitie</rdg>
                     </app>
                     
                     <app from="#l13a3" to="#l13a4">
-                        <lem> de moy</lem>
-                        <rdg wit="#MoA"><gap reason="omission" rend="om."/>moy</rdg>
+                        <lem>de moy</lem>
+                        <rdg wit="#MoA"><gap reason="omission" rend="om."/> moy</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 14</head>
+                    <head>14</head>
                     <app from="#l14a1" to="#l14a2">
                         <lem>par dignité et tres noble puissance</lem>
                         <rdg wit="#Ch"> <hi rend="italic">refrain abbreviato </hi>par sa dignite etc </rdg>
-                        <rdg wit="#MoA"> per sa dignite etc </rdg>
+                        <rdg wit="#MoA"> per sa dignite etc</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 16</head>
+                    <head>16</head>
                     <app from="#l16a1" to="#l16a2">
                         <lem> et</lem>
                         <rdg wit="#Ch"> et la</rdg>
@@ -323,49 +323,49 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 17</head>
+                    <head>17</head>
                     <app from="#l17a1" to="#l17a2">
-                        <lem> quar</lem>
-                        <rdg wit="#Ch"> qua</rdg>
+                        <lem>quar</lem>
+                        <rdg wit="#Ch">qua</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 18</head>
+                    <head>18</head>
                     <app from="#l18a1" to="#l18a2">
-                        <lem> n’en</lem>
-                        <rdg wit="#Ch"> je nen</rdg>
+                        <lem>n’en</lem>
+                        <rdg wit="#Ch">je nen</rdg>
                     </app>
                     
                     <app from="#l18a3" to="#l18a4">
-                        <lem> noit</lem>
-                        <rdg wit="#Ch"> nõ</rdg>
+                        <lem>noit</lem>
+                        <rdg wit="#Ch">nõ</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 19</head>
+                    <head>19</head>
                     <app from="#l19a1" to="#l19a2">
-                        <lem> S’avis</lem>
-                        <rdg wit="#Ch"> et sa moy </rdg>
+                        <lem>S’avis</lem>
+                        <rdg wit="#Ch">et sa moy </rdg>
                     </app>
                     
                     <app from="#l19a3" to="#l19a4">
-                        <lem> qu’ainsi</lem>
-                        <rdg wit="#Ch"> quam si</rdg>
+                        <lem>qu’ainsi</lem>
+                        <rdg wit="#Ch">quam si</rdg>
                     </app>
                     
                     <app from="#l19a5" to="#l19a6">
-                        <lem> ordenee</lem>
-                        <rdg wit="#Ch"> or ordenee</rdg>
+                        <lem>ordenee</lem>
+                        <rdg wit="#Ch">or ordenee</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 20</head>
+                    <head>20</head>
                     <app from="#l20a1" to="#l20a2">
-                        <lem> de</lem>
-                        <rdg wit="#Ch"> davoyr</rdg>
+                        <lem>de</lem>
+                        <rdg wit="#Ch">davoyr</rdg>
                     </app>
                 </listApp>
                 
@@ -375,56 +375,56 @@
 
             <listApp type="formal">
                 <listApp>
-                    <head> 1</head>
+                    <head>1</head>
                     <app from="#l1a3" to="#l1a4">
-                        <lem> souffrir</lem>
-                        <rdg wit="#MoA #R"> soufrir</rdg>
+                        <lem>souffrir</lem>
+                        <rdg wit="#MoA #R">soufrir</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 2</head>
+                    <head>2</head>
                     <app from="#l2a5" to="#l5a6">
-                        <lem> languor</lem>
-                        <rdg wit="#MoA"> langour </rdg>
-                        <rdg wit="#R"> langour </rdg>
+                        <lem>languor</lem>
+                        <rdg wit="#MoA">langour</rdg>
+                        <rdg wit="#R">langour</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 4</head>
+                    <head>4</head>
                     <app from="#l4a9" to="#l4a10">
-                        <lem> ruissiaus</lem>
-                        <rdg wit="#MoA"> ruisiaus</rdg>
+                        <lem>ruissiaus</lem>
+                        <rdg wit="#MoA">ruisiaus</rdg>
                     </app>                        
                 </listApp>
                 
                 <listApp>
-                    <head> 5</head>
+                    <head>5</head>
                     <app from="#l5a7" to="#l5a8">
                         <lem>vertu</lem>
                         <rdg wit="#MoA #R">virtu</rdg>
                     </app>
                     
                     <app from="#l5a9" to="#l5a10">
-                        <lem> Dieu</lem>
-                        <rdg wit="#MoA"> dieux </rdg>
+                        <lem>Dieu</lem>
+                        <rdg wit="#MoA">dieux</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 7</head>
+                    <head>7</head>
                     <app from="#l7a5" to="#l7a6">
-                        <lem> puissance</lem>
-                        <rdg wit="#R"> poisanche </rdg>                        
+                        <lem>puissance</lem>
+                        <rdg wit="#R">poisanche</rdg>                        
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 13</head>
+                    <head>13</head>
                     <app from="#l13a5" to="#l13a6">
-                        <lem> ramembrance</lem>
-                        <rdg wit="#MoA"> remenbrance </rdg>
+                        <lem>ramembrance</lem>
+                        <rdg wit="#MoA">remenbrance</rdg>
                     </app>
                 </listApp>
                 
@@ -433,8 +433,8 @@
 
 
             <div type="metricalScheme">
-                <p> <hi rend="italic">Ballade</hi> 10’a 10’b, 10’a 10’b; 10’b 10’c 10’C. <hi rend="italic">Coblas unissonans.</hi> </p>
-                <p> Rima ricca ai vv. 2 : 4 : 5, 6 : 7, 18 : 19. </p>
+                <p><hi rend="italic">Ballade</hi> 10’a 10’b, 10’a 10’b; 10’b 10’c 10’C. <hi rend="italic">Coblas unissonans.</hi> </p>
+                <p>Rima ricca ai vv. 2 : 4 : 5, 6 : 7, 18 : 19. </p>
             </div>
 
 
@@ -493,7 +493,7 @@
 
 
             <listBibl type="editionsBibliography">
-                <bibl xml:id="Vivarelli2005">Carla Vivarelli, <hi rend="italic">Le composizioni francesi di Filippotto e Antonello da Caserta tràdite nel Codice Estense a.M.5.24</hi>, Pisa, ETS, 2005 («Diverse voci... 6»)</bibl>
+                <bibl xml:id="Vivarelli2005">Carla Vivarelli, <hi rend="italic">Le composizioni francesi di Filippotto e Antonello da Caserta tràdite nel Codice Estense a.M.5.24</hi>, Pisa, ETS, 2005 («Diverse voci... 6»).</bibl>
             </listBibl>
             
         </back>

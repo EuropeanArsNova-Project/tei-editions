@@ -115,13 +115,13 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#LiGotti1944a">
-                    Li Gotti 1944a, p. 381.
+                    Li Gotti 1944a, p. 381;
                 </bibl>
                 <bibl corresp="#Corsi1969">
-                    Corsi 1969, p. 1018.
+                    Corsi 1969, p. 1018;
                 </bibl>
                 <bibl corresp="#Corsi1970">
-                    Corsi 1970, p. 34.
+                    Corsi 1970, p. 34;
                 </bibl>
                 <bibl corresp="#Zenari2004">
                     Zenari 2004, p. 144.
@@ -131,16 +131,16 @@
             </div>-->
             <listBibl type="editionsBibliography">
                 <bibl xml:id="LiGotti1944a">
-                    Ettore Li Gotti, <hi rend="italic">L'«Ars nova» e il madrigale</hi>, serie 4, vol. IV, parte II, Atti della Reale Accademia di Scienze Lettere e Arti di Palermo, Palermo, 1944, pp. 339-89
+                    Ettore Li Gotti, <hi rend="italic">L'«Ars nova» e il madrigale</hi>, serie 4, vol. IV, parte II, Atti della Reale Accademia di Scienze Lettere e Arti di Palermo, Palermo, 1944, pp. 339-89.
                 </bibl>
                 <bibl xml:id="Corsi1969">
-                    G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
+                    G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969.
                 </bibl>
                 <bibl xml:id="Corsi1970">
-                    Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                    Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
                 </bibl>
                 <bibl xml:id="Zenari2004">
-                    Massimo Zenari, <hi rend="italic">Undici madrigali a testimone unico del Panciatichiano 26 (Firenze, Biblioteca Nazionale Centrale)</hi>, «Studi di filologia italiana», 57 (2004), pp. 131-60
+                    Massimo Zenari, <hi rend="italic">Undici madrigali a testimone unico del Panciatichiano 26 (Firenze, Biblioteca Nazionale Centrale)</hi>, «Studi di filologia italiana», 57 (2004), pp. 131-60.
                 </bibl>
             </listBibl>
         </back>

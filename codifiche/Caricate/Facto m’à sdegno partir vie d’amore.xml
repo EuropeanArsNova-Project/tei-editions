@@ -153,7 +153,7 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#Corsi1970">
-                Corsi 1970, p. 234
+                Corsi 1970, p. 234;
             </bibl>
             <bibl corresp="#Brumana-Ciliberti1986">
                 Brumana-Ciliberti 1986, p. 23.
@@ -174,10 +174,10 @@
          </div>
          <listBibl type="editionsBibliography">
             <bibl xml:id="Corsi1970">
-                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
             <bibl xml:id="Brumana-Ciliberti1986">
-                    Biancamaria Brumana, Galliano Ciliberti, <hi rend="italic">Nuove fonti per lo studio dell’opera di Paolo da Firenze</hi>, «Rivista Italiana di Musicologia», 22 (1986), pp. 3-33
+                    Biancamaria Brumana, Galliano Ciliberti, <hi rend="italic">Nuove fonti per lo studio dell’opera di Paolo da Firenze</hi>, «Rivista Italiana di Musicologia», 22 (1986), pp. 3-33.
             </bibl>
          </listBibl>
       </back>

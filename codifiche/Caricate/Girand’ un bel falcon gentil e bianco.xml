@@ -197,7 +197,7 @@
             <listApp>
                 <head>8</head>
                 <app from="#l8a1" to="#l8a2">
-                    <lem>Cro crp</lem>
+                    <lem>Cro cro</lem>
                     <rdg>cro cro cro cro <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                     <rdg>cro cro cro cro cro <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit><wit><ref corresp="#SL">SL</ref></wit></rdg>
                 </app>
@@ -217,7 +217,7 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#Corsi1959">
-                Corsi 1959, p. 79
+                Corsi 1959, p. 79;
             </bibl>
             <bibl corresp="#Corsi1970">
                 Corsi 1970, p. 276.

@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Maria Sofia Lannutti</name> 
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -57,30 +57,30 @@
       </front> -->
         <body>
             <lg>
-                <l xml:id="l1"> En remirant vo douce pourtraiture,</l>
-                <l xml:id="l2"> <anchor xml:id="l2a1"/>en laquele<anchor xml:id="l2a2"/> est tout doulz ymaginer,</l>
-                <l xml:id="l3"> m’a point <anchor xml:id="l3a1"/>Amours<anchor xml:id="l3a2"/> d’une <anchor xml:id="l3a3"/>tres fort<anchor xml:id="l3a4"/> pointure</l>
-                <l xml:id="l4"> d’ardant desir, si que <anchor xml:id="l4a1"/>mon<anchor xml:id="l4a2"/> cuer durer, </l>
-                <l xml:id="l5" n="5"> <anchor xml:id="l5a1"/>las, il<anchor xml:id="l5a2"/> ne <anchor xml:id="l5a3"/>puet<anchor xml:id="l5a4"/>, <anchor xml:id="l5a5"/>doulce<anchor xml:id="l5a6"/> dame sans per,</l>
-                <l xml:id="l6"> se vo <anchor xml:id="l6a1"/><anchor xml:id="l6a7"/>doulçour<anchor xml:id="l6a8"/><anchor xml:id="l6a2"/> <anchor xml:id="l6a3"/>ne me<anchor xml:id="l6a4"/> va <anchor xml:id="l6a5"/><anchor xml:id="l6a9"/>secourrant<anchor xml:id="l6a10"/><anchor xml:id="l6a6"/>:</l>
-                <l xml:id="l7"> <hi rend="italic">pour vostre amour, dame, <anchor xml:id="l7a1"/>vois languissant<anchor xml:id="l7a2"/>.</hi></l>
+                <l xml:id="l1">En remirant vo douce pourtraiture,</l>
+                <l xml:id="l2"><anchor xml:id="l2a1"/>en laquele<anchor xml:id="l2a2"/> est tout doulz ymaginer,</l>
+                <l xml:id="l3">m’a point <anchor xml:id="l3a1"/>Amours<anchor xml:id="l3a2"/> d’une <anchor xml:id="l3a3"/>tres fort<anchor xml:id="l3a4"/> pointure</l>
+                <l xml:id="l4">d’ardant desir, si que <anchor xml:id="l4a1"/>mon<anchor xml:id="l4a2"/> cuer durer, </l>
+                <l xml:id="l5" n="5"><anchor xml:id="l5a1"/>las, il<anchor xml:id="l5a2"/> ne <anchor xml:id="l5a3"/>puet<anchor xml:id="l5a4"/>, <anchor xml:id="l5a5"/>doulce<anchor xml:id="l5a6"/> dame sans per,</l>
+                <l xml:id="l6">se vo <anchor xml:id="l6a1"/><anchor xml:id="l6a7"/>doulçour<anchor xml:id="l6a8"/><anchor xml:id="l6a2"/> <anchor xml:id="l6a3"/>ne me<anchor xml:id="l6a4"/> va <anchor xml:id="l6a5"/><anchor xml:id="l6a9"/>secourrant<anchor xml:id="l6a10"/><anchor xml:id="l6a6"/>:</l>
+                <l xml:id="l7"><hi rend="italic">pour vostre amour, dame, <anchor xml:id="l7a1"/>vois languissant<anchor xml:id="l7a2"/>.</hi></l>
             </lg>
             <lg>
-                <l xml:id="l8"> Hé, bel <anchor xml:id="l8a1"/>Acueil<anchor xml:id="l8a2"/>, ou je prens noureture,</l>
-                <l xml:id="l9"> vo cuer vueilliez de m’amor alumer!</l>
-                <l xml:id="l10" n="10"> Car se mon cuer devoit <anchor xml:id="l10a1"/>e<supplied reason="illegible">[n]</supplied><anchor xml:id="l10a2"/> grant ardure</l>
-                <l xml:id="l11"> ardre, brüir a touz jorns sans finer,</l>
-                <l xml:id="l12"> si ne lairay que ne vous doie amer;</l>
-                <l xml:id="l13"> mes vo <anchor xml:id="l13a1"/><supplied reason="illegible">[cuer]</supplied><anchor xml:id="l13a2"/> <anchor xml:id="l13a3"/>mey<supplied reason="illegible">[me]</supplied><anchor xml:id="l13a4"/> me <anchor xml:id="l13a5"/>va<anchor xml:id="l13a6"/> detrïant:</l>
+                <l xml:id="l8">Hé, bel <anchor xml:id="l8a1"/>Acueil<anchor xml:id="l8a2"/>, ou je prens noureture,</l>
+                <l xml:id="l9">vo cuer vueilliez de m’amor alumer!</l>
+                <l xml:id="l10" n="10">Car se mon cuer devoit <anchor xml:id="l10a1"/>e<supplied reason="illegible">[n]</supplied><anchor xml:id="l10a2"/> grant ardure</l>
+                <l xml:id="l11">ardre, brüir a touz jorns sans finer,</l>
+                <l xml:id="l12">si ne lairay que ne vous doie amer;</l>
+                <l xml:id="l13">mes vo <anchor xml:id="l13a1"/><supplied reason="illegible">[cuer]</supplied><anchor xml:id="l13a2"/> <anchor xml:id="l13a3"/>mey<supplied reason="illegible">[me]</supplied><anchor xml:id="l13a4"/> me <anchor xml:id="l13a5"/>va<anchor xml:id="l13a6"/> detrïant:</l>
                 <l xml:id="l14"><anchor xml:id="l14a1"/><hi rend="italic">pour vostre amour, dame vois languissant.</hi><anchor xml:id="l14a2"/></l>
             </lg>
             <lg>
-                <l xml:id="l15" n="15"> A vous me plains, car sui en aventure</l>
-                <l xml:id="l16"> de toust mourir pour loyalment amer,</l>
+                <l xml:id="l15" n="15">A vous me plains, car sui en aventure</l>
+                <l xml:id="l16">de toust mourir pour loyalment amer,</l>
                 <l xml:id="l17">se Dieus e vous ne me prenez en cure.</l>
-                <l xml:id="l18"> En face Amour le dur en doulz müer!</l>
-                <l xml:id="l19"> Telz mauls ne puis longuement endurer!</l>
-                <l xml:id="l20" n="20"> De triste cuer dire puis en plourant:</l>
+                <l xml:id="l18">En face Amour le dur en doulz müer!</l>
+                <l xml:id="l19">Telz mauls ne puis longuement endurer!</l>
+                <l xml:id="l20" n="20">De triste cuer dire puis en plourant:</l>
                 <l xml:id="l21"><hi rend="italic">pour vostre amour, dame vois languissant.</hi></l>
             </lg>
 
@@ -108,55 +108,55 @@
             <listApp type="substantial">
                
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a1" to="#l3a2">
-                        <lem> Amours</lem>
-                        <rdg wit="#Ch #R">au cuer </rdg>
+                        <lem>Amours</lem>
+                        <rdg wit="#Ch #R">au cuer</rdg>
                     </app>
                     
                     <app from="#l3a3" to="#l3a4">
-                        <lem> tres fort</lem>
+                        <lem>tres fort</lem>
                         <rdg wit="#Ch">cele</rdg>
                         <rdg wit="#R"/>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 4</head>
+                    <head>4</head>
                     <app from="#l4a1" to="#l4a2">
-                        <lem> mon</lem>
+                        <lem>mon</lem>
                         <rdg wit="#MoA">mo</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 5</head>
+                    <head>5</head>
                     <app from="#l5a1" to="#l5a2">
-                        <lem> las, il</lem>
-                        <rdg wit="#Ch #R">las si </rdg>
+                        <lem>las, il</lem>
+                        <rdg wit="#Ch #R">las si</rdg>
                     </app>
                     
                     <app from="#l5a3" to="#l5a4">
-                        <lem> puet</lem>
+                        <lem>puet</lem>
                         <rdg wit="#R">puez</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 6</head>
+                    <head>6</head>
                     <app from="#l6a1" to="#l6a2">
                         <lem> doulçour</lem>
                         <rdg wit="#R"> ducour </rdg>
                     </app>
                     
                     <app from="#l6a3" to="#l6a4">
-                        <lem> ne me</lem>
+                        <lem>ne me</lem>
                         <rdg wit="#R">mene </rdg>
                     </app>
                     
                     <app from="#l6a5" to="#l6a6">
-                        <lem> secourrant</lem>
-                        <rdg wit="#R">secouait </rdg>
+                        <lem>secourrant</lem>
+                        <rdg wit="#R">secouait</rdg>
                     </app>
                 </listApp>
                 
@@ -169,35 +169,35 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 8</head>
+                    <head>8</head>
                     <app from="#l8a1" to="#l8a2">
-                        <lem> Acueil</lem>
-                        <rdg wit="#Ch"> acueillir </rdg>
+                        <lem>Acueil</lem>
+                        <rdg wit="#Ch">acueillir</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 10</head>
+                    <head>10</head>
                     <app from="#l10a1" to="#l10a2">
-                        <lem> en</lem>
-                        <rdg wit="#Ch"> er</rdg>
+                        <lem>en</lem>
+                        <rdg wit="#Ch">er</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 13</head>
+                    <head>13</head>
                     <app from="#l13a1" to="#l13a2">
-                        <lem> cuer</lem>
+                        <lem>cuer</lem>
                         <rdg wit="#Ch"/>
                     </app>
                     
                     <app from="#l13a3" to="#l13a4">
-                        <lem> meyme</lem>
+                        <lem>meyme</lem>
                         <rdg wit="#Ch"> mey</rdg>
                     </app>
                     
                     <app from="#l13a5" to="#l13a6">
-                        <lem> va</lem>
+                        <lem>va</lem>
                         <rdg><add rend="add."> trop</add></rdg>
                     </app>
                 </listApp>
@@ -208,38 +208,38 @@
 
             <listApp type="formal">
                 <listApp>
-                    <head> 2</head>
+                    <head>2</head>
                     <app from="#l2a1" to="#l2a2">
-                        <lem> en laquele</lem>
+                        <lem>en laquele</lem>
                         <rdg wit="#R">en laquelle </rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 5</head>
+                    <head>5</head>
                     <app from="#l5a5" to="#l5a6">
-                        <lem> doulce</lem>
-                        <rdg wit="#MoA"> douche </rdg>
-                        <rdg wit="#R"> douce</rdg>
+                        <lem>doulce</lem>
+                        <rdg wit="#MoA">douche</rdg>
+                        <rdg wit="#R">douce</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 6</head>
+                    <head>6</head>
                     <app from="#l6a7" to="#l6a8">
-                        <lem> doulçour</lem>
-                        <rdg wit="#MoA"> douchour </rdg>
+                        <lem>doulçour</lem>
+                        <rdg wit="#MoA">douchour</rdg>
                     </app>
                     
                     <app from="#l6a9" to="#l6a10">
-                        <lem> secourrant</lem>
-                        <rdg wit="#MoA"> secourant </rdg>
+                        <lem>secourrant</lem>
+                        <rdg wit="#MoA">secourant</rdg>
                     </app>
                         
                 </listApp>
                 
                 <listApp>
-                    <head> 14</head>
+                    <head>14</head>
                     <app from="#l14a1" to="#l14a2">
                         <lem>quant ne la voy, la parfaite figure.</lem>
                         <rdg wit="#Ch"><hi rend="italic">refrain abbreviato</hi> pour vostre amour etc </rdg>
@@ -253,15 +253,15 @@
 
 
             <div type="metricalScheme">
-                <p> <hi rend="italic">Ballade</hi> 10’a 10b, 10’a 10b; 10b 10c 10C. <hi rend="italic">Coblas unissonans.</hi> </p>
-                <p> Rima ricca ai vv. 1 : 3 : 8 : 15, 2 : 11, 6 : 20; rima identica ai vv. 12 : 16.</p>
+                <p><hi rend="italic">Ballade</hi> 10’a 10b, 10’a 10b; 10b 10c 10C. <hi rend="italic">Coblas unissonans.</hi> </p>
+                <p>Rima ricca ai vv. 1 : 3 : 8 : 15, 2 : 11, 6 : 20; rima identica ai vv. 12 : 16.</p>
             </div>
 
 
             <listBibl type="editions">
 
-                <bibl corresp="#ApelRosenberg1970"> Apel-Rosenberg 1970, p. LXIV</bibl>
-                <bibl corresp="#Vivarelli2005">Vivarelli 2005, pp. 90-1</bibl>
+                <bibl corresp="#ApelRosenberg1970"> Apel-Rosenberg 1970, p. LXIV;</bibl>
+                <bibl corresp="#Vivarelli2005">Vivarelli 2005, pp. 90-1.</bibl>
 
             </listBibl>
 
@@ -291,8 +291,8 @@
 
 
             <listBibl type="editionsBibliography">
-                <bibl xml:id="ApelRosenberg1970"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1)</bibl>
-                <bibl xml:id="Vivarelli2005">Carla Vivarelli, <hi rend="italic">Le composizioni francesi di Filippotto e Antonello da Caserta tràdite nel Codice Estense a.M.5.24</hi>, Pisa, ETS, 2005 («Diverse voci... 6»)</bibl>
+                <bibl xml:id="ApelRosenberg1970"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1).</bibl>
+                <bibl xml:id="Vivarelli2005">Carla Vivarelli, <hi rend="italic">Le composizioni francesi di Filippotto e Antonello da Caserta tràdite nel Codice Estense a.M.5.24</hi>, Pisa, ETS, 2005 («Diverse voci... 6»).</bibl>
             </listBibl>
             
         </back>

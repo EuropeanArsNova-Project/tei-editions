@@ -54,7 +54,7 @@
       <body>
         <lg>
             <l xml:id="l1">
-		    <anchor xml:id="l1a1"/><anchor xml:id="l1a3"/>Già<anchor xml:id="l1a4"/> la sperança<anchor xml:id="l1a2"/> in te <name type="senhal" rend="small-caps">GIOVANA</name> perse
+		    <anchor xml:id="l1a1"/><anchor xml:id="l1a3"/>Già<anchor xml:id="l1a4"/> la sperança<anchor xml:id="l1a2"/> in te <name type="senhal" rend="small-caps">giovana</name> perse
 	        </l>
             <l xml:id="l2">
 		    força ne’ miei prim’ anni,
@@ -137,13 +137,14 @@
                </app>
             </listApp>
          </listApp>
+           </listApp>
          <div type="metricalScheme">
             <p>Ballata mezzana 10’y 6’z 10’z; 10’a 6’a 10’b, 10’a 6’a 10’b; 10’b 6’z 10’z.</p> 
             <p><hi rend="italic">Pagnotta</hi> 32 : 2.</p>
             <p>Rima inclusiva ai vv. 2 : 11.</p>
             </div>
-         <listBibl type="editions">
-         </listBibl>
+         <!--listBibl type="editions">
+         </listBibl-->
          <div type="commentary">
             <note target="#l3">
                <num>3</num>
@@ -155,8 +156,8 @@
                <hi rend="italic">Questa</hi>: la speranza.
             </note>
          </div>
-         <listBibl type="editionsBibliography">
-         </listBibl>
+         <!--listBibl type="editionsBibliography">
+         </listBibl-->
       </back>
    </text>
 </TEI>

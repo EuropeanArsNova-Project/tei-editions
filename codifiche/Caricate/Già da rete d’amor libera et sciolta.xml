@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Maria Sofia Lannutti</name> 
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -57,16 +57,16 @@
       </front> -->
         <body>
             <lg>
-                <l xml:id="l1"> Già da rete d’amor libera et sciolta </l>
-                <l xml:id="l2"> era questa alma, et or è in pianti volta. </l>
+                <l xml:id="l1">Già da rete d’amor libera et sciolta </l>
+                <l xml:id="l2">era questa alma, et or è in pianti volta. </l>
             </lg>
             <lg>
-                <l xml:id="l3"> <anchor xml:id="l3a1"/>Che<anchor xml:id="l3a2"/> tue eterne bellezze al mondo sole,</l>
-                <l xml:id="l4"> <anchor xml:id="l4a1"/>qual’ non ebbe<anchor xml:id="l4a2"/> Dïana in fonte o in riva,</l>
-                <l xml:id="l5" n="5"> con sembianti leggiadri e con parole,</l>
-                <l xml:id="l6"> han d’ogni altro pensar la mente priva.</l>
-                <l xml:id="l7"> Però, nimpha celeste tanto diva,</l>
-                <l xml:id="l8"> <anchor xml:id="l8a1"/>n<supplied reason="illegible">[o]</supplied><anchor xml:id="l8a2"/> me sia dal bel viso mercé tolta.</l>
+                <l xml:id="l3"><anchor xml:id="l3a1"/>Che<anchor xml:id="l3a2"/> tue eterne bellezze al mondo sole,</l>
+                <l xml:id="l4"><anchor xml:id="l4a1"/>qual’ non ebbe<anchor xml:id="l4a2"/> Dïana in fonte o in riva,</l>
+                <l xml:id="l5" n="5">con sembianti leggiadri e con parole,</l>
+                <l xml:id="l6">han d’ogni altro pensar la mente priva.</l>
+                <l xml:id="l7">Però, nimpha celeste tanto diva,</l>
+                <l xml:id="l8"><anchor xml:id="l8a1"/>n<supplied reason="illegible">[o]</supplied><anchor xml:id="l8a2"/> me sia dal bel viso mercé tolta.</l>
             </lg>
             
         </body>
@@ -89,26 +89,26 @@
 
             <listApp type="formal">
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a1" to="#l3a2">
-                        <lem> che</lem>
+                        <lem>che</lem>
                         <rdg wit="#MoA">che che</rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 4</head>
+                    <head>4</head>
                     <app from="#l4a1" to="#l4a2">
-                        <lem> qual’ non ebbe</lem>
+                        <lem>qual’ non ebbe</lem>
                         <rdg wit="#MoA"> <hi rend="italic">rip.</hi></rdg>
                     </app>
                 </listApp>
                 
                 <listApp>
-                    <head> 8</head>
+                    <head>8</head>
                     <app from="#l8a1" to="#l8a2">
-                        <lem> no</lem>
-                        <rdg wit="#MoA"> ne</rdg>
+                        <lem>no</lem>
+                        <rdg wit="#MoA">ne</rdg>
                     </app>
                 </listApp>
             </listApp>
