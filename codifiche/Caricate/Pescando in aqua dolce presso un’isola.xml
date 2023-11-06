@@ -14,15 +14,15 @@
                   project.</orgName>
             </respStmt>
             <respStmt>
-               <resp> Edited by</resp>
+               <resp>Edited by</resp>
                <name> Maria Sofia Lannutti</name>
             </respStmt>
             <respStmt>
-               <resp> Revised by</resp>
+               <resp>Revised by</resp>
                <name> Luca Gatti</name>
             </respStmt>
             <respStmt>
-               <resp> TEI-encoded by</resp>
+               <resp>TEI-encoded by</resp>
                <name> Elvira Mercatanti</name>
             </respStmt>
          </titleStmt>
@@ -84,7 +84,7 @@
             <listApp>
                <head> 3</head>
                <app from="#l3a1" to="#l3a2">
-                  <lem> nela rete</lem>
+                  <lem>nela rete</lem>
                   <rdg> nella retta <wit><ref corresp="#RsT"> Rs<hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>
@@ -92,7 +92,7 @@
             <listApp>
                <head> 8</head>
                <app from="#l8a1" to="l8a2">
-                  <lem> calido</lem>
+                  <lem>calido</lem>
                   <rdg wit="#Rs"> callido</rdg>
                </app>               
             </listApp>

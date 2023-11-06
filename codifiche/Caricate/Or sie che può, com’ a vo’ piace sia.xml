@@ -12,15 +12,15 @@
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
             <respStmt> 
-               <resp> Edited by</resp> 
+               <resp>Edited by</resp> 
                <name> Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> Revised by</resp> 
+               <resp>Revised by</resp> 
                <name> Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> TEI-encoded by</resp> 
+               <resp>TEI-encoded by</resp> 
                <name> Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt>
@@ -109,7 +109,7 @@
             <listApp>
                <head> 2</head>
                <app from="#l2a1" to="#l2a2">
-                  <lem> mal</lem>
+                  <lem>mal</lem>
                   <rdg> mial<wit><ref corresp="#SLT">SL<hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>
@@ -117,7 +117,7 @@
             <listApp>
                <head> 9</head>
                <app from="#l9a1" to="#l9a2">
-                  <lem> ochi</lem>
+                  <lem>ochi</lem>
                   <rdg wit="#SL"><gap reason="illegible" rend="ill."/></rdg>
                </app>
             </listApp>
@@ -128,7 +128,7 @@
             <listApp>
                <head> 3</head>
                <app from="#l3a1" to="#l3a2">
-                  <lem> tost’ oblia</lem>
+                  <lem>tost’ oblia</lem>
                   <rdg> tosto oblia <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>
@@ -136,7 +136,7 @@
             <listApp>
                <head> 4</head>
                <app from="#l4a1" to="#l4a2">
-                  <lem> partir</lem>
+                  <lem>partir</lem>
                   <rdg> par<add place="above">tir</add> <wit><ref corresp="#SLT">SL<hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>
@@ -144,7 +144,7 @@
             <listApp>
                <head> 5</head>
                <app from="#l5a1" to="#l5a2">
-                  <lem> acces’ Amore</lem>
+                  <lem>acces’ Amore</lem>
                   <rdg wit="#SL"> acesamore</rdg>
                </app>            
             </listApp>
@@ -152,7 +152,7 @@
             <listApp>
                <head> 7</head>
                <app from="#l7a1" to="#l7a2">
-                  <lem> perfetto</lem>
+                  <lem>perfetto</lem>
                   <rdg wit="#SL"> perfecto</rdg>
                </app>
             </listApp>
@@ -160,7 +160,7 @@
             <listApp>
                <head> 10</head>
                <app from="#l10a1" to="#l10a2">
-                  <lem> subgetto</lem>
+                  <lem>subgetto</lem>
                   <rdg wit="#SL"> subieto</rdg>
                </app>
             </listApp>

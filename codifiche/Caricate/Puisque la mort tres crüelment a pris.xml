@@ -14,15 +14,15 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
+                    <resp>Edited by</resp>
                     <name> Maria Sofia Lannutti</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
+                    <resp>Revised by</resp>
                     <name> Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
+                    <resp>TEI-encoded by</resp>
                     <name> Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
@@ -118,7 +118,7 @@
                 <listApp>
                     <head> 10</head>
                     <app from="#l10a1" to="#l10a2">
-                        <lem> retrere</lem>
+                        <lem>retrere</lem>
                         <rdg wit="#MoA">retrer</rdg>
                     </app>
                 </listApp>
@@ -126,7 +126,7 @@
                 <listApp>
                     <head> 15</head>
                     <app from="#l15a1" to="#l15a2">
-                        <lem> toutes</lem>
+                        <lem>toutes</lem>
                         <rdg wit="#MoA"> tous les </rdg>
                     </app>
                 </listApp>
@@ -134,7 +134,7 @@
                 <listApp>
                     <head> 26</head>
                     <app from="#l26a1" to="#l26a2">
-                        <lem> lous</lem>
+                        <lem>lous</lem>
                         <rdg wit="#MoA"> loues </rdg>
                     </app>
                 </listApp>
@@ -142,7 +142,7 @@
                 <listApp>
                     <head> 29</head>
                     <app from="#l29a1" to="#l29a2">
-                        <lem> dois</lem>
+                        <lem>dois</lem>
                         <rdg wit="#MoA"> doit</rdg>
                     </app>
                 </listApp>

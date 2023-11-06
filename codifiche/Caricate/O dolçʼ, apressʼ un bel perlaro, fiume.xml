@@ -14,15 +14,15 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
+                    <resp>Edited by</resp>
                     <name> Vittoria Brancato</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
+                    <resp>Revised by</resp>
                     <name> Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
+                    <resp>TEI-encoded by</resp>
                     <name> Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
@@ -110,7 +110,7 @@
                 <listApp>
                     <head> 1</head>
                     <app from="#l1a1" to="#l1a2">
-                        <lem> perlaro</lem>
+                        <lem>perlaro</lem>
                         <rdg> perlarun<wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit>  <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -118,17 +118,17 @@
                 <listApp>
                     <head> 2</head>
                     <app from="#l2a1" to="#l2a2">
-                        <lem> lavi</lem>
+                        <lem>lavi</lem>
                         <rdg wit="#Lo"> lave</rdg>
                     </app>
                     
                     <app from="#l2a3" to="#l2a4">
-                        <lem> le manʼ, le gambʼ</lem>
+                        <lem>le manʼ, le gambʼ</lem>
                         <rdg> le male gambe <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l2a5" to="#l2a6">
-                        <lem> e ’ piedi</lem>
+                        <lem>e ’ piedi</lem>
                         <rdg> y in pedi <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -136,7 +136,7 @@
                 <listApp>
                     <head> 3</head>
                     <app from="#l3a1" to="#l3a2">
-                        <lem> di</lem>
+                        <lem>di</lem>
                         <rdg> a <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg wit="#Fp"> e</rdg>
                     </app>
@@ -145,12 +145,12 @@
                 <listApp>
                     <head> 4</head>
                     <app from="#l4a1" to="#l4a2">
-                        <lem> cui</lem>
+                        <lem>cui</lem>
                         <rdg> cur <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l4a3" to="#l4a4">
-                        <lem> di fedel cor</lem>
+                        <lem>di fedel cor</lem>
                         <rdg> de fede e cor <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> de fede cor <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                         <rdg> de feden cor <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
@@ -160,7 +160,7 @@
                 <listApp>
                     <head> 5</head>
                     <app from="#l5a1" to="#l5a2">
-                        <lem> le</lem>
+                        <lem>le</lem>
                         <rdg wit="#Lo"> ie</rdg>
                         <rdg> i <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit> <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
                         <rdg> y <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
@@ -171,12 +171,12 @@
                 <listApp>
                     <head> 6</head>
                     <app from="#l6a1" to="#l6a2">
-                        <lem> alquanto</lem>
+                        <lem>alquanto</lem>
                         <rdg wit="#Sq #Pit"> alquant ella </rdg>
                     </app>
                     
                     <app from="#l6a3" to="#l6a4">
-                        <lem> si</lem>
+                        <lem>si</lem>
                         <rdg> sie <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -184,7 +184,7 @@
                 <listApp>
                     <head> 7</head>
                     <app from="#l7a1" to="#l7a2">
-                        <lem> a me</lem>
+                        <lem>a me</lem>
                         <rdg wit="#Lo #R #Fc"> mi <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>                        
                     </app>
                 </listApp>
@@ -192,17 +192,17 @@
                 <listApp>
                     <head> 8</head>
                     <app from="#l8a1" to="#l8a2">
-                        <lem> ma</lem>
+                        <lem>ma</lem>
                         <rdg> mi <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l8a3" to="#l8a4">
-                        <lem> ttiene</lem>
+                        <lem>ttiene</lem>
                         <rdg> tio <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l8a5" to="#l8a6">
-                        <lem> ʼl mio cor</lem>
+                        <lem>ʼl mio cor</lem>
                         <rdg> l cor mio <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
                         <rdg> l mio core<wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> l mi‹o› core <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
@@ -217,25 +217,25 @@
                 <listApp>
                     <head> 1</head>
                     <app from="#l1a3" to="#l1a4">
-                        <lem> dolçʼ</lem>
+                        <lem>dolçʼ</lem>
                         <rdg wit="#Fp #R"> dolce <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                         <rdg wit="#Pit"> dolci</rdg>
                         <rdg> dolcie <wit><ref corresp="#Lo1T">Lo<hi rend="subscript">1</hi><hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l1a5" to="#l1a6">
-                        <lem> apressʼ</lem>
+                        <lem>apressʼ</lem>
                         <rdg wit="#R #Fc"> apres <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
                         <rdg> apresso <wit><ref corresp="#FpC">Fp<hi rend="super">C</hi></ref></wit>  <wit><ref corresp="#Lo1T">Lo<hi rend="subscript">1</hi><hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l1a7" to="#l1a8">
-                        <lem> un</lem>
+                        <lem>un</lem>
                         <rdg> um <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit>  <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit>  <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l1a9" to="#l1a10">
-                        <lem> perlaro</lem>
+                        <lem>perlaro</lem>
                         <rdg wit="#R"> parlaro <wit><ref corresp="#Lo1T">Lo<hi rend="subscript">1</hi><hi rend="super">T</hi></ref></wit></rdg>
                     </app>                        
                 </listApp>
@@ -243,17 +243,17 @@
                 <listApp>
                     <head> 2</head>
                     <app from="#l2a7" to="#l2a8">
-                        <lem> spesso</lem>
+                        <lem>spesso</lem>
                         <rdg> speso<wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit>  <wit><ref corresp="#Lo1T">Lo<hi rend="subscript">1</hi><hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l2a9" to="#l2a10">
-                        <lem> gambʼ e ʼ</lem>
+                        <lem>gambʼ e ʼ</lem>
                         <rdg> gambe e <wit><ref corresp="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l2a11" to="#l2a12">
-                        <lem> ʼ piedi</lem>
+                        <lem>ʼ piedi</lem>
                         <rdg wit="#Fc #R"> y pedi <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> y pede <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
@@ -262,32 +262,32 @@
                 <listApp>
                     <head> 3</head>
                     <app from="#l3a3" to="#l3a4">
-                        <lem> di</lem>
+                        <lem>di</lem>
                         <rdg wit="#Lo #Fc"> de <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l3a5" to="#l3a6">
-                        <lem> questa</lem>
+                        <lem>questa</lem>
                         <rdg> quista <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l3a7" to="#l3a8">
-                        <lem> rea</lem>
+                        <lem>rea</lem>
                         <rdg> ria<wit><ref corresp="#Lo1T">Lo<hi rend="subscript">1</hi><hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l3a9" to="#l3a10">
-                        <lem> fuor</lem>
+                        <lem>fuor</lem>
                         <rdg wit="#Lo #R #Fc"> for</rdg>
                     </app>
                     
                     <app from="#l3a11" to="#l3a12">
-                        <lem> ogni</lem>
+                        <lem>ogni</lem>
                         <rdg> ogne <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l3a13" to="#l3a14">
-                        <lem> bon</lem>
+                        <lem>bon</lem>
                         <rdg wit="#Fp"> buon <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> bu <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
                     </app>
@@ -296,24 +296,24 @@
                 <listApp>
                     <head> 4</head>
                     <app from="#l4a5" to="#l4a6">
-                        <lem> cui</lem>
+                        <lem>cui</lem>
                         <rdg wit="#Fc"> ccui<wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit>  <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> cchu<wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
                         <rdg> chu<wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l4a7" to="#l4a8">
-                        <lem> di</lem>
+                        <lem>di</lem>
                         <rdg wit="#Lo #Fc"> de</rdg>
                     </app>
                     
                     <app from="#l4a9" to="#l4a10">
-                        <lem> tutto</lem>
+                        <lem>tutto</lem>
                         <rdg wit="#R"> tuto</rdg>
                     </app>
                     
                     <app from="#l4a11" to="#l4a12">
-                        <lem> mi diedi</lem>
+                        <lem>mi diedi</lem>
                         <rdg wit="#Lo #R #Fc"> me dedi <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -321,34 +321,34 @@
                 <listApp>
                     <head> 5</head>
                     <app from="#l5a3" to="#l5a4">
-                        <lem> Ma sʼella</lem>
+                        <lem>Ma sʼella</lem>
                         <rdg> ma<del>l</del> sella<wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l5a5" to="#l5a6">
-                        <lem> vien</lem>
+                        <lem>vien</lem>
                         <rdg wit="#Lo #R"> ven <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l5a7" to="#l5a8">
-                        <lem> più</lem>
+                        <lem>più</lem>
                         <rdg> p<add place="above">i</add>u <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l5a9" to="#l5a10">
-                        <lem> tte</lem>
+                        <lem>tte</lem>
                         <rdg wit="#Lo"> te</rdg>
                         <rdg wit="#R"> ti <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
                         <rdg wit="#Fc"> tti</rdg>
                     </app>
                     
                     <app from="#l5a11" to="#l5a12">
-                        <lem> acqua</lem>
+                        <lem>acqua</lem>
                         <rdg> a<add place="above">c</add>qua <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l5a13" to="#l5a14">
-                        <lem> niega</lem>
+                        <lem>niega</lem>
                         <rdg wit="#R"> nega  <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
                     </app>                    
                 </listApp>
@@ -356,17 +356,17 @@
                 <listApp>
                     <head> 6</head>
                     <app from="#l6a5" to="#l6a6">
-                        <lem> darmi</lem>
+                        <lem>darmi</lem>
                         <rdg wit="#R"> darme <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit>  <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l6a9" to="#l6a10">
-                        <lem> non</lem>
+                        <lem>non</lem>
                         <rdg wit="#R"> no  <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l6a11" to="#l6a12">
-                        <lem> si</lem>
+                        <lem>si</lem>
                         <rdg wit="#Lo #R #Fc"> se  <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>                                                  
                     </app>
                 </listApp>
@@ -374,29 +374,29 @@
                 <listApp>
                     <head> 7</head>
                     <app from="l7a3" to="#l7a4">
-                        <lem> lassʼ</lem>
+                        <lem>lassʼ</lem>
                         <rdg wit="#Fp #Lo #Fc"> lasso <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit> <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit> <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> laso  <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l7a5" to="#l7a6">
-                        <lem> non</lem>
+                        <lem>non</lem>
                         <rdg> no <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l7a7" to="#l7a8">
-                        <lem> vol</lem>
+                        <lem>vol</lem>
                         <rdg wit="#Fp"> vuol <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l7a9" to="#l7a10">
-                        <lem> venir</lem>
+                        <lem>venir</lem>
                         <rdg wit="#R #Fc"> vegnir <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
                         <rdg> vinir <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l7a11" to="#l7a12">
-                        <lem> a·nnave</lem>
+                        <lem>a·nnave</lem>
                         <rdg wit="#R"> a nave</rdg>
                     </app>
                 </listApp>
@@ -404,7 +404,7 @@
                 <listApp>
                     <head> 8</head>
                     <app from="#l8a7" to="#l8a8">
-                        <lem> ttiene</lem>
+                        <lem>ttiene</lem>
                         <rdg wit="#Fp #R"> tiene <wit><ref corresp="#Lo1C">Lo<hi rend="subscript">1</hi><hi rend="super">C</hi></ref></wit></rdg>
                         <rdg wit="#Fc"> ctene <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> ttene <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
@@ -412,7 +412,7 @@
                     </app>
                     
                     <app from="#l8a9" to="#l8a10">
-                        <lem> chiave</lem>
+                        <lem>chiave</lem>
                         <rdg> c<add place="above">i</add>a a a a ve <wit><ref corresp="#Lo1C">Lo<hi rend="subscript">1</hi><hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> ciave <wit><ref corresp="#Lo1T">Lo<hi rend="subscript">1</hi><hi rend="super">T</hi></ref></wit></rdg>
                     </app>

@@ -14,15 +14,15 @@
                   project.</orgName>
             </respStmt>
             <respStmt>
-               <resp> Edited by</resp>
+               <resp>Edited by</resp>
                <name> Maria Sofia Lannutti</name>
             </respStmt>
             <respStmt>
-               <resp> Revised by</resp>
+               <resp>Revised by</resp>
                <name> Luca Gatti</name>
             </respStmt>
             <respStmt>
-               <resp> TEI-encoded by</resp>
+               <resp>TEI-encoded by</resp>
                <name> Elvira Mercatanti</name>
             </respStmt>
          </titleStmt>
@@ -85,12 +85,12 @@
             <listApp>
                <head> 3</head>
                <app from="#l3a1" to="#l3a2">
-                  <lem> trovai che sola </lem>
+                  <lem>trovai che sola </lem>
                   <rdg><gap reason="illegible" rend="ill."/> <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>
                </app>
                
                <app from="#l3a3" to="#l3a4">
-                  <lem> stava</lem>
+                  <lem>stava</lem>
                   <rdg> sta<gap reason="illegible" unit="chars" quantity="2" rend="**"/> <wit><ref corresp="#RsC">Rs<hi rend="super">C</hi></ref></wit></rdg>
                   <rdg> <gap reason="illegible" unit="chars" quantity="3" rend="***"/>va <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>
                </app>
@@ -99,7 +99,7 @@
             <listApp>
                <head> 7</head>
                <app from="#l7a1" to="#l7a2">
-                  <lem> I’ ò nom Çiliola</lem>
+                  <lem>I’ ò nom Çiliola</lem>
                   <rdg> <gap reason="illegible" rend="ill."/> <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>
                </app>               
             </listApp>
@@ -107,12 +107,12 @@
             <listApp>
                <head> 8</head>
                <app from="#l8a1" to="#l8a2">
-                  <lem> me’ pare Uberto, mia mare</lem>
+                  <lem>me’ pare Uberto, mia mare</lem>
                   <rdg> <gap reason="illegible" rend="ill."/> <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>                  
                </app>
                
                <app from="#l8a3" to="#l8a4">
-                  <lem> Vïola</lem>
+                  <lem>Vïola</lem>
                   <rdg> <gap reason="illegible" rend="ill. per l.m."/> <wit><ref corresp="#RsC">Rs<hi rend="super">C</hi></ref></wit></rdg>
                </app>               
             </listApp>
@@ -125,7 +125,7 @@
             <listApp>
                <head> 7</head>
                <app from="#l7a3" to="#l7a4">
-                  <lem> rispose</lem>
+                  <lem>rispose</lem>
                   <rdg> respose <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>
                </app>               
             </listApp>
@@ -133,7 +133,7 @@
             <listApp>
                <head> 8</head>
                <app from="#l8a5" to="#l8a6">
-                  <lem> mia</lem>
+                  <lem>mia</lem>
                   <rdg> me <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>                  
                </app>
                

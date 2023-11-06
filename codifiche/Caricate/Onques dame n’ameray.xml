@@ -14,15 +14,15 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
+                    <resp>Edited by</resp>
                     <name> Maria Sofia Lannutti</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
+                    <resp>Revised by</resp>
                     <name> Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
+                    <resp>TEI-encoded by</resp>
                     <name> Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
@@ -110,7 +110,7 @@
                 <listApp>
                     <head> 1</head>
                     <app from="#l1a1" to="#l1a2">
-                        <lem> Onques</lem>
+                        <lem>Onques</lem>
                         <rdg wit="#MoA">plus onques</rdg>
                     </app>
                 </listApp>
@@ -118,7 +118,7 @@
                 <listApp>
                     <head> 6</head>
                     <app from="#l6a1" to="#l6a2">
-                        <lem> avrai</lem>
+                        <lem>avrai</lem>
                         <rdg wit="#MoA"> avoye</rdg>
                     </app>
                 </listApp>
@@ -126,7 +126,7 @@
                 <listApp>
                     <head> 9</head>
                     <app from="#l9a1" to="#l9a2">
-                        <lem> Loyauté</lem>
+                        <lem>Loyauté</lem>
                         <rdg wit="#MoA"> et loyaute</rdg>
                     </app>
                 </listApp>
@@ -134,7 +134,7 @@
                 <listApp>
                     <head> 14</head>
                     <app from="#l14a1" to="#l14a2">
-                        <lem> querray</lem>
+                        <lem>querray</lem>
                         <rdg wit="#MoA"> me querray</rdg>
                     </app>
                 </listApp>
@@ -142,7 +142,7 @@
                 <listApp>
                     <head> 17</head>
                     <app from="#l17a1" to="#l17a2">
-                        <lem> Me</lem>
+                        <lem>Me</lem>
                         <rdg wit="#MoA"> or me</rdg>
                     </app>
                 </listApp>
@@ -150,7 +150,7 @@
                 <listApp>
                     <head> 24</head>
                     <app from="#l24a1" to="#l24a2">
-                        <lem> maintien</lem>
+                        <lem>maintien</lem>
                         <rdg wit="#MoA"> doulz maintien</rdg>
                     </app>
                 </listApp>
@@ -158,7 +158,7 @@
                 <listApp>
                     <head> 25</head>
                     <app from="#l25a1" to="#l25a2">
-                        <lem> ne</lem>
+                        <lem>ne</lem>
                         <rdg wit="#MoA"> plus ne</rdg>
                     </app>
                 </listApp>
@@ -166,7 +166,7 @@
                 <listApp>
                     <head> 27</head>
                     <app from="#l27a1" to="#l27a2">
-                        <lem> de</lem>
+                        <lem>de</lem>
                         <rdg wit="#MoA"> et</rdg>
                     </app>
                 </listApp>

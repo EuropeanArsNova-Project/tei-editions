@@ -14,15 +14,15 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
+                    <resp>Edited by</resp>
                     <name> Maria Sofia Lannutti</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
+                    <resp>Revised by</resp>
                     <name> Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
+                    <resp>TEI-encoded by</resp>
                     <name> Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
@@ -92,7 +92,7 @@
                     <listApp>
                         <head> 2</head>
                         <app from="#l2a1" to="#l2a2">
-                            <lem> jolie</lem>
+                            <lem>jolie</lem>
                             <rdg wit="#MoA"> ioe</rdg>
                         </app>
                     </listApp>
@@ -100,7 +100,7 @@
                     <listApp>
                         <head> 4</head>
                         <app from="#l4a1" to="#l4a2">
-                            <lem> desespoir</lem>
+                            <lem>desespoir</lem>
                             <rdg wit="#MoA"> desespour</rdg>
                         </app>
                     </listApp>
@@ -108,7 +108,7 @@
                     <listApp>
                         <head> 11</head>
                         <app from="#l11a1" to="#l11a2">
-                            <lem> prochayne</lem>
+                            <lem>prochayne</lem>
                             <rdg wit="#MoA"> prochain le</rdg>
                         </app>
                     </listApp>
@@ -120,7 +120,7 @@
                     <listApp>
                         <head> 9</head>
                         <app from="#l9a1" to="#l9a2">
-                            <lem> sçay</lem>
+                            <lem>sçay</lem>
                             <rdg wit="#MoA"> scay</rdg>
                         </app>
                     </listApp>

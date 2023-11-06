@@ -8,19 +8,19 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
       <titleStmt> 
          <title> Astio non morì mai </title> 
          <respStmt> 
-            <resp> Digital scholarly edition created within the ERC </resp> 
+            <resp>Digital scholarly edition created within the ERC </resp> 
             <orgName> <ref target="https://www.europeanarsnova.eu/"> European Ars Nova </ref> project. </orgName> 
          </respStmt> 
          <respStmt> 
-            <resp> Edited by </resp> 
+            <resp>Edited by </resp> 
             <name> Maria Sofia Lannutti </name> 
          </respStmt> 
          <respStmt> 
-            <resp> Revised by </resp> 
+            <resp>Revised by </resp> 
             <name> Luca Gatti </name> 
          </respStmt> 
          <respStmt> 
-            <resp> TEI-encoded by </resp> 
+            <resp>TEI-encoded by </resp> 
             <name> Elvira Mercatanti </name> 
          </respStmt> 
       </titleStmt> 
@@ -108,7 +108,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <listApp> 
             <head> 1 </head> 
             <app from="#l1a1" to="#l1a2"> 
-               <lem> Astio </lem> 
+               <lem>Astio </lem> 
                <rdg wit="#SL"> stio </rdg> 
             </app> 
          </listApp> 
@@ -116,7 +116,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <listApp> 
             <head> 2 </head> 
             <app from="#l2a3" to="#l2a4"> 
-               <lem> ora </lem> 
+               <lem>ora </lem> 
                <rdg> o <gap quantity="2" unit="chars" reason="illegible" rend="**"/> <wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg> 
             </app> 
          </listApp> 
@@ -124,7 +124,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <listApp> 
             <head> 3 </head> 
             <app from="#l3a1" to="#l3a2"> 
-               <lem> in quant’i’ vegio </lem> 
+               <lem>in quant’i’ vegio </lem> 
                <rdg> <gap reason="illegible" rend="ill."/> <wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg> 
             </app> 
          </listApp> 
@@ -132,12 +132,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <listApp> 
             <head> 4 </head> 
             <app from="#l4a1" to="#l4a2"> 
-               <lem> a chi me’ fa </lem> 
+               <lem>a chi me’ fa </lem> 
                <rdg> <gap reason="illegible" rend="ill."/> <wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg> 
             </app> 
 
             <app from="#l4a5" to="#l4a6"> 
-               <lem> guai </lem> 
+               <lem>guai </lem> 
                <rdg> gu <gap quantity="2" unit="chars" reason="illegible" rend="**"/> <wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit> 
                </rdg> 
             </app> 
@@ -146,7 +146,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <listApp> 
             <head> 5 </head> 
             <app from="#l5a1" to="#l5a2"> 
-               <lem> <hi rend="italic"> Chi è sanza virtù </hi></lem> 
+               <lem><hi rend="italic"> Chi è sanza virtù </hi></lem> 
                <rdg> <gap reason="illegible" rend="ill."/> <wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit> 
                </rdg> 
             </app> 
@@ -155,7 +155,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <listApp> 
             <head> 10 </head> 
             <app from="#l10a1" to="#l10a2"> 
-               <lem> al </lem> 
+               <lem>al </lem> 
                <rdg wit="#SL"> il </rdg> 
             </app> 
          </listApp> 
@@ -167,7 +167,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <listApp> 
             <head> 2 </head> 
             <app from="#l2a1" to="#l2a2"> 
-               <lem> pò </lem> 
+               <lem>pò </lem> 
                <rdg wit="#SL"> può <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg> 
             </app> 
          </listApp> 
@@ -175,12 +175,12 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <listApp> 
             <head> 3 </head> 
             <app from="#l3a3" to="#l3a4"> 
-               <lem> i’ </lem> 
+               <lem>i’ </lem> 
                <rdg wit="#SL"> io </rdg> 
             </app> 
 
             <app from="#l3a5" to="#l3a6"> 
-               <lem> vegio </lem> 
+               <lem>vegio </lem> 
                <rdg> vegi <wit><ref corresp="#CilT">Cil<hi rend="super">T</hi></ref></wit></rdg> 
             </app>   
          </listApp> 
@@ -188,7 +188,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <listApp> 
             <head> 4 </head>               
             <app from="#l4a3" to="#l4a4"> 
-               <lem> asti’ </lem> 
+               <lem>asti’ </lem> 
                <rdg> astio <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit> 
                </rdg> 
             </app> 
@@ -197,7 +197,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
          <listApp> 
             <head> 7 </head> 
             <app from="#l7a1" to="#l7a2"> 
-               <lem> invidïoso </lem> 
+               <lem>invidïoso </lem> 
                <rdg wit="#Cil"> nvidioso </rdg> 
             </app> 
          </listApp> 

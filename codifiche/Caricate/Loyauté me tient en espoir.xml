@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Loyauté me tient en espoir</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1"><hi rend="italic"> Loyauté me tient en espoir</hi></l>
+                <l xml:id="l2"><hi rend="italic"> d’encor venir a <anchor xml:id="l2a1"/>m<supplied reason="illegible">[on]</supplied><anchor xml:id="l2a2"/> entente; </hi></l>
+                <l xml:id="l3">conbien que demeure, pour voir,</l>
+                <l xml:id="l4"><hi rend="italic"> loyaulté <supplied reason="illegible">[me tient en espoir].</supplied>.</hi></l>
+                <l xml:id="l5" n="5">S’atendray d’amourex vouloyr,</l>
+                <l xml:id="l6">coment <anchor xml:id="l6a1"/>qu’<supplied reason="illegible">[a]</supplied>ye<anchor xml:id="l6a2"/> longue <anchor xml:id="l6a3"/>ate<supplied reason="illegible">[n]</supplied>te<anchor xml:id="l6a4"/>:</l>
+                <l xml:id="l7"><hi rend="italic">loyaulté <supplied xml:id="suppl1" reason="illegible">[me tient en espoir</supplied></hi></l>
+                <l xml:id="l8"><hi rend="italic"> <supplied xml:id="suppl2" corresp="#suppl1" reason="illegible">d’encor venir a mon entente].</supplied></hi></l>
+            </lg>
+
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Ch">
+                    <!--ref target="X"-->Ch<!--/ref--> c. 36v, <abbr xml:id="ChC">C</abbr> (vv. 1-2), <hi rend="italic">resid.</hi> (vv. 3-8): <hi rend="italic">garinus</hi>
+                </witness>
+                
+                <witness xml:id="Pit">
+                    <!--ref target="X"-->Pit<!--/ref--> c. 121r, <abbr xml:id="PitC">C</abbr> (solo incipit v. 1)
+                </witness>
+            </listWit>
+
+
+            <!--<listApp type="substantial">
+                
+                
+                
+            </listApp>-->
+
+            <listApp type="formal">
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>mon</lem>
+                        <rdg wit="#Ch">m</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>qu’aye</lem>
+                        <rdg wit="#Ch">quye </rdg>
+                    </app>
+                    
+                    <app from="#l6a3" to="#l6a4">
+                        <lem>atente</lem>
+                        <rdg wit="#Ch">antete</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            
+
+
+            <div type="metricalScheme">
+                <p><hi rend="italic">Rondeau </hi> 8A 8’B; 8a, 8’A; 8a 8’b; 8A 8’B.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#ApelRosenberg1970">Apel-Rosenberg 1970, p. LII.</bibl>
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+            </listBibl>-->
+
+
+            <!--<div type="commentary">
+                <note target="#">
+                    <num></num>
+                    <p></p>
+                </note>
+            </div>-->
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="ApelRosenberg1970"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1).</bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

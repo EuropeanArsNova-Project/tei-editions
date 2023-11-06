@@ -14,15 +14,15 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
+                    <resp>Edited by</resp>
                     <name> Maria Sofia Lannutti</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
+                    <resp>Revised by</resp>
                     <name> Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
+                    <resp>TEI-encoded by</resp>
                     <name> Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
@@ -93,7 +93,7 @@
                 <listApp>
                     <head> 9</head>
                     <app from="#l9a1" to="#l9a2">
-                        <lem> triste</lem>
+                        <lem>triste</lem>
                         <rdg wit="#MoA">trist</rdg>
                     </app>
                 </listApp>
@@ -101,7 +101,7 @@
                 <listApp>
                     <head> 12</head>
                     <app from="#l12a1" to="#l12a2">
-                        <lem> si</lem>
+                        <lem>si</lem>
                         <rdg wit="#MoA"/>
                     </app>
                 </listApp>
@@ -114,7 +114,7 @@
                 <listApp>
                     <head> 4</head>
                     <app from="#l4a1" to="#l4a2">
-                        <lem> de ma dolour</lem>
+                        <lem>de ma dolour</lem>
                         <rdg wit="#MoA"><hi rend="italic">rip.</hi></rdg>
                     </app>
                 </listApp>

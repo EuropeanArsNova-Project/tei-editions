@@ -140,7 +140,7 @@
             <listApp>
                <head>4</head>
                <app from="#l4a1" to="#l4a2">
-                  <lem> ahimè lasso</lem>
+                  <lem>ahimè lasso</lem>
                   <rdg>ayme la ayme lasso <wit><ref corresp="#LuC">Lu<hi rend="super">C</hi></ref></wit></rdg>
                   <rdg>ayme lasso ayme lasso <wit><ref corresp="#LuT">Lu<hi rend="super">T</hi></ref></wit></rdg>
                </app>

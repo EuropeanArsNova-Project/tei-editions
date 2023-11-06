@@ -14,15 +14,15 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
+                    <resp>Edited by</resp>
                     <name> Maria Sofia Lannutti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
+                    <resp>Revised by</resp>
                     <name> Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
+                    <resp>TEI-encoded by</resp>
                     <name> Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
@@ -124,7 +124,7 @@
                 <listApp>
                     <head> 2</head>
                     <app from="#l2a1" to="#l2a2">
-                        <lem> dolçe</lem>
+                        <lem>dolçe</lem>
                         <rdg wit="Lo"/>
                     </app>
                 </listApp>
@@ -132,7 +132,7 @@
                 <listApp>
                     <head> 3</head>
                     <app from="#l3a1" to="l3a2">
-                        <lem> che</lem>
+                        <lem>che</lem>
                         <rdg wit="#Lo"> chi chi</rdg>
                     </app>
                 </listApp>
@@ -140,7 +140,7 @@
                 <listApp>
                     <head> 4</head>
                     <app from="#l4a1" to="l4a2">
-                        <lem> di tuo</lem>
+                        <lem>di tuo</lem>
                         <rdg wit="#R"> deti</rdg>
                     </app>
                 </listApp>
@@ -149,7 +149,7 @@
                 <listApp>
                     <head> 4-6</head>
                     <app from="#l4a3" to="#l6a1">
-                        <lem> Et io son corda di tuo consonançïa, che ’maginar solea tuo bel
+                        <lem>Et io son corda di tuo consonançïa, che ’maginar solea tuo bel
                             trovato, or son procuratore et avocato. </lem>
                         <rdg wit="#Fp #Lo"/>
                     </app>
@@ -158,17 +158,17 @@
                 <listApp>
                     <head> 8</head>
                     <app from="#l8a1" to="l8a2">
-                        <lem> c’ogn’atto bel d’amor da·tte s’apara.</lem>
+                        <lem>c’ogn’atto bel d’amor da·tte s’apara.</lem>
                         <rdg wit="#Fp"/>
                     </app>
 
                     <app from="#l8a3" to="#l8a4">
-                        <lem> d’amor</lem>
+                        <lem>d’amor</lem>
                         <rdg wit="#R #Lo"> d'amore</rdg>
                     </app>
 
                     <app from="#l8a5" to="#l8a6">
-                        <lem> da·tte s’apara</lem>
+                        <lem>da·tte s’apara</lem>
                         <rdg wit="#R"> da ti sen para </rdg>
                     </app>
                 </listApp>
@@ -182,7 +182,7 @@
                 <listApp>
                     <head> 1</head>
                     <app from="#l1a1" to="#l1a2">
-                        <lem> scïençïa</lem>
+                        <lem>scïençïa</lem>
                         <rdg wit="Fp"> sciença <wit><ref corresp="#SqT">Sq<hi rend="super"
                             >T</hi></ref></wit></rdg>
                         <rdg wit="R"> sciencia <wit><ref corresp="#LoC">Lo<hi rend="super"
@@ -205,13 +205,13 @@
                     </app>
 
                     <app from="#l2a5" to="#l2a6">
-                        <lem> con</lem>
+                        <lem>con</lem>
                         <rdg wit="#R"> cun</rdg>
                         <rdg wit="#Lo"> cum</rdg>
                     </app>
 
                     <app from="#l2a7" to="#l2a8">
-                        <lem> canti</lem>
+                        <lem>canti</lem>
                         <rdg wit="#Lo"> chan n n ti </rdg>
                     </app>
                 </listApp>
@@ -219,29 +219,29 @@
                 <listApp>
                     <head> 3</head>
                     <app from="#l3a3" to="#l3a4">
-                        <lem> che fa’ rinovellar tuttor gli amanti.</lem>
+                        <lem>che fa’ rinovellar tuttor gli amanti.</lem>
                         <rdg wit="#Fp #R #Lo"><hi rend="italic">rip.</hi></rdg>
                     </app>
 
                     <app from="#l3a5" to="#l3a6">
-                        <lem> che</lem>
+                        <lem>che</lem>
                         <rdg wit="#Sq #Fp #R"> che che </rdg>
                     </app>
 
                     <app from="#l3a7" to="#l3a8">
-                        <lem> rinovellar</lem>
+                        <lem>rinovellar</lem>
                         <rdg> renovelar <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit>  <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> rinove lar <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
 
                     <app from="#l3a9" to="#l3a10">
-                        <lem> tuttor</lem>
+                        <lem>tuttor</lem>
                         <rdg> tutor <wit><ref corresp="#RC">R<hi rend="super"
                             >C</hi></ref></wit></rdg>
                     </app>
 
                     <app from="#l3a11" to="#l3a12">
-                        <lem> gli amanti</lem>
+                        <lem>gli amanti</lem>
                         <rdg wit="#Fp"> glamanti</rdg>
                         <rdg> i aman a a a a a a a a a a ti <wit><ref corresp="#LoC">Lo<hi
                                         rend="super">C</hi></ref></wit></rdg>
@@ -253,12 +253,12 @@
                 <listApp>
                     <head> 5</head>
                     <app from="#l5a2" to="#l5a3">
-                        <lem> ’maginar</lem>
+                        <lem>’maginar</lem>
                         <rdg wit="#R"> imaginar</rdg>
                     </app>
 
                     <app from="#l5a4" to="#l5a5">
-                        <lem> tuo</lem>
+                        <lem>tuo</lem>
                         <rdg wit="#R"> to</rdg>
                     </app>
 
@@ -267,7 +267,7 @@
                 <listApp>
                     <head> 7</head>
                     <app from="#l7a1" to="#l7a2">
-                        <lem> ritorno</lem>
+                        <lem>ritorno</lem>
                         <rdg wit="#R"> retorn</rdg>
                         <rdg> retorno <wit><ref corresp="#LoC">Lo<hi rend="super"
                             >C</hi></ref></wit></rdg>
@@ -276,7 +276,7 @@
                     </app>
 
                     <app from="#l7a3" to="#l7a4">
-                        <lem> a·tte</lem>
+                        <lem>a·tte</lem>
                         <rdg wit="#Fp">a te </rdg>
                         <rdg> a ti <wit><ref corresp="#RT">R<hi rend="super"
                             >T</hi></ref></wit></rdg>
@@ -286,7 +286,7 @@
                 <listApp>
                     <head> 8</head>
                     <app from="#l8a7" to="#l8a7">
-                        <lem> c’ogn’atto</lem>
+                        <lem>c’ogn’atto</lem>
                         <rdg wit="#R"> cognato</rdg>
                     </app>
 

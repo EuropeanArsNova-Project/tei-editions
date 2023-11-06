@@ -12,15 +12,15 @@
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
             <respStmt> 
-               <resp> Edited by</resp> 
+               <resp>Edited by</resp> 
                <name> Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> Revised by</resp> 
+               <resp>Revised by</resp> 
                <name> Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> TEI-encoded by</resp> 
+               <resp>TEI-encoded by</resp> 
                <name> Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt>
@@ -106,7 +106,7 @@
             <listApp>
                <head> 2</head>
                <app from="#l2a1" to="#l2a2">
-                  <lem> mio</lem>
+                  <lem>mio</lem>
                   <rdg wit="#Pit"> suo</rdg>
                </app>
             </listApp>
@@ -115,7 +115,7 @@
             <listApp>
                <head> 5</head>
                <app from="#l5a1" to="#l5a2">
-                  <lem> catena</lem>
+                  <lem>catena</lem>
                   <rdg> catene<wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                </app>         
             </listApp>
@@ -123,7 +123,7 @@
             <listApp>
                <head> 6</head>
                <app from="#l6a1" to="#l6a2">
-                  <lem> pur</lem>
+                  <lem>pur</lem>
                   <rdg wit="#Pit"> pure</rdg>
                </app>            
             </listApp>
@@ -134,7 +134,7 @@
             <listApp>
                <head> 1</head>
                <app from="#l1a1" to="#l1a2">
-                  <lem> Se</lem>
+                  <lem>Se</lem>
                   <rdg> se se<wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                </app>
             </listApp>

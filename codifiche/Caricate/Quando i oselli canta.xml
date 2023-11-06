@@ -14,15 +14,15 @@
                   project.</orgName>
             </respStmt>
             <respStmt>
-               <resp> Edited by</resp>
+               <resp>Edited by</resp>
                <name> Maria Sofia Lannutti</name>
             </respStmt>
             <respStmt>
-               <resp> Revised by</resp>
+               <resp>Revised by</resp>
                <name> Luca Gatti</name>
             </respStmt>
             <respStmt>
-               <resp> TEI-encoded by</resp>
+               <resp>TEI-encoded by</resp>
                <name> Elvira Mercatanti</name>
             </respStmt>
          </titleStmt>
@@ -97,7 +97,7 @@
             <listApp>
                <head> 5</head>
                <app from="#l5a1" to="#l5a2">
-                  <lem> d’altre</lem>
+                  <lem>d’altre</lem>
                   <rdg wit="#Rs"> altre</rdg>
                </app>
             </listApp>
@@ -105,7 +105,7 @@
             <listApp>
                <head> 6</head>
                <app from="#l6a1" to="#l6a2">
-                  <lem> d’erba</lem>
+                  <lem>d’erba</lem>
                   <rdg wit="#Rs"> erba</rdg>
                </app>
             </listApp>
@@ -117,7 +117,7 @@
             <listApp>
                <head> 2</head>
                <app from="#l2a1" to="#l2a2">
-                  <lem> ala</lem>
+                  <lem>ala</lem>
                   <rdg>alla <wit><ref corresp="#RsT">Rs <hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>
@@ -125,7 +125,7 @@
             <listApp>
                <head> 10</head>
                <app from="#l10a1" to="#l10a2">
-                  <lem> dela</lem>
+                  <lem>dela</lem>
                   <rdg> della<wit><ref corresp="#RsT">Rs <hi rend="super">T</hi></ref></wit></rdg>
                </app>               
             </listApp>          

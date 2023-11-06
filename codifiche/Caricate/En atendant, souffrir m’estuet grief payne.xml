@@ -152,7 +152,7 @@
                     </app>
                     
                     <app from="#l4a3" to="#l4a4">
-                        <lem> ruissiaus</lem>
+                        <lem>ruissiaus</lem>
                         <rdg wit="#Ch"> ruissius </rdg>
                     </app>
                     
@@ -317,7 +317,7 @@
                 <listApp>
                     <head>16</head>
                     <app from="#l16a1" to="#l16a2">
-                        <lem> et</lem>
+                        <lem>et</lem>
                         <rdg wit="#Ch"> et la</rdg>
                     </app>
                 </listApp>

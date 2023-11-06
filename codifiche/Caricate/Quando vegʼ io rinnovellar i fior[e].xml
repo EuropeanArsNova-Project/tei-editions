@@ -14,15 +14,15 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
+                    <resp>Edited by</resp>
                     <name> Vittoria Brancato</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
+                    <resp>Revised by</resp>
                     <name> Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
+                    <resp>TEI-encoded by</resp>
                     <name> Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
@@ -85,7 +85,7 @@
                 <listApp>
                     <head> 1</head>
                     <app from="#l1a1" to="#l1a2">
-                        <lem> fiore</lem>
+                        <lem>fiore</lem>
                         <rdg wit="#Sq">fiori</rdg>
                     </app>
                 </listApp>
@@ -105,7 +105,7 @@
                 <listApp>
                     <head> 1</head>
                     <app from="#l1a3" to="#l1a4">
-                        <lem> i</lem>
+                        <lem>i</lem>
                         <rdg> li<wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -113,7 +113,7 @@
                 <listApp>
                     <head>2</head>
                     <app from="#l2a1" to="#l2a2">
-                        <lem> frondʼ e</lem>
+                        <lem>frondʼ e</lem>
                         <rdg> fronde et <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -121,7 +121,7 @@
                 <listApp>
                     <head>3</head>
                     <app from="#l3a3" to="#l3a4">
-                        <lem> voi</lem>
+                        <lem>voi</lem>
                         <rdg> voʼ <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>

@@ -14,15 +14,15 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
+                    <resp>Edited by</resp>
                     <name> Maria Sofia Lannutti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
+                    <resp>Revised by</resp>
                     <name> Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
+                    <resp>TEI-encoded by</resp>
                     <name> Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
@@ -113,7 +113,7 @@
                 <listApp>
                     <head> 1</head>
                     <app from="#l1a1" to="#l1a2">
-                        <lem> rampogna</lem>
+                        <lem>rampogna</lem>
                         <rdg> ra po o o o gnia <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -121,12 +121,12 @@
                 <listApp>
                     <head> 2</head>
                     <app from="#l2a1" to="l2a2">
-                        <lem> lungamente</lem>
+                        <lem>lungamente</lem>
                         <rdg> lungamente <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l2a3" to="l2a4">
-                        <lem> beffato</lem>
+                        <lem>beffato</lem>
                         <rdg wit="#Lo"> ben fatto </rdg>
                     </app>
                 </listApp>
@@ -134,17 +134,17 @@
                 <listApp>
                     <head> 3</head>
                     <app from="#l3a1" to="l3a2">
-                        <lem> e ’l</lem>
+                        <lem>e ’l</lem>
                         <rdg> et<wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l3a3" to="l3a4">
-                        <lem> perso</lem>
+                        <lem>perso</lem>
                         <rdg> pro<wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l3a5" to="l3a6">
-                        <lem> dimostrato</lem>
+                        <lem>dimostrato</lem>
                         <rdg> de ma stra a a a to <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -153,7 +153,7 @@
                 <listApp>
                     <head> 4-6</head>
                     <app from="#l4a1" to="#l6a1">
-                        <lem> Onde ben mi contenta el non servire,
+                        <lem>Onde ben mi contenta el non servire,
                             poiché per te non si teme vergogna,
                             falso, crudele, pien dʼogni mençogna.
                         </lem>
@@ -166,12 +166,12 @@
                 <listApp>
                     <head> 4</head>
                     <app from="#l4a2" to="l4a3">
-                        <lem> Onde</lem>
+                        <lem>Onde</lem>
                         <rdg wit="#Lo"> ondio</rdg>
                     </app>
 
                     <app from="#l4a4" to="#l4a5">
-                        <lem> contenta el non servire</lem>
+                        <lem>contenta el non servire</lem>
                         <rdg wit="#Lo"> contento no seguirte </rdg>
                     </app>
                 </listApp>
@@ -179,7 +179,7 @@
                 <listApp>
                     <head> 5-6</head>
                     <app from="#l5a1" to="#l6a2">
-                        <lem> poiché per te non si teme vergogna,
+                        <lem>poiché per te non si teme vergogna,
                             falso, crudele, pien dʼogni mençogna
                         </lem>
                         <rdg wit="#Lo"> però che perte sente mensognia falso crudelle pien dogni verghognia </rdg>
@@ -189,18 +189,18 @@
                 <listApp>
                     <head> 8</head>
                     <app from="#l8a3" to="#l8a4">
-                        <lem> credilo</lem>
+                        <lem>credilo</lem>
                         <rdg> credil <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> credell <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>                        
                     </app>    
                     
                     <app from="#l8a5" to="#l8a6">
-                        <lem> a me</lem>
+                        <lem>a me</lem>
                         <rdg> a mi <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l8a7" to="#l8a8">
-                        <lem> rumico</lem>
+                        <lem>rumico</lem>
                         <rdg> ro mico <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>                        
                     </app>
                 </listApp>
@@ -216,18 +216,18 @@
                 <listApp>
                     <head> 1</head>
                     <app from="#l1a3" to="#l1a4">
-                        <lem> non</lem>
+                        <lem>non</lem>
                         <rdg wit="Lo"> no </rdg>
                     </app>
                     
                     <app from="#l1a5" to="#l1a6">
-                        <lem> tua</lem>
+                        <lem>tua</lem>
                         <rdg> tuo <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                         <rdg> tu <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l1a7" to="#l1a8">
-                        <lem> rampogna</lem>
+                        <lem>rampogna</lem>
                         <rdg> ran po o o o o gnia  <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                     
@@ -236,17 +236,17 @@
                 <listApp>
                     <head> 2</head>
                     <app from="#l2a5" to="#l2a6">
-                        <lem> Amor</lem>
+                        <lem>Amor</lem>
                         <rdg> a a a a mor <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>                        
                     </app>
                     
                     <app from="#l2a7" to="#l2a8">
-                        <lem> lungamente</lem>
+                        <lem>lungamente</lem>
                         <rdg> longhamente  <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>                        
                     </app>
                     
                     <app from="#l2a9" to="#l2a10">
-                        <lem> mʼài</lem>
+                        <lem>mʼài</lem>
                         <rdg> ma <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>                        
                     </app>
                 </listApp>
@@ -254,12 +254,12 @@
                 <listApp>
                     <head> 3</head>
                     <app from="#l3a7" to="#l3a8">
-                        <lem> per lo</lem>
+                        <lem>per lo</lem>
                         <rdg> pello <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l3a9" to="#l3a10">
-                        <lem> dimostrato</lem>
+                        <lem>dimostrato</lem>
                         <rdg> dimostra a a a a a a to  <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -268,19 +268,19 @@
                     <head> 7</head>
                     
                     <app from="#l7a1" to="#l7a2">
-                        <lem> ti</lem>
+                        <lem>ti</lem>
                         <rdg wit="#Lo"> te</rdg>                       
                     </app>
                     
                     <app from="#l7a3" to="#l7a4">
-                        <lem> ʼnn</lem>
+                        <lem>ʼnn</lem>
                         <rdg wit="#Sq"> inn</rdg>
                         <rdg> in <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> in <add place="above">n</add> <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l7a5" to="#l7a6">
-                        <lem> come ʼn monico</lem>
+                        <lem>come ʼn monico</lem>
                         <rdg> come in monico <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit>  <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                         <rdg> cho(m)mi mo o o o o nicho <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> cho mi moni cho <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>

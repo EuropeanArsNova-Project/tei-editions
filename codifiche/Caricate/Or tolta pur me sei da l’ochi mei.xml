@@ -13,15 +13,15 @@
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
             <respStmt> 
-               <resp> Edited by</resp> 
+               <resp>Edited by</resp> 
                <name> Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> Revised by</resp> 
+               <resp>Revised by</resp> 
                <name> Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> TEI-encoded by</resp> 
+               <resp>TEI-encoded by</resp> 
                <name> Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt>
@@ -100,7 +100,7 @@
             <listApp>
                <head>4</head>
                <app from="#l4a1" to="#l4a2">
-                  <lem> ochi</lem>
+                  <lem>ochi</lem>
                   <rdg>och<gap reason="illegible" unit="chars" quantity="1" rend="*"/> <wit><ref corresp="#LuT">Lu<hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>
@@ -108,12 +108,12 @@
             <listApp>
                <head>5</head>
                <app from="#l5a1" to="#l5a2">
-                  <lem> soffr<hi rend="italic">ire</hi></lem>
+                  <lem>soffr<hi rend="italic">ire</hi></lem>
                   <rdg wit="#Lu"><gap reason="illegible" rend="ill."/></rdg>           
                </app>
 
                <app from="#l5a3" to="#l5a4">
-                  <lem> çentil</lem>
+                  <lem>çentil</lem>
                   <rdg wit="#Lu"> çentile</rdg>
                </app>  
             </listApp>
@@ -121,12 +121,12 @@
             <listApp>
                <head> 6</head>
                <app from="#l6a1" to="#l6a2">
-                  <lem> sospir</lem>
+                  <lem>sospir</lem>
                   <rdg wit="#Lu"> sospiri</rdg>
                </app>
 
                <app from="#l6a3" to="#l6a4">
-                  <lem> spera <hi rend="italic">nça</hi></lem>
+                  <lem>spera <hi rend="italic">nça</hi></lem>
                   <rdg wit="#Lu"><gap reason="illegible" rend="ill."/></rdg> 
                </app>           
             </listApp>
@@ -134,7 +134,7 @@
             <listApp>
                <head> 7</head>
                <app from="#l7a1" to="#l7a2">
-                  <lem> ora</lem>
+                  <lem>ora</lem>
                   <rdg> or <gap reason="illegible" unit="chars" quantity="1" rend="*"/> <wit><ref corresp="#Lu">Lu</ref></wit></rdg>                
                </app>            
             </listApp>
@@ -142,12 +142,12 @@
             <listApp>
                <head> 8</head>
                <app from="#l8a1" to="#l8a2">
-                  <lem> prego</lem>
+                  <lem>prego</lem>
                   <rdg wit="#Lu"> <gap reason="illegible" rend="ill."/></rdg>
                </app>
 
                <app from="#l8a3" to="#l8a4">
-                  <lem> Omei</lem>
+                  <lem>Omei</lem>
                   <rdg wit="#Lu"> <gap reason="illegible" rend="per l.m."/></rdg>
                </app>
             
@@ -160,7 +160,7 @@
             <listApp>
                <head>2</head>
                <app from="#l2a1" to="#l2a2">
-                  <lem> Omei</lem>
+                  <lem>Omei</lem>
                   <rdg> ome omei <wit><ref corresp="#LuC">Lu<hi rend="super">C</hi></ref></wit></rdg>
                </app>
             </listApp>

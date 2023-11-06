@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Je demande ma bienvenue</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1">Je demande ma bienvenue:</l>
+                <l xml:id="l2">«ill a longtemps que ne vous vi:</l>
+                <l xml:id="l3">dites, sui je plus vostre ami?</l>
+                <l xml:id="l4">Avés bien vostre foy tenue?</l>
+                <l xml:id="l5" n="5">La meilleür desoubs la nue </l>
+                <l xml:id="l6"><anchor xml:id="l6a1"/>este<supplied reason="illegible">[s]</supplied><anchor xml:id="l6a2"/> se l’avés fait ainsi».</l>
+                <l xml:id="l7"><hi rend="italic">Je demand<supplied xml:id="suppl1" reason="illegible">[e ma bienvenue:</supplied></hi></l>
+                <l xml:id="l8"><hi rend="italic"><supplied xml:id="suppl2" corresp="#suppl1" reason="illegible">«ill a longtemps que ne vous vi],</supplied></hi></l>
+                <l xml:id="l9">je vous ay moult long temps perdue,</l>
+                <l xml:id="l10" n="10">dont j’ai esté en grant soussi;</l>
+                <l xml:id="l11">mais de tous mes maulx sui <anchor xml:id="l11a1"/><supplied reason="illegible">[gari]</supplied><anchor xml:id="l11a2"/>,</l>
+                <l xml:id="l12">puis qu’en bon point <anchor xml:id="l12a1"/>vous<anchor xml:id="l12a2"/> ay vëue».</l>
+                <l xml:id="l13"><hi rend="italic"> Je demand <supplied xml:id="suppl3" reason="illegible">[e: «ma bienvenue,</supplied></hi></l>
+                <l xml:id="l14"><hi rend="italic"><supplied xml:id="suppl4" corresp="#suppl3" reason="illegible">ill a longtemps que ne vous vi:</supplied></hi></l>
+                <l xml:id="l15" n="15"><hi rend="italic"><supplied xml:id="suppl5" corresp="#suppl3" reason="illegible">dites, sui je plus vostre ami? </supplied></hi></l>
+                <l xml:id="l16"><hi rend="italic"><supplied xml:id="suppl6" corresp="#suppl3" reason="illegible">Avés bien vostre foy tenue?»]</supplied></hi></l>
+            </lg>
+            
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Ox2">
+                    <!--ref target="X"-->Ox2<!--/ref--> c. 17r, <abbr xml:id="Ox2C">C</abbr> (vv. 1-4), <hi rend="italic"> resid.</hi> (vv. 5-13): <hi rend="italic">acourt</hi>
+                    Per l’identificazione di Acourt con Johannes de Altacuria si veda Plumley 2001, laddove esprime parere contrario Strohm 1993, p. 140.
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>estes</lem>
+                        <rdg wit="#Ox2">estet</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>11</head>
+                    <app from="#l11a1" to="#l11a2">
+                        <lem>gari</lem>
+                        <rdg wit="#Ox2"/>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>12</head>
+                    <app from="#l12a1" to="#l12a2">
+                        <lem>vous</lem>
+                        <rdg wit="#Ox2">je vous</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+
+            <!--<listApp type="formal">                
+            </listApp>-->
+            
+
+
+            <div type="metricalScheme">
+                <p><hi rend="italic"> Rondeau</hi> 8’A 8B 8B 8’A; 8’a 8b, 8’A 8B; 8’a 8b 8b 8’a; 8’A 8B 8B 8’A.</p>
+                <p>Rima inclusiva ai vv. 1 : 4 : 5.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Stainer-Stainer1898"> Stainer-Stainer 1898, p. 50;</bibl>
+                <bibl corresp="#Upton2013"> Upton, 2013, p. 116 ss;</bibl>
+                <bibl corresp="#Reaney1959">  Reaney 1959, p. XXXVIII.</bibl>
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+            </listBibl>-->
+
+
+            <div type="commentary">
+                <note target="#l12">
+                    <num>12</num>
+                    <p><hi rend="italic">en bon point</hi>: ‘in buona forma’, ‘in salute’, cf. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">point <hi rend="super">1</hi></hi>.</p>
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Stainer-Stainer1898"> J.Stainer - C. Stainer, <hi rend="italic">Dufay and His Contemporaries. Fifty Compositions Transcribed from MS. Canonici misc. 213 in the Bodleian Library, Oxford</hi>, London and New York: Novello, 1898.</bibl>
+                <bibl xml:id="Upton2013">Elizabeth Randell Upton, <hi rend="italic">The Creation of the Chantilly Codex (Ms. 564)</hi>, in «Studi musicali», nuova serie iii 2012, n. 2, pp. 287-352.</bibl>
+                <bibl xml:id="Reaney1959">Reaney 1959 <hi rend="italic">Early Fifteenth Century Music</hi>, edited by Gilbert Reaney, American Institute of Musicology, 1959 <hi rend="italic">(Corpus Mensurabilis Musicae 11/II)</hi>.</bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

@@ -14,15 +14,15 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
+                    <resp>Edited by</resp>
                     <name> Vittoria Brancato</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
+                    <resp>Revised by</resp>
                     <name> Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
+                    <resp>TEI-encoded by</resp>
                     <name> Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
@@ -90,7 +90,7 @@
                 <listApp>
                     <head> 1</head>
                     <app from="#l1a1" to="#l1a2">
-                        <lem> dʼaltrui</lem>
+                        <lem>dʼaltrui</lem>
                         <rdg>de laltrui <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -98,7 +98,7 @@
                 <listApp>
                     <head> 3</head>
                     <app from="#l3a1" to="#l3a2">
-                        <lem> mai</lem>
+                        <lem>mai</lem>
                         <rdg wit="R"/>
                     </app>
                 </listApp>
@@ -114,7 +114,7 @@
                 <listApp>
                     <head> 5</head>
                     <app from="#l5a1" to="#l5a2">
-                        <lem> per più onta in meço di lor concilio</lem>
+                        <lem>per più onta in meço di lor concilio</lem>
                         <rdg> per maçor onta en meço lor concilio  <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -122,12 +122,12 @@
                 <listApp>
                     <head> 8</head>
                     <app from="#l8a1" to="#l8a2">
-                        <lem> follïa</lem>
+                        <lem>follïa</lem>
                         <rdg>foya <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="l8a3" to="#l8a4">
-                        <lem> si disveste</lem>
+                        <lem>si disveste</lem>
                         <rdg> se sveste <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> ne sveste <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
@@ -143,13 +143,13 @@
                 <listApp>
                     <head> 1</head>
                     <app from="#l1a3" to="#l1a4">
-                        <lem> Vestissi</lem>
+                        <lem>Vestissi</lem>
                         <rdg> vestise <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> vestisse <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l1a5" to="#l1a6">
-                        <lem> penne</lem>
+                        <lem>penne</lem>
                         <rdg wit="#R">pene</rdg>
                     </app>                        
                 </listApp>
@@ -157,12 +157,12 @@
                 <listApp>
                     <head> 2</head>
                     <app from="#l2a1" to="#l2a2">
-                        <lem> come</lem>
+                        <lem>come</lem>
                         <rdg wit="#R"> como</rdg>
                     </app>
                     
                     <app from="#l2a3" to="#l2a4">
-                        <lem> la storia</lem>
+                        <lem>la storia</lem>
                         <rdg wit="#R"> listoria</rdg>
                     </app>
                 </listApp>
@@ -170,7 +170,7 @@
                 <listApp>
                     <head> 3</head>
                     <app from="#l3a3" to="#l3a4">
-                        <lem> ebbe</lem>
+                        <lem>ebbe</lem>
                         <rdg wit="#R">ebe</rdg>
                     </app>
                     
@@ -183,17 +183,17 @@
                 <listApp>
                     <head> 4</head>
                     <app from="#l4a3" to="#l4a4">
-                        <lem> perchè</lem>
+                        <lem>perchè</lem>
                         <rdg> perch <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l4a5" to="#l4a6">
-                        <lem> alla</lem>
+                        <lem>alla</lem>
                         <rdg> ala <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l4a7" to="#l4a8">
-                        <lem> uccelli</lem>
+                        <lem>uccelli</lem>
                         <rdg> ucelli <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                     </app>                   
                 </listApp>
@@ -201,17 +201,17 @@
                 <listApp>
                     <head> 6</head>
                     <app from="#l6a1" to="#l6a2">
-                        <lem> fu</lem>
+                        <lem>fu</lem>
                         <rdg> fo <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l6a3" to="#l6a4">
-                        <lem> messa</lem>
+                        <lem>messa</lem>
                         <rdg> mesa <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l6a5" to="#l6a6">
-                        <lem> inn exilio</lem>
+                        <lem>inn exilio</lem>
                         <rdg> in exillio <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -219,12 +219,12 @@
                 <listApp>
                     <head> 7</head>
                     <app from="#l7a1" to="#l7a2">
-                        <lem> si</lem>
+                        <lem>si</lem>
                         <rdg wit="#R">se</rdg>
                     </app>
                     
                     <app from="#l7a3" to="#l7a4">
-                        <lem> dellʼaltrui</lem>
+                        <lem>dellʼaltrui</lem>
                         <rdg> di latru <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -232,7 +232,7 @@
                 <listApp>
                     <head> 8</head>
                     <app from="#l8a5" to="#l8a6">
-                        <lem> follïa </lem>
+                        <lem>follïa </lem>
                         <rdg> foglia <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>

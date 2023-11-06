@@ -14,15 +14,15 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
+                    <resp>Edited by</resp>
                     <name> Maria Sofia Lannutti</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
+                    <resp>Revised by</resp>
                     <name> Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
+                    <resp>TEI-encoded by</resp>
                     <name> Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
@@ -94,7 +94,7 @@
                 <listApp>
                     <head> 4</head>
                     <app from="#l4a1" to="#l4a2">
-                        <lem> che vive in tanti guai</lem>
+                        <lem>che vive in tanti guai</lem>
                         <rdg wit="#MoA"><hi rend="italic">rip.</hi></rdg>
                     </app>
                 </listApp>
@@ -102,7 +102,7 @@
                 <listApp>
                     <head> 6</head>
                     <app from="#l6a1" to="#l6a2">
-                        <lem> sença pietate</lem>
+                        <lem>sença pietate</lem>
                         <rdg><hi rend="italic">rip.</hi> <wit><ref corresp="#MoAC">MoA<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> sença pieta zentil cosa trovar sença pietate sença pietate <wit><ref corresp="#MoAT">MoA<hi rend="super">T</hi></ref></wit></rdg>
                     </app>

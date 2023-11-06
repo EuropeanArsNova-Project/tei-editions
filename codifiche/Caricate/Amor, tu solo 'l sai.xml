@@ -8,19 +8,19 @@
          <titleStmt> 
             <title> Amor, tu solo 'l sai</title> 
             <respStmt> 
-               <resp> Digital scholarly edition created within the ERC</resp> 
+               <resp>Digital scholarly edition created within the ERC</resp> 
                <orgName> <ref target="https://www.europeanarsnova.eu/"> European Ars Nova</ref> project.</orgName> 
             </respStmt> 
             <respStmt> 
-               <resp> Edited by</resp> 
+               <resp>Edited by</resp> 
                <name> Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> Revised by</resp> 
+               <resp>Revised by</resp> 
                <name> Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> TEI-encoded by</resp> 
+               <resp>TEI-encoded by</resp> 
                <name> Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt> 
@@ -121,7 +121,7 @@
             <listApp> 
                <head> 2</head> 
                <app from="#l2a1" to="#l2a2"> 
-                  <lem> 'l</lem> 
+                  <lem>'l</lem> 
                   <rdg wit="#Lw"/>
                </app> 
             </listApp> 
@@ -129,7 +129,7 @@
             <listApp> 
                <head> 3</head> 
                <app from="#l3a1" to="#l3a2"> 
-                  <lem> cu</lem> 
+                  <lem>cu</lem> 
                   <rdg wit="#Lw"> che</rdg> 
                </app> 
             </listApp> 
@@ -137,12 +137,12 @@
             <listApp> 
                <head> 5</head> 
                <app from="#l5a1" to="#l5a2"> 
-                  <lem> Nessuno 'l sa</lem> 
+                  <lem>Nessuno 'l sa</lem> 
                   <rdg type="indifferentVariant" wit="#Lw"> nessun nol sa</rdg> 
                </app> 
 
                <app from="#l5a3" to="#l5a4"> 
-                  <lem> sa</lem> 
+                  <lem>sa</lem> 
                   <rdg> <witDetail wit="#Pit"><hi rend="italic"> aggiunto al di sopra</hi></witDetail> <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit> </rdg> 
                </app> 
             </listApp> 
@@ -150,7 +150,7 @@
             <listApp> 
                <head> 7</head> 
                <app from="#l7a3" to="l7a4"> 
-                  <lem> cui</lem> 
+                  <lem>cui</lem> 
                   <rdg wit="#Lw"> chi <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit> </rdg> 
                </app>            
             </listApp> 
@@ -161,7 +161,7 @@
             <listApp> 
                <head> 3</head>
                <app from="#l3a3" to="#l3a4"> 
-                  <lem> avene</lem> 
+                  <lem>avene</lem> 
                   <rdg wit="#Lw"> advene  <wit><ref corresp="#PitT">Pit</ref><hi rend="super">T</hi></wit></rdg>
                </app> 
             </listApp> 
@@ -169,7 +169,7 @@
             <listApp> 
                <head> 4 </head> 
                <app from="#l4a1" to="#l4a2"> 
-                  <lem> gl'</lem> 
+                  <lem>gl'</lem> 
                   <rdg wit="#Lw"> l</rdg> 
                </app> 
             </listApp>            
@@ -177,7 +177,7 @@
             <listApp> 
                <head> 7 </head> 
                <app from="#l7a1" to="l7a2"> 
-                  <lem> chi</lem>    
+                  <lem>chi</lem>    
                   <rdg wit="#Lw"> chi chi</rdg> 
                </app> 
             </listApp> 

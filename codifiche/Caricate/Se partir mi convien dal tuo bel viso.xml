@@ -12,15 +12,15 @@
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
             <respStmt> 
-               <resp> Edited by</resp> 
+               <resp>Edited by</resp> 
                <name> Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> Revised by</resp> 
+               <resp>Revised by</resp> 
                <name> Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> TEI-encoded by</resp> 
+               <resp>TEI-encoded by</resp> 
                <name> Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt>
@@ -111,7 +111,7 @@
             <listApp>
                <head> 1</head>
                <app from="#l1a1" to="#l1a2">
-                  <lem> viso</lem>
+                  <lem>viso</lem>
                   <rdg> <gap reason="illegible" rend="om. per l.m."/><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
                   <rdg> vi <gap reason="illegible" rend="per l.m."/><wit><ref corresp="#CilT">Cil<hi rend="super">T</hi></ref></wit></rdg>
                </app>
@@ -120,7 +120,7 @@
             <listApp>
                <head> 2</head>
                <app from="#l2a1" to="#l2a1">
-                  <lem> <hi rend="italic">aspectar</hi> più <hi rend="italic">ten</hi>po</lem>
+                  <lem><hi rend="italic">aspectar</hi> più <hi rend="italic">ten</hi>po</lem>
                   <rdg> <gap reason="illegible" rend="ill."/><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
                   <rdg> <gap reason="illegible" rend="per l.m."/><wit><ref corresp="#CilT">Cil<hi rend="super">T</hi></ref></wit></rdg>
                </app>
@@ -129,7 +129,7 @@
             <listApp>
                <head> 3</head>
                <app from="#l3a1" to="#l3a2">
-                  <lem> MA DA’ LENA al mie cor d’amor conquiso.</lem>
+                  <lem>MA DA’ LENA al mie cor d’amor conquiso.</lem>
                   <rdg> <gap reason="illegible" rend="per l.m."/><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
                </app>
 
@@ -142,7 +142,7 @@
             <listApp>
                <head> 4</head>
                <app from="#l4a1" to="#l4a2">
-                  <lem> Dagli ochi belli et gratiosi et gai </lem>
+                  <lem>Dagli ochi belli et gratiosi et gai </lem>
                   <rdg> <gap reason="illegible" rend="ill. salvo"/> daglio <wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
                   <rdg> y <gap reason="illegible" rend="di fine verso per l.m."/><wit><ref corresp="#CilT">Cil<hi rend="super">T</hi></ref></wit></rdg>
                </app>
@@ -151,12 +151,12 @@
             <listApp>
                <head> 5</head>
                <app from="#l5a1" to="#l5a2">
-                  <lem> spirit’ o</lem>
+                  <lem>spirit’ o</lem>
                   <rdg> to <gap reason="illegible" rend="per l.m."/><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>              
                </app>
 
                <app from="#l5a3" to="#l5a4">
-                  <lem> parte</lem>
+                  <lem>parte</lem>
                   <rdg> par <gap reason="illegible" rend="per l.m."/> <wit><ref corresp="#CilT">Cil<hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>
@@ -164,7 +164,7 @@
             <listApp>
                <head> 9</head>
                <app from="#l9a1" to="#l9a2">
-                  <lem> che·ssarà assai per tenpo,</lem>
+                  <lem>che·ssarà assai per tenpo,</lem>
                   <rdg wit="#Cil"> <gap reason="illegible" rend="per l.m."/></rdg>
                </app>          
             </listApp>
@@ -172,7 +172,7 @@
             <listApp>
                <head> 10</head>
                <app from="#l10a1" to="#l10a2">
-                  <lem> di tuo dolceça senta el paradiso.</lem>
+                  <lem>di tuo dolceça senta el paradiso.</lem>
                   <rdg wit="#Cil"> <gap reason="illegible" rend="per l.m."/></rdg>
                </app>            
             </listApp>

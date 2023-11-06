@@ -12,15 +12,15 @@
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
             <respStmt> 
-               <resp> Edited by</resp> 
+               <resp>Edited by</resp> 
                <name> Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> Revised by</resp> 
+               <resp>Revised by</resp> 
                <name> Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> TEI-encoded by</resp> 
+               <resp>TEI-encoded by</resp> 
                <name> Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt>
@@ -111,7 +111,7 @@
             <listApp>
                <head> 1</head>
                <app from="#l1a1" to="#l1a2">
-                  <lem> Se già seguir altra che·tte non volli</lem>
+                  <lem>Se già seguir altra che·tte non volli</lem>
                   <rdg wit="#Cil"> non volli<gap reason="illegible" rend="per l.m."/></rdg>
                </app>
             </listApp>
@@ -119,7 +119,7 @@
             <listApp>
                <head> 2</head>
                <app from="#l2a1" to="#l2a2">
-                  <lem> altrui</lem>
+                  <lem>altrui</lem>
                   <rdg wit="#Cil"> altru <gap reason="illegible" rend="per l.m."/></rdg>
                </app>            
             </listApp>
@@ -127,7 +127,7 @@
             <listApp>
                <head> 3</head>
                <app from="#l3a1" to="#l3a2">
-                  <lem> donna, non tanto tuo quant’ io tuo fui.</lem>
+                  <lem>donna, non tanto tuo quant’ io tuo fui.</lem>
                   <rdg wit="#Cil"> antiotuofu i <gap reason="illegible" rend="per l.m."/></rdg>
                </app>            
             </listApp>
@@ -135,7 +135,7 @@
             <listApp>
                <head> 5</head>
                <app from="#l5a1" to="#l5a2">
-                  <lem> a·tte com’ a signor della mie vita,</lem>
+                  <lem>a·tte com’ a signor della mie vita,</lem>
                   <rdg wit="#Cil"> a te <gap reason="illegible" rend="per l.m."/></rdg>
                </app>
 
@@ -151,12 +151,12 @@
             <listApp>
                <head> 8</head>
                <app from="#l8a1" to="#l8a2">
-                  <lem> da me</lem>
+                  <lem>da me</lem>
                   <rdg wit="#Cil"> damme </rdg>
                </app>
 
                <app from="#l8a3" to="#l8a4">
-                  <lem> fugita</lem>
+                  <lem>fugita</lem>
                   <rdg wit="#Cil"> fuggita</rdg>
                </app>
             </listApp>

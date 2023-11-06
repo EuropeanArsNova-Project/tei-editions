@@ -12,15 +12,15 @@
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
             <respStmt> 
-               <resp> Edited by</resp> 
+               <resp>Edited by</resp> 
                <name> Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> Revised by</resp> 
+               <resp>Revised by</resp> 
                <name> Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> TEI-encoded by</resp> 
+               <resp>TEI-encoded by</resp> 
                <name> Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt>
@@ -141,7 +141,7 @@
             <listApp>
                <head> 17</head>
                <app from="#l17a1" to="#l17a2">
-                  <lem> piggior</lem>
+                  <lem>piggior</lem>
                   <rdg wit="#Pit">piggiore</rdg>
                </app>
             </listApp>
@@ -152,7 +152,7 @@
             <listApp>
                <head> 2</head>
                <app from="#l2a1" to="#l2a2">
-                  <lem> mercé</lem>
+                  <lem>mercé</lem>
                   <rdg>mer<del>c</del> çe<wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>

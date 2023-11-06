@@ -14,15 +14,15 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
+                    <resp>Edited by</resp>
                     <name> Maria Sofia Lannutti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
+                    <resp>Revised by</resp>
                     <name> Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
+                    <resp>TEI-encoded by</resp>
                     <name> Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
@@ -105,17 +105,17 @@
                 <listApp>
                     <head> 4</head>
                     <app from="#l4a1" to="l4a2">
-                        <lem> ve nʼera</lem>
+                        <lem>ve nʼera</lem>
                         <rdg wit="#Pit"> vʼera </rdg>
                     </app>
                     
                     <app from="#l4a3" to="l4a4">
-                        <lem> fra·llʼaltre</lem>
+                        <lem>fra·llʼaltre</lem>
                         <rdg> frallalte <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit> </rdg>
                     </app>
                     
                     <app from="#l4a5" to="l4a6">
-                        <lem> bella</lem>
+                        <lem>bella</lem>
                         <rdg wit="#Pit"> belle </rdg>
                     </app>                    
                 </listApp>
@@ -123,12 +123,12 @@
                 <listApp>
                     <head> 5</head>
                     <app from="#l5a1" to="l5a2">
-                        <lem> guardo</lem>
+                        <lem>guardo</lem>
                         <rdg type="indifferentVariant" wit="#Sq #Pit">sguardo</rdg>
                     </app>
                     
                     <app from="#l5a3" to="l5a4">
-                        <lem> disse</lem>
+                        <lem>disse</lem>
                         <rdg wit="#Pit"> dice</rdg>
                     </app> 
                 </listApp>
@@ -137,7 +137,7 @@
                 <listApp>
                     <head> 7-8</head>
                     <app from="#l7a1" to="l8a1">
-                        <lem> donòe, ondʼ io per servo sempre a·llei mi dòe </lem>
+                        <lem>donòe, ondʼ io per servo sempre a·llei mi dòe </lem>
                         <rdg wit="#Sq"> donò, ondʼ io per servo sempre a·llei mi dòe  </rdg>
                         <rdg wit="#SL"> donò, ondʼ io per servo sempre a·llei mi dò </rdg>
                     </app>
@@ -147,12 +147,12 @@
                 <listApp>
                     <head> 8</head>
                     <app from="#l8a2" to="#l8a3">
-                        <lem> ondʼ io</lem>
+                        <lem>ondʼ io</lem>
                         <rdg> onde <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
                     </app>                       
                     
                     <app from="#l8a4" to="#l8a5">
-                        <lem> a·llei</lem>
+                        <lem>a·llei</lem>
                         <rdg> le <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>                        
                     </app>
                 </listApp>
@@ -168,7 +168,7 @@
                 <listApp>
                     <head> 1</head>
                     <app from="#l1a1" to="#l1a2">
-                        <lem> alʼ</lem>
+                        <lem>alʼ</lem>
                         <rdg wit="#Sq"> allʼ</rdg>                        
                     </app>                    
                 </listApp>
@@ -176,7 +176,7 @@
                 <listApp>
                     <head> 2</head>
                     <app from="#l2a1" to="#l2a2">
-                        <lem> fra·lle</lem>
+                        <lem>fra·lle</lem>
                         <rdg> fra le<wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -185,7 +185,7 @@
                 <listApp>
                     <head> 3</head>
                     <app from="#l3a1" to="#l3a2">
-                        <lem> dolci</lem>
+                        <lem>dolci</lem>
                         <rdg wit="#Sq"> dolçi</rdg>                        
                     </app>
                 </listApp>
@@ -194,12 +194,12 @@
                 <listApp>
                     <head> 4</head>
                     <app from="#l4a7" to="#l4a8">
-                        <lem> fra</lem> 
+                        <lem>fra</lem> 
                         <rdg wit="#Pit"> tra</rdg>
                     </app> 
                     
                     <app from="#l4a9" to="#l4a10">
-                        <lem> lʼaltre</lem> 
+                        <lem>lʼaltre</lem> 
                         <rdg wit="#Pit"> llʼaltre</rdg>
                     </app> 
                 </listApp>
@@ -208,12 +208,12 @@
                 <listApp>
                     <head> 5</head>
                     <app from="#l5a5" to="#l5a6">
-                        <lem> dolce</lem>
+                        <lem>dolce</lem>
                         <rdg wit="#Sq"> dolçe </rdg>                        
                     </app>
                     
                     <app from="#l5a7" to="#l5a8">
-                        <lem> vuoʼ</lem>
+                        <lem>vuoʼ</lem>
                         <rdg wit="#Sq #Pit"> vo </rdg>
                     </app>
                 </listApp>
@@ -222,7 +222,7 @@
                 <listApp>
                     <head> 6</head>
                     <app from="#l6a1" to="#l6a2">
-                        <lem> smarretti</lem>
+                        <lem>smarretti</lem>
                         <rdg wit="#Fp #Pit"> smarretti </rdg>
                     </app>
                 </listApp>
@@ -230,7 +230,7 @@
                 <listApp>
                     <head> 7</head>
                     <app from="#l7a2" to="#l7a3">
-                        <lem> acorsʼ e</lem>
+                        <lem>acorsʼ e</lem>
                         <rdg wit="#Sq"> accorse</rdg>
                         <rdg> acorse e <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit>  <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
@@ -239,12 +239,12 @@
                 <listApp>
                     <head> 8</head>
                     <app from="#l8a6" to="#l8a7">
-                        <lem> sempre</lem>
+                        <lem>sempre</lem>
                         <rdg> sempr <wit><ref corresp="#SLT">SL<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l8a8" to="#l8a9">
-                        <lem> a·llei</lem>
+                        <lem>a·llei</lem>
                         <rdg> alle <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp> 

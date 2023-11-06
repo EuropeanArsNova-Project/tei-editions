@@ -12,15 +12,15 @@
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
             <respStmt> 
-               <resp> Edited by</resp> 
+               <resp>Edited by</resp> 
                <name> Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> Revised by</resp> 
+               <resp>Revised by</resp> 
                <name> Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> TEI-encoded by</resp> 
+               <resp>TEI-encoded by</resp> 
                <name> Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt>
@@ -116,7 +116,7 @@
             <listApp>
                <head> 8</head>
                <app from="#l8a1" to="#l8a2">
-                  <lem> addornar</lem>
+                  <lem>addornar</lem>
                   <rdg wit="#Pit">addornare </rdg>
                </app>
             </listApp>
@@ -124,7 +124,7 @@
             <listApp>
                <head> 6</head>
                <app from="#l6a1" to="#l6a2">
-                  <lem> prudençia</lem>
+                  <lem>prudençia</lem>
                   <rdg> prudença<wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>             
                </app>            
             </listApp>
@@ -132,7 +132,7 @@
             <listApp>
                <head> 11</head>
                <app from="#l11a1" to="#l11a2">
-                  <lem> et</lem>
+                  <lem>et</lem>
                   <rdg wit="#Pit"/>
                </app>            
             </listApp>
@@ -144,7 +144,7 @@
             <listApp>
                <head> 1</head>
                <app from="#l1a1" to="#l1a2">
-                  <lem> S’Amor</lem>
+                  <lem>S’Amor</lem>
                   <rdg wit="#Pit">s a samor</rdg>
                </app>
             </listApp>
@@ -152,7 +152,7 @@
             <listApp>
                <head> 2</head>
                <app from="#l2a1" to="#l2a2">
-                  <lem> che</lem>
+                  <lem>che</lem>
                   <rdg> che che<wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                   <rdg><hi rend="italic">rip.</hi> che vol dir <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                </app>                 
@@ -161,7 +161,7 @@
             <listApp>
                <head> 3</head>
                <app from="#l3a1" to="#l3a2">
-                  <lem> grembo a</lem>
+                  <lem>grembo a</lem>
                   <rdg> gremba <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                </app>            
             </listApp>
@@ -169,7 +169,7 @@
             <listApp>
                <head> 4</head>
                <app from="#l4a1" to="#l4a2">
-                  <lem> ragion</lem>
+                  <lem>ragion</lem>
                   <rdg> <add place="above">ra</add>gion <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>
@@ -177,7 +177,7 @@
             <listApp>
                <head> 5</head>
                <app from="#l5a1" to="#l5a2">
-                  <lem> lei</lem>
+                  <lem>lei</lem>
                   <rdg> le<add place="above">i</add> <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                </app>
             </listApp>

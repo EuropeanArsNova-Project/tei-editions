@@ -8,19 +8,19 @@
         <titleStmt> 
            <title> Benché partito da·tte 'l corpo sia</title> 
            <respStmt> 
-              <resp> Digital scholarly edition created within the ERC</resp> 
+              <resp>Digital scholarly edition created within the ERC</resp> 
               <orgName><ref target="https://www.europeanarsnova.eu/"> European Ars Nova</ref> project.</orgName> 
            </respStmt> 
            <respStmt> 
-              <resp> Edited by</resp> 
+              <resp>Edited by</resp> 
               <name> Maria Sofia Lannutti</name> 
            </respStmt> 
            <respStmt> 
-              <resp> Revised by</resp> 
+              <resp>Revised by</resp> 
               <name> Luca Gatti</name> 
            </respStmt> 
            <respStmt> 
-              <resp> TEI-encoded by</resp> 
+              <resp>TEI-encoded by</resp> 
               <name> Elvira Mercatanti</name> 
            </respStmt> 
         </titleStmt> 
@@ -97,7 +97,7 @@
            <listApp> 
               <head> 1</head> 
               <app from="#l1a1" to="#l1a2"> 
-                 <lem> da·tte</lem> 
+                 <lem>da·tte</lem> 
                  <rdg wit="#Pit"> dacte</rdg> 
               </app> 
            </listApp> 

@@ -14,15 +14,15 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
+                    <resp>Edited by</resp>
                     <name> Vittoria Brancato</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
+                    <resp>Revised by</resp>
                     <name> Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
+                    <resp>TEI-encoded by</resp>
                     <name> Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
@@ -106,7 +106,7 @@
                 <listApp>
                     <head> 2</head>
                     <app from="#l2a1" to="#l2a2">
-                        <lem> tu</lem>
+                        <lem>tu</lem>
                         <rdg wit="#Fp">ʼl tuo </rdg>
                     </app>
                 </listApp>
@@ -119,7 +119,7 @@
                     </app>
 
                     <app from="#l5a3" to="#l5a4">
-                        <lem> al</lem>
+                        <lem>al</lem>
                         <rdg wit="#R">a </rdg>
                     </app>
                 </listApp>
@@ -127,17 +127,17 @@
                 <listApp>
                     <head> 6</head>
                     <app from="#l6a1" to="#l6a2">
-                        <lem> lor</lem>
+                        <lem>lor</lem>
                         <rdg wit="#R"> a lor </rdg>
                     </app>
 
                     <app from="#l6a3" to="#l6a4">
-                        <lem> doppo</lem>
+                        <lem>doppo</lem>
                         <rdg wit="#R"> da po </rdg>
                     </app>
                     
                     <app from="#l6a5" to="#l6a6">
-                        <lem> battesimo</lem>
+                        <lem>battesimo</lem>
                         <rdg wit="#R"> batesmo </rdg>
                     </app>
                 </listApp>
@@ -145,7 +145,7 @@
                 <listApp>
                     <head> 7</head>
                     <app from="#l7a1" to="#l7a2">
-                        <lem> sexta et terça</lem>
+                        <lem>sexta et terça</lem>
                         <rdg wit="#Fp">sexta et terça</rdg>
                         <rdg> sexta terça <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
@@ -154,7 +154,7 @@
                 <listApp>
                     <head>8</head>
                     <app from="#l8a1" to="#l8a2">
-                        <lem> Luca et Giovanni a chi lor nome piacquero. </lem>
+                        <lem>Luca et Giovanni a chi lor nome piacquero. </lem>
                         <rdg type="omission"> <hi rend="italic">om.</hi> <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit>  <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -162,7 +162,7 @@
                 <listApp>
                     <head>9</head>
                     <app from="#l9a1" to="#l9a2">
-                        <lem> emme</lem>
+                        <lem>emme</lem>
                         <rdg wit="#Sq"> emm</rdg>
                     </app>
                 </listApp>
@@ -170,12 +170,12 @@
                 <listApp>
                     <head>10</head>
                     <app from="#l10a1" to="#l10a2">
-                        <lem> ʼl</lem>
+                        <lem>ʼl</lem>
                         <rdg wit="#R">al</rdg>
                     </app>
 
                     <app from="#l10a3" to="#l10a4">
-                        <lem> quarto</lem>
+                        <lem>quarto</lem>
                         <rdg> quato <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -187,22 +187,22 @@
                 <listApp>
                     <head> 1</head>
                     <app from="#l1a1" to="#l1a2">
-                        <lem> in</lem>
+                        <lem>in</lem>
                         <rdg> inn <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
 
                     <app from="#l1a3" to="#l1a4">
-                        <lem> Italia</lem>
+                        <lem>Italia</lem>
                         <rdg> itallia <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit> </rdg>
                     </app>
 
                     <app from="#l1a5" to="#l1a6">
-                        <lem> felice</lem>
+                        <lem>felice</lem>
                         <rdg wit="#R">fellice</rdg>
                     </app>
 
                     <app from="#l1a7" to="#l1a8">
-                        <lem> Luguria</lem>
+                        <lem>Luguria</lem>
                         <rdg wit="#R">liguria </rdg>
                     </app>
                 </listApp>
@@ -210,7 +210,7 @@
                 <listApp>
                     <head>2</head>
                     <app from="#l2a3" to="#l2a4">
-                        <lem> laudʼ e gloria</lem>
+                        <lem>laudʼ e gloria</lem>
                         <rdg wit="#R">lauda e gloria </rdg>
                     </app>
                     
@@ -219,14 +219,14 @@
                 <listApp>
                     <head>3</head>
                     <app from="#l3a1" to="#l3a2">
-                        <lem> duo</lem>
+                        <lem>duo</lem>
                         <rdg wit="#Fp">duʼ</rdg>
                         <rdg>dui <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> duy <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                     </app>                    
 
                     <app from="#l3a3" to="#l3a4">
-                        <lem> signorʼ</lem>
+                        <lem>signorʼ</lem>
                         <rdg> segnor <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -234,17 +234,17 @@
                 <listApp>
                     <head> 4</head>
                     <app from="#l4a1" to="#l4a2">
-                        <lem> fu</lem>
+                        <lem>fu</lem>
                         <rdg wit="#R"> fo </rdg>
                     </app>
 
                     <app from="#l4a3" to="#l4a4">
-                        <lem> gran</lem>
+                        <lem>gran</lem>
                         <rdg wit="#R"> gra </rdg>
                     </app>
 
                     <app from="#l4a5" to="#l4a6">
-                        <lem> fu</lem>
+                        <lem>fu</lem>
                         <rdg wit="#R"> fo</rdg>
                     </app>
                 </listApp>
@@ -252,17 +252,17 @@
                 <listApp>
                     <head> 5</head>
                     <app from="#l5a5" to="#l5a6">
-                        <lem> che</lem>
+                        <lem>che</lem>
                         <rdg wit="#R"> ch </rdg>
                     </app>
 
                     <app from="#l5a7" to="#l5a8">
-                        <lem> aquila</lem>
+                        <lem>aquila</lem>
                         <rdg wit="#R"> aquilla </rdg>
                     </app>
 
                     <app from="#l5a9" to="#l5a10">
-                        <lem> cristianesimo</lem>
+                        <lem>cristianesimo</lem>
                         <rdg wit="#R"> cristianessimo <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
                     </app>                    
                 </listApp>
@@ -275,7 +275,7 @@
                     </app>
 
                     <app from="#l6a9" to="#l6a10">
-                        <lem> battesimo</lem>
+                        <lem>battesimo</lem>
                         <rdg> batesimo<wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit> </rdg>
                     </app>
                 </listApp>
@@ -283,7 +283,7 @@
                 <listApp>
                     <head>7</head>
                     <app from="#l7a3" to="#l7a4">
-                        <lem> venere</lem>
+                        <lem>venere</lem>
                         <rdg wit="#Fp"> vengnere</rdg>
                     </app>
                 </listApp>
@@ -299,12 +299,12 @@
                 <listApp>
                     <head>9</head>
                     <app from="#l9a3" to="#l9a4">
-                        <lem> emme</lem>
+                        <lem>emme</lem>
                         <rdg wit="#R"> m.</rdg>
                     </app>
 
                     <app from="#l9a5" to="#l9a6">
-                        <lem> con tre cì</lem>
+                        <lem>con tre cì</lem>
                         <rdg wit="#Sq">con tre .c.</rdg>
                         <rdg wit="#R">cu(n) tri c</rdg>
                     </app>
@@ -313,7 +313,7 @@
                 <listApp>
                     <head>10</head>
                     <app from="#l10a5" to="#l10a6">
-                        <lem> correa</lem>
+                        <lem>correa</lem>
                         <rdg wit="#R">corea</rdg>
                     </app>
 
@@ -323,7 +323,7 @@
                     </app>
 
                     <app from="#l10a9" to="#l10a10">
-                        <lem> ʼl</lem>
+                        <lem>ʼl</lem>
                         <rdg> il <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>

@@ -121,7 +121,7 @@
                </app>          
 
                <app from="#l2a3" to="#l2a4">
-                  <lem> fest’</lem>
+                  <lem>fest’</lem>
                   <rdg>festa <wit><ref corresp="#LuC">Lu<hi rend="super">C</hi></ref></wit></rdg>
                   <rdg>festi <wit><ref corresp="#LuT">Lu<hi rend="super">T</hi></ref></wit></rdg>
                </app>

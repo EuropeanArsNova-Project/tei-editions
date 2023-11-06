@@ -14,15 +14,15 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
+                    <resp>Edited by</resp>
                     <name> Vittoria Brancato</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
+                    <resp>Revised by</resp>
                     <name> Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
+                    <resp>TEI-encoded by</resp>
                     <name> Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
@@ -113,7 +113,7 @@
                 <listApp>
                     <head>4</head>
                     <app from="#l4a1" to="#l4a2">
-                        <lem> sì</lem>
+                        <lem>sì</lem>
                         <rdg type="omission"> <hi rend="italic">om.</hi> <wit><ref corresp="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
                     </app>                        
                 </listApp>
@@ -121,18 +121,18 @@
                 <listApp>
                     <head>5</head>
                     <app from="#l5a1" to="#l5a2">
-                        <lem> La mi</lem>
+                        <lem>La mi</lem>
                         <rdg wit="#Fp"> ella me </rdg>
                     </app>
                     
                     <app from="#l5a3" to="#l5a4">
-                        <lem> cor mi</lem>
+                        <lem>cor mi</lem>
                         <rdg wit="#Np3"> mio chor</rdg>
                         <rdg wit="#R"> cor mio <wit><ref corresp="#FpCt">Fp<hi rend="super">Ct</hi></ref></wit> </rdg>
                     </app>
                     
                     <app from="#l5a5" to="#l5a6">
-                        <lem> signoreça</lem>
+                        <lem>signoreça</lem>
                         <rdg> segnori ça <wit><ref corresp="#RCt">R<hi rend="super">Ct</hi></ref></wit> </rdg>
                     </app>
                 </listApp>
@@ -140,14 +140,14 @@
                 <listApp>
                     <head> 6</head>
                     <app from="#l6a1" to="#l6a2">
-                        <lem> donna istessa sì</lem>
+                        <lem>donna istessa sì</lem>
                         <rdg> donna se stessa <wit><ref corresp="#FpCt">Fp<hi rend="super">Ct</hi></ref></wit></rdg>
                         <rdg> dona in stessa <wit> <ref corresp="#RC"> R<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> dona instesa <wit>R <ref corresp="#RT">T</ref> <ref corresp="#RCt"> Ct</ref></wit> </rdg>
                     </app>
                     
                     <app from="#l6a3" to="#l6a4">
-                        <lem> sì</lem>
+                        <lem>sì</lem>
                         <rdg wit="#Np3 #R"> se</rdg>
                     </app>
                 </listApp>
@@ -155,7 +155,7 @@
                 <listApp> 
                     <head> 7-12</head>
                     <app from="#l7a1" to="#l12a1">
-                        <lem> Come ch’i’ la rimiri più sʼaccorçe,
+                        <lem>Come ch’i’ la rimiri più sʼaccorçe,
                             gli ochi donneschi chiude et via si fuçe,
                             poi come serpe tossicosa porçe
                             di fuoco fiama, che mʼançide et struçe.
@@ -166,19 +166,19 @@
                     </app>
                     
                     <app from="#l7a2" to="#l7a3">
-                        <lem> ch’i’ la rimiri</lem>
+                        <lem>ch’i’ la rimiri</lem>
                         <rdg wit="#Fp"> che io la miri </rdg>
                         <rdg wit="#Pit"> che io la miro </rdg>
                         <rdg wit="#R"> chio la remiro</rdg>
                     </app>
                     
                     <app from="#l7a4" to="#l7a5">
-                        <lem> più</lem>
+                        <lem>più</lem>
                         <rdg wit="#R"> pur</rdg>
                     </app>
                     
                     <app from="#l7a6" to="#l7a7">
-                        <lem> sʼaccorçe</lem>
+                        <lem>sʼaccorçe</lem>
                         <rdg wit="#Pit"> sencorge </rdg>
                     </app>
                 </listApp>
@@ -186,12 +186,12 @@
                 <listApp>
                     <head> 8</head>
                     <app from="#l8a1" to="#l8a2">
-                        <lem> chiude</lem>
+                        <lem>chiude</lem>
                         <rdg wit="#R"> e chiude</rdg>
                     </app>
                     
                     <app from="#l8a3" to="#l8a4">
-                        <lem> si fuçe</lem>
+                        <lem>si fuçe</lem>
                         <rdg wit="#Fp #R"> sen fuçe</rdg>
                     </app> 
                 </listApp>
@@ -199,7 +199,7 @@
                 <listApp>
                     <head> 9</head>
                     <app from="#l9a1" to="#l9a2">
-                        <lem> poi come</lem>
+                        <lem>poi come</lem>
                         <rdg wit="#Fp"> mandome</rdg>
                         <rdg wit="#R"> ma como</rdg>                            
                     </app>
@@ -208,12 +208,12 @@
                 <listApp>
                     <head> 10</head>
                     <app from="#l10a1" to="#l10a2"> 
-                        <lem> fuoco</lem>
+                        <lem>fuoco</lem>
                         <rdg wit="#Fp"> <add rend="add.">et</add></rdg> 
                     </app>
                     
                     <app from="#l10a3" to="#l10a4">
-                        <lem> mʼançide</lem>
+                        <lem>mʼançide</lem>
                         <rdg wit="#Fp #R"> macecha </rdg>
                     </app>
                 </listApp>
@@ -221,22 +221,22 @@
                 <listApp>
                     <head> 11</head>
                     <app from="#l11a1" to="#l11a2">
-                        <lem> à</lem>
+                        <lem>à</lem>
                         <rdg wit="#Fp"/>                        
                     </app>
                     
                     <app from="#l11a3" to="#l11a4">
-                        <lem> crudo</lem>
+                        <lem>crudo</lem>
                         <rdg wit="#R"> <add rend="add."> e</add></rdg> 
                     </app>
                     
                     <app from="#l11a5" to="#l11a6">
-                        <lem> aspra</lem>
+                        <lem>aspra</lem>
                         <rdg wit="#Sq"> apra</rdg>
                     </app>
                     
                     <app from="#l11a7" to="#l11a8">
-                        <lem> scorça</lem>
+                        <lem>scorça</lem>
                         <rdg wit="#Sq"> scorçe </rdg>
                     </app>
                 </listApp>
@@ -244,7 +244,7 @@
                 <listApp>
                     <head> 12</head>
                     <app from="#l12a2" to="#l12a3">
-                        <lem> più non à</lem>
+                        <lem>più non à</lem>
                         <rdg wit="#Fp"> niente à</rdg>
                     </app>
                 </listApp>
@@ -252,7 +252,7 @@
                 <listApp>
                     <head> 13</head>
                     <app from="#l13a1" to="#l13a2">
-                        <lem> ʼl</lem>
+                        <lem>ʼl</lem>
                         <rdg type="omission">  <hi rend="italic">om.</hi>
                             <wit>Pit 
                                 <ref corresp="PitC"><hi rend="super">C</hi></ref>
@@ -265,13 +265,13 @@
                 <listApp>
                     <head> 14</head>
                     <app from="#l14a1" to="#l14a2">
-                        <lem> conʼ</lem>
+                        <lem>conʼ</lem>
                         <rdg> si <wit><ref corresp="#SLCt">SL<hi rend="super">Ct</hi></ref></wit></rdg>
                         <rdg wit="#Np3"> chomio </rdg>
                     </app>
                     
                     <app from="#l14a3" to="#l14a4">
-                        <lem> ricordo</lem>
+                        <lem>ricordo</lem>
                         <rdg wit="#Np3"> richorda</rdg>
                     </app>
                 </listApp>
@@ -286,7 +286,7 @@
                 <listApp>
                     <head> 1</head>
                     <app from="#l1a1" to="#l1a2">
-                        <lem> Sotto</lem>
+                        <lem>Sotto</lem>
                         <rdg> so to <wit>R 
                             <ref corresp="RC"><hi rend="super">C</hi></ref>
                             <ref corresp="RCt"><hi rend="super">Ct</hi></ref> 
@@ -299,7 +299,7 @@
                     </app>
                     
                     <app from="#l1a5" to="#l1a6">
-                        <lem> prinçe</lem>
+                        <lem>prinçe</lem>
                         <rdg wit="#R"> prince</rdg>
                     </app>
                 </listApp>
@@ -308,17 +308,17 @@
                 <listApp>
                     <head> 2</head>
                     <app from="#l2a1" to="#l2a2">
-                        <lem> nom’</lem>
+                        <lem>nom’</lem>
                         <rdg wit="#Np3"> nome</rdg>
                     </app>
                     
                     <app from="#l2a3" to="#l2a4">
-                        <lem> suo</lem>
+                        <lem>suo</lem>
                         <rdg wit="#R"> so</rdg>
                     </app>
                     
                     <app from="#l2a5" to="#l2a6">
-                        <lem> lle</lem>
+                        <lem>lle</lem>
                         <rdg wit="#R"> le</rdg>
                     </app>                  
                 </listApp>
@@ -326,12 +326,12 @@
                 <listApp>
                     <head> 3</head>
                     <app from="#l3a1" to="#l3a2">
-                        <lem> regna</lem>
+                        <lem>regna</lem>
                         <rdg> reg <hi rend="italic">con titulus </hi> <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit> </rdg>
                     </app>
                     
                     <app from="#l3a3" to="#l3a4">
-                        <lem> ʼl cui</lem>
+                        <lem>ʼl cui</lem>
                         <rdg> il chu 
                             <wit> Fp
                                 <ref corresp="FpC"><hi rend="super">C</hi></ref>
@@ -344,17 +344,17 @@
                     </app>
                     
                     <app from="#l3a5" to="#l3a6">
-                        <lem> morso mi vinçe</lem>
+                        <lem>morso mi vinçe</lem>
                         <rdg> <del>uene</del> <add place="above">morso me uin</add> ce <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit> </rdg>
                     </app>
                     
                     <app from="#l3a7" to="#l3a8">
-                        <lem> mi</lem>
+                        <lem>mi</lem>
                         <rdg wit="#Fp #R"> me</rdg>
                     </app>
                     
                     <app from="#l3a9" to="#l3a10">
-                        <lem> vinçe</lem>
+                        <lem>vinçe</lem>
                         <rdg wit="#R"> vince</rdg>
                     </app>
                 </listApp>
@@ -367,18 +367,18 @@
                     </app>
                     
                     <app from="#l4a5" to="#l4a6">
-                        <lem> da lle’</lem>
+                        <lem>da lle’</lem>
                         <rdg wit="#Fp #Np3"> da llei <wit><ref corresp="#SqCt">Sq<hi rend="super">Ct</hi></ref></wit></rdg>
                         <rdg wit="#R"> da lei</rdg>
                     </app>
                     
                     <app from="#l4a7" to="#l4a8">
-                        <lem> fugir</lem>
+                        <lem>fugir</lem>
                         <rdg wit="#Np3"> fuggir <wit><ref corresp="#SqCt">Sq<hi rend="super">Ct</hi></ref></wit>  <wit><ref corresp="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l4a9" to="#l4a10">
-                        <lem> mi</lem>
+                        <lem>mi</lem>
                         <rdg wit="#R"> me</rdg>
                     </app>
                 </listApp>
@@ -387,12 +387,12 @@
                 <listApp>
                     <head> 5</head>
                     <app from="#l5a7" to="#l5a8">
-                        <lem> La mi</lem>
+                        <lem>La mi</lem>
                         <rdg wit="#R"> la me</rdg>
                     </app>
                     
                     <app from="#l5a9" to="#l5a10">
-                        <lem> persegu’ e ʼl cor</lem>
+                        <lem>persegu’ e ʼl cor</lem>
                         <rdg> persegue elcor 
                             <wit> Fp
                                 <ref corresp="FpC"><hi rend="super">C</hi></ref>
@@ -403,7 +403,7 @@
                     </app>
                     
                     <app from="#l5a11" to="#l5a12">
-                        <lem> signoreça</lem>
+                        <lem>signoreça</lem>
                         <rdg> singnoreçça <wit><ref corresp="FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg> segnoreça  <wit><ref corresp="FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
                         <rdg wit="#R"> segnoreça</rdg>
@@ -414,22 +414,22 @@
                 <listApp>
                     <head> 6</head>
                     <app from="#l6a5" to="#l6a6">
-                        <lem> poʼ</lem>
+                        <lem>poʼ</lem>
                         <rdg wit="#Fp #R"> poi <wit><ref corresp="#SqCt">Sq<hi rend="super">Ct</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l6a7" to="#l6a8">
-                        <lem> come</lem>
+                        <lem>come</lem>
                         <rdg wit="#R"> como</rdg>
                     </app>
                     
                     <app from="#l6a9" to="#l6a10">
-                        <lem> istessa</lem>
+                        <lem>istessa</lem>
                         <rdg wit="#Np3"> stessa</rdg>
                     </app>
                     
                     <app from="#l6a11" to="#l6a12">
-                        <lem> vagheça</lem>
+                        <lem>vagheça</lem>
                         <rdg wit="#Np3"> vagheggia </rdg>
                     </app>
                 </listApp>
@@ -437,7 +437,7 @@
                 <listApp>
                     <head> 7</head>
                     <app from="#l7a8" to="#l7a9">
-                        <lem> sʼaccorçe</lem>
+                        <lem>sʼaccorçe</lem>
                         <rdg wit="R"> sacorçe  <wit><ref corresp="FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -445,17 +445,17 @@
                 <listApp>
                     <head> 8</head>
                     <app from="#l8a5" to="#l8a6">
-                        <lem> gli</lem>
+                        <lem>gli</lem>
                         <rdg wit="#R"> j</rdg>
                     </app>
                     
                     <app from="#l8a7" to="#l8a8">
-                        <lem> donneschi</lem>
+                        <lem>donneschi</lem>
                         <rdg wit="#R"> doneschi </rdg>
                     </app>
                     
                     <app from="#l8a9" to="#l8a10">
-                        <lem> si fuçe</lem>
+                        <lem>si fuçe</lem>
                         <rdg wit="#Pit"> si fuge</rdg>
                     </app>
                 </listApp>
@@ -463,12 +463,12 @@
                 <listApp>
                     <head> 9</head>
                     <app from="#l9a3" to="#l9a4">
-                        <lem> tossicosa</lem>
+                        <lem>tossicosa</lem>
                         <rdg wit="#R"> tosichosa</rdg>
                     </app>
                     
                     <app from="#l9a5" to="#l9a6">
-                        <lem> porçe</lem>
+                        <lem>porçe</lem>
                         <rdg wit="#Sq #Pit"> porge</rdg>
                     </app>
                 </listApp>
@@ -476,22 +476,22 @@
                 <listApp>
                     <head> 10</head>
                     <app from="#l10a5" to="#l10a6">
-                        <lem> di fuoco</lem>
+                        <lem>di fuoco</lem>
                         <rdg wit="#R"> de focho</rdg>
                     </app>
                     
                     <app from="#l10a7" to="#l10a8">
-                        <lem> fiama</lem>
+                        <lem>fiama</lem>
                         <rdg wit="#Pit"> fiamma <wit><ref corresp="FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
                     </app>
                     
                     <app from="#l10a9" to="#l10a10">
-                        <lem> mʼançide</lem>
+                        <lem>mʼançide</lem>
                         <rdg wit="#Pit"> muccide</rdg>
                     </app>
                     
                     <app from="#l10a11" to="#l10a12">
-                        <lem> struçe</lem>
+                        <lem>struçe</lem>
                         <rdg wit="#Pit"> struge</rdg>
                     </app>
                 </listApp>
@@ -499,13 +499,13 @@
                 <listApp>
                     <head> 12</head>
                     <app from="#l12a4" to="#l12a5">
-                        <lem> Amor i·llei</lem>
+                        <lem>Amor i·llei</lem>
                         <rdg wit="#Pit"> Amore in lei</rdg>
                         <rdg wit="#R"> Amore en lei</rdg>
                     </app>
                     
                     <app from="#l12a6" to="#l12a7">
-                        <lem> me</lem>
+                        <lem>me</lem>
                         <rdg wit="#R"> mi</rdg>
                     </app>
                 </listApp>
@@ -513,18 +513,18 @@
                 <listApp>
                     <head> 13</head>
                     <app from="#l13a3" to="#l13a4">
-                        <lem> Costeʼ</lem>
+                        <lem>Costeʼ</lem>
                         <rdg wit="#Np3"> Costei <wit><ref corresp="FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg wit="#R"> cu stei </rdg>
                     </app>
                     
                     <app from="#l13a5" to="#l13a6">
-                        <lem> mi</lem>
+                        <lem>mi</lem>
                         <rdg wit="#R"> me</rdg>
                     </app>
                     
                     <app from="#l13a7" to="#l13a8">
-                        <lem> già</lem>
+                        <lem>già</lem>
                         <rdg wit="#R"> ça </rdg>
                     </app>
                 </listApp>
@@ -532,7 +532,7 @@
                 <listApp>
                     <head> 14</head>
                     <app from="#l14a5" to="#l14a6">
-                        <lem> conʼ</lem>
+                        <lem>conʼ</lem>
                         <rdg> cum 
                             <wit>R 
                                 <ref corresp="#RT"><hi rend="super">T</hi></ref>
@@ -542,7 +542,7 @@
                     </app>
                     
                     <app from="#l14a7" to="#l14a8">
-                        <lem> cciò</lem>
+                        <lem>cciò</lem>
                         <rdg> ço 
                             <wit> Sq
                                 <ref corresp="#SqT"><hi rend="super">T</hi></ref>
@@ -554,13 +554,13 @@
                     </app>
                     
                     <app from="#l14a9" to="#l14a10">
-                        <lem> ricordo</lem>
+                        <lem>ricordo</lem>
                         <rdg> r<add place="place">i</add>cordo <wit><ref corresp="#FpCt">Fp<hi rend="super">Ct</hi></ref></wit></rdg>
                         <rdg> recordo <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit> </rdg>
                     </app>
                     
                     <app from="#l14a11" to="#l14a12">
-                        <lem> mi dole</lem>
+                        <lem>mi dole</lem>
                         <rdg> m<add place="above">i</add>dole <wit><ref corresp="#FpCt">Fp<hi rend="super">Ct</hi></ref></wit></rdg>
                         <rdg wit="#R"> me dole</rdg> 
                     </app>
