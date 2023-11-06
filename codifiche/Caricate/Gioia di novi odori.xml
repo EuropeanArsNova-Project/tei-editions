@@ -121,7 +121,6 @@
             </witness>
         </listWit>
         <listApp type="substantial">
-            <listApp>
                 <listApp>
                     <head>1</head>
                     <app from="#l1a1" to="#l1a2">
@@ -208,7 +207,7 @@
                         <rdg wit="#R">non degna sela tama</rdg>
                     </app>
                 </listApp>
-            </listApp>
+        </listApp>
             <listApp type="formal">
                 <listApp>
                     <head>1</head>
@@ -341,7 +340,6 @@
                     </app>
                 </listApp>
             </listApp>
-        </listApp>
             <div type="metricalScheme">
                 <p>Ballata minore 6’z 10’z; 10’a 10’b, 10’a 10’b; 6’b 10’z.</p>
                 <p><hi rend="italic">Pagnotta</hi> 111 : 192.</p>

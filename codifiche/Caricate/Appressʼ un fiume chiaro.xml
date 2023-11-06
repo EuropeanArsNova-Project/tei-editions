@@ -70,7 +70,7 @@
                     <anchor xml:id="l5a1"/>bellʼ e çentilʼ, e amorosa tanto<anchor xml:id="l5a2"/>
                 </l>
                 <l xml:id="l6">
-                    che ʼl cor <anchor xml:id="l6a3"/>mi<anchor xml:id="l6a4"/> <anchor xml:id="l6a1"/>tolse<anchor xml:id="l6a2"/> <anchor xml:id="l6a3"/>con<anchor xml:id="l6a4"/> <anchor xml:id="l6a5"/>soave<anchor xml:id="l6a6"/> canto.
+                    che ʼl cor <anchor xml:id="l6a3"/>mi<anchor xml:id="l6a4"/> <anchor xml:id="l6a1"/>tolse<anchor xml:id="l6a2"/> <anchor xml:id="l6a7"/>con<anchor xml:id="l68"/> <anchor xml:id="l6a5"/>soave<anchor xml:id="l6a6"/> canto.
                 </l>
             </lg>
             <lg>   
@@ -244,7 +244,7 @@
                         <lem>mi</lem>
                         <rdg wit="#Lo #Gr1">me</rdg>
                     </app>
-                    <app from="#l6a3" to="#l6a4">
+                    <app from="#l6a7" to="#l6a8">
                         <lem>con</lem>
                         <rdg wit="#Gr1">cum</rdg>
                     </app>

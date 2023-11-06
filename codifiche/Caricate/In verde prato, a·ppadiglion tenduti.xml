@@ -142,7 +142,7 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#LiGotti1944">
-                    Li Gotti 1944, p. 141.
+                    Li Gotti 1944, p. 141;
                 </bibl>
                 <bibl corresp="#Corsi1970">
                     Corsi 1970, p. 36.
@@ -156,10 +156,10 @@
             </div>
             <listBibl type="editionsBibliography">
                 <bibl xml:id="LiGotti1944">
-                    E. Li Gotti, <hi rend="italic">Poesie musicali italiane del sec. XIV</hi>, «Atti della Reale Accademia di scienze, lettere e arti di Palermo», IV/2 (1944), pp. 99-167
+                    E. Li Gotti, <hi rend="italic">Poesie musicali italiane del sec. XIV</hi>, «Atti della Reale Accademia di scienze, lettere e arti di Palermo», IV/2 (1944), pp. 99-167.
                 </bibl>
                 <bibl xml:id="Corsi1970">
-                    Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                    Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
                 </bibl>
             </listBibl>
         </back>

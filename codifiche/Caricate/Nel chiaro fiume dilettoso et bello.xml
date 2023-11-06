@@ -130,14 +130,14 @@
                 <head>10</head>
                 <app from="#l10a1" to="#l10a2">
                     <lem>vatten</lem>
-                    <rdg>vattene <witDetail><hi rend="italic">(+1)</hi></witDetail> <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                    <rdg>vattene <witDetail wit="#Pit"><hi rend="italic">(+1)</hi></witDetail> <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
                 </app>
             </listApp>
             <listApp>
                 <head>11</head>
                 <app from="#l11a1" to="#l11a2">
                     <lem>ʼl</lem>
-                    <rdg wit="#Sq #Pit">llo <witDetail><hi rend="italic">(+1)</hi></witDetail></rdg>
+                    <rdg wit="#Sq #Pit">llo <witDetail wit="#Sq #Pit"><hi rend="italic">(+1)</hi></witDetail></rdg>
                     <rdg wit="#Fp"/>
                 </app>
                 </listApp>
@@ -167,7 +167,7 @@
                 <head>4</head>
                 <app from="#l4a1" to="#l4a2">
                     <lem>ragionavan</lem>
-                    <rdg>rag/i/onavan <witDetail><hi rend="italic">con aggiunta in interlinea </hi></witDetail> <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                    <rdg>rag/i/onavan <witDetail wit="Fp"><hi rend="italic">con aggiunta in interlinea </hi></witDetail> <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
                 </app>
                 <app from="#l4a3" to="#l4a4">
                     <lem>dolçe</lem>
@@ -223,7 +223,7 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#Corsi1970">
-                Corsi 1970, pp. 74-5
+                Corsi 1970, pp. 74-5;
             </bibl>
             <bibl corresp="#Fantini2015-2016">
                 Fantini 2015-2016, pp. 103-10.
@@ -244,10 +244,10 @@
          </div> -->
          <listBibl type="editionsBibliography">
             <bibl xml:id="Corsi1970">
-                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
             <bibl xml:id="Fantini2015-2016">
-                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016
+                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016.
             </bibl>
          </listBibl>
       </back>

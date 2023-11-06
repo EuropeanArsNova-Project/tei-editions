@@ -311,10 +311,10 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#LiGotti1948">
-                Li Gotti 1948, p. 49
+                Li Gotti 1948, p. 49;
             </bibl>
             <bibl corresp="#Corsi1969">
-                Corsi 1969, pp. 1014-5
+                Corsi 1969, pp. 1014-5;
             </bibl>
             <bibl corresp="#Corsi1970">
                 Corsi 1970, p. 16-7.
@@ -343,13 +343,13 @@
          </div>
          <listBibl type="editionsBibliography">
             <bibl xml:id="LiGotti1948">
-                E. Li Gotti, <i>Madrigali del Trecento</i>, «Poesia», 9 (1948), pp. 40-59
+                E. Li Gotti, <hi rend="italic">Madrigali del Trecento</hi>, «Poesia», 9 (1948), pp. 40-59.
             </bibl>
             <bibl xml:id="Corsi1969">
-                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
+                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969.
             </bibl>
             <bibl xml:id="Corsi1970">
-                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
          </listBibl>
       </back>

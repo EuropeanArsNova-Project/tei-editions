@@ -13,16 +13,16 @@
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
             <respStmt> 
-               <resp> Edited by</resp> 
-               <name> Maria Sofia Lannutti</name> 
+               <resp>Edited by</resp> 
+               <name>Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> Revised by</resp> 
-               <name> Luca Gatti</name> 
+               <resp>Revised by</resp> 
+               <name>Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> TEI-encoded by</resp> 
-               <name> Elvira Mercatanti</name> 
+               <resp>TEI-encoded by</resp> 
+               <name>Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt>
          <publicationStmt>
@@ -188,7 +188,7 @@
 
          <listBibl type="editionsBibliography">
             <bibl xml:id="Pirrotta-LiGotti1950">
-               N. Pirrotta-E. Li Gotti, <hi rend="italic">Il Codice di Lucca: II. Testi letterari</hi>, «Musica Disciplina», 4 (1950), pp. 111-152
+               N. Pirrotta-E. Li Gotti, <hi rend="italic">Il Codice di Lucca: II. Testi letterari</hi>, «Musica Disciplina», 4 (1950), pp. 111-152.
             </bibl>
          </listBibl>
       </back>

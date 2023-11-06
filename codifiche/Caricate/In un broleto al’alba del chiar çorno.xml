@@ -14,16 +14,16 @@
                   project.</orgName>
             </respStmt>
             <respStmt>
-               <resp> Edited by</resp>
-               <name> Maria Sofia Lannutti</name>
+               <resp>Edited by</resp>
+               <name>Maria Sofia Lannutti</name>
             </respStmt>
             <respStmt>
-               <resp> Revised by</resp>
-               <name> Luca Gatti</name>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
             </respStmt>
             <respStmt>
-               <resp> TEI-encoded by</resp>
-               <name> Elvira Mercatanti</name>
+               <resp>TEI-encoded by</resp>
+               <name>Elvira Mercatanti</name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -57,19 +57,19 @@
       </front> -->
       <body>
          <lg>
-            <l xml:id="l1"> In un broleto al’alba del chiar çorno, </l>
-            <l xml:id="l2"> nel tempo gaio, quando gli auseliti</l>
-            <l xml:id="l3"> de ramo in ramo fan dolci versiti,</l>
-            <l xml:id="l4"> entro per prender deletto a soçorno.</l>
-            <l xml:id="l5" n="5"> Vidi una roxa, porsiglie la mano,</l>
-            <l xml:id="l6"> una voce cridò: «Non far! Va’ piano!»</l>
-            <l xml:id="l7"> Tuto smarito volsime d’entorno,</l>
-            <l xml:id="l8"> vidi Amor venir pien de disdegno,</l>
-            <l xml:id="l9"> dicendo: «Non tocar, che non è’ degno!»</l>
+            <l xml:id="l1">In un broleto al’alba del chiar çorno, </l>
+            <l xml:id="l2">nel tempo gaio, quando gli auseliti</l>
+            <l xml:id="l3">de ramo in ramo fan dolci versiti,</l>
+            <l xml:id="l4">entro per prender deletto a soçorno.</l>
+            <l xml:id="l5" n="5">Vidi una roxa, porsiglie la mano,</l>
+            <l xml:id="l6">una voce cridò: «Non far! Va’ piano!»</l>
+            <l xml:id="l7">Tuto smarito volsime d’entorno,</l>
+            <l xml:id="l8">vidi Amor venir pien de disdegno,</l>
+            <l xml:id="l9">dicendo: «Non tocar, che non è’ degno!»</l>
          </lg>
          <lg>
-            <l xml:id="l10" n="10"> La spina dé sentir, chi vol la roxa,</l>
-            <l xml:id="l11"> com’ ela ponçe, sì che però posa.</l>
+            <l xml:id="l10" n="10">La spina dé sentir, chi vol la roxa,</l>
+            <l xml:id="l11">com’ ela ponçe, sì che però posa.</l>
          </lg>
       </body>
 
@@ -101,11 +101,11 @@
 
 
          <listBibl type="editions">
-            <bibl corresp="Mischiati1966"> Mischiati 1966, p. 74</bibl>
+            <bibl corresp="Mischiati1966">Mischiati 1966, p. 74;</bibl>
             
-            <bibl corresp="#Pirrotta1992"> Pirrotta 1992, p. 37</bibl>
+            <bibl corresp="#Pirrotta1992">Pirrotta 1992, p. 37;</bibl>
 
-            <bibl corresp="#Sucato2003"> Sucato 2003, p. 87</bibl>
+            <bibl corresp="#Sucato2003">Sucato 2003, p. 87.</bibl>
          </listBibl>
 
 
@@ -117,33 +117,33 @@
 
          <div type="commentary">
             <note target="#l1">
-               <num> 1.</num>
-               <p> <hi rend="italic">broleto</hi>: ‘orto recintato’.</p>
+               <num>1.</num>
+               <p><hi rend="italic">broleto</hi>: ‘orto recintato’.</p>
             </note>
             
             <note target="#l4">
-               <num> 4.</num>
-               <p> <hi rend="italic">a soçorno</hi>: ‘riposandomi’, cfr. fr. <hi rend="italic">demeurer à sejour</hi> e Brunetto Latini, <hi rend="italic"> Tesoretto</hi>, v. 1288 «dimorare a soggiorno».</p>            
+               <num>4.</num>
+               <p><hi rend="italic">a soçorno</hi>: ‘riposandomi’, cfr. fr. <hi rend="italic">demeurer à sejour</hi> e Brunetto Latini, <hi rend="italic"> Tesoretto</hi>, v. 1288 «dimorare a soggiorno».</p>            
             </note>
             
             <note target="#l10">
-               <num> 10.</num>
-               <p> <hi rend="italic">è’</hi>: ‘sei’. </p>
+               <num>10.</num>
+               <p><hi rend="italic">è’</hi>: ‘sei’. </p>
             </note>
             
             <note target="#l12">
-               <num> 12.</num>
-               <p> <hi rend="italic">però posa</hi>: ‘per questo smette, rinuncia’.</p>
+               <num>12.</num>
+               <p><hi rend="italic">però posa</hi>: ‘per questo smette, rinuncia’.</p>
             </note>
          </div>
 
 
          <listBibl type="editionsBibliography">
-            <bibl xml:id="Mischiati1966"> O. Mischiati, <hi rend="italic">Uno sconosciuto frammento appartenente al codice Vaticano Rossi 215</hi>, «Rivista italiana di musicologia», 1 (1966), pp. 68-76</bibl>
+            <bibl xml:id="Mischiati1966">O. Mischiati, <hi rend="italic">Uno sconosciuto frammento appartenente al codice Vaticano Rossi 215</hi>, «Rivista italiana di musicologia», 1 (1966), pp. 68-76.</bibl>
             
-            <bibl xml:id="Pirrotta1992"> N. Pirrotta, <hi rend="italic">Il codice Rossi 215 della Biblioteca Apostolica Vaticana. Con i frammenti della fondazione Opera pia don Giuseppe Greggiati di Ostiglia</hi>, Lucca, LIM, 1992 </bibl>
+            <bibl xml:id="Pirrotta1992">N. Pirrotta, <hi rend="italic">Il codice Rossi 215 della Biblioteca Apostolica Vaticana. Con i frammenti della fondazione Opera pia don Giuseppe Greggiati di Ostiglia</hi>, Lucca, LIM, 1992.</bibl>
             
-            <bibl xml:id="Sucato2003"> Tiziana Sucato, <hi rend="italic">Il codice rossiano 215. Madrigali, ballate, una caccia, un rotondello</hi>, Pisa, ETS, 2003 («Diverse voci...» 1) </bibl>
+            <bibl xml:id="Sucato2003">Tiziana Sucato, <hi rend="italic">Il codice rossiano 215. Madrigali, ballate, una caccia, un rotondello</hi>, Pisa, ETS, 2003 («Diverse voci...» 1).</bibl>
          </listBibl>
       </back>
    </text>

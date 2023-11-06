@@ -12,16 +12,16 @@
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
             <respStmt> 
-               <resp> Edited by</resp> 
-               <name> Maria Sofia Lannutti</name> 
+               <resp>Edited by</resp> 
+               <name>Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> Revised by</resp> 
-               <name> Luca Gatti</name> 
+               <resp>Revised by</resp> 
+               <name>Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> TEI-encoded by</resp> 
-               <name> Elvira Mercatanti</name> 
+               <resp>TEI-encoded by</resp> 
+               <name>Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt>
          <publicationStmt> 
@@ -110,7 +110,7 @@
                </app>
             </listApp>
             <listApp>
-               <head> 7</head>
+               <head>7</head>
                <app from="#l7a1" to="#l7a2">
                   <lem>Qual</lem>
                   <rdg wit="#Cil"><del>donque</del> qual </rdg>
@@ -128,15 +128,15 @@
                </app>
 
                <app from="#l2a3" to="#l2a4">
-                  <lem> pò</lem>
+                  <lem>pò</lem>
                   <rdg wit="#Cil"> puo</rdg>
                </app>
             </listApp>
 
             <listApp>
-               <head> 4</head>
+               <head>4</head>
                <app from="#l4a1" to="#l4a2">
-                  <lem> può</lem>
+                  <lem>può</lem>
                   <rdg>po <wit><ref corresp="#CilT">Cil<hi rend="super">T</hi></ref></wit></rdg>
                </app>
 
@@ -147,7 +147,7 @@
             </listApp>
 
             <listApp>
-               <head> 5</head>
+               <head>5</head>
                <app from="#l5a1" to="#l5a2">
                   <lem>e</lem>
                   <rdg wit="#Cil">et</rdg>
@@ -155,25 +155,25 @@
             </listApp>
 
             <listApp>
-               <head> 6</head>
+               <head>6</head>
                <app from="#l6a1" to="#l6a2">
-                  <lem> giama’</lem>
+                  <lem>giama’</lem>
                   <rdg wit="#Cil">giammai</rdg>
                </app>            
             </listApp>
 
             <listApp>
-               <head> 7</head>
+               <head>7</head>
                <app from="#l7a3" to="#l7a4">
-                  <lem> dunque</lem>
+                  <lem>dunque</lem>
                   <rdg wit="#Cil"> donque</rdg>
                </app>            
             </listApp>
 
             <listApp>
-               <head> 8</head>
+               <head>8</head>
                <app from="#l8a1" to="#l8a2">
-                  <lem> inganato</lem>
+                  <lem>inganato</lem>
                   <rdg wit="#Cil">ingannato </rdg>
                </app>
             </listApp>
@@ -190,7 +190,7 @@
 
          <listBibl type="editions">
             <bibl corresp="#Corsi1970"> 
-               Corsi 1970, p. 354
+               Corsi 1970, p. 354.
             </bibl> 
          </listBibl>
 
@@ -208,7 +208,7 @@
 
          <listBibl type="editionsBibliography">
             <bibl xml:id="Corsi1970">
-               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
          </listBibl>
       </back>

@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Maria Sofia Lannutti</name> 
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -57,16 +57,16 @@
       </front> -->
         <body>
             <lg>
-                <l xml:id="l1"> Je suy celuy qui veul toudis servir</l>
-                <l xml:id="l2"> ma tres noble dame plaisant et gente,</l>
+                <l xml:id="l1">Je suy celuy qui veul toudis servir</l>
+                <l xml:id="l2">ma tres noble dame plaisant et gente,</l>
             </lg>
             <lg>
-                <l xml:id="l3"> a qui mon cuer et mon corps je presente</l>
-                <l xml:id="l4"> entirement a faire son plaisir,</l>
-                <l xml:id="l5" n="5"> pour son amour et grace deservir,</l>
-                <l xml:id="l6"> que prise plus que mille mars de rente.</l>
-                <l xml:id="l7"> <hi rend="italic"> Je suy <supplied xml:id="suppl1" reason="illegible">[celuy qui veul toudis servir</supplied></hi></l>
-                <l xml:id="l8"> <hi rend="italic"><supplied xml:id="suppl2" corresp="#suppl1" reason="illegible">ma tres noble dame plaisant et gente].</supplied></hi></l>
+                <l xml:id="l3">a qui mon cuer et mon corps je presente</l>
+                <l xml:id="l4">entirement a faire son plaisir,</l>
+                <l xml:id="l5" n="5">pour son amour et grace deservir,</l>
+                <l xml:id="l6">que prise plus que mille mars de rente.</l>
+                <l xml:id="l7"><hi rend="italic"> Je suy <supplied xml:id="suppl1" reason="illegible">[celuy qui veul toudis servir</supplied></hi></l>
+                <l xml:id="l8"><hi rend="italic"><supplied xml:id="suppl2" corresp="#suppl1" reason="illegible">ma tres noble dame plaisant et gente].</supplied></hi></l>
             </lg>
 
         </body>
@@ -93,9 +93,9 @@
 
 
             <div type="metricalScheme">
-                <p> <hi rend="italic">Rondeau</hi> 10A 10’B; 10’b 10a; 10a 10’b; 10A 10’B. Si noti che il primo verso del <hi rend="italic">refrain</hi> non è ripetuto in seconda posizione nella strofe; in prima posizione, diversamente, si ha rima b.</p>
-                <p> Rima identica ai vv. 1 : 6, 2 : 8.</p>
-                <p> Cesura lirica al v. 2.</p>
+                <p><hi rend="italic">Rondeau</hi> 10A 10’B; 10’b 10a; 10a 10’b; 10A 10’B. Si noti che il primo verso del <hi rend="italic">refrain</hi> non è ripetuto in seconda posizione nella strofe; in prima posizione, diversamente, si ha rima b.</p>
+                <p>Rima identica ai vv. 1 : 6, 2 : 8.</p>
+                <p>Cesura lirica al v. 2.</p>
             </div>
 
 
@@ -118,7 +118,7 @@
             <listBibl type="editionsBibliography">
                 
                 <bibl xml:id="Reaney1955"><hi rend="italic">Early Fifteenth-Century Music, I. Baude Cordier, Johannis Cesaris, Johannis
-                    Carmen, Johannis Tapissier</hi>, ed. by G. Reaney, Roma, AIM, 1955 (CMM, 11/1)</bibl>
+                    Carmen, Johannis Tapissier</hi>, ed. by G. Reaney, Roma, AIM, 1955 (CMM, 11/1).</bibl>
                 
             </listBibl>
         </back>

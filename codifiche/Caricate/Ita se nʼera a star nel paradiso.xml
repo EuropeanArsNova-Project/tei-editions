@@ -130,11 +130,11 @@
             <listApp>
                 <head>1</head>
                 <app from="#l1a1" to="#l1a2">
-                    <rdg><witDetail><hi rend="italic">rip.</hi></witDetail> <wit><ref corresp="#Sq2">Sq<hi rend="subscript">2</hi></ref></wit> <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                    <rdg><witDetail wit="#Sq2"><hi rend="italic">rip.</hi></witDetail> <wit><ref corresp="#Sq2">Sq<hi rend="subscript">2</hi></ref></wit> <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                 </app>
                 <app from="#l1a1" to="#l1a3">
                     <lem>Ita se nʼera</lem>
-                    <rdg><witDetail><hi rend="italic">rip.</hi></witDetail> <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                    <rdg><witDetail wit="LoT"><hi rend="italic">rip.</hi></witDetail> <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
                 </app>
                 <app from="#l1a1" to="#l1a4">
                     <lem>Ita</lem>
@@ -193,7 +193,7 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#Corsi1970">
-                Corsi 1970, p. 74
+                Corsi 1970, p. 74;
             </bibl>
             <bibl corresp="#Fantini2015-2016">
                 Fantini 2015-2016, pp. 81-87.
@@ -214,10 +214,10 @@
          </div>
          <listBibl type="editionsBibliography">
             <bibl xml:id="Corsi1970">
-                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
             <bibl xml:id="Fantini2015-2016">
-                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016
+                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016.
             </bibl>
          </listBibl>
       </back>

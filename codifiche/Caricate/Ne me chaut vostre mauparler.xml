@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Maria Sofia Lannutti</name> 
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -53,8 +53,8 @@
             
                 <!--<front> 
                  <div> 
-                    <p> 
-                       Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+                    <p>
+                       Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                        e marca i corsivi (<hi rend="italic"> </hi> )
                     </p> 
                  </div>         
@@ -62,30 +62,30 @@
               
                 <body>
                     <lg>
-                        <l xml:id="l1"> Ne me chaut vostre mauparler,</l>
-                        <l xml:id="l2"> <anchor xml:id="l2a1"/>ditez<anchor xml:id="l2a2"/> au piz que vous <anchor xml:id="l2a3"/>savez<anchor xml:id="l2a4"/>,</l>
-                        <l xml:id="l3"> <anchor xml:id="l3a3"/>quar<anchor xml:id="l3a4"/> <anchor xml:id="l3a1"/><supplied reason="illegible">[je vueil bien que]</supplied><anchor xml:id="l3a2"/> vous <anchor xml:id="l3a5"/>sachez<anchor xml:id="l3a6"/></l>
-                        <l xml:id="l4"> que je ne vous pris un diner.</l>
+                        <l xml:id="l1">Ne me chaut vostre mauparler,</l>
+                        <l xml:id="l2"><anchor xml:id="l2a1"/>ditez<anchor xml:id="l2a2"/> au piz que vous <anchor xml:id="l2a3"/>savez<anchor xml:id="l2a4"/>,</l>
+                        <l xml:id="l3"><anchor xml:id="l3a3"/>quar<anchor xml:id="l3a4"/> <anchor xml:id="l3a1"/><supplied reason="illegible">[je vueil bien que]</supplied><anchor xml:id="l3a2"/> vous <anchor xml:id="l3a5"/>sachez<anchor xml:id="l3a6"/></l>
+                        <l xml:id="l4">que je ne vous pris un diner.</l>
                     </lg>
                     <lg>
-                        <l xml:id="l5" n="5"> Vous autres <anchor xml:id="l5a1"/>cheitis mesdisans<anchor xml:id="l5a2"/>,</l>
-                        <l xml:id="l6"> de <anchor xml:id="l6a1"/>toutez vertuz<anchor xml:id="l6a2"/> enemis,</l>
-                        <l xml:id="l7"> ne me <anchor xml:id="l7a1"/>loez<anchor xml:id="l7a2"/> pas tant ne quant,</l>
-                        <l xml:id="l8"> <anchor xml:id="l8a3"/>quar<anchor xml:id="l8a4"/> je ne suis <anchor xml:id="l8a5"/>paz<anchor xml:id="l8a6"/> <anchor xml:id="l8a1"/>vostre<anchor xml:id="l8a2"/> amis,</l>
-                        <l xml:id="l9"> quar, <anchor xml:id="l9a1"/>par <anchor xml:id="l9a2"/> ma foy, j’ai tres plus  <anchor xml:id="l9a3"/>cher <anchor xml:id="l9a4"/></l>
-                        <l xml:id="l10" n="10"> que vous  <anchor xml:id="l10a1"/>autrez telz<anchor xml:id="l10a2"/> me <anchor xml:id="l10a3"/> blasmez<anchor xml:id="l10a4"/> ,</l>
-                        <l xml:id="l11"> quar <anchor xml:id="l11a1"/> on<anchor xml:id="l11a2"/> conoistra bien <anchor xml:id="l11a3"/>assez<anchor xml:id="l11a4"/></l>
-                        <l xml:id="l12"> que je ne sui <anchor xml:id="l12a1"/>paz<anchor xml:id="l12a2"/> vostre per.</l>
+                        <l xml:id="l5" n="5">Vous autres <anchor xml:id="l5a1"/>cheitis mesdisans<anchor xml:id="l5a2"/>,</l>
+                        <l xml:id="l6">de <anchor xml:id="l6a1"/>toutez vertuz<anchor xml:id="l6a2"/> enemis,</l>
+                        <l xml:id="l7">ne me <anchor xml:id="l7a1"/>loez<anchor xml:id="l7a2"/> pas tant ne quant,</l>
+                        <l xml:id="l8"><anchor xml:id="l8a3"/>quar<anchor xml:id="l8a4"/> je ne suis <anchor xml:id="l8a5"/>paz<anchor xml:id="l8a6"/> <anchor xml:id="l8a1"/>vostre<anchor xml:id="l8a2"/> amis,</l>
+                        <l xml:id="l9">quar, <anchor xml:id="l9a1"/>par <anchor xml:id="l9a2"/> ma foy, j’ai tres plus  <anchor xml:id="l9a3"/>cher <anchor xml:id="l9a4"/></l>
+                        <l xml:id="l10" n="10">que vous  <anchor xml:id="l10a1"/>autrez telz<anchor xml:id="l10a2"/> me <anchor xml:id="l10a3"/> blasmez<anchor xml:id="l10a4"/> ,</l>
+                        <l xml:id="l11">quar <anchor xml:id="l11a1"/> on<anchor xml:id="l11a2"/> conoistra bien <anchor xml:id="l11a3"/>assez<anchor xml:id="l11a4"/></l>
+                        <l xml:id="l12">que je ne sui <anchor xml:id="l12a1"/>paz<anchor xml:id="l12a2"/> vostre per.</l>
                     </lg>
                     <lg>
-                        <l xml:id="l13"> Mes je vous di bien vraiemant</l>
-                        <l xml:id="l14"> que vous n’avres paz los ne pris,</l>
-                        <l xml:id="l15" n="15"> pour vostre maudire sovant,</l>
-                        <l xml:id="l16"> vous en serez trestouz unis.</l>
-                        <l xml:id="l17"> Je vous verrai trestous crever,</l>
-                        <l xml:id="l18"> quar en despit que vous n’aiés,</l>
-                        <l xml:id="l19"> tout rejoïr vous me vedrés</l>
-                        <l xml:id="l20" n="20"> et tout diz pluz d’amour chanter. </l>
+                        <l xml:id="l13">Mes je vous di bien vraiemant</l>
+                        <l xml:id="l14">que vous n’avres paz los ne pris,</l>
+                        <l xml:id="l15" n="15">pour vostre maudire sovant,</l>
+                        <l xml:id="l16">vous en serez trestouz unis.</l>
+                        <l xml:id="l17">Je vous verrai trestous crever,</l>
+                        <l xml:id="l18">quar en despit que vous n’aiés,</l>
+                        <l xml:id="l19">tout rejoïr vous me vedrés</l>
+                        <l xml:id="l20" n="20">et tout diz pluz d’amour chanter. </l>
                     </lg>
         
                 </body>
@@ -107,33 +107,33 @@
         
                     <listApp type="substantial">
                         <listApp>
-                            <head> 3</head>
+                            <head>3</head>
                             <app from="#l3a1" to="#l3a2">
-                                <lem> je vueil bien que</lem>
+                                <lem>je vueil bien que</lem>
                                 <rdg wit="#Ln7"> en bone foi </rdg>
                             </app>
                         </listApp>
                         
                         <listApp>
-                            <head> 5</head>
+                            <head>5</head>
                             <app from="#l5a1" to="#l5a2">
-                                <lem> cheitis mesdisans</lem>
-                                <rdg wit="#MoA"> chietif mesdissant </rdg>
+                                <lem>cheitis mesdisans</lem>
+                                <rdg wit="#MoA">chietif mesdissant </rdg>
                             </app>
                         </listApp>
                         
                         <listApp>
-                            <head> 8</head>
+                            <head>8</head>
                             <app from="#l8a1" to="#l8a2">
                                 <lem>vostre </lem>
-                                <rdg wit="#MoA"> vostree</rdg>
+                                <rdg wit="#MoA">vostree</rdg>
                             </app>                        
                         </listApp>
                         
                         <listApp>
-                            <head> 12</head>
+                            <head>12</head>
                             <app from="#l12a1" to="#l12a2">
-                                <lem> paz</lem>
+                                <lem>paz</lem>
                                 <rdg wit="#MoA"/>
                             </app>
                         </listApp>
@@ -144,96 +144,96 @@
         
                     <listApp type="formal">
                        <listApp>
-                           <head> 2</head>
+                           <head>2</head>
                            <app from="#l2a1" to="#l2a2">
-                               <lem> ditez</lem>
-                               <rdg wit="#MoA"> dites</rdg>
+                               <lem>ditez</lem>
+                               <rdg wit="#MoA">dites</rdg>
                            </app>
                            
                            <app from="#l2a3" to="#l2a4">
-                               <lem> savez</lem>
+                               <lem>savez</lem>
                                <rdg wit="#MoA">saves</rdg>
                            </app>
                        </listApp>
                         
                         <listApp>
-                            <head> 3</head>
+                            <head>3</head>
                             <app from="#l3a3" to="#l3a4">
-                                <lem> quar</lem>
+                                <lem>quar</lem>
                                 <rdg wit="#MoA">car</rdg>
                             </app>
                             
                             <app from="#l3a5" to="#l3a6">
-                                <lem> sachez</lem>
-                                <rdg wit="#MoA"> saches</rdg>
+                                <lem>sachez</lem>
+                                <rdg wit="#MoA">saches</rdg>
                             </app>
                         </listApp>
                         
                         <listApp>
-                            <head> 6</head>
+                            <head>6</head>
                             <app from="#l6a1" to="#l6a2">
-                                <lem> toutez vertuz</lem>
-                                <rdg wit="#MoA"> toutes vertus</rdg>
+                                <lem>toutez vertuz</lem>
+                                <rdg wit="#MoA">toutes vertus</rdg>
                             </app>
                         </listApp>
                         
                         <listApp>
-                            <head> 7</head>
+                            <head>7</head>
                             <app from="#l7a1" to="#l7a2">
-                                <lem> loez</lem>
-                                <rdg wit="#MoA"> loues</rdg>
+                                <lem>loez</lem>
+                                <rdg wit="#MoA">loues</rdg>
                             </app>
                         </listApp>
                         
                         <listApp>
-                            <head> 8</head>
+                            <head>8</head>
                             <app from="#l8a3" to="#l8a4">
-                                <lem> quar</lem>
-                                <rdg wit="#MoA"> car</rdg>
+                                <lem>quar</lem>
+                                <rdg wit="#MoA">car</rdg>
                             </app>
                             
                             <app from="#l8a5" to="#l8a6">
-                                <lem> paz</lem>
-                                <rdg wit="#MoA"> pas</rdg>
+                                <lem>paz</lem>
+                                <rdg wit="#MoA">pas</rdg>
                             </app>
                         </listApp>
                         
                         <listApp>
-                            <head> 9</head>
+                            <head>9</head>
                             <app from="#l9a1" to="#l9a2">
-                                <lem> par</lem>
-                                <rdg wit="#MoA"> pour</rdg>
+                                <lem>par</lem>
+                                <rdg wit="#MoA">pour</rdg>
                             </app>
                             
                             <app from="#l9a3" to="#l9a4">
-                                <lem> cher</lem>
-                                <rdg wit="#MoA"> chier</rdg>
+                                <lem>cher</lem>
+                                <rdg wit="#MoA">chier</rdg>
                             </app>
                         </listApp>
                         
                         <listApp>
-                            <head> 10</head>
+                            <head>10</head>
                             <app from="#l10a1" to="#l10a2">
-                                <lem> autrez telz</lem>
-                                <rdg wit="#MoA"> autres tels </rdg>
+                                <lem>autrez telz</lem>
+                                <rdg wit="#MoA">autres tels </rdg>
                             </app>
                             
                             <app from="#l10a3" to="#l10a4">
-                                <lem> blasmez</lem>
-                                <rdg wit="#MoA"> blasmes</rdg>
+                                <lem>blasmez</lem>
+                                <rdg wit="#MoA">blasmes</rdg>
                             </app>
                         </listApp>
                         
                         <listApp>
-                            <head> 11</head>
+                            <head>11</head>
                             <app from="#l11a1" to="#l11a2">
-                                <lem> on</lem>
-                                <rdg wit="#MoA"> hom</rdg>
+                                <lem>on</lem>
+                                <rdg wit="#MoA">hom</rdg>
                             </app>
                             
                             <app from="#l11a3" to="#l11a4">
-                                <lem> assez</lem>
-                                <rdg wit="#MoA"> asses</rdg>
+                                <lem>assez</lem>
+                                <rdg wit="#MoA">asses</rdg>
                             </app>
                         </listApp>
                         
@@ -241,23 +241,23 @@
                     
                     <div type="commentary">
                         <note target="#l2m"> 
-                            <num> 2.</num>
-                            <p> ‘riferite nel modo peggiore (con malignità) ciò che sapete’.</p>
+                            <num>2.</num>
+                            <p>‘riferite nel modo peggiore (con malignità) ciò che sapete’.</p>
                         </note>
                         
                         <note target="#l3m">
-                            <num> 3.</num>
-                            <p> <hi rend="italic"> je vueil bien que</hi>: la lezione di Ln7 è innovazione banalizzante.</p>
+                            <num>3.</num>
+                            <p><hi rend="italic"> je vueil bien que</hi>: la lezione di Ln7 è innovazione banalizzante.</p>
                         </note>
                         
                         <note target="#l5m">
-                            <num> 5.</num>
-                            <p> <hi rend="italic"> chetis mesdisans</hi>: nella versione di MoA, la rima imperfetta risulta graficamente regolarizzata attraverso l’assunzione del <hi rend="italic">cas sujet</hi> plurale secondo l’a. fr., ma è da tener presente che a quest’altezza cronologica le consonanti finali coinvolte non venivano più pronunciate. </p>
+                            <num>5.</num>
+                            <p><hi rend="italic"> chetis mesdisans</hi>: nella versione di MoA, la rima imperfetta risulta graficamente regolarizzata attraverso l’assunzione del <hi rend="italic">cas sujet</hi> plurale secondo l’a. fr., ma è da tener presente che a quest’altezza cronologica le consonanti finali coinvolte non venivano più pronunciate. </p>
                         </note>
                         
                         <note target="#l9m">
-                            <num> 9.</num> 
-                            <p> <hi rend="italic"> cher</hi>: la forma <hi rend="italic">chier</hi> di MoA è dell’a. fr.</p>
+                            <num>9.</num> 
+                            <p><hi rend="italic"> cher</hi>: la forma <hi rend="italic">chier</hi> di MoA è dell’a. fr.</p>
                             
                         </note>
                     </div>
@@ -272,8 +272,8 @@
             <text type="secondaryText">
                 <!--<front> 
                     <div> 
-                       <p> 
-                          Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+                       <p>
+                          Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                           e marca i corsivi (<hi rend="italic"> </hi> )
                        </p> 
                     </div>         
@@ -282,20 +282,20 @@
                 <body>
                     <head><hi rend="italic">Edizione ristretta alla tradizione musicale</hi> (MoA)</head>
                     <lg>
-                        <l xml:id="l1m"> Ne me chaut vostre mauparler,</l>
-                        <l xml:id="l2m"> dites au piz que vous savés,</l>
-                        <l xml:id="l3m"> car je vueil bien que vous sachés</l>
-                        <l xml:id="l4m"> que je ne vous pris un diner.</l>
+                        <l xml:id="l1m">Ne me chaut vostre mauparler,</l>
+                        <l xml:id="l2m">dites au piz que vous savés,</l>
+                        <l xml:id="l3m">car je vueil bien que vous sachés</l>
+                        <l xml:id="l4m">que je ne vous pris un diner.</l>
                     </lg>
                     <lg>
-                        <l xml:id="l5m" n="5"> Vous autres chetif mesdissant,</l>
-                        <l xml:id="l6m"> de toutes vertus enemis,</l>
-                        <l xml:id="l7m"> ne me loués pas tant ne quant,</l>
-                        <l xml:id="l8m"> car je ne suis pas <anchor xml:id="l8a1m"/>vostre<anchor xml:id="l8a2m"/> amis,</l>
-                        <l xml:id="l9m"> quar, pour ma foy, j’ay tres plus chier</l>
-                        <l xml:id="l10m" n="10"> que vous autres tels me blasmés,</l>
-                        <l xml:id="l11m"> quar hom conoistra bien assés</l>
-                        <l xml:id="l12m"> que je ne suy <anchor xml:id="l12a1m"/><supplied reason="illegible">[pas]</supplied><anchor xml:id="l12a2m"/> vostre per.</l>                        
+                        <l xml:id="l5m" n="5">Vous autres chetif mesdissant,</l>
+                        <l xml:id="l6m">de toutes vertus enemis,</l>
+                        <l xml:id="l7m">ne me loués pas tant ne quant,</l>
+                        <l xml:id="l8m">car je ne suis pas <anchor xml:id="l8a1m"/>vostre<anchor xml:id="l8a2m"/> amis,</l>
+                        <l xml:id="l9m">quar, pour ma foy, j’ay tres plus chier</l>
+                        <l xml:id="l10m" n="10">que vous autres tels me blasmés,</l>
+                        <l xml:id="l11m">quar hom conoistra bien assés</l>
+                        <l xml:id="l12m">que je ne suy <anchor xml:id="l12a1m"/><supplied reason="illegible">[pas]</supplied><anchor xml:id="l12a2m"/> vostre per.</l>                        
                     </lg>
                     
                 </body>
@@ -303,17 +303,17 @@
                 <back>                  
                     <listApp type="substantial">                        
                         <listApp>
-                            <head> 8</head>
+                            <head>8</head>
                             <app from="#l8a1m" to="#l8a2m">
-                                <lem> vostre </lem>
-                                <rdg wit="#MoA"> vostree</rdg>
+                                <lem>vostre </lem>
+                                <rdg wit="#MoA">vostree</rdg>
                             </app>                        
                         </listApp>
                         
                         <listApp>
-                            <head> 12</head>
+                            <head>12</head>
                             <app from="#l12a1m" to="#l12a2m">
-                                <lem> pas</lem>
+                                <lem>pas</lem>
                                 <rdg wit="#MoA"/>
                             </app>
                         </listApp>
@@ -324,8 +324,8 @@
         </group>
         <back>
             <div type="metricalScheme">
-                <p> <hi rend="italic">Virelai</hi> 8a 8b 8b 8a; 8c 8d, 8c 8d; 8a 8b 8b 8a.</p>
-                <p> Rima derivativa ai vv. 2 : 3; rima imperfetta ai vv. 5 : 7.</p>
+                <p><hi rend="italic">Virelai</hi> 8a 8b 8b 8a; 8c 8d, 8c 8d; 8a 8b 8b 8a.</p>
+                <p>Rima derivativa ai vv. 2 : 3; rima imperfetta ai vv. 5 : 7.</p>
             </div>
             
             
@@ -341,7 +341,7 @@
             
                    
             <listBibl type="editionsBibliography">
-                <bibl xml:id="ApelRosenberg1970"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1)</bibl>
+                <bibl xml:id="ApelRosenberg1970"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1).</bibl>
             </listBibl>
         </back>
     </text>

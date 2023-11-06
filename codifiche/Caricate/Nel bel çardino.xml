@@ -96,7 +96,7 @@
             </witness>
             <witness xml:id="R">
                 <!--ref target=""-->R<!--/ref-->
-                c. <locus>5r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="RC">C</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid.</hi> (vv. 4-6)
+                c. <locus>5r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="RT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid.</hi> (vv. 4-6)
             </witness>
             <witness xml:id="SL">
                 <!--ref target=""-->SL<!--/ref-->
@@ -328,13 +328,13 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#Sapegno1952">
-                Sapegno 1952, p. 514
+                Sapegno 1952, p. 514;
             </bibl>
             <bibl corresp="#Corsi1969">
-                Corsi 1969, p. 1020
+                Corsi 1969, p. 1020;
             </bibl>
             <bibl corresp="#Corsi1970">
-                Corsi 1970, p. 38
+                Corsi 1970, p. 38.
             </bibl>
          </listBibl>
          <!--listBibl type="bibliography">
@@ -356,13 +356,13 @@
          </div>
          <listBibl type="editionsBibliography">
             <bibl xml:id="Sapegno1952">
-                Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952
+                Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952.
             </bibl>
             <bibl xml:id="Corsi1969">
-                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
+                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969.
             </bibl>
             <bibl xml:id="Corsi1970">
-                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
          </listBibl>
       </back>

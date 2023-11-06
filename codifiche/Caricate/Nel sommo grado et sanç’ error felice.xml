@@ -100,10 +100,10 @@
                c. <locus>118r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-6), <abbr xml:id="SqT">T</abbr> (vv. 1-6), <hi rend="italic">resid</hi>. (vv. 7-20): <hi rend="italic">magister frater bartolinus de padua</hi>
             </witness>
             </listWit>
-           <listApp type="substantial">
+           <!--listApp type="substantial">
             </listApp>
          <listApp type="formal">
-         </listApp>
+         </listApp-->
          <div type="metricalScheme">
             <p>Ballata grande 10’z 6’y 6’y 10’z; 6’a 10’b, 6’a 10’b; 10’b 6’c 6’c 10’z.</p> 
             <p><hi rend="italic">Pagnotta</hi> 98 : 80.</p>
@@ -131,7 +131,7 @@
          </div>
          <listBibl type="editionsBibliography">
             <bibl xml:id="Corsi1970">
-               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
          </listBibl>
       </back>

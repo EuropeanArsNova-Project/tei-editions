@@ -101,7 +101,6 @@
             </witness>
             </listWit>
            <listApp type="substantial">
-            <listApp>
                 <listApp>
                     <head>1</head>
                     <app from="#l1a1" to="#l1a2">
@@ -141,7 +140,7 @@
                         <rdg wit="#R">e</rdg>
                     </app>
                 </listApp>
-            </listApp>
+           </listApp>
             <listApp type="formal">
                 <listApp>
                     <head>1</head>
@@ -231,10 +230,10 @@
             </div>
             <listBibl type="editionsBibliography">
                 <bibl xml:id="LiGotti1950">
-                N. Pirrotta-E. Li Gotti, <hi rend="italic">Il Codice di Lucca: II. Testi letterari</hi>, «Musica Disciplina», 4 (1950), pp. 111-152
+                N. Pirrotta-E. Li Gotti, <hi rend="italic">Il Codice di Lucca: II. Testi letterari</hi>, «Musica Disciplina», 4 (1950), pp. 111-152.
                 </bibl>
                 <bibl xml:id="Corsi1970">
-                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
                 </bibl>
             </listBibl>
         </back>

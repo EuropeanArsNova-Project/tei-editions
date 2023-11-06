@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Vittoria Brancato</name> 
+                    <resp>Edited by</resp>
+                    <name>Vittoria Brancato</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -59,13 +59,13 @@
             <lg>
                 <l xml:id="l1"><anchor xml:id="l1a1"/>Lo lume vostro, <anchor xml:id="l1a2"/><anchor xml:id="l1a4"/>dolçe mie<anchor xml:id="l1a5"/><anchor xml:id="l1a3"/> <anchor xml:id="l1a6"/>signore<anchor xml:id="l1a7"/>,</l>
 
-                <l xml:id="l2"> <hi rend="italic"> <anchor xml:id="l2a5"/>Virtute<anchor xml:id="l2a6"/> sic <anchor xml:id="l2a1"/>perfecte <anchor xml:id="l2a2"/>est <anchor xml:id="l2a3"/>ornatum<anchor xml:id="l2a4"/>,</hi></l>
+                <l xml:id="l2"><hi rend="italic"> <anchor xml:id="l2a5"/>Virtute<anchor xml:id="l2a6"/> sic <anchor xml:id="l2a1"/>perfecte <anchor xml:id="l2a2"/>est <anchor xml:id="l2a3"/>ornatum<anchor xml:id="l2a4"/>,</hi></l>
 
-                <l xml:id="l3"> Cʼaʼ rei non <anchor xml:id="l3a2"/> <anchor xml:id="l3a4"/>luce e<anchor xml:id="l3a5"/><anchor xml:id="l3a3"/> <anchor xml:id="l3a6"/>aʼ<anchor xml:id="l3a7"/> <anchor xml:id="l3a8"/>boni<anchor xml:id="l3a9"/> semprʼ è chiaro. <anchor xml:id="l3a1"/></l>
+                <l xml:id="l3">Cʼaʼ rei non <anchor xml:id="l3a2"/> <anchor xml:id="l3a4"/>luce e<anchor xml:id="l3a5"/><anchor xml:id="l3a3"/> <anchor xml:id="l3a6"/>aʼ<anchor xml:id="l3a7"/> <anchor xml:id="l3a8"/>boni<anchor xml:id="l3a9"/> semprʼ è chiaro. <anchor xml:id="l3a1"/></l>
 
-                <l xml:id="l4"> <anchor xml:id="l4a1"/><hi rend="italic"> <anchor xml:id="l4a2"/>Hoc est notum<anchor xml:id="l4a3"/> et satis [est] probatum </hi></l>
+                <l xml:id="l4"><anchor xml:id="l4a1"/><hi rend="italic"> <anchor xml:id="l4a2"/>Hoc est notum<anchor xml:id="l4a3"/> et satis [est] probatum </hi></l>
 
-                <l xml:id="l5" n="5"> In <anchor xml:id="l5a1"/>quei<anchor xml:id="l5a2"/> <anchor xml:id="l5a3"/>cʼànno sentito<anchor xml:id="l5a4"/> <anchor xml:id="l5a5"/>el gusto amaro<anchor xml:id="l5a6"/>,</l>
+                <l xml:id="l5" n="5">In <anchor xml:id="l5a1"/>quei<anchor xml:id="l5a2"/> <anchor xml:id="l5a3"/>cʼànno sentito<anchor xml:id="l5a4"/> <anchor xml:id="l5a5"/>el gusto amaro<anchor xml:id="l5a6"/>,</l>
 
                 <l xml:id="l6">Nascosamente per conporre errore.<anchor xml:id="l6a1"/></l>
             </lg>
@@ -106,9 +106,16 @@
 
             <listApp type="substantial">
                 <listApp>
-                    <head> 1</head>
+                    <head>1-3</head>
+                    <app from="#l1a1" to="#l3a1">
+                        <rdg wit="Lo"/>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>1</head>
                     <app from="#l1a2" to="#l1a3">
-                        <lem> dolçe mie</lem>
+                        <lem>dolçe mie</lem>
                         <rdg wit="#Fp #R">dolcel mio</rdg>
                     </app>
                 </listApp>
@@ -116,7 +123,7 @@
                 <listApp>
                     <head>2</head>
                     <app from="#l2a2" to="#l2a3">
-                        <lem> perfecte</lem>
+                        <lem>perfecte</lem>
                         <rdg wit="#R"> perfetta</rdg>
                     </app>
 
@@ -127,20 +134,16 @@
                 </listApp>
 
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a2" to="#l3a3">
-                        <lem> luce e </lem>
+                        <lem>luce e </lem>
                         <rdg wit="#R">luci a</rdg>
                     </app>
                 </listApp>
 
                 <listApp>
-                    <head> 4-6</head>
+                    <head>4-6</head>
                     <app from="#l4a1" to="#l6a1">
-                        <lem> Hoc est notum et satis [est] probatum
-                            In quei cʼànno sentito el gusto amaro,
-                            Nascosamente per conporre errore.
-                            </lem>
                         <rdg wit="#R"/>
                     </app>
                 </listApp>
@@ -156,18 +159,18 @@
                 <listApp>
                     <head>5</head>
                     <app from="#l5a1" to="#l5a2">
-                        <lem> quei</lem>
+                        <lem>quei</lem>
                         <rdg>quegli <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
                         <rdg wit="#Lo">quigli</rdg>
                     </app>
 
                     <app from="#l5a3" to="#l5a4">
-                        <lem> cʼànno sentito</lem>
-                        <rdg wit="#Lo">che sentuto</rdg>
+                        <lem>cʼànno sentito</lem>
+                        <rdg wit="#Lo">cha sentuto</rdg>
                     </app>
 
                     <app from="#l5a5" to="#l5a6">
-                        <lem> el gusto amaro</lem>
+                        <lem>el gusto amaro</lem>
                         <rdg wit="#Lo">il gustamento</rdg>
                     </app>
                 </listApp>
@@ -187,20 +190,20 @@
 
             <listApp type="formal">
                 <listApp>
-                    <head> 1</head>
+                    <head>1</head>
                     <app from="#l1a4" to="#l3a5">
-                        <lem> dolçe mie </lem>
-                        <rdg> dolce mio <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                        <lem>dolçe mie</lem>
+                        <rdg>dolce mio <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
 
                     <app from="#l2a6" to="#l2a7">
-                        <lem> signore</lem>
-                        <rdg> segnore <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
+                        <lem>signore</lem>
+                        <rdg>segnore <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>
 
                 <listApp>
-                    <head> 2</head>
+                    <head>2</head>
                     <app from="l2a5" to="l2a6">
                         <lem>virtute</lem>
                         <rdg wit="#R">vertute</rdg>
@@ -209,20 +212,20 @@
 
             
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a4" to="#l3a5">
-                        <lem> luce e</lem>
-                        <rdg> luce <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                        <lem>luce e</lem>
+                        <rdg>luce <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
                     </app>  
                     
                     <app from="#l3a6" to="#l3a7">
-                        <lem> aʼ</lem>
+                        <lem>aʼ</lem>
                         <rdg wit="#R">ai</rdg>
                     </app>
 
                     <app from="#l3a8" to="#l3a9">
-                        <lem> boni</lem>
-                        <rdg wit="#Fp"> buoni <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                        <lem>boni</lem>
+                        <rdg wit="#Fp">buoni <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>
 
@@ -239,38 +242,36 @@
                     </app>
 
                     <app from="#l7a7" to="#l7a8">
-                        <lem> sì</lem>
-                        <rdg> ssi<wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                        <lem>sì</lem>
+                        <rdg>ssi <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
-
                     
                 </listApp>
 
                 
                 <listApp>
-                    <head> 8</head>
+                    <head>8</head>
                     <app from="#l8a1" to="#l8a2">
-                        <lem> no</lem>
+                        <lem>no</lem>
                         <rdg wit="#Sq #R"> non  <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
-
                 </listApp>
             </listApp>
 
 
             <div type="metricalScheme">
-                <p> Madrigale 10ʼa 10ʼb 10ʼc, 10ʼb 10ʼc 10ʼa; 10ʼd 10ʼd.</p>
+                <p>Madrigale 10ʼa 10ʼb 10ʼc, 10ʼb 10ʼc 10ʼa; 10ʼd 10ʼd.</p>
                 <p><hi rend="italic">Capovilla</hi> LXI.</p>
             </div>
 
 
             <listBibl type="editions">
 
-                <bibl corresp="#LiGotti1944a"> Li Gotti 1944a, p. 382</bibl>
+                <bibl corresp="#LiGotti1944a"> Li Gotti 1944a, p. 382;</bibl>
 
-                <bibl corresp="#LiGotti1948"> Li Gotti 1948, p. 51</bibl>
+                <bibl corresp="#LiGotti1948"> Li Gotti 1948, p. 51;</bibl>
 
-                <bibl corresp="#Corsi1970"> Corsi 1970, pp. 37-8</bibl>
+                <bibl corresp="#Corsi1970"> Corsi 1970, pp. 37-8.</bibl>
 
             </listBibl>
 
@@ -282,10 +283,10 @@
 
 
             <div type="commentary">
-                <p> Il madrigale, encomiastico, è percorso dallʼacrostico LVCHINUS, con riferimento a Luchino Visconti; al v. 7 si coglie il <hi rend="italic">senhal</hi> È SÌ BELLA, che allude a Isabella Fieschi, moglie di Luchino, sua stella-guida.</p>
+                <p>Il madrigale, encomiastico, è percorso dallʼacrostico LVCHINUS, con riferimento a Luchino Visconti; al v. 7 si coglie il <hi rend="italic">senhal</hi> È SÌ BELLA, che allude a Isabella Fieschi, moglie di Luchino, sua stella-guida.</p>
 
                 <note target="#l6">
-                    <num> 6.</num>
+                    <num>6</num>
                     <p> Forse ʻper il fatto di aver commesso un errore (cioè un ʻpeccatoʼ), nel tentativo di non farsi scoprireʼ. </p>
                 </note>
             </div>
@@ -293,12 +294,12 @@
 
             <listBibl type="editionsBibliography">
 
-                <bibl xml:id="LiGotti1944a"> Ettore Li Gotti, <hi rend="italic">L'«Ars nova» e il madrigale</hi>, serie 4, vol. IV, parte II, Atti della Reale Accademia di Scienze Lettere e Arti di Palermo, Palermo, 1944, pp. 339-89</bibl>
+                <bibl xml:id="LiGotti1944a"> Ettore Li Gotti, <hi rend="italic">L'«Ars nova» e il madrigale</hi>, serie 4, vol. IV, parte II, Atti della Reale Accademia di Scienze Lettere e Arti di Palermo, Palermo, 1944, pp. 339-89.</bibl>
 
-                <bibl xml:id="LiGotti1948"> E. Li Gotti, <hi rend="italic">Madrigali del Trecento</hi>, «Poesia», 9 (1948), pp. 40-59</bibl>
+                <bibl xml:id="LiGotti1948"> E. Li Gotti, <hi rend="italic">Madrigali del Trecento</hi>, «Poesia», 9 (1948), pp. 40-59.</bibl>
 
                 <bibl xml:id="Corsi1970"> Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione
-                    di opere inedite o rare, 131) </bibl>
+                    di opere inedite o rare, 131).</bibl>
 
             </listBibl>
         </back>

@@ -132,10 +132,10 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#LiGotti1944a">
-                Li Gotti 1944a, p. 378
+                Li Gotti 1944a, p. 378;
             </bibl>
             <bibl corresp="#Corsi1969">
-                Corsi 1969, pp. 1013-4
+                Corsi 1969, pp. 1013-4;
             </bibl>
             <bibl corresp="#Corsi1970">
                 Corsi 1970, p. 16.
@@ -161,12 +161,12 @@
          <listBibl type="editionsBibliography">
             <bibl xml:id="LiGotti1944a">
                 Ettore Li Gotti, <hi rend="italic">L'«Ars nova» e il madrigale</hi>, serie 4, vol. IV, parte II, Atti della Reale Accademia di Scienze Lettere e Arti di Palermo, Palermo, 1944, pp. 339-89
-            </bibl>
+.            </bibl>
             <bibl xml:id="Corsi1969">
-                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
+                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969.
             </bibl>
             <bibl xml:id="Corsi1970">
-                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
          </listBibl>
       </back>

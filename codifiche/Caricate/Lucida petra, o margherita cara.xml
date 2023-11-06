@@ -14,16 +14,16 @@
                         project.</orgName>
                 </respStmt>
                 <respStmt>
-                    <resp> Edited by</resp>
-                    <name> Vittoria Brancato</name> 
+                    <resp>Edited by</resp>
+                    <name>Vittoria Brancato</name> 
                 </respStmt>
                 <respStmt>
-                    <resp> Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
-                    <resp> TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -57,16 +57,16 @@
       </front> -->
         <body>
             <lg>
-                <l xml:id="l1"> Lucida petra, o margherita cara,</l>
-                <l xml:id="l2"> tanto splendor non rende</l>
-                <l xml:id="l3"> quanto da tuoʼ begli ochi ognor discende.</l>
-                <l xml:id="l4"> <supplied reason="illegible">[...]</supplied></l>
-                <l xml:id="l5" n="5"> <supplied reason="illegible">[...]</supplied></l>
+                <l xml:id="l1">Lucida petra, o margherita cara,</l>
+                <l xml:id="l2">tanto splendor non rende</l>
+                <l xml:id="l3">quanto da tuoʼ begli ochi ognor discende.</l>
+                <l xml:id="l4"><supplied reason="illegible">[...]</supplied></l>
+                <l xml:id="l5" n="5"><supplied reason="illegible">[...]</supplied></l>
                 <l xml:id="l6"><supplied reason="illegible">[...]</supplied></l>
             </lg>
             <lg>
                 <l xml:id="l7">Però, merçede, in fin chʼè ʼl tempo verde: </l>
-                <l xml:id="l8"> che ogni virtù sança pietà si perde. </l>
+                <l xml:id="l8">che ogni virtù sança pietà si perde. </l>
             </lg>
 
         </body>
@@ -99,7 +99,7 @@
 
             <listBibl type="editions">
 
-                <bibl corresp="#LiGotti1944a"> Li Gotti 1944a, p. 382</bibl>
+                <bibl corresp="#LiGotti1944a"> Li Gotti 1944a, p. 382;</bibl>
 
                 <bibl corresp="#Corsi1970"> Corsi 1970, p. XXXII.</bibl>
 
@@ -114,19 +114,19 @@
 
             <div type="commentary">
                 <note target="#l1">
-                    <num> 1.</num>
-                    <p> <hi rend="italic">margherita</hi>: ʻperla, pietra preziosa luminosaʼ (per cui vedi <hi rend="italic">TLIO</hi>, s.v.), a cui è dedicato anche il madrigale di Jacopo <hi rend="italic">Sì comʼ al canto della bella iguana</hi> e in cui è stata vista una possibile allusione alla figlia illegittima di Mastino II (Corsi 1970, p. XXXII).</p>
+                    <num>1.</num>
+                    <p><hi rend="italic">margherita</hi>: ʻperla, pietra preziosa luminosaʼ (per cui vedi <hi rend="italic">TLIO</hi>, s.v.), a cui è dedicato anche il madrigale di Jacopo <hi rend="italic">Sì comʼ al canto della bella iguana</hi> e in cui è stata vista una possibile allusione alla figlia illegittima di Mastino II (Corsi 1970, p. XXXII).</p>
                 </note>
             </div>
 
 
             <listBibl type="editionsBibliography">
 
-                <bibl xml:id="LiGotti1944a"> Ettore Li Gotti, <hi rend="italic">L'«Ars nova» e il madrigale</hi>, serie 4, vol. IV, parte II, Atti della Reale Accademia di Scienze Lettere e Arti di Palermo, Palermo, 1944, pp. 339-89</bibl>
+                <bibl xml:id="LiGotti1944a"> Ettore Li Gotti, <hi rend="italic">L'«Ars nova» e il madrigale</hi>, serie 4, vol. IV, parte II, Atti della Reale Accademia di Scienze Lettere e Arti di Palermo, Palermo, 1944, pp. 339-89.</bibl>
 
                 <bibl xml:id="Corsi1970"> Giuseppe Corsi, <hi rend="italic">Poesie musicali del
                         Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione
-                    di opere inedite o rare, 131) </bibl>
+                    di opere inedite o rare, 131).</bibl>
 
             </listBibl>
         </back>

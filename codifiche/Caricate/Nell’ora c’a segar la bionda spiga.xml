@@ -12,16 +12,16 @@
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
             <respStmt> 
-               <resp> Edited by</resp> 
-               <name> Maria Sofia Lannutti</name> 
+               <resp>Edited by</resp> 
+               <name>Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> Revised by</resp> 
-               <name> Luca Gatti</name> 
+               <resp>Revised by</resp> 
+               <name>Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> TEI-encoded by</resp> 
-               <name> Elvira Mercatanti</name> 
+               <resp>TEI-encoded by</resp> 
+               <name>Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt>
          <publicationStmt>
@@ -108,7 +108,7 @@
 
          <listApp type="formal">
             <listApp>
-               <head> 1</head>
+               <head>1</head>
                <app from="#l1a1" to="#l1a2">
                   <lem>Nell’ora</lem>
                   <rdg>nel nel lora <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
@@ -116,7 +116,7 @@
             </listApp>
 
             <listApp>
-               <head> 2</head>
+               <head>2</head>
                <app from="#l2a1" to="#l2a2">
                   <lem>si lieva ’l villanell’ afflitt’ e stanco</lem>
                   <rdg>si lieva el villanellafflittestan co <witDetail wit="#PitT"><hi rend="italic">rip. l’intero verso </hi></witDetail><wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
@@ -124,9 +124,9 @@
             </listApp>
 
             <listApp>
-               <head> 3</head>
+               <head>3</head>
                <app from="#l3a1" to="#l3a2">
-                  <lem> che</lem>
+                  <lem>che</lem>
                   <rdg wit="#Pit">che che</rdg>
                </app>
 
@@ -137,15 +137,15 @@
             </listApp>
 
             <listApp>
-               <head> 10</head>
+               <head>10</head>
                <app from="#l10a1" to="#l10a2">
-                  <lem> maraviglia e</lem>
+                  <lem>maraviglia e</lem>
                   <rdg>maraviglie <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>
 
             <listApp>
-               <head> 11</head>
+               <head>11</head>
                <app from="#l11a1" to="#l11a2">
                   <lem>e</lem>
                   <rdg>et<wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
@@ -162,13 +162,13 @@
 
          <listBibl type="editions">
             <bibl corresp="#LiGotti1952">
-               Li Gotti 1952, p. 599
+               Li Gotti 1952, p. 599;
             </bibl>
             <bibl corresp="#Sapegno1952">
-               Sapegno 1952, p. 517
+               Sapegno 1952, p. 517;
             </bibl>
             <bibl corresp="#Corsi1970">
-               Corsi 1970, pp. 269-70
+               Corsi 1970, pp. 269-70.
             </bibl>
          </listBibl>
 
@@ -193,13 +193,13 @@
 
          <listBibl type="editionsBibliography">
             <bibl xml:id="LiGotti1952">
-               E. Li Gotti, <hi rend="italic">Paolo tenorista, fiorentino "extra moenia"</hi>, in <hi rend="italic">Estudios dedicados a Menéndez Pidal</hi>, tomo III, Madrid, C.S.I.C., 1952, pp. 577-606
+               E. Li Gotti, <hi rend="italic">Paolo tenorista, fiorentino "extra moenia"</hi>, in <hi rend="italic">Estudios dedicados a Menéndez Pidal</hi>, tomo III, Madrid, C.S.I.C., 1952, pp. 577-606.
             </bibl>
             <bibl xml:id="Sapegno1952">
-               Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952
+               Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952.
             </bibl>
             <bibl xml:id="Corsi1970">
-               Giuseppe Corsi, <hi rend="italic"> Poesie musicali del Trecento</hi> , Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+               Giuseppe Corsi, <hi rend="italic"> Poesie musicali del Trecento</hi> , Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
          </listBibl>
       </back>

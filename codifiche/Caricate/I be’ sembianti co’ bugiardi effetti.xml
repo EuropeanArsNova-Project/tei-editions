@@ -101,7 +101,6 @@
             </witness>
           </listWit>
            <listApp type="substantial">
-            <listApp>
                 <listApp>
                  <head>1</head>
                  <app from="#l1a1" to="#l1a2">
@@ -170,7 +169,7 @@
                   <rdg>e discerner <wit><ref corresp="#SqCt">Sq</ref><hi rend="super">Ct</hi></wit></rdg>
                  </app>
                </listApp>
-            </listApp>
+           </listApp>
          <listApp type="formal">
             <listApp>
                  <head>1</head>
@@ -342,7 +341,7 @@
          </div>
          <listBibl type="editionsBibliography">
             <bibl xml:id="Corsi1970">
-               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
          </listBibl>
       </back>

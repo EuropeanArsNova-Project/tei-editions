@@ -101,7 +101,6 @@
             </witness>
         </listWit>
         <listApp type="substantial">
-            <listApp>
                 <listApp>
                     <head>1</head>
                     <app from="#l1a1" to="#l1a2">
@@ -165,7 +164,7 @@
                         </rdgGrp>
                     </app>
                 </listApp>
-            </listApp>
+        </listApp>
             <listApp type="formal">
                 <listApp>
                     <head>1</head>
@@ -178,7 +177,7 @@
                     <head>2</head>
                     <app from="#l2a5" to="#l2a6">
                         <lem>dal ciel descese un carro d’onor degno,</lem>
-                        <rdg wit="#Lu #MoA #R #Sq"><witDetail><hi rend="italic">ripetono l’intero verso</hi></witDetail></rdg>
+                        <rdg wit="#Lu #MoA #R #Sq"><witDetail wit="#Lu #MoA #R #Sq"><hi rend="italic">ripetono l’intero verso</hi></witDetail></rdg>
                     </app>
                     <app from="#l2a7" to="#l2a8">
                         <lem>descese un</lem>
@@ -284,10 +283,10 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#LiGotti1944">
-                    LiGotti 1944, pp. 146-7.
+                    LiGotti 1944, pp. 146-7;
                 </bibl>
                 <bibl corresp="#LiGotti1950">
-                    Pirrotta-Li Gotti, p. 140.
+                    Pirrotta-Li Gotti, p. 140;
                 </bibl>
                 <bibl corresp="#Corsi1970">
                     Corsi 1970, pp. 241-2.
@@ -305,13 +304,13 @@
             </div>
             <listBibl type="editionsBibliography">
                 <bibl xml:id="LiGotti1944">
-                E. Li Gotti, <hi rend="italic">Poesie musicali italiane del sec. XIV</hi>, «Atti della Reale Accademia di scienze, lettere e arti di Palermo», IV/2 (1944), pp. 99-167
+                E. Li Gotti, <hi rend="italic">Poesie musicali italiane del sec. XIV</hi>, «Atti della Reale Accademia di scienze, lettere e arti di Palermo», IV/2 (1944), pp. 99-167.
                 </bibl>
                 <bibl xml:id="LiGotti1950">
-                N. Pirrotta-E. Li Gotti, <hi rend="italic">Il Codice di Lucca: II. Testi letterari</hi>, «Musica Disciplina», 4 (1950), pp. 111-152
+                N. Pirrotta-E. Li Gotti, <hi rend="italic">Il Codice di Lucca: II. Testi letterari</hi>, «Musica Disciplina», 4 (1950), pp. 111-152.
                 </bibl>
                 <bibl xml:id="Corsi1970">
-                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
                 </bibl>
             </listBibl>
         </back>

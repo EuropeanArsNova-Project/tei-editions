@@ -207,10 +207,10 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#Pirrotta-LiGotti1950">
-                Pirrotta - Li Gotti 1950, p. 147
+                Pirrotta - Li Gotti 1950, p. 147;
             </bibl>
             <bibl corresp="#LiGotti1952">
-                Li Gotti 1952, p. 597
+                Li Gotti 1952, p. 597;
             </bibl>
             <bibl corresp="#Corsi1970">
                 Corsi 1970, p. 278.
@@ -238,7 +238,7 @@
                 N. Pirrotta - E. Li Gotti, <hi rend="italic">Il Codice di Lucca: II. Testi letterari</hi>, «Musica Disciplina», 4 (1950), pp. 111-152.
             </bibl>
             <bibl xml:id="LiGrotti1952">
-                E. Li Gotti, <hi rend="italic">Paolo tenorista, fiorentino "extra moenia"</hi>, in <hi rend="italic">Estudios dedicados a Menéndez Pidal</hi>, tomo III, Madrid, C.S.I.C., 1952, pp. 577-606
+                E. Li Gotti, <hi rend="italic">Paolo tenorista, fiorentino "extra moenia"</hi>, in <hi rend="italic">Estudios dedicados a Menéndez Pidal</hi>, tomo III, Madrid, C.S.I.C., 1952, pp. 577-606.
             </bibl>
             <bibl xml:id="Corsi1970">
                 Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).

@@ -89,7 +89,6 @@
             </witness>
             </listWit>
            <listApp type="substantial">
-            <listApp>
                <listApp>
                  <head>2</head>
                  <app from="#l2a1" to="#l2a2">
@@ -113,10 +112,10 @@
                     <rdg>di trar a <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                   </rdgGrp>
                  </app>
-               </listApp>
-            </listApp>
-         <listApp type="formal">
-         </listApp>
+               </listApp>            
+           </listApp>
+         <!--listApp type="formal">
+         </listApp-->
          <div type="metricalScheme">
             <p>Ballata minore 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z.</p> 
             <p><hi rend="italic">Pagnotta</hi> 111 : 143.</p>
@@ -148,7 +147,7 @@
          </div>
          <listBibl type="editionsBibliography">
             <bibl xml:id="Corsi1970">
-               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
          </listBibl>
       </back>

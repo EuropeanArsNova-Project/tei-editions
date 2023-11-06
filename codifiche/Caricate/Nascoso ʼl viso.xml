@@ -97,7 +97,7 @@
             </witness>
             <witness xml:id="SL">
                 <!--ref target=""-->SL<!--/ref-->
-                cc. <locus>29v-30r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 7-8) <gap reason="illegible" rend="illeggibile"/>, <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">m<supplied reason="illegible">[...]</supplied> de cascia</hi> 
+                cc. <locus>29v-30r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 7-8) illeggibile, <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">m<supplied reason="illegible">[...]</supplied> de cascia</hi> 
             </witness>
          </listWit>
          <listApp type="substantial">
@@ -248,19 +248,19 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#Liuzzi1937">
-                Liuzzi 1937, p. 65
+                Liuzzi 1937, p. 65;
             </bibl>
             <bibl corresp="#LiGotti1944">
-                Li Gotti 1944, p. 132
+                Li Gotti 1944, p. 132;
             </bibl>
             <bibl corresp="#LiGotti1948">
-                Li Gotti 1948, p. 47
+                Li Gotti 1948, p. 47;
             </bibl>
             <bibl corresp="#Sapegno1952">
-                Sapegno 1952, p. 508
+                Sapegno 1952, p. 508;
             </bibl>
             <bibl corresp="#Corsi1969">
-                Corsi 1969, pp. 1012-3
+                Corsi 1969, pp. 1012-3;
             </bibl>
             <bibl corresp="#Corsi1970">
                 Corsi 1970, p. 15.
@@ -285,22 +285,22 @@
          </div>
          <listBibl type="editionsBibliography">
             <bibl xml:id="Liuzzi1937">
-                F. Liuzzi, <hi rend="italic">Musica e poesia del Trecento nel codice Vaticano Rossiano 215</hi>, «Rendiconti della pontificia Accademia Romana di archaeologia», XIII/1-2 (1937), pp. 59-71
+                F. Liuzzi, <hi rend="italic">Musica e poesia del Trecento nel codice Vaticano Rossiano 215</hi>, «Rendiconti della pontificia Accademia Romana di archaeologia», XIII/1-2 (1937), pp. 59-71.
             </bibl>
             <bibl xml:id="LiGotti1944">
-                E. Li Gotti, <hi rend="italic">Poesie musicali italiane del sec. XIV</hi>, «Atti della Reale Accademia di scienze, lettere e arti di Palermo», IV/2 (1944), pp. 99-167
+                E. Li Gotti, <hi rend="italic">Poesie musicali italiane del sec. XIV</hi>, «Atti della Reale Accademia di scienze, lettere e arti di Palermo», IV/2 (1944), pp. 99-167.
             </bibl>
             <bibl xml:id="LiGotti1948">
-                E. Li Gotti, <i>Madrigali del Trecento</i>, «Poesia», 9 (1948), pp. 40-59
+                E. Li Gotti, <hi rend="italic">Madrigali del Trecento</hi>, «Poesia», 9 (1948), pp. 40-59.
             </bibl>
             <bibl xml:id="Sapegno1952">
-                Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952
+                Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952.
                 </bibl>
             <bibl xml:id="Corsi1969">
-                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
+                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969.
             </bibl>
             <bibl xml:id="Corsi1970">
-                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
          </listBibl>
       </back>
