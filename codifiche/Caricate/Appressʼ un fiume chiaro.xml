@@ -75,7 +75,7 @@
             </lg>
             <lg>   
                 <l xml:id="l7">
-                    ANNAmorar <anchor xml:id="l7a7"/>mi<anchor xml:id="l7a8"/> <anchor xml:id="l7a1"/>fé<anchor xml:id="l7a2"/> <anchor xml:id="l7a3"/>ʼl suo visʼ<anchor xml:id="l7a4"/> <anchor xml:id="l7a5"/>umano<anchor xml:id="l7a6"/>,
+                    <name type="senhal" rend="small-caps">Anna</name>morar <anchor xml:id="l7a7"/>mi<anchor xml:id="l7a8"/> <anchor xml:id="l7a1"/>fé<anchor xml:id="l7a2"/> <anchor xml:id="l7a3"/>ʼl suo visʼ<anchor xml:id="l7a4"/> <anchor xml:id="l7a5"/>umano<anchor xml:id="l7a6"/>,
                 </l>
                 <l xml:id="l8">
                     el <anchor xml:id="l8a5"/>dolce<anchor xml:id="l8a6"/> <anchor xml:id="l8a1"/>guardo<anchor xml:id="l8a2"/> e la <anchor xml:id="l8a3"/>pulita<anchor xml:id="l8a4"/> mano.
@@ -274,17 +274,17 @@
             </listApp>
             <div type="metricalScheme">
                 <p>Madrigale 6ʼa 10ʼb 10ʼb, 6ʼc 10ʼd 10ʼd; 10ʼe 10ʼe.</p>
-                <p><hi rend="italic">Capovilla</hi> XLVIII<hi rend="super">4</hi>.</p>
+                <p><hi rend="italic">Capovilla</hi> XLVIII<hi rend="super">4</hi>;</p>
             </div>
             <listBibl type="editions">
                 <bibl corresp="#Sapegno1952">
-                    Sapegno 1952, p. 512.
+                    Sapegno 1952, p. 512;
                 </bibl>
                 <bibl corresp="#Corsi1969">
-                    Corsi 1969, p. 1011.
+                    Corsi 1969, p. 1011;
                 </bibl>
                 <bibl corresp="#Corsi1970">
-                    Corsi 1970, pp. 11-2.
+                    Corsi 1970, pp. 11-12.
                 </bibl>
             </listBibl>
             <div type="commentary">

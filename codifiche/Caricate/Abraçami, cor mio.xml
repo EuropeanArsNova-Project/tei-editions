@@ -94,6 +94,7 @@
                     <app from="#l1a1" to="#l1a2">
                         <lem>abraçami</lem>
                         <rdg>abraçamie <wit><ref target="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>
+                        <rdg>abraçamie <wit>Rs<hi rend="super">T</hi></wit></rdg>
                     </app>
                 </listApp>
                 <listApp>

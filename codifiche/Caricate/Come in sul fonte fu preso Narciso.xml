@@ -94,7 +94,7 @@
                             <anchor xml:id="l10a1"/>A me ne <anchor xml:id="l10a3"/>par <anchor xml:id="l10a4"/>per quel chʼ<anchor xml:id="l10a5"/>appar <anchor xml:id="l10a6"/>di fore<anchor xml:id="l10a2"/>
                         </l>
                         <l xml:id="l11">
-                            qual fu tra Febo <anchor xml:id="l1a1"/>e<anchor xml:id="l1a2"/> Dafne, <anchor xml:id="l11a3"/>odio ed amore<anchor xml:id="l11a4"/>.
+                            qual fu tra Febo <anchor xml:id="l11a1"/>e<anchor xml:id="l11a2"/> Dafne, <anchor xml:id="l11a3"/>odio ed amore<anchor xml:id="l11a4"/>.
                         </l>
                     </lg>
                 </body>
@@ -201,7 +201,7 @@
                         <listApp>
                             <head>10</head>
                             <app from="#l10a1" to="#l10a2">
-                                <rdg wit="#Sq">se non mi inganni me <witDetail><hi rend="italic">(ripetuto tre volte)</hi></witDetail> ne par di fore </rdg>
+                                <rdg wit="#Sq">se non mi inganni me <witDetail wit="#Sq"><hi rend="italic">(ripetuto tre volte)</hi></witDetail> ne par di fore </rdg>
                             </app>
                             <app from="#l10a3" to="#l10a4">
                                 <lem>par</lem>
@@ -226,7 +226,7 @@
                             </app>
                             <app from="#l11a3" to="#l11a4">
                                 <lem>odio ed amore</lem>
-                                <rdg wit="#Td"><del>rancore</del> <add place="above">amore</add> <witDetail><hi rend="italic">con cassatura e sovrascrittura</hi></witDetail></rdg>
+                                <rdg wit="#Td"><del>rancore</del> <add place="above">amore</add> <witDetail wit="#Td"><hi rend="italic">con cassatura e sovrascrittura</hi></witDetail></rdg>
                             </app>
                         </listApp>
                     </listApp>
@@ -300,8 +300,8 @@
                 <front>
                     <!--[ partie préfatoire du deuxième texte ]-->
                 </front>
-                <head><hi rend="italic">Edizione ristretta alla tradizione musicale (Sq)</hi></head>
                 <body>
+                    <head><hi rend="italic">Edizione ristretta alla tradizione musicale (Sq)</hi></head>
                     <lg>
                         <l xml:id="v1">
                             Come in sul fonte fu preso Narcisso,
@@ -324,9 +324,9 @@
                 </body>
                 <back>
                     <listWit>
-                        <witness xml:id="Sq">
+                        <witness>
                             <!--ref target=""-->Sq<!--/ref-->
-                            c. <locus>52r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 10), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 10): <hi rend="italic">magister laurentivs de florentia</hi>
+                            c. <locus>52r</locus>, <abbr>C</abbr> (vv. 1-3 e 10), <abbr>T</abbr> (vv. 1-3 e 10): <hi rend="italic">magister laurentivs de florentia</hi>
                         </witness>
                     </listWit>
                     <listApp type="substantial">
@@ -348,7 +348,7 @@
                             <head>4</head>
                             <app from="#v4a1" to="#v4a2">
                                 <lem>Se non mi inganni me</lem>
-                                <rdg wit="#Sq">desirat <witDetail><hi rend="italic">ripetuto tre volte </hi></witDetail></rdg>
+                                <rdg wit="#Sq">desirat <witDetail wit="#Sq"><hi rend="italic">ripetuto tre volte </hi></witDetail></rdg>
                             </app>
                         </listApp>
                     </listApp>

@@ -137,12 +137,7 @@
                 <listApp>
                     <head>1-4</head>
                     <app from="#l1a1" to="#l4a1">
-                        <lem>Bien dire et sagement parler
-                            doit de cascun qui vuelt a bien venir, 
-                            et sur soy meismes regarder
-                            avant qu’il die de nulluy desplaysir
-                        </lem>
-                        <rdg wit="#Ca3"></rdg>
+                        <rdg wit="#Ca3"/>
                     </app>
                 </listApp>
                 <listApp>
@@ -173,22 +168,7 @@
                 <listApp>
                     <head>8-21</head>
                     <app from="#l8a1" to="#l21a1">
-                        <lem>Les uns ne font que controuver    
-                            honte et domage, et grant blasme acquerir       
-                            sur ceulz qui bien sont [en] am[e]r,	
-                            pour tout leur pris abatre et amentir.           
-                            Ainsi les voudroyent du tout honnir   
-                            par leur enort et [leur] janglerie:	   
-                            maldite soit dont leur conpaignie.
-                            
-                            Les aultres fon de biau parler
-                            et par senblant vuelent chascun servir,    
-                            mais devant ne font que flater,      
-                            car par derrier jamais et pour mourir      
-                            de mesdire ne se pou[v]ent tenir.
-                            Si pry chascun que de bon cuer die:
-                            «maldite soit dont leur conpaignie». </lem>
-                        <rdg wit="#Ca3"></rdg>
+                        <rdg wit="#Ca3"/>
                     </app>
                 </listApp>
                 <listApp>

@@ -86,7 +86,7 @@
         <listWit>            
            <witness xml:id="Pit"> 
               <!--ref target="X"--> Pit<!--/ref--> 
-               c. 84r,<abbr xml:id="PitC"> C</abbr> (vv.1-4):<hi rend="italic"> do(mino) paolo</hi> 
+               c. 84r,<abbr xml:id="PitC">C</abbr> (vv.1-4): <hi rend="italic">do(mino) paolo</hi> 
            </witness> 
         </listWit> 
 
@@ -112,7 +112,7 @@
 
         <listBibl type="editions"> 
            <bibl corresp="#LiGotti1952"> 
-               Li Gotti 1952, p. 606.
+               Li Gotti 1952, p. 606;
            </bibl> 
 
            <bibl corresp="#Corsi1970"> 
@@ -136,11 +136,11 @@
 
         <listBibl type="editionsBibliography"> 
            <bibl xml:id="LiGotti1952"> 
-               E. Li Gotti,<hi rend="italic"> Paolo tenorista, fiorentino "extra moenia"</hi> , in<hi rend="italic"> Estudios dedicados a Menéndez Pidal</hi> , tomo III, Madrid, C.S.I.C., 1952, pp. 577-606
+               E. Li Gotti,<hi rend="italic"> Paolo tenorista, fiorentino "extra moenia"</hi> , in<hi rend="italic"> Estudios dedicados a Menéndez Pidal</hi> , tomo III, Madrid, C.S.I.C., 1952, pp. 577-606.
            </bibl> 
 
            <bibl xml:id="Corsi1970"> 
-               Giuseppe Corsi,<hi rend="italic"> Poesie musicali del Trecento</hi> , Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+               Giuseppe Corsi,<hi rend="italic"> Poesie musicali del Trecento</hi> , Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
            </bibl> 
         </listBibl> 
      </back> 

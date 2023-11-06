@@ -85,9 +85,9 @@
 
             <listApp type="substantial">
                 <listApp>
-                    <head> 1</head>
+                    <head>1</head>
                     <app from="#l1a1" to="#l1a2">
-                        <lem> fece</lem>
+                        <lem>fece</lem>
                         <rdg>feci <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>
@@ -98,15 +98,15 @@
 
             <listApp type="formal">
                 <listApp>
-                    <head> 2</head>
+                    <head>2</head>
                     <app from="#l2a1" to="#l2a2">
-                        <lem> sfiachʼ</lem>
-                        <rdg> sfiacha <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                        <lem>sfiachʼ</lem>
+                        <rdg>sfiacha <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
 
                     <app from="#l2a3" to="#l2a4">
-                        <lem> tiene</lem>
-                        <rdg> tene <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                        <lem>tiene</lem>
+                        <rdg>tene <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
                 </listApp>
 
@@ -114,8 +114,8 @@
                 <listApp>
                     <head> 3</head>
                     <app from="#l3a1" to="#l3a2">
-                        <lem> maʼ</lem>
-                        <rdg> mai <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                        <lem>maʼ</lem>
+                        <rdg>mai <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                     </app>                    
                 </listApp>
 
@@ -123,8 +123,8 @@
                 <listApp>
                     <head> 8</head>
                     <app from="#l8a1" to="#l8a2">
-                        <lem> chʼiʼ odo</lem>
-                        <rdg> chʼio odo  <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                        <lem>chʼiʼ odo</lem>
+                        <rdg>chʼio odo  <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                     </app>
 
                 </listApp>
@@ -132,17 +132,17 @@
 
 
             <div type="metricalScheme">
-                <p> Madrigale 10ʼa 10ʼb 10ʼb, (6’b)10ʼc 10ʼd 10ʼd; 10ʼe 10ʼe.</p>
+                <p>Madrigale 10ʼa 10ʼb 10ʼb, (6’b)10ʼc 10ʼd 10ʼd; 10ʼe 10ʼe.</p>
                 <p><hi rend="italic">Capovilla</hi> XLVIII.</p>
-                <p> Rima interna ai vv. 3-4; rima inclusiva ai vv. 7 : 8.</p>
+                <p>Rima interna ai vv. 3-4; rima inclusiva ai vv. 7 : 8.</p>
             </div>
 
 
             <listBibl type="editions">
 
-                <bibl corresp="#LiGotti1944a"> Li Gotti 1944a, pp. 380-1</bibl>
+                <bibl corresp="#LiGotti1944a"> Li Gotti 1944a, pp. 380-1;</bibl>
 
-                <bibl corresp="#Corsi1970"> Corsi 1970, pp. 30-1</bibl>
+                <bibl corresp="#Corsi1970"> Corsi 1970, pp. 30-1.</bibl>
 
             </listBibl>
 
@@ -168,11 +168,11 @@
 
             <listBibl type="editionsBibliography">
 
-                <bibl xml:id="LiGotti1944a"> Ettore Li Gotti, <hi rend="italic">L'«Ars nova» e il madrigale</hi>, in «Atti della Reale Accademia di Scienze Lettere e Arti di Palermo», serie 4, vol. IV, parte II. (1944), pp. 339-89 </bibl>
+                <bibl xml:id="LiGotti1944a"> Ettore Li Gotti, <hi rend="italic">L'«Ars nova» e il madrigale</hi>, in «Atti della Reale Accademia di Scienze Lettere e Arti di Palermo», serie 4, vol. IV, parte II. (1944), pp. 339-89.</bibl>
 
                 <bibl xml:id="Corsi1970"> Giuseppe Corsi, <hi rend="italic">Poesie musicali del
                         Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione
-                    di opere inedite o rare, 131) </bibl>
+                    di opere inedite o rare, 131).</bibl>
 
             </listBibl>
         </back>

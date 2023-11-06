@@ -122,10 +122,10 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#Bertoni1917">
-                Bertoni 1917, p. 43
+                Bertoni 1917, p. 43;
             </bibl>
             <bibl corresp="#Apel-Rosenberg1970">
-                Apel-Rosenberg 1970, p. XLV
+                Apel-Rosenberg 1970, p. XLV;
             </bibl>
             <bibl corresp="#Vivarelli2005">
                 Vivarelli 2005, p. 97.
@@ -149,10 +149,10 @@
                 Giulio Bertoni, <hi rend="italic">Poesie musicali francesi nel cod. Estense Lat. n. 568</hi>, «Archivium Romanicum» 1 (1917), pp. 21-57.
             </bibl>
             <bibl xml:id="Apel-Rosenberg1970">
-                <hi rend="italic">French Secular Compositions of the Fourteenth Century, </hi>I. <hi rend="italic">Ascribed Compositions</hi>, ed. by W. Apel. Edition of the literary texts by S. N. Rosenberg., Roma, AIM, 1970 (CMM, 53/1)
+                <hi rend="italic">French Secular Compositions of the Fourteenth Century, </hi>I. <hi rend="italic">Ascribed Compositions</hi>, ed. by W. Apel. Edition of the literary texts by S. N. Rosenberg., Roma, AIM, 1970 (CMM, 53/1).
             </bibl>
             <bibl xml:id="Vivarelli2005">
-                Carla Vivarelli, <hi rend="italic">Le composizioni francesi di Filippotto e Antonello da Caserta tràdite nel Codice Estense a.M.5.24</hi>, Pisa, ETS, 2005 («Diverse voci... 6»)
+                Carla Vivarelli, <hi rend="italic">Le composizioni francesi di Filippotto e Antonello da Caserta tràdite nel Codice Estense a.M.5.24</hi>, Pisa, ETS, 2005 («Diverse voci... 6»).
             </bibl>
          </listBibl>
       </back>

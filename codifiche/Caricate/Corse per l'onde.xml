@@ -98,7 +98,7 @@
                <app from="#l2a1" to="#l2a2">
                   <lem>mia</lem>
                   <rdg>mie <wit><ref target="#PitT">Pit<hi rend="super">T</hi></ref></wit>
-                  <wit><ref target="#SLT"> SL</ref><hi rend="super">T</hi></wit></rdg>
+                  <wit><ref target="#SLT">SL</ref><hi rend="super">T</hi></wit></rdg>
                </app>
               </listApp>
               <listApp>
@@ -134,10 +134,10 @@
          </div-->
          <listBibl type="editionsBibliography">
             <bibl xml:id="Corsi1969">
-               G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
+               G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969.
             </bibl>
             <bibl xml:id="Corsi1970">
-               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
          </listBibl>
       </back>

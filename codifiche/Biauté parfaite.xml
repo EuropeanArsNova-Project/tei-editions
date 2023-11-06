@@ -251,7 +251,7 @@
                             <head>12</head>
                             <app from="#l12a1" to="#l12a2">
                                 <lem>si que pour ce ma joie est si finee</lem>
-                                <rdg type="indifferentVariant" wit="#MachB">si que ma ioie en est pour ce finee <witDetail><hi rend="italic">con en aggiunto da altra mano </hi></witDetail></rdg>
+                                <rdg type="indifferentVariant" wit="#MachB">si que ma ioie en est pour ce finee <witDetail wit="MachB"><hi rend="italic">con en aggiunto da altra mano </hi></witDetail></rdg>
                                 <rdg type="indifferentVariant" wit="#MachD">si que ma ioie est pour ce finee </rdg>
                             </app>
                         </listApp>
@@ -277,7 +277,7 @@
                             <head>17</head>
                             <app from="#l17a1" to="#l17a2">
                                 <lem>sceüst</lem>
-                                <rdg wit="#MachB">‹sceust› <witDetail><hi rend="italic">con seut aggiunto a margine </hi></witDetail></rdg>
+                                <rdg wit="#MachB">‹sceust› <witDetail wit="MachB"><hi rend="italic">con seut aggiunto a margine </hi></witDetail></rdg>
                                 <rdg wit="#MachM">scut</rdg>
                             </app>
                             <app from="#l17a3" to="#l17a4">
@@ -320,7 +320,7 @@
                                 <head>2</head>
                                 <app from="#l2a3" to="#l2a4">
                                     <lem>douçour</lem>
-                                    <rdg wit="#MachB">doulcor <witDetail><hi rend="italic">con -l- aggiunta da altra mano</hi></witDetail></rdg>
+                                    <rdg wit="#MachB">doulcor <witDetail wit="#MachB"><hi rend="italic">con -l- aggiunta da altra mano</hi></witDetail></rdg>
                                     <rdg wit="#MachD #MachM">douceur</rdg>
                                     <rdg wit="#MoA">doucur </rdg>
                                 </app>
@@ -454,7 +454,7 @@
                                 <head>16</head>
                                 <app from="#l16a1" to="#l16a2">
                                     <lem>douce </lem>
-                                    <rdg wit="#MachB">doulce <witDetail><hi rend="italic">con -l- aggiunta da altra mano </hi></witDetail></rdg>
+                                    <rdg wit="#MachB">doulce <witDetail wit="#MachB"><hi rend="italic">con -l- aggiunta da altra mano </hi></witDetail></rdg>
                                 </app>
                             </listApp>
                             <listApp>
@@ -504,8 +504,8 @@
                 <front>
                     <!--[ partie préfatoire du deuxième texte ]-->
                 </front>
-                <head><hi rend="italic">Edizione ristretta all'edizione musicale (MoA)</hi></head>
                 <body>
+                    <head><hi rend="italic">Edizione ristretta all'edizione musicale (MoA)</hi></head>
                     <lg>
                         <l xml:id="v1">
                             Beauté parfaite <supplied>[<anchor xml:id="v1a1"/>et<anchor xml:id="v1a2"/>]</supplied> bonté sovraine,
@@ -531,18 +531,12 @@
                     </lg>
                 </body>
                 <back>
-                    <listWit>
-                        <witness xml:id="MoA">
-                            <!--ref target=""-->MoA<!--/ref-->
-                            c. <locus>14r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-7): <hi rend="italic">idem</hi> [c. 13: <hi rend="italic">anthonello de caserta</hi>]
-                        </witness>
-                    </listWit>
                     <listApp type="substantial">
                         <listApp>
                             <head>1</head>
                             <app from="#v1a1" to="#v1a2">
                                 <lem>et</lem>
-                                <rdg wit="#MoA #R"/>
+                                <rdg wit="#MoA"/>
                             </app>
                         </listApp>
                         <listApp>

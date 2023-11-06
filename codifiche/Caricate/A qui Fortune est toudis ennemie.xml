@@ -79,7 +79,7 @@
         <back>
             <listWit>
                 <witness xml:id="MoA">
-                    <!--ref target="X"-->MoA<!--/ref--> cc. <locus>20v-21r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-8),<hi rend="italic">anthonellus </hi> [c. 21r: <hi rend="italic">m(agiste)r filipoctus</hi>]
+                    <!--ref target="X"-->MoA<!--/ref--> cc. <locus>20v-21r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-8), <hi rend="italic">anthonellus</hi> [c. 21r: <hi rend="italic">m(agiste)r filipoctus</hi>]
                 </witness>
             </listWit>
 
@@ -134,7 +134,7 @@
 
             <listBibl type="editionsBibliography">
                 
-                <bibl xml:id="ApelRosenberg1972"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. III, Anonymous Virelais, Rondeaux, Chansons, Canons</hi>, ed. by W. Apel, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1972 (CMM, 53/3)</bibl>
+                <bibl xml:id="ApelRosenberg1972"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. III, Anonymous Virelais, Rondeaux, Chansons, Canons</hi>, ed. by W. Apel, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1972 (CMM, 53/3).</bibl>
 
             </listBibl>
         </back>

@@ -397,13 +397,13 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#LiGotti1944">
-                Li Gotti 1944, p. 142
+                Li Gotti 1944, p. 142;
             </bibl>
             <bibl corresp="#LiGotti1948">
-                Li Gotti 1948, pp. 48-9
+                Li Gotti 1948, pp. 48-9;
             </bibl>
             <bibl corresp="#Corsi1969">
-                Corsi 1969, p. 1023
+                Corsi 1969, p. 1023;
             </bibl>
             <bibl corresp="#Corsi1970">
                 Corsi 1970, pp. 44-5.
@@ -440,16 +440,16 @@
          </div>
          <listBibl type="editionsBibliography">
             <bibl xml:id="LiGotti1944">
-                E. Li Gotti, <hi rend="italic">Poesie musicali italiane del sec. XIV</hi>, in «Atti della Reale Accademia di scienze, lettere e arti di Palermo», IV/2 (1944), pp. 99-167
+                E. Li Gotti, <hi rend="italic">Poesie musicali italiane del sec. XIV</hi>, in «Atti della Reale Accademia di scienze, lettere e arti di Palermo», IV/2 (1944), pp. 99-167.
             </bibl>
             <bibl xml:id="LiGotti1948">
-                E. Li Gotti, <hi rend="italic">Madrigali del Trecento</hi>, in «Poesia», 9 (1948), pp. 40-59
+                E. Li Gotti, <hi rend="italic">Madrigali del Trecento</hi>, in «Poesia», 9 (1948), pp. 40-59.
             </bibl>
             <bibl xml:id="Corsi1969">
-                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
+                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969.
             </bibl>
             <bibl xml:id="Corsi1970">
-                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
          </listBibl>
       </back>

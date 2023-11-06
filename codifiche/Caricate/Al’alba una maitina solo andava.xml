@@ -86,13 +86,13 @@
                <head> 3</head>
                <app from="#l3a1" to="#l3a2">
                   <lem> trovai che sola </lem>
-                  <rdg><gap reason="illegible" rend="ill."/> <wit><ref corresp="#RsT">Rs <hi rend="super">T</hi></ref></wit></rdg>
+                  <rdg><gap reason="illegible" rend="ill."/> <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>
                </app>
                
                <app from="#l3a3" to="#l3a4">
                   <lem> stava</lem>
-                  <rdg> sta<gap reason="illegible" unit="chars" quantity="2" rend="**"/> <wit><ref corresp="#RsC">Rs <hi rend="super">C</hi></ref></wit></rdg>
-                  <rdg> <gap reason="illegible" unit="chars" quantity="3" rend="***"/>va <wit><ref corresp="#RsT">Rs <hi rend="super">T</hi></ref></wit> </rdg>
+                  <rdg> sta<gap reason="illegible" unit="chars" quantity="2" rend="**"/> <wit><ref corresp="#RsC">Rs<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg> <gap reason="illegible" unit="chars" quantity="3" rend="***"/>va <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>
             
@@ -100,7 +100,7 @@
                <head> 7</head>
                <app from="#l7a1" to="#l7a2">
                   <lem> I’ ò nom Çiliola</lem>
-                  <rdg> <gap reason="illegible" rend="ill."/> <wit><ref corresp="#RsT">Rs <hi rend="super">T</hi></ref></wit></rdg>
+                  <rdg> <gap reason="illegible" rend="ill."/> <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>
                </app>               
             </listApp>
             
@@ -108,12 +108,12 @@
                <head> 8</head>
                <app from="#l8a1" to="#l8a2">
                   <lem> me’ pare Uberto, mia mare</lem>
-                  <rdg> <gap reason="illegible" rend="ill."/> <wit><ref corresp="#RsT">Rs <hi rend="super">T</hi></ref></wit></rdg>                  
+                  <rdg> <gap reason="illegible" rend="ill."/> <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>                  
                </app>
                
                <app from="#l8a3" to="#l8a4">
                   <lem> Vïola</lem>
-                  <rdg> <gap reason="illegible" rend="ill. per l.m."/> <wit><ref corresp="#RsC">Rs <hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg> <gap reason="illegible" rend="ill. per l.m."/> <wit><ref corresp="#RsC">Rs<hi rend="super">C</hi></ref></wit></rdg>
                </app>               
             </listApp>
                
@@ -126,7 +126,7 @@
                <head> 7</head>
                <app from="#l7a3" to="#l7a4">
                   <lem> rispose</lem>
-                  <rdg> respose <wit><ref corresp="#RsT">Rs <hi rend="super">T</hi></ref></wit></rdg>
+                  <rdg> respose <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>
                </app>               
             </listApp>
             
@@ -134,7 +134,7 @@
                <head> 8</head>
                <app from="#l8a5" to="#l8a6">
                   <lem> mia</lem>
-                  <rdg> me <wit><ref corresp="#RsT">Rs <hi rend="super">T</hi></ref></wit></rdg>                  
+                  <rdg> me <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>                  
                </app>
                
             </listApp>
@@ -147,11 +147,11 @@
 
 
          <listBibl type="editions">
-            <bibl corresp="Mischiati1966"> Mischiati 1966, p. 75</bibl>
+            <bibl corresp="Mischiati1966"> Mischiati 1966, p. 75;</bibl>
             
-            <bibl corresp="#Pirrotta1992"> Pirrotta 1992, p. 37</bibl>
+            <bibl corresp="#Pirrotta1992"> Pirrotta 1992, p. 37;</bibl>
 
-            <bibl corresp="#Sucato2003"> Sucato 2003, p. 89</bibl>
+            <bibl corresp="#Sucato2003"> Sucato 2003, p. 89.</bibl>
          </listBibl>
 
 
@@ -170,11 +170,11 @@
 
 
          <listBibl type="editionsBibliography">
-            <bibl xml:id="Mischiati1966"> O. Mischiati, <hi rend="italic">Uno sconosciuto frammento appartenente al codice Vaticano Rossi 215</hi>, «Rivista italiana di musicologia», 1 (1966), pp. 68-76</bibl>
+            <bibl xml:id="Mischiati1966"> O. Mischiati, <hi rend="italic">Uno sconosciuto frammento appartenente al codice Vaticano Rossi 215</hi>, «Rivista italiana di musicologia», 1 (1966), pp. 68-76.</bibl>
             
-            <bibl xml:id="Pirrotta1992"> N. Pirrotta, <hi rend="italic">Il codice Rossi 215 della Biblioteca Apostolica Vaticana. Con i frammenti della fondazione Opera pia don Giuseppe Greggiati di Ostiglia</hi>, Lucca, LIM, 1992 </bibl>
+            <bibl xml:id="Pirrotta1992"> N. Pirrotta, <hi rend="italic">Il codice Rossi 215 della Biblioteca Apostolica Vaticana. Con i frammenti della fondazione Opera pia don Giuseppe Greggiati di Ostiglia</hi>, Lucca, LIM, 1992.</bibl>
             
-            <bibl xml:id="Sucato2003"> Tiziana Sucato, <hi rend="italic">Il codice rossiano 215. Madrigali, ballate, una caccia, un rotondello</hi>, Pisa, ETS, 2003 («Diverse voci...» 1) </bibl>
+            <bibl xml:id="Sucato2003"> Tiziana Sucato, <hi rend="italic">Il codice rossiano 215. Madrigali, ballate, una caccia, un rotondello</hi>, Pisa, ETS, 2003 («Diverse voci...» 1).</bibl>
          </listBibl>
       </back>
    </text>
