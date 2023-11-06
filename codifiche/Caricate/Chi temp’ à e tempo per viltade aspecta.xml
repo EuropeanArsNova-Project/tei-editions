@@ -57,18 +57,18 @@
                 <body>
                     <lg>
                         <l xml:id="l1">
-		                    Chi <anchor xml:id="l1a1"/>temp’ à <anchor xml:id="l1a3"/>e<anchor xml:id="l1a4"/> tempo per viltade<anchor xml:id="l1a2"/> <anchor xml:id="l1a5"/>aspecta<anchor xml:id="l1a6"/>,
+                            Chi <anchor xml:id="l1a1"/>temp’ à <anchor xml:id="l1a3"/>e<anchor xml:id="l1a4"/> tempo per viltade<anchor xml:id="l1a2"/> <anchor xml:id="l1a5"/>aspecta<anchor xml:id="l1a6"/>,
 	                    </l>
                         <l xml:id="l2">
-		                    <anchor xml:id="l2a1"/>se<anchor xml:id="l2a2"/> <anchor xml:id="l2a3"/>quel el perde<anchor xml:id="l2a4"/>, <anchor xml:id="l2a5"/>no·l<anchor xml:id="l2a6"/> <anchor xml:id="l2a7"/>raquista<anchor xml:id="l2a8"/> <anchor xml:id="l2a9"/>in<anchor xml:id="l2a10"/> <anchor xml:id="l2a11"/>fretta<anchor xml:id="l2a12"/>.
+                            <anchor xml:id="l2a1"/>se<anchor xml:id="l2a2"/> <anchor xml:id="l2a3"/>quel el perde<anchor xml:id="l2a4"/>, <anchor xml:id="l2a5"/>no·l<anchor xml:id="l2a6"/> <anchor xml:id="l2a7"/>raquista<anchor xml:id="l2a8"/> <anchor xml:id="l2a9"/>in<anchor xml:id="l2a10"/> <anchor xml:id="l2a11"/>fretta<anchor xml:id="l2a12"/>.
 	                    </l>
                     </lg>
                     <lg>
                         <l xml:id="l3">
-		                    Però chi dé far <anchor xml:id="l3a1"/>façça<anchor xml:id="l3a2"/>,
+                            Però chi dé far <anchor xml:id="l3a1"/>façça<anchor xml:id="l3a2"/>,
 	                    </l>
                         <l xml:id="l4">
-		                    <anchor xml:id="l4a1"/>perch’ al<anchor xml:id="l4a2"/> ben far non <anchor xml:id="l4a3"/>richede<anchor xml:id="l4a4"/> dimora,
+                            <anchor xml:id="l4a1"/>perch’ al<anchor xml:id="l4a2"/> ben far non <anchor xml:id="l4a3"/>richede<anchor xml:id="l4a4"/> dimora,
 	                    </l>
                         <l xml:id="l5" n="5">
                             e gran tempo se caçça   
@@ -77,10 +77,10 @@
                             quel che fortuna concede in un’ora. 
 	                    </l>
                         <l xml:id="l7">
-		                    Finché ventura <anchor xml:id="l7a1"/>vol<anchor xml:id="l7a2"/>, <anchor xml:id="l7a3"/>donqua<anchor xml:id="l7a4"/>, lavora,
+                            Finché ventura <anchor xml:id="l7a1"/>vol<anchor xml:id="l7a2"/>, <anchor xml:id="l7a3"/>donqua<anchor xml:id="l7a4"/>, lavora,
 	                    </l>
                         <l xml:id="l8">
-		                    ché ’l tempo <anchor xml:id="l8a1"/>vola<anchor xml:id="l8a2"/> quanto una <anchor xml:id="l8a3"/>saietta<anchor xml:id="l8a4"/>.
+                            ché ’l tempo <anchor xml:id="l8a1"/>vola<anchor xml:id="l8a2"/> quanto una <anchor xml:id="l8a3"/>saietta<anchor xml:id="l8a4"/>.
 	                    </l>
                     </lg>
                 </body>
@@ -107,7 +107,7 @@
                         <listApp>
                             <head>1</head>
                             <app from="#l1a1" to="#l1a2">
-                                <lem>temp’ à e tempo per viltade</lem>
+                                <lem>temp’ à e tempo per viltade</lem>
                                 <rdg wit="#R #Sq">tempo a e per vilta tempo</rdg>
                             </app>
                         </listApp>
@@ -245,13 +245,13 @@
                     </div>
                     <listBibl type="editions">
                         <bibl corresp="#Frati1915">
-                            Frati 1915, p. 85.
+                            Frati 1915, p. 85;
                         </bibl>
                         <bibl corresp="#Sapegno 1952">
-                            Sapegno 1952, p. 491.
+                            Sapegno 1952, p. 491;
                         </bibl>
                         <bibl corresp="#Corsi1970">
-                            Corsi 1970, pp. XCVIII-XCIX.
+                            Corsi 1970, pp. XCVIII-XCIX;
                         </bibl>
                         <bibl corresp="#Marcon2021">
                             Marcon 2021, p. 95.
@@ -268,20 +268,20 @@
                             <!--Riferimento bibliografico-->
                         </bibl>
                         <bibl xml:id="Sapegno1952">
-                            Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952
+                            Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952.
                         </bibl>
                         <bibl xml:id="Corsi1970">
-                            Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                            Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
                         </bibl>
                         <bibl xml:id="Marcon2021">
-                            <hi rend="italic">Nuova edizione commentata delle </hi>Rime<hi rend="italic"> di Matteo Griffoni</hi>, a cura di G. Marcon, Ravenna, Pozzi, 2021
+                            <hi rend="italic">Nuova edizione commentata delle </hi>Rime<hi rend="italic"> di Matteo Griffoni</hi>, a cura di G. Marcon, Ravenna, Pozzi, 2021.
                         </bibl>
                     </listBibl>
                 </back>
             </text>
             <text type="secondaryText">
-                <front>
-                </front>
+                <!--front>
+                </front-->
                 <body>
                     <head><hi rend="italic">Edizione ristretta alla tradizione musicale</hi> (Sq)</head>
                     <lg>
@@ -313,8 +313,8 @@
                         </l>
                     </lg>
                 </body>
-                <back>
-                </back>
+                <!--back>
+                </back-->
             </text>
         </group>
     </text>

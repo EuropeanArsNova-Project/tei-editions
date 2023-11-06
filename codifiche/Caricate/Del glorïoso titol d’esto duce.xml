@@ -13,16 +13,16 @@
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
             <respStmt> 
-               <resp> Edited by</resp> 
-               <name> Maria Sofia Lannutti</name> 
+               <resp>Edited by</resp> 
+               <name>Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> Revised by</resp> 
-               <name> Luca Gatti</name> 
+               <resp>Revised by</resp> 
+               <name>Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> TEI-encoded by</resp> 
-               <name> Elvira Mercatanti</name> 
+               <resp>TEI-encoded by</resp> 
+               <name>Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt>
          <publicationStmt>
@@ -108,7 +108,7 @@
             <listApp>
                <head>1</head>
                <app from="#l1a1" to="#l1a2">
-                  <lem> titol</lem>
+                  <lem>titol</lem>
                   <rdg wit="#Lu">titolo</rdg>
                </app>   
             </listApp>
@@ -116,19 +116,19 @@
             <listApp>
                <head>2</head>
                <app from="#l2a1" to="#l2a2">
-                  <lem> çascun</lem>
-                  <rdg wit="#Lu">ça zaschuz </rdg>
+                  <lem>çascun</lem>
+                  <rdg wit="#Lu">ça zaschuz</rdg>
                </app>          
 
                <app from="#l2a3" to="#l2a4">
                   <lem> fest’</lem>
-                  <rdg>festa <wit><ref corresp="#LuC">Lu <hi rend="super">C</hi></ref></wit></rdg>
-                  <rdg>festi <wit><ref corresp="#LuT">Lu <hi rend="super">T</hi></ref></wit></rdg>
+                  <rdg>festa <wit><ref corresp="#LuC">Lu<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg>festi <wit><ref corresp="#LuT">Lu<hi rend="super">T</hi></ref></wit></rdg>
                </app>
 
                <app from="#l2a5" to="#l2a6">
-                  <lem> sì</lem>
-                  <rdg> se<wit><ref corresp="#LuT">Lu <hi rend="super">T</hi></ref></wit></rdg>
+                  <lem>sì</lem>
+                  <rdg>se<wit><ref corresp="#LuT">Lu<hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>
          </listApp>
@@ -139,33 +139,33 @@
             <listApp>
                <head>1</head>
                <app from="#l1a3" to="#l1a4">
-                  <lem> Del</lem>
-                  <rdg wit="#Lu"> del del</rdg>
+                  <lem>Del</lem>
+                  <rdg wit="#Lu">del del</rdg>
                </app>
             </listApp>
 
             <listApp>
                <head>3</head>
                <app from="#l3a1" to="#l3a2">
-                  <lem> che</lem>
-                  <rdg wit="#Lu"> che che</rdg>
+                  <lem>che</lem>
+                  <rdg wit="#Lu">che che</rdg>
                </app>
             </listApp>
 
             <listApp>
-               <head> 7</head>
+               <head>7</head>
                <app from="#l7a1" to="#l7a2">
-                  <lem> Ma</lem>
-                  <rdg wit="#Lu"> ma ma</rdg>
+                  <lem>Ma</lem>
+                  <rdg wit="#Lu">ma ma</rdg>
                </app>
             </listApp>
          </listApp>
 
 
          <div type="metricalScheme">
-            <p> Madrigale con doppio ritornello 10’a 10’b 10’b, 10’c 10’d 10’d; 10’e 10’e; 10’f 10’f.</p>
-            <p> <hi rend="italic">Capovilla </hi>XLIX.</p>
-            <p> Punti sottoscritti: v. 1 (<hi rend="italic">titolo</hi>) Lu; v. 2 (<hi rend="italic">festi</hi>) Lu; v. 6 (<hi rend="italic">sposo</hi>) Lu; v. 7 (<hi rend="italic">questo</hi>) Lu; v. 8 (<hi rend="italic">novo</hi>), (<hi rend="italic">triumfi</hi>) Lu.</p>
+            <p>Madrigale con doppio ritornello 10’a 10’b 10’b, 10’c 10’d 10’d; 10’e 10’e; 10’f 10’f.</p>
+            <p><hi rend="italic">Capovilla </hi>XLIX.</p>
+            <p>Punti sottoscritti: v. 1 (<hi rend="italic">titolo</hi>) Lu; v. 2 (<hi rend="italic">festi</hi>) Lu; v. 6 (<hi rend="italic">sposo</hi>) Lu; v. 7 (<hi rend="italic">questo</hi>) Lu; v. 8 (<hi rend="italic">novo</hi>), (<hi rend="italic">triumfi</hi>) Lu.</p>
          </div>
 
 
@@ -207,7 +207,7 @@
 
          <listBibl type="editionsBibliography">
             <bibl xml:id="Pirrotta-LiGotti1950">
-              N. Pirrotta-E. Li Gotti, <hi rend="italic">Il Codice di Lucca: II. Testi letterari</hi>, «Musica Disciplina», 4 (1950), pp. 111-152
+              N. Pirrotta-E. Li Gotti, <hi rend="italic">Il Codice di Lucca: II. Testi letterari</hi>, «Musica Disciplina», 4 (1950), pp. 111-152.
             </bibl>
          </listBibl>
       </back>

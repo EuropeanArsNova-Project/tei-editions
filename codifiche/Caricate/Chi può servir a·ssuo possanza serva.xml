@@ -61,12 +61,12 @@
 	        </l>
         </lg>
         <lg>
-            <l xml:id="l3">
-		      El ben servir con fé ma’ non si perde,
-	        </l>
+           <l xml:id="l3">
+               El ben servir con fé ma’ non si perde,
+            </l>
             <l xml:id="l4">
-		      benché talor à tardi guidardone,
-	        </l>
+               benché talor à tardi guidardone,
+            </l>
             <l xml:id="l5" n="5">
               et quando tempo produce ’l fior verde,
 	        </l>
@@ -105,8 +105,9 @@
                  </app>
                </listApp>
             </listApp>
-         <listApp type="formal">
-         </listApp>
+           </listApp>
+         <!--listApp type="formal">
+         </listApp-->
          <div type="metricalScheme">
             <p>Ballata minore 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z.</p> 
             <p><hi rend="italic">Pagnotta</hi> 111 : 105.</p>
@@ -126,7 +127,7 @@
          </div>
          <listBibl type="editionsBibliography">
             <bibl xml:id="Corsi1970">
-               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
          </listBibl>
       </back>

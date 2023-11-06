@@ -121,10 +121,10 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#LiGotti1944">
-                Li Gotti 1944, p. 142
+                Li Gotti 1944, p. 142;
             </bibl>
             <bibl corresp="#Corsi1970">
-                Corsi 1970, p. 79
+                Corsi 1970, p. 79;
             </bibl>
             <bibl corresp="#Fantini2015-2016">
                 Fantini 2015-2016, pp. 149-51.
@@ -145,13 +145,13 @@
          </div> -->
          <listBibl type="editionsBibliography">
             <bibl xml:id="LiGotti1944">
-                E. Li Gotti, <hi rend="italic">Poesie musicali italiane del sec. XIV</hi>, in «Atti della Reale Accademia di scienze, lettere e arti di Palermo», IV/2 (1944), pp. 99-167
+                E. Li Gotti, <hi rend="italic">Poesie musicali italiane del sec. XIV</hi>, in «Atti della Reale Accademia di scienze, lettere e arti di Palermo», IV/2 (1944), pp. 99-167.
             </bibl>
             <bibl xml:id="Corsi1970">
-                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
             <bibl xml:id="Fantini2015-2016">
-                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016
+                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016.
             </bibl>
          </listBibl>
       </back>

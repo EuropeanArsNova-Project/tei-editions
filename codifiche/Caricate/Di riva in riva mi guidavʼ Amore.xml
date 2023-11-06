@@ -115,15 +115,15 @@
                 <head>2</head>
                 <app from="#l2a1" to="#l2a2">
                     <lem>d’un</lem>
-                    <rdg wit="#Mar">du </rdg>
+                    <rdg wit="#Mar">du</rdg>
                 </app>
             </listApp>
             <listApp>
                 <head>3</head>
                 <app from="#l3a1" to="#l3a2">
                     <lem>a una fonte</lem>
-                    <rdg wit="#Sq">a ppie duna fonte </rdg>
-                    <rdg wit="#Fp">a pie una fonte </rdg>
+                    <rdg wit="#Sq">a ppie duna fonte</rdg>
+                    <rdg wit="#Fp">a pie una fonte</rdg>
                 </app>
             </listApp>
             <listApp>
@@ -138,25 +138,25 @@
                 <app from="#l5a1" to="#l5a2">
                     <lem>mi face gir</lem>
                     <rdg>mi facea gir <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
-                    <rdg wit="#Mar">face gir me </rdg>
+                    <rdg wit="#Mar">face gir me</rdg>
                 </app>
             </listApp>
             <listApp>
                 <head>6</head>
                 <app from="#l6a1" to="#l6a2">
                     <lem>feʼ</lem>
-                    <rdg wit="#Mar">fa </rdg>
+                    <rdg wit="#Mar">fa</rdg>
                 </app>
                 <app from="#l6a3" to="#l6a4">
                     <lem>veder</lem>
-                    <rdg wit="#Mar">viver </rdg>
+                    <rdg wit="#Mar">viver</rdg>
                 </app>
             </listApp>
             <listApp>
                 <head>9</head>
                 <app from="#l9a1" to="#l9a2">
                     <lem>chʼera</lem>
-                    <rdg wit="#Mar">cheran </rdg>
+                    <rdg wit="#Mar">cheran</rdg>
                 </app>
             </listApp>
             <listApp>
@@ -171,40 +171,40 @@
                 <head>1</head>
                 <app from="#l1a3" to="#l1a4">
                     <lem>guidavʼ</lem>
-                    <rdg wit="#Mar">ghidava </rdg>
+                    <rdg wit="#Mar">ghidava</rdg>
                 </app>
             </listApp>
             <listApp>
                 <head>2</head>
                 <app from="#l2a3" to="#l2a4">
                     <lem>cercandʼ</lem>
-                    <rdg wit="#Mar">cierchando </rdg>
+                    <rdg wit="#Mar">cierchando</rdg>
                 </app>
                 <app from="#l2a5" to="#l2a6">
                     <lem>mie sparvier</lem>
-                    <rdg wit="#Fp">mi sparver </rdg>
+                    <rdg wit="#Fp">mi sparver</rdg>
                 </app>
                 <app from="#l2a7" to="#l2a1">
                     <lem>aʼ ppieʼ</lem>
-                    <rdg wit="#Fp #Mar">a pie </rdg>
+                    <rdg wit="#Fp #Mar">a pie</rdg>
                 </app>
             </listApp>
             <listApp>
                 <head>3</head>
                 <app from="#l3a3" to="#l3a4">
                     <lem>bagnar</lem>
-                    <rdg wit="#Mar">bagniare </rdg>
+                    <rdg wit="#Mar">bagniare</rdg>
                 </app>
                 <app from="#l3a5" to="#l3a1">
                     <lem>donnʼ</lem>
-                    <rdg wit="#Mar">donne </rdg>
+                    <rdg wit="#Mar">donne</rdg>
                 </app>
             </listApp>
             <listApp>
                 <head>6</head>
                 <app from="#l6a5" to="#l6a6">
                     <lem>et poi</lem>
-                    <rdg wit="#Mar">e po </rdg>
+                    <rdg wit="#Mar">e po</rdg>
                 </app>
                 <app from="#l6a7" to="#l6a3">
                     <lem>lei</lem>
@@ -215,7 +215,7 @@
                 <head>7</head>
                 <app from="#l7a1" to="#l7a2">
                     <lem>chinai</lem>
-                    <rdg wit="#Mar">china </rdg>
+                    <rdg wit="#Mar">china</rdg>
                 </app>
                 <app from="#l7a3" to="#l7a4">
                     <lem>onestʼ</lem>
@@ -261,10 +261,10 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#Corsi1969">
-                Corsi 1969, p. 1032
+                Corsi 1969, p. 1032;
             </bibl>
             <bibl corresp="#Corsi1970">
-                Corsi 1970, p. 73
+                Corsi 1970, p. 73;
             </bibl>
             <bibl corresp="#Fantini2015-2016">
                 Fantini 2015-2016, pp. 134-41.
@@ -289,13 +289,13 @@
          </div>
          <listBibl type="editionsBibliography">
             <bibl xml:id="Corsi1969">
-                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
+                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969.
             </bibl>
             <bibl xml:id="Corsi1970">
-                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
             <bibl xml:id="Fantini2015-2016">
-                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016
+                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016.
             </bibl>
          </listBibl>
       </back>

@@ -99,16 +99,16 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#LiGotti1948">
-                    Li Gotti 1948, p. 50.
+                    Li Gotti 1948, p. 50;
                 </bibl>
                 <bibl corresp="#Sapegno1952">
-                    Sapegno 1952, p. 519.
+                    Sapegno 1952, p. 519;
                 </bibl>
                 <bibl corresp="#Corsi1969">
-                    Corsi 1969, p. 1011.
+                    Corsi 1969, p. 1011;
                 </bibl>
                 <bibl corresp="#Corsi1970">
-                    Corsi 1970, pp. 12-3.
+                    Corsi 1970, pp. 12-3;
                 </bibl>
                 <bibl corresp="#Zenari2004">
                     Zenari 2004, p. 135.
@@ -126,19 +126,19 @@
             </div>
             <listBibl type="editionsBibliography">
                 <bibl xml:id="LiGotti1948">
-                    E. Li Gotti, <hi rend="italic">Madrigali del Trecento</hi>, «Poesia», 9 (1948), pp. 40-59
+                    E. Li Gotti, <hi rend="italic">Madrigali del Trecento</hi>, «Poesia», 9 (1948), pp. 40-59.
                 </bibl>
                 <bibl xml:id="Sapegno1952">
-                    Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952
+                    Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952.
                 </bibl>
                 <bibl xml:id="Corsi1969">
-                    G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
+                    G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969.
                 </bibl>
                 <bibl xml:id="Corsi1970">
-                    Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                    Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
                 </bibl>
                 <bibl xml:id="Zenari2004">
-                    Massimo Zenari, <hi rend="italic">Undici madrigali a testimone unico del Panciatichiano 26 (Firenze, Biblioteca Nazionale Centrale)</hi>, «Studi di filologia italiana», 57 (2004), pp. 131-60
+                    Massimo Zenari, <hi rend="italic">Undici madrigali a testimone unico del Panciatichiano 26 (Firenze, Biblioteca Nazionale Centrale)</hi>, «Studi di filologia italiana», 57 (2004), pp. 131-60.
                 </bibl>
             </listBibl>
         </back>

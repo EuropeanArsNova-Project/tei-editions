@@ -374,10 +374,10 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#LiGotti1948">
-                    Li Gotti 1948, p. 50.
+                    Li Gotti 1948, p. 50;
                 </bibl>
                 <bibl corresp="#Sapegno1952">
-                    Sapegno 1952, p. 520.
+                    Sapegno 1952, p. 520;
                 </bibl>
                 <bibl corresp="#Corsi1970">
                     Corsi 1970, pp. 31-2.
@@ -398,13 +398,13 @@
             </div>
             <listBibl type="editionsBibliography">
                 <bibl xml:id="LiGotti1948">
-                    E. Li Gotti, <hi rend="italic">Madrigali del Trecento</hi>, «Poesia», 9 (1948), pp. 40-59
+                    E. Li Gotti, <hi rend="italic">Madrigali del Trecento</hi>, «Poesia», 9 (1948), pp. 40-59.
                 </bibl>
                 <bibl xml:id="Sapegno1952">
-                    Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952
+                    Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952.
                 </bibl>
                 <bibl xml:id="Corsi1970">
-                    Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                    Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
                 </bibl>
             </listBibl>
         </back>

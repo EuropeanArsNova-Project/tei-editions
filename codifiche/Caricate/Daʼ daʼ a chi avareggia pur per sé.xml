@@ -163,9 +163,9 @@
                 <app from="#l4a1" to="#l4a2">
                     <lem>Oh tu, oh tu</lem>
                     <rdg wit="#T">tu tu o tu </rdg>
-                    <rdg wit="#Red">tu o tu <witDetail><hi rend="italic">(-1)</hi></witDetail></rdg>
+                    <rdg wit="#Red">tu o tu <witDetail wit="#Red"><hi rend="italic">(-1)</hi></witDetail></rdg>
                     <rdg wit="#LA1">i tu o tu </rdg>
-                    <rdg wit="#LA2">o tu tu <witDetail><hi rend="italic">(-1)</hi></witDetail></rdg>
+                    <rdg wit="#LA2">o tu tu <witDetail wit="#LA2"><hi rend="italic">(-1)</hi></witDetail></rdg>
                 </app>
             </listApp>
             <listApp>
@@ -187,10 +187,10 @@
                 <head>8</head>
                 <app from="#l8a1" to="#l8a2">
                     <lem>a risalir</lem>
-                    <rdg wit="#Red">a risalire <witDetail><hi rend="italic">(+1)</hi></witDetail></rdg>
-                    <rdg wit="#Sq">e risalir <witDetail><hi rend="italic">rip.</hi></witDetail></rdg>
-                    <rdg wit="#T">il risalire <witDetail><hi rend="italic">(+1)</hi></witDetail></rdg>
-                    <rdg wit="#LA1">i risaglire <witDetail><hi rend="italic">(+1)</hi></witDetail></rdg>
+                    <rdg wit="#Red">a risalire <witDetail wit="#Red"><hi rend="italic">(+1)</hi></witDetail></rdg>
+                    <rdg wit="#Sq">e risalir <witDetail wit="#Sq"><hi rend="italic">rip.</hi></witDetail></rdg>
+                    <rdg wit="#T">il risalire <witDetail wit="#T"><hi rend="italic">(+1)</hi></witDetail></rdg>
+                    <rdg wit="#LA1">i risaglire <witDetail wit="#LA1"><hi rend="italic">(+1)</hi></witDetail></rdg>
                     <rdg wit="#LA2">i risalir </rdg>
                 </app>
                 <app from="#l8a3" to="#l8a4">
@@ -261,7 +261,7 @@
                 <head>8</head>
                 <app from="#l8a5" to="#l8a1">
                     <lem>chi scende</lem>
-                    <rdg wit="#Sq"><witDetail><hi rend="italic">rip.</hi></witDetail></rdg>
+                    <rdg wit="#Sq"><witDetail wit="#Sq"><hi rend="italic">rip.</hi></witDetail></rdg>
                     <rdg>scend e <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                 </app>
                 <app from="#l8a6" to="#l8a3">
@@ -288,10 +288,10 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#Corsi1969">
-                Corsi 1969, p. 742
+                Corsi 1969, p. 742;
             </bibl>
             <bibl corresp="#Pasquinucci2007">
-                Pasquinucci 2007, pp. 167-8
+                Pasquinucci 2007, pp. 167-8;
             </bibl>
             <bibl corresp="#Fantini2015-2016">
                 Fantini 2015-2016, pp. 127-30.
@@ -340,13 +340,13 @@
          </div>
          <listBibl type="editionsBibliography">
             <bibl xml:id="Corsi1969">
-                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
+                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969.
             </bibl>
             <bibl xml:id="Pasquinucci2007">
-                Enrico Pasquinucci, <hi rend="italic">La poesia musicale di Niccolò Soldanieri</hi>, in «Studi di filologia italiana», 65 (2007), pp. 65-193
+                Enrico Pasquinucci, <hi rend="italic">La poesia musicale di Niccolò Soldanieri</hi>, in «Studi di filologia italiana», 65 (2007), pp. 65-193.
             </bibl>
             <bibl xml:id="Fantini2015-2016">
-                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016
+                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016.
             </bibl>
          </listBibl>
       </back>

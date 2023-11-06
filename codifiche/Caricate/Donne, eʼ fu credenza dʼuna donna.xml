@@ -118,7 +118,7 @@
                 </app>
                 <app from="#l4a2" to="#l4a3">
                     <lem>parlar</lem>
-                    <rdg wit="#Red">parlare <witDetail><hi rend="italic">(+1)</hi></witDetail></rdg>
+                    <rdg wit="#Red">parlare <witDetail wit="#Red"><hi rend="italic">(+1)</hi></witDetail></rdg>
                 </app>
             </listApp>
             <listApp>
@@ -216,11 +216,11 @@
                 <head>9</head>
                 <app from="#l9a1" to="#l9a2">
                     <lem>fuggo</lem>
-                    <rdg wit="#Mgl3 #Rc1">fugho </rdg>
+                    <rdg wit="#Mgl3 #Rc1">fugho</rdg>
                 </app>
                 <app from="#l9a3" to="#l9a4">
                     <lem>disio</lem>
-                    <rdg wit="#Mgl3">desio </rdg>
+                    <rdg wit="#Mgl3">desio</rdg>
                 </app>
             </listApp>
             <listApp>
@@ -242,10 +242,10 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#Corsi1969">
-                Corsi 1969, p. 752
+                Corsi 1969, p. 752;
             </bibl>
             <bibl corresp="#Pasquinucci2007">
-                Pasquinucci 2007, pp. 127-8
+                Pasquinucci 2007, pp. 127-8;
             </bibl>
             <bibl corresp="#Fantini2015-2016">
                 Fantini 2015-2016, pp. 131-3.
@@ -266,13 +266,13 @@
          </div>
          <listBibl type="editionsBibliography">
             <bibl xml:id="Corsi1969">
-                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
+                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969.
             </bibl>
             <bibl xml:id="Pasquinucci2007">
-                Enrico Pasquinucci, <hi rend="italic">La poesia musicale di Niccolò Soldanieri</hi>, in «Studi di filologia italiana», 65 (2007), pp. 65-193
+                Enrico Pasquinucci, <hi rend="italic">La poesia musicale di Niccolò Soldanieri</hi>, in «Studi di filologia italiana», 65 (2007), pp. 65-193.
             </bibl>
             <bibl xml:id="Fantini2015-2016">
-                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016
+                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016.
             </bibl>
          </listBibl>
       </back>

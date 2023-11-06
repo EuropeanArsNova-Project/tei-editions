@@ -183,6 +183,7 @@
                </app>
             </listApp>
          </listApp>
+           </listApp>
          <div type="metricalScheme">
             <p>Madrigale 10’a 10’b 10’b, 10’c 10’d 10’d; 10’e 10’e.</p> 
             <p><hi rend="italic">Capovilla</hi> XLVIII.</p>
@@ -200,7 +201,7 @@
          </div>
          <listBibl type="editionsBibliography">
             <bibl xml:id="Corsi1970">
-               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
          </listBibl>
       </back>

@@ -128,10 +128,10 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#Pirrotta1960">
-                    Pirrotta 1960, p. XI.
+                    Pirrotta 1960, p. XI;
                 </bibl>
                 <bibl corresp="#Corsi1970">
-                    Corsi 1970, p. 333.
+                    Corsi 1970, p. 333;
                 </bibl>
                 <bibl corresp="#Fantini2021">
                     Fantini 2021, pp. 378-81.
@@ -165,12 +165,12 @@
             </div>
             <listBibl type="editionsBibliography">
                 <bibl xml:id="Pirrotta1960">
-                    Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy II. Maestro Piero; Codex Vatican Rossi 215; Anonymous Madrigals and Cacce from Other Manuscripts</hi>, Amsterdam, American Institute of Musicology, 1960 (CMM, 8/2)</bibl>
+                    Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy II. Maestro Piero; Codex Vatican Rossi 215; Anonymous Madrigals and Cacce from Other Manuscripts</hi>, Amsterdam, American Institute of Musicology, 1960 (CMM, 8/2).</bibl>
                 <bibl xml:id="Corsi1970">
-                    Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                    Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
                 </bibl>
                 <bibl xml:id="Fantini2021">
-                    S. M. Fantini, <hi rend="italic"> Il codice F-PN6771 (Reina): contenuto, struttura, generi</hi>, tesi di dottorato, Università di Siena, 2021
+                    S. M. Fantini, <hi rend="italic"> Il codice F-PN6771 (Reina): contenuto, struttura, generi</hi>, tesi di dottorato, Università di Siena, 2021.
                 </bibl>
             </listBibl>
         </back>

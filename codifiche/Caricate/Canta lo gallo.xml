@@ -13,16 +13,16 @@
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
             <respStmt> 
-               <resp> Edited by</resp> 
-               <name> Maria Sofia Lannutti</name> 
+               <resp>Edited by</resp> 
+               <name>Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> Revised by</resp> 
-               <name> Luca Gatti</name> 
+               <resp>Revised by</resp> 
+               <name>Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> TEI-encoded by</resp> 
-               <name> Elvira Mercatanti</name> 
+               <resp>TEI-encoded by</resp> 
+               <name>Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt>
          <publicationStmt>
@@ -137,29 +137,29 @@
             <listApp>
                <head>3</head>
                <app from="#l3a1" to="#l3a2">
-                  <lem> col</lem>
-                  <rdg type="omission"><hi rend="italic">om.</hi><wit><ref corresp="#RsC"> Rs<hi rend="super">C</hi></ref></wit></rdg> 
+                  <lem>col</lem>
+                  <rdg type="omission"><hi rend="italic">om.</hi><wit><ref corresp="#RsC">Rs<hi rend="super">C</hi></ref></wit></rdg> 
                </app>  
 
                <app from="#l3a3" to="#l3a4">
-                  <lem> altrui</lem>
-                  <rdg> altui <wit><ref corresp="#RsT"> Rs<hi rend="super">T</hi></ref></wit></rdg>
+                  <lem>altrui</lem>
+                  <rdg>altui <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>
                </app>
             </listApp>
 
             <listApp>
                <head>7</head>            
                <app from="#l7a1" to="#l7a2">
-                  <lem> guai</lem>
-                  <rdg wit="#Rs"> gnai</rdg>
+                  <lem>guai</lem>
+                  <rdg wit="#Rs">gnai</rdg>
                </app>            
             </listApp>
          
             <listApp>
                <head> 11</head>
                <app from="#l11a1" to="#l11a2">
-                  <lem> alor</lem>
-                  <rdg wit="#Rs"> alora</rdg>
+                  <lem>alor</lem>
+                  <rdg wit="#Rs">alora</rdg>
                </app>
             </listApp>
          </listApp>
@@ -171,23 +171,23 @@
 
 
          <div type="metricalScheme">
-            <p> Madrigale pluristrofico 4’a 6’b 10’b; 10’c. <hi rend="italic">Coblas capdenals</hi>.</p>
-            <p> Rima identica ai vv. 1 : 5 : 9 : 13; rima inclusiva, vv. 2 : 3.</p>
-            <p> <hi rend="italic"> Capovilla</hi>II.</p>
+            <p>Madrigale pluristrofico 4’a 6’b 10’b; 10’c. <hi rend="italic">Coblas capdenals</hi>.</p>
+            <p>Rima identica ai vv. 1 : 5 : 9 : 13; rima inclusiva, vv. 2 : 3.</p>
+            <p><hi rend="italic"> Capovilla</hi>II.</p>
          </div>
 
 
          <listBibl type="editions">
             <bibl corresp="#Mischiati1966"> 
-               Mischiati 1966, p. 74
+               Mischiati 1966, p. 74;
             </bibl>            
 
             <bibl corresp="#Pirrotta1992"> 
-              Pirrotta 1992, p. 37
+              Pirrotta 1992, p. 37;
             </bibl>
 
             <bibl corresp="#Sucato2003">
-               Sucato 2003, p. 87
+               Sucato 2003, p. 87.
             </bibl>
          </listBibl>
 
@@ -221,15 +221,15 @@
          <listBibl type="editionsBibliography">
 
             <bibl xml:id="Mischiati1966">
-               O. Mischiati, <hi rend="italic">Uno sconosciuto frammento appartenente al codice Vaticano Rossi 215</hi>, «Rivista italiana di musicologia», 1 (1966), pp. 68-76
+               O. Mischiati, <hi rend="italic">Uno sconosciuto frammento appartenente al codice Vaticano Rossi 215</hi>, «Rivista italiana di musicologia», 1 (1966), pp. 68-76.
             </bibl>
 
             <bibl xml:id="Pirrotta1992">
-               N. Pirrotta, <hi rend="italic">Il codice Rossi 215 della Biblioteca Apostolica Vaticana. Con i frammenti della fondazione Opera pia don Giuseppe Greggiati di Ostiglia</hi>, Lucca, LIM, 1992
+               N. Pirrotta, <hi rend="italic">Il codice Rossi 215 della Biblioteca Apostolica Vaticana. Con i frammenti della fondazione Opera pia don Giuseppe Greggiati di Ostiglia</hi>, Lucca, LIM, 1992.
             </bibl>
 
             <bibl xml:id="Sucato2003">
-               Tiziana Sucato, <hi rend="italic">Il codice rossiano 215. Madrigali, ballate, una caccia, un rotondello</hi>, Pisa, ETS, 2003 («Diverse voci...» 1)
+               Tiziana Sucato, <hi rend="italic">Il codice rossiano 215. Madrigali, ballate, una caccia, un rotondello</hi>, Pisa, ETS, 2003 («Diverse voci...» 1).
             </bibl>
          </listBibl>
       </back>

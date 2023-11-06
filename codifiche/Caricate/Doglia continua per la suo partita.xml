@@ -181,7 +181,7 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#Corsi1970">
-                Corsi 1970, p. 276.
+                Corsi 1970, p. 276;
             </bibl>
             <bibl corresp="#Epifani2021">
                 Epifani 2021, p. 202.
@@ -209,7 +209,7 @@
                 Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
             </bibl>
             <bibl xml:id="Epifani2021">
-                M. Epifani, <hi rend="italic">The Ballatas Dedicated to Sandra Set to Music by Francesco Landini</hi>, in <hi rend="italic">Polyphonic Voices. Poetic and Musical Dialogues in the European Ars Nova</hi>, ed. by A. Alberni, A. Calvia and M. S. Lannutti, Firenze, Edizioni del. Galluzzo, 2021, pp. 171-210
+                M. Epifani, <hi rend="italic">The Ballatas Dedicated to Sandra Set to Music by Francesco Landini</hi>, in <hi rend="italic">Polyphonic Voices. Poetic and Musical Dialogues in the European Ars Nova</hi>, ed. by A. Alberni, A. Calvia and M. S. Lannutti, Firenze, Edizioni del. Galluzzo, 2021, pp. 171-210.
             </bibl>
          </listBibl>
       </back>

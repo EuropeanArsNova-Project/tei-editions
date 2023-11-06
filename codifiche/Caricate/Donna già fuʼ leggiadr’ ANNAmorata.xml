@@ -54,7 +54,7 @@
         <body>
             <lg>
                 <l xml:id="l1">
-                    Donna già <anchor xml:id="l1a3"/>fuʼ<anchor xml:id="l1a4"/> <anchor xml:id="l1a1"/>leggiadr’ ANNAmorata<anchor xml:id="l1a2"/>
+                    Donna già <anchor xml:id="l1a3"/>fuʼ<anchor xml:id="l1a4"/> <anchor xml:id="l1a1"/>leggiadr’ <name type="senhal" rend="small-caps">anna</name>morata<anchor xml:id="l1a2"/>
                 </l>
                 <l xml:id="l2">
                     faccendʼ al servo <anchor xml:id="l2a1"/>mio<anchor xml:id="l2a2"/> <anchor xml:id="l2a3"/>dolce<anchor xml:id="l2a4"/> sembiante,
@@ -101,7 +101,7 @@
                     <head>1</head>
                     <app from="#l1a1" to="#l1a2">
                         <lem>leggiadrʼ annamorata</lem>
-                        <rdg type="indifferentVariant" wit="#Sq">gentile innamorata</rdg>
+                        <rdg type="indifferentVariant" wit="#Sq"><hi rend="bold">gentile innamorata</hi></rdg>
                     </app>
                 </listApp>
                 <listApp>
@@ -192,10 +192,10 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#Sapegno1952">
-                    Sapegno 1952, p. 514.
+                    Sapegno 1952, p. 514;
                 </bibl>
                 <bibl corresp="#Corsi1969">
-                    Corsi 1969, p. 1012.
+                    Corsi 1969, p. 1012;
                 </bibl>
                 <bibl corresp="#Corsi1970">
                     Corsi 1970, p. 11.
@@ -213,13 +213,13 @@
             </div>
             <listBibl type="editionsBibliography">
                 <bibl xml:id="Sapegno1952">
-                    Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952
+                    Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952.
                 </bibl>
                 <bibl xml:id="Corsi1969">
-                    G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
+                    G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969.
                 </bibl>
                 <bibl xml:id="Corsi1970">
-                    Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                    Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
                 </bibl>
             </listBibl>
         </back>

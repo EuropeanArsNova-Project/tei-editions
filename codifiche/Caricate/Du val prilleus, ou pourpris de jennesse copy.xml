@@ -13,16 +13,16 @@
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
             </respStmt>
             <respStmt> 
-               <resp> Edited by</resp> 
-               <name> Maria Sofia Lannutti</name> 
+               <resp>Edited by</resp> 
+               <name>Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> Revised by</resp> 
-               <name> Luca Gatti</name> 
+               <resp>Revised by</resp> 
+               <name>Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
-               <resp> TEI-encoded by</resp> 
-               <name> Elvira Mercatanti</name> 
+               <resp>TEI-encoded by</resp> 
+               <name>Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt>
          <publicationStmt>
@@ -108,115 +108,115 @@
             <listApp>
                <head>1</head>
                <app from="#l1a1" to="#l1a2">
-                  <lem> Du val prilleus</lem>
-                  <rdg wit="#R"> u ciel perileus</rdg>
-                  <rdg wit="#To"> pilleus</rdg>
+                  <lem>Du val prilleus</lem>
+                  <rdg wit="#R">u ciel perileus</rdg>
+                  <rdg wit="#To">pilleus</rdg>
                </app>   
 
                <app from="#l1a3" to="#l1a4">
-                  <lem> jennesse</lem>
-                  <rdg wit="#To"> jounesce</rdg>
+                  <lem>jennesse</lem>
+                  <rdg wit="#To">jounesce</rdg>
                </app>
             </listApp>
 
             <listApp>
                <head>2</head>
                <app from="#l2a1" to="#l2a2">
-                  <lem> castel</lem>
+                  <lem>castel</lem>
                   <rdg wit="#MoA"/>
                </app>          
 
                <app from="#l2a3" to="#l2a4">
-                  <lem> orïent</lem>
-                  <rdg wit="#To"> orisant</rdg>
+                  <lem>orïent</lem>
+                  <rdg wit="#To">orisant</rdg>
                </app>
             </listApp>
 
             <listApp>
                <head>3</head>
                <app from="#l3a1" to="#l3a2">
-                  <lem> deus</lem>
-                  <rdg wit="#To"> eaoux</rdg>
+                  <lem>deus</lem>
+                  <rdg wit="#To">eaoux</rdg>
                </app>
 
                <app from="#l3a3" to="#l3a4">
-                  <lem> est</lem>
+                  <lem>est</lem>
                   <rdg wit="#MoA">en</rdg>
                </app>
 
                <app from="#l3a5" to="#l3a6">
-                  <lem> la mer</lem>
-                  <rdg wit="#To">lamour </rdg>
+                  <lem>la mer</lem>
+                  <rdg wit="#To">lamour</rdg>
                </app>               
             </listApp>
 
             <listApp>
-               <head> 4</head>
+               <head>4</head>
                <app from="#l4a1" to="#l4a2">
-                  <lem> j’oi les vois</lem>
-                  <rdg wit="#To"> joye le</rdg>
+                  <lem>j’oi les vois</lem>
+                  <rdg wit="#To">joye le</rdg>
                </app>
 
                <app from="#l4a3" to="#l4a4">
-                  <lem> en haut</lem>
-                  <rdg wit="#R"> ensamble</rdg>
+                  <lem>en haut</lem>
+                  <rdg wit="#R">ensamble</rdg>
                </app>
 
                <app from="#l4a5" to="#l4a6">
                   <lem>toner e</lem>
-                  <rdg wit="#MoA"> tenoyre </rdg>
-                  <rdg wit="#R"> tonnoier e</rdg>
-                  <rdg wit="#To"> tenoice</rdg>
+                  <rdg wit="#MoA">tenoyre</rdg>
+                  <rdg wit="#R">tonnoier e</rdg>
+                  <rdg wit="#To">tenoice</rdg>
                </app>
 
                <app from="#l4a7" to="#l4a8">
-                  <lem> bruire</lem>
-                  <rdg wit="#To"> bruy</rdg>
+                  <lem>bruire</lem>
+                  <rdg wit="#To">bruy</rdg>
                </app>
             
             </listApp>
 
             <listApp>
-               <head> 5</head>
+               <head>5</head>
                <app from="#l5a1" to="#l5a2">
-                  <lem> amoreux</lem>
-                  <rdg wit="#To"> amourz </rdg>
+                  <lem>amoreux</lem>
+                  <rdg wit="#To">amourz</rdg>
                </app>
 
                <app from="#l5a3" to="#l5a4">
-                  <lem> desir</lem>
-                  <rdg wit="#To"> desire</rdg>
+                  <lem>desir</lem>
+                  <rdg wit="#To">desire</rdg>
                </app>         
             </listApp>
 
             <listApp>
-               <head> 6</head>
+               <head>6</head>
                <app from="#l6a1" to="#l6a2">
-                  <lem> ou je ne truis</lem>
-                  <rdg wit="#To"> ure</rdg>
+                  <lem>ou je ne truis</lem>
+                  <rdg wit="#To">ure</rdg>
                </app>            
             </listApp>
 
 
             <listApp>
-               <head> 7</head>
+               <head>7</head>
                <app from="#l7a1" to="#l7a2">
-                  <lem> si pri</lem>
-                  <rdg wit="#To"> s<del>o</del>i</rdg>
+                  <lem>si pri</lem>
+                  <rdg wit="#To">s<del>o</del>i</rdg>
                </app>
 
                <app from="#l7a3" to="#l7a4">
-                  <lem> vueille conduire</lem>
-                  <rdg wit="#To"> vuelzlie condure</rdg>
+                  <lem>vueille conduire</lem>
+                  <rdg wit="#To">vuelzlie condure</rdg>
                </app>
             </listApp>
 
 
             <listApp>
-               <head> 8</head>
+               <head>8</head>
                <app from="#l8a1" to="#l8a2">
                   <lem>a ce</lem>
-                  <rdg wit="#R"> au</rdg>
+                  <rdg wit="#R">au</rdg>
                </app>           
             </listApp>
          </listApp>
@@ -227,39 +227,39 @@
             <listApp>
                <head>1</head>
                <app from="#l1a5" to="#l1a6">
-                  <lem> jennesse</lem>
-                  <rdg wit="#R"> genese</rdg>
+                  <lem>jennesse</lem>
+                  <rdg wit="#R">genese</rdg>
                </app>
             </listApp>
 
             <listApp>
                <head>3</head>
                <app from="#l3a7" to="#l3a8">
-                  <lem> destresse</lem>
-                  <rdg wit="#R"> destrese</rdg>
-                  <rdg wit="#To"> destresce</rdg>
+                  <lem>destresse</lem>
+                  <rdg wit="#R">destrese</rdg>
+                  <rdg wit="#To">destresce</rdg>
                </app>
             </listApp>
 
             <listApp>
-               <head> 7</head>
+               <head>7</head>
                <app from="#l7a5" to="#l7a6">
-                  <lem> Pité</lem>
-                  <rdg wit="#R #To"> pitie</rdg>
+                  <lem>Pité</lem>
+                  <rdg wit="#R #To">pitie</rdg>
                </app>
             </listApp>
          </listApp>
 
 
          <div type="metricalScheme">
-            <p> <hi rend="italic">Ballade</hi> 10’a 10’b, 10’a 10’b; 10’b 10c 10’b 10C.</p>
-            <p> Rima ricca ai vv. 4 : 5.</p>
+            <p><hi rend="italic">Ballade</hi> 10’a 10’b, 10’a 10’b; 10’b 10c 10’b 10C.</p>
+            <p>Rima ricca ai vv. 4 : 5.</p>
          </div>
 
 
          <listBibl type="editions">
             <bibl corresp="#Apel-Rosenberg1970">
-               Apel-Rosenberg 1970, p. XLVI
+               Apel-Rosenberg 1970, p. XLVI;
             </bibl>
 
             <bibl corresp="#Vivarelli2005">
@@ -307,11 +307,11 @@
 
          <listBibl type="editionsBibliography">
             <bibl xml:id="Apel-Rosenberg1970">
-               <hi rend="italic">French Secular Compositions of the Fourteenth Century, </hi>I. <hi rend="italic">Ascribed Compositions</hi>, ed. by W. Apel. Edition of the literary texts by S. N. Rosenberg., Roma, AIM, 1970 (CMM, 53/1)
+               <hi rend="italic">French Secular Compositions of the Fourteenth Century, </hi>I. <hi rend="italic">Ascribed Compositions</hi>, ed. by W. Apel. Edition of the literary texts by S. N. Rosenberg., Roma, AIM, 1970 (CMM, 53/1).
             </bibl>
 
             <bibl xml:id="Vivarelli2005">
-               Carla Vivarelli, <hi rend="italic">Le composizioni francesi di Filippotto e Antonello da Caserta tràdite nel Codice Estense a.M.5.24</hi>, Pisa, ETS, 2005 («Diverse voci... 6»)
+               Carla Vivarelli, <hi rend="italic">Le composizioni francesi di Filippotto e Antonello da Caserta tràdite nel Codice Estense a.M.5.24</hi>, Pisa, ETS, 2005 («Diverse voci... 6»).
             </bibl>
          </listBibl>
       </back>
