@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Desdont que pars de moy, pour ton partire</title>
+                <title>Desdont que pars de moy, pour ton partire</title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -33,7 +33,7 @@
             <date>2021</date>
             <availability>
                <p>L'edizione è disponibile su licenza.</p>
-            </availability>            
+            </availability>           
             <idno type="ISBN">ISBN</idno>
             <idno type="DOI">DOI</idno>
             <idno type="URI">permalink della scheda ANT</idno-->
@@ -74,7 +74,7 @@
         <back>
             <listWit>
                 <witness xml:id="Ut">
-                    <!--ref target="X"-->Ut<!--/ref--> c. 27r, <abbr xml:id="UtC">C</abbr> (vv. 1-2), <hi rend="italic">resid.</hi> (vv. 3-8): <hi rend="italic">cleric(us) de landes bone memorie</hi>
+                    <!--ref target="X"-->Ut<!--/ref-->c. 27r, <abbr xml:id="UtC">C</abbr>(vv. 1-2), <hi rend="italic">resid.</hi> (vv. 3-8): <hi rend="italic">cleric(us) de landes bone memorie</hi>
                 </witness>
             </listWit>
 

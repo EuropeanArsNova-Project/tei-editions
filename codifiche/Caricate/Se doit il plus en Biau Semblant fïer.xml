@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Se doit il plus en Biau Semblant fïer</title>
+                <title>Se doit il plus en Biau Semblant fïer</title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -61,17 +61,17 @@
                 <l xml:id="l2">qui per son trait a esté decëu?</l>
                 <l xml:id="l3">Je di que non, car on a bien vëu</l>
                 <l xml:id="l4">par pluseurs fois dos fier sanz deffïer.</l>
-                <l xml:id="l5" n="5"> Je le puis bien de vray certefïer,</l>
+                <l xml:id="l5" n="5">Je le puis bien de vray certefïer,</l>
                 <l xml:id="l6">car je m’en suy de fait an ce <anchor xml:id="l6a1"/>lëu<anchor xml:id="l6a2"/>:</l>
                 <l xml:id="l7"><hi rend="italic">se doit il <supplied xml:id="suppl1" reason="illegible">[plus en Biau Semblant fïer</supplied></hi></l>
                 <l xml:id="l8"><hi rend="italic"> <supplied xml:id="suppl2" corresp="#suppl1" reason="illegible">qui per son trait a esté decëu?]</supplied></hi></l>
-                <l xml:id="l9"> Car Dous Regart, qui doit segnefïer</l>
+                <l xml:id="l9">Car Dous Regart, qui doit segnefïer</l>
                 <l xml:id="l10" n="10"> loiale amour, si m’avoit esmëu</l>
                 <l xml:id="l11">de bien amer; mais j’ay despuys scëu</l>
                 <l xml:id="l12">qu’il n’y feroit pas bon ediffïer.</l>
                 <l xml:id="l13"><hi rend="italic"> Se doit il plus en Biau Semblant fïer</hi></l>
                 <l xml:id="l14"><hi rend="italic"> qui per son trait a esté decëu?</hi></l>
-                <l xml:id="l15" n="15"> <hi rend="italic"> Je di que non, car on a bien vëu</hi></l>
+                <l xml:id="l15" n="15"><hi rend="italic"> Je di que non, car on a bien vëu</hi></l>
                 <l xml:id="l16"><hi rend="italic"> par pluseurs fois dos fier sanz deffïer.</hi></l>
             </lg>
             

@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Or voit tout en aventure</title>
+                <title>Or voit tout en aventure</title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -156,7 +156,7 @@
             <listBibl type="editions">
                 <bibl corresp="#Apel-Rosenberg1970">Apel-Rosenberg 1970, p. LIV;</bibl>
                 <bibl corresp="#Günther1963a">Günther 1963a, p. 107;</bibl>
-                <bibl corresp="#Plumley-Stone2009"> Plumley-Stone 2009, p. 167.</bibl>
+                <bibl corresp="#Plumley-Stone2009">Plumley-Stone 2009, p. 167.</bibl>
             </listBibl>
 
 

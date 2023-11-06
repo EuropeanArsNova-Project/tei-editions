@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Jʼay grant desespoir de ma vie</title>
+                <title>Jʼay grant desespoir de ma vie</title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -33,7 +33,7 @@
             <date>2021</date>
             <availability>
                <p>L'edizione è disponibile su licenza.</p>
-            </availability>            
+            </availability>           
             <idno type="ISBN">ISBN</idno>
             <idno type="DOI">DOI</idno>
             <idno type="URI">permalink della scheda ANT</idno-->
@@ -75,12 +75,12 @@
         <back>
             <listWit>
                 <witness xml:id="R">
-                    <!--ref target="X"-->R<!--/ref--> c. 65v, <abbr xml:id="RC">C</abbr> (vv. 1-8)
+                    <!--ref target="X"-->R<!--/ref-->c. 65v, <abbr xml:id="RC">C</abbr>(vv. 1-8)
                 </witness>
             </listWit>
 
 
-            <listApp type="substantial">               
+            <listApp type="substantial">              
                <listApp>
                    <head>2</head>
                    <app from="#l2a1" to="#l2a2">
@@ -102,7 +102,7 @@
                     <app from="#l4a1" to="#l4a2">
                         <lem>eu</lem>
                         <rdg wit="#R"/>
-                    </app>                   
+                    </app>                  
                 </listApp>
                 
                 <listApp>

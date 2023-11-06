@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Je demande ma bienvenue</title>
+                <title>Je demande ma bienvenue</title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -127,8 +127,8 @@
 
             <listBibl type="editions">
                 <bibl corresp="#Stainer-Stainer1898"> Stainer-Stainer 1898, p. 50;</bibl>
-                <bibl corresp="#Upton2013"> Upton, 2013, p. 116 ss;</bibl>
-                <bibl corresp="#Reaney1959">  Reaney 1959, p. XXXVIII.</bibl>
+                <bibl corresp="#Upton2013">Upton, 2013, p. 116 ss;</bibl>
+                <bibl corresp="#Reaney1959">Reaney 1959, p. XXXVIII.</bibl>
             </listBibl>
 
 

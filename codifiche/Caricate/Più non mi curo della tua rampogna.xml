@@ -152,11 +152,7 @@
 
                 <listApp>
                     <head> 4-6</head>
-                    <app from="#l4a1" to="#l6a1">
-                        <lem>Onde ben mi contenta el non servire,
-                            poiché per te non si teme vergogna,
-                            falso, crudele, pien dʼogni mençogna.
-                        </lem>
+                    <app from="#l4a1" to="#l6a1">                        
                         <rdg wit="#Sq"/>
                     </app>
                 </listApp>

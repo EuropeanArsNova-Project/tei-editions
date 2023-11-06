@@ -154,14 +154,7 @@
                 
                 <listApp> 
                     <head> 7-12</head>
-                    <app from="#l7a1" to="#l12a1">
-                        <lem>Come ch’i’ la rimiri più sʼaccorçe,
-                            gli ochi donneschi chiude et via si fuçe,
-                            poi come serpe tossicosa porçe
-                            di fuoco fiama, che mʼançide et struçe.
-                            Lʼanimo à crudo, sì aspra la scorça,
-                            chʼAmor i·llei per me più non à força.
-                        </lem>
+                    <app from="#l7a1" to="#l12a1">                        
                         <rdg wit="#Np3"/> 
                     </app>
                     

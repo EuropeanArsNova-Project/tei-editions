@@ -105,6 +105,15 @@
 
 
             <listApp type="substantial">
+                
+                <listApp>
+                    <head> 1-3</head>
+                    <app from="#l1a1" to="#l3a1">
+                        <rdg wit="#Lo"/>
+                    </app>
+                </listApp>
+                
+                
                 <listApp>
                     <head>1-3</head>
                     <app from="#l1a1" to="#l3a1">

@@ -148,9 +148,7 @@
 
                 <listApp>
                     <head> 4-6</head>
-                    <app from="#l4a3" to="#l6a1">
-                        <lem>Et io son corda di tuo consonançïa, che ’maginar solea tuo bel
-                            trovato, or son procuratore et avocato. </lem>
+                    <app from="#l4a3" to="#l6a1">                        
                         <rdg wit="#Fp #Lo"/>
                     </app>
                 </listApp>
