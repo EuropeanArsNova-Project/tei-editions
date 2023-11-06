@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Adieu vous di, tres doulce compaygnie</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Vittoria Brancato</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+            <div>
+                <p>
+                </p>
+            </div>         
+        </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    <anchor xml:id="l1a1"/>Adieu vous di<anchor xml:id="l1a2"/>, tres <anchor xml:id="l1a3"/>doulce compaygnie<anchor xml:id="l1a4"/>,
+                </l>
+                <l xml:id="l2">
+                    <anchor xml:id="l2a1"/>puis<anchor xml:id="l2a2"/> que de vous <anchor xml:id="l2a3"/>departir me convient<anchor xml:id="l2a4"/>
+                </l>
+                <l xml:id="l3">
+                    <anchor xml:id="l3a1"/>per<anchor xml:id="l3a2"/> fortune qui, <anchor xml:id="l3a5"/>per<anchor xml:id="l3a6"/> grant <anchor xml:id="l3a3"/>ara<supplied>[mi]</supplied>e<anchor xml:id="l3a4"/>, 
+                </l>
+                <l xml:id="l4">
+                    a toute <anchor xml:id="l4a5"/>heure<anchor xml:id="l4a6"/> <anchor xml:id="l4a1"/>de moy<anchor xml:id="l4a2"/> <anchor xml:id="l4a3"/><supplied>[gre]</supplied>ver<anchor xml:id="l4a4"/> souvient.
+                </l>
+                <l xml:id="l5" n="5">
+                    Tout mon <anchor xml:id="l5a1"/>vouloir<anchor xml:id="l5a2"/> a rebours me <anchor xml:id="l5a3"/>sourvient<anchor xml:id="l5a4"/>,
+                </l>
+                <l xml:id="l6">
+                    <anchor xml:id="l6a1"/>per la fausse<anchor xml:id="l6a2"/> <anchor xml:id="l6a3"/>que<anchor xml:id="l6a4"/> toudis <anchor xml:id="l6a5"/>mʼest<anchor xml:id="l6a6"/> contrayre.
+                </l>
+                <l xml:id="l7">
+                    <hi rend="italic">Or <anchor xml:id="l7a7"/>pri<anchor xml:id="l7a8"/> a Dieu <anchor xml:id="l7a1"/>que<anchor xml:id="l7a2"/> <anchor xml:id="l7a3"/>puisse<anchor xml:id="l7a4"/> je <anchor xml:id="l7a5"/>retrayre<anchor xml:id="l7a6"/>.</hi>
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="Ch">
+                    <!--ref target="X"-->Ch<!--/ref-->
+                    c. <locus>47r</locus>, <abbr xml:id="ChC">C</abbr> (vv. 1-7)
+                </witness>
+                <witness xml:id="Ut">
+                    <!--ref target="X"-->Ut<!--/ref-->
+                    c. <locus>20v</locus>, <abbr xml:id="UtC">C</abbr> (vv. 1-7): alcuni versi sono illeggibili per via della rifilatura.
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>Adieu vous di</lem>
+                        <rdg wit="#Ut">di <gap reason="illegible" rend="per l.m."/></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>puis</lem>
+                        <rdg wit="#Ut">e puis</rdg>
+                    </app>
+                    <app from="#l2a3" to="#l2a4">
+                        <lem>departir... convient</lem>
+                        <rdg wit="#Ut"><gap reason="illegible" rend="l.m."/></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>per<hi rend="subscript">1</hi></lem>
+                        <rdg wit="#Ut"><gap reason="illegible" rend="l.m."/></rdg>
+                    </app>
+                    <app from="#l3a3" to="#l3a4">
+                        <lem>aramie</lem>
+                        <rdgGrp>
+                            <rdg wit="#Ch">araine</rdg>
+                            <rdg wit="#Ut">arargi e</rdg>
+                        </rdgGrp>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>de moy</lem>
+                        <rdg wit="#Ut"><gap reason="illegible" rend="l.m."/></rdg>
+                    </app>
+                    <app from="#l4a3" to="#l4a4">
+                        <lem>grever</lem>
+                        <rdgGrp>
+                            <rdg wit="#Ch"></rdg>
+                            <rdg wit="#Ut">ver <gap reason="illegible" rend="per l.m."/></rdg>
+                        </rdgGrp>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a1" to="#l5a2">
+                        <lem>vouloir</lem>
+                        <rdg wit="#Ut">valor</rdg>
+                    </app>
+                    <app from="#l5a3" to="#l5a4">
+                        <lem>sourvient</lem>
+                        <rdg wit="#Ut"><gap reason="illegible" rend="l.m."/></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>per la fausse</lem>
+                        <rdg wit="#Ut">n fauche <gap reason="illegible" rend="per l.m."/></rdg>
+                    </app>
+                    <app from="#l6a3" to="#l6a4">
+                        <lem>que</lem>
+                        <rdg wit="#Ut">qui</rdg>
+                    </app>
+                    <app from="#l6a5" to="#l6a6">
+                        <lem>m'est</lem>
+                        <rdg wit="#Ut"></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>que</lem>
+                        <rdg wit="#Ut">qui</rdg>
+                    </app>
+                    <app from="#l7a3" to="#l7a4">
+                        <lem>puisse</lem>
+                        <rdg wit="#Ut">bien puisse</rdg>
+                    </app>
+                    <app from="#l7a5" to="#l7a6">
+                        <lem>retrayre</lem>
+                        <rdg wit="#Ch">trayre</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a3" to="#l1a4">
+                        <lem>doulce compaygnie</lem>
+                        <rdg wit="#Ut">douche conpaingie</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a3" to="#l3a4">
+                        <lem>per</lem>
+                        <rdg wit="#Ut">par</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a5" to="#l4a6">
+                        <lem>heure</lem>
+                        <rdg wit="#Ut">hure</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a3" to="#l5a4">
+                        <lem>sourvient</lem>
+                        <rdg wit="#Ch">sourviennt</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a7" to="#l7a8">
+                        <lem>pri</lem>
+                        <rdg wit="#Ut">pr<add place="above">i</add>ye</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p><hi rend="italic">Ballade</hi> 10ʼa 10b, 10ʼa 10b; 10b 10ʼc 10ʼC.</p>
+                <p>Rima derivativa ai vv. 2 : 4 : 5; rima ricca ai vv. 6 : 7.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Apel-Rosenberg1971">
+                    Apel-Rosenberg 1971, p. XXI.
+                </bibl>
+            </listBibl>
+            <div type="commentary">
+                <note target="#l3">
+                    <num>3</num>
+                    <hi rend="italic">aramie</hi>: ʻviolenzaʼ, lezione congetturale ipotizzata sulla base di <hi rend="italic">araine</hi> di Ch, che può essersi prodotta per svista paleografica (frequente nel ms.); il copista di Ut scrive invece <hi rend="italic">arargi e</hi>. 
+                </note>
+                <note target="#l4">
+                    <num>4</num>
+                    Il verso è ipometro (-2): al contesto sembra mancare un infinito retto da <hi rend="italic">souvient</hi>, ʻin ogni momento si ricorda di…ʼ, come suggerisce anche la lezione parziale di Ut ver, con due possibili sillabe iniziali di parola cadute per rifilatura. Convincente la congettura già in Apel-Rosenberg 1971 <hi rend="italic">grever</hi>.
+                </note>
+                <note target="#l5">
+                    <num>5</num>
+                    <hi rend="italic">me sourvient</hi>: ʻmi si manifesta (in maniera improvvisa, brusca)ʼ, lo stesso che lʼit. ant. <hi rend="italic">sorvenire</hi>.
+                </note>
+                <note target="#l7">
+                    <num>7</num>
+                    <hi rend="italic">que puisse je retrayre</hi>: ʻche io possa andarmeneʼ, con lezione a testo di Ut. Diversamente Ch presenta verso ipometro con <hi rend="italic">trayre</hi>.
+                </note>
+            </div>
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Apel-Rosenberg1971">
+                    Willi Apel, <hi rend="italic">French Secular Compositions of the Fourteenth Century II. Anonymous Ballades</hi>, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1971 (CMM, 53/2)
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
