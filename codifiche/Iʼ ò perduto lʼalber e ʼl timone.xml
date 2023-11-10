@@ -172,7 +172,7 @@
                     
                     <app from="#l4a5" to="#l4a6">
                         <lem>tempestose</lem>
-                        <rdg wit="#Ah1">tempesto<add place="above">se</add></rdg>
+                        <rdg wit="#Ah1">tempesto<add place="above">se</add></rdg> <!--con aggiunta in interlinea-->
                     </app>
                 </listApp>
                 
@@ -204,8 +204,8 @@
 
 
             <listBibl type="editions">
-                <bibl corresp="#Corsi1969">Corsi 1969, p. 1040</bibl>
-                <bibl corresp="#Giorgetti2019-2020">Giorgetti 2019-2020, pp. 90-3.</bibl>
+                <bibl corresp="#Corsi1969">Corsi 1969, p. 1040;</bibl>
+                <bibl corresp="#Giorgetti2019-2020">Giorgetti 2019-2020, pp. 90-3;</bibl>
             </listBibl>
 
 
