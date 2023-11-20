@@ -98,7 +98,6 @@
             </witness>
         </listWit>
         <listApp type="substantial">
-            <listApp>
                 <listApp>
                     <head>10</head>
                     <app from="#l10a1" to="#l10a2">
@@ -134,22 +133,22 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#Liuzzi1937">
-                    Liuzzi 1937, p. 64.
+                    Liuzzi 1937, p. 64;
                 </bibl>
                 <bibl corresp="#LiGotti1944">
-                    Li Gotti 1944, p. 124.
+                    Li Gotti 1944, p. 124;
                 </bibl>
                 <bibl corresp="#Sesini1943-1950">
-                    Sesini 1943-1950, p. 220.
+                    Sesini 1943-1950, p. 220;
                 </bibl>
                 <bibl corresp="#Corsi1969">
-                    Corsi 1969, p. 1051.
+                    Corsi 1969, p. 1051;
                 </bibl>
                 <bibl corresp="#Corsi1970">
-                    Corsi 1970, p. 339.
+                    Corsi 1970, p. 339;
                 </bibl>
                 <bibl corresp="#Pirrotta1992">
-                    Pirrotta 1992, p. 28.
+                    Pirrotta 1992, p. 28;
                 </bibl>
                 <bibl corresp="#Sucato2003">
                     Sucato 2003, p. 72.

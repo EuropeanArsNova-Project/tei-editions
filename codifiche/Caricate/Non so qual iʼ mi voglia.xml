@@ -60,13 +60,13 @@
         </lg>
         <lg>
             <l xml:id="l3">
-                Morir <anchor xml:id="l3a1"/>vorrei<anchor xml:id="l3a1"/>, ché ʼl viver mʼè gravoso
+                Morir <anchor xml:id="l3a1"/>vorrei<anchor xml:id="l3a2"/>, ché ʼl viver mʼè gravoso
             </l>
             <l xml:id="l4">
                 <anchor xml:id="l4a4"/>veggendomi<anchor xml:id="l4a5"/> per <anchor xml:id="l4a1"/>altrui <anchor xml:id="l4a2"/>esser<anchor xml:id="l4a3"/> lasciato;
             </l>
             <l xml:id="l5" n="5">
-                <anchor xml:id="l5a1"/>e morte<anchor xml:id="l5a2"/> non <anchor xml:id="5a3"/>vorrei<anchor xml:id="l5a4"/> ché, <anchor xml:id="l5a5"/>trapassato<anchor xml:id="l5a6"/>,
+                <anchor xml:id="l5a1"/>e morte<anchor xml:id="l5a2"/> non <anchor xml:id="l5a3"/>vorrei<anchor xml:id="l5a4"/> ché, <anchor xml:id="l5a5"/>trapassato<anchor xml:id="l5a6"/>,
             </l>
             <l xml:id="l6">
                 <anchor xml:id="l6a1"/>più<anchor xml:id="l6a2"/> non vedrei il bel <anchor xml:id="l6a3"/>viso<anchor xml:id="l6a4"/> amoroso.
@@ -109,7 +109,6 @@
                     <lem>altrui</lem>
                     <rdg wit="#Mg1 #Mg6 #C1">altri </rdg>
                 </app>
-                <head>4</head>
                 <app from="#l4a2" to="#l4a3">
                     <lem>esser</lem>
                     <rdg wit="#C1">cor </rdg>
@@ -181,7 +180,7 @@
             </listApp>
             <listApp>
                 <head>5</head>
-                <app from="#l253" to="#l5a4">
+                <app from="#l5a3" to="#l5a4">
                     <lem>vorrei</lem>
                     <rdg wit="#Sq">vorre  </rdg>
                 </app>
@@ -208,13 +207,13 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#Massèra1914">
-                Massèra 1914, pp. 111-2
+                Massèra 1914, pp. 111-2;
             </bibl>
             <bibl corresp="#Branca1939">
-                Branca 1939, p. 44
+                Branca 1939, p. 44;
             </bibl>
             <bibl corresp="#Leporatti2013">
-                Leporatti 2013, pp. 327-8
+                Leporatti 2013, pp. 327-8;
             </bibl>
             <bibl corresp="#Fantini2015-2016">
                 Fantini 2015-2016, pp. 88-91.
@@ -239,16 +238,16 @@
          </div>
          <listBibl type="editionsBibliography">
             <bibl xml:id="Massèra1914">
-                Giovanni Boccacci, <hi rend="italic">La caccia di Diana e le Rime</hi>, Avvertenza e note di Aldo Francesco Massèra, Torino, Unione tipografico-editrice torinese, 1914
+                Giovanni Boccacci, <hi rend="italic">La caccia di Diana e le Rime</hi>, Avvertenza e note di Aldo Francesco Massèra, Torino, Unione tipografico-editrice torinese, 1914.
             </bibl>
             <bibl xml:id="Branca1939">
-                Giovanni Boccaccio, <hi rend="italic">Le Rime, L'Amorosa visione, La caccia di Diana</hi>, a cura di Vittore Branca, Bari, Laterza, 1939
+                Giovanni Boccaccio, <hi rend="italic">Le Rime, L'Amorosa visione, La caccia di Diana</hi>, a cura di Vittore Branca, Bari, Laterza, 1939.
             </bibl>
             <bibl xml:id="Leporatti2013">
-                Giovanni Boccaccio, <hi rend="italic">Rime</hi>, ed. a cura di Roberto Leporatti, Firenze, Edizioni del Galluzzo per la Fondazione Ezio Franceschini, 2013
+                Giovanni Boccaccio, <hi rend="italic">Rime</hi>, ed. a cura di Roberto Leporatti, Firenze, Edizioni del Galluzzo per la Fondazione Ezio Franceschini, 2013.
             </bibl>
             <bibl xml:id="Fantini2015-2016">
-                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016
+                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016.
             </bibl>
          </listBibl>
       </back>

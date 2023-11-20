@@ -58,7 +58,7 @@
                 Amor,<anchor xml:id="l2a2"/> che verso<anchor xml:id="l2a3"/> me forte spronava<anchor xml:id="l2a1"/>
             </l>
             <l xml:id="l3">
-                <anchor xml:id="l3a1"/>gridandomi<anchor xml:id="l3a2"/>: «Staʼ <anchor xml:id="l3a4"/>fermʼ<anchor xml:id="l3a5"/>!», <anchor xml:id="l3a6"/>e<anchor xml:id="l3a7"/> io <anchor xml:id="l3a3"/>stava<anchor xml:id="l3a4"/>.
+                <anchor xml:id="l3a1"/>gridandomi<anchor xml:id="l3a2"/>: «Staʼ <anchor xml:id="l3a4"/>fermʼ<anchor xml:id="l3a5"/>!», <anchor xml:id="l3a6"/>e<anchor xml:id="l3a7"/> io <anchor xml:id="l3a3"/>stava<anchor xml:id="l3a8"/>.
             </l>
             <l xml:id="l4">
                 <anchor xml:id="l4a1"/>Giunto, <anchor xml:id="l4a2"/>el signore<anchor xml:id="l4a3"/> disse: «<anchor xml:id="l4a4"/>Noʼ<anchor xml:id="l4a5"/> vogliamo
@@ -122,7 +122,7 @@
                     <lem>gridandomi</lem>
                     <rdg wit="#O1"><gap reason="illegible" rend="per l.m."/>dadomi</rdg>
                 </app>
-                <app from="#l3a3" to="#l3a4">
+                <app from="#l3a3" to="#l3a8">
                     <lem>stava</lem>
                     <rdg wit="#O1">stai va </rdg>
                 </app>
@@ -144,7 +144,7 @@
                 <head>6</head>
                 <app from="#l6a2" to="#l6a3">
                     <lem>virtù</lem>
-                    <rdg>viritu <witDetail><hi rend="italic">(+1)</hi></witDetail> <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                    <rdg>viritu <witDetail wit="LoC"><hi rend="italic">(+1)</hi></witDetail> <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                 </app>
             </listApp>
             <listApp>

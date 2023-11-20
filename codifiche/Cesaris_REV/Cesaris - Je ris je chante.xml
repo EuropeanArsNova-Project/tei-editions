@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A l’aventure va Gauvain</title>
+            <author><ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830">Francesco Landini</ref></author>
+            <respStmt>
+               <resp>Digital scholarly editon created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Alice Colantuoni</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name></name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>    
+      </front-->
+      <body>
+         <lg>
+            <l xml:id="l1">
+            </l>
+         </lg>
+      </body>
+      <back>
+         <listWit>            
+            <witness xml:id="Ox2">
+               <!--ref target="X"-->Ox2<!--/ref-->
+               c. <locus>109v</locus>, <abbr xml:id="Ox2C">C</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-16): <hi rend="italic">joh(ann)es cesaris</hi>         
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+               <head><!-- Aggiungi il numero del verso --></head>
+               <app from="" to="">
+                  <!-- Crea un elemento app per ogni entrata dell'apparato critico -->
+                  <lem><!-- Inserisci il lemma --></lem>
+                  <!-- Per le varianti con riferimenti agli interi manoscritti -->
+                  <rdg wit="# #"><!-- Inseirsci la variante --></rdg>
+                  <!-- Per le varianti con riferimenti alle parti nel mansocritto -->
+                  <rdg><!-- Inseirsci la variante --> <wit><ref corresp="#"><!-- Sigla ms --><hi rend="super"><!-- T/C/Ct --></hi></ref></wit></rdg>
+               </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+               <!-- Copia qui lo SCHEMA METRICO. Se necessario suddividi in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"></hi>). --> 
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Reaney1955">Reaney 1955, p. <hi rend="small-caps">iii</hi>.</bibl>
+         </listBibl>
+         <listBibl type="bibliography">
+            <bibl corresp="#">
+               <!-- Sigla -->
+               <!--  <ref target="http://">Sigla con link esterno (possibilmente usare permalink)</ref> -->
+               <!-- Per un riferimento bibliografico che può essere sciolto,
+                  dentro a @corresp di <bibl> inserisci l'id del biblStruct corrispondente -->
+               <!-- Se lo scioglimento non si trova nella bibliografia minima sotto, utilizza qui
+                  <relatedItem> inserendo al suo interno un <bibl> o un <biblStruct> </relatedItem> -->
+            </bibl>
+            <bibl>
+               Autore anno, pp. x-xx
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl>
+         <div type="commentary">
+            <note target="# #"><!-- qui utilizza gli id dei versi -->
+               <num><!-- Aggiungi il numero dei versi. Se si tratta di un range: 1-2. --></num>
+               <hi rend="italic"><!-- Aggiungi qui la porzione di testo cui la nota fa riferimento -->:</hi>
+               <!-- Copia qui il testo della nota. Suddividilo in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"></hi>) -->
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Reaney1955">
+               <hi rend="italic">Early Fifteenth-Century Music, I. Baude Cordier, Johannis Cesaris, Johannis Carmen, Johannis Tapissier</hi>, ed. by G. Reaney, Roma, AIM, 1955 (CMM, 11/1).
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

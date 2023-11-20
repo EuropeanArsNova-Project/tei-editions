@@ -54,7 +54,7 @@
       <body>
         <lg>
             <l xml:id="l1">
-		      <anchor xml:id="l1a1"/>Quando<anchor xml:id="l1a1"/> <anchor xml:id="l1a5"/>la<anchor xml:id="l1a6"/> terra <anchor xml:id="l1a3"/>partorisc’ el<anchor xml:id="l1a4"/> verde,
+		      <anchor xml:id="l1a1"/>Quando<anchor xml:id="l1a2"/> <anchor xml:id="l1a5"/>la<anchor xml:id="l1a6"/> terra <anchor xml:id="l1a3"/>partorisc’ el<anchor xml:id="l1a4"/> verde,
 	        </l>
             <l xml:id="l2">
 		      per <anchor xml:id="l2a1"/>novo<anchor xml:id="l2a2"/> <anchor xml:id="l2a3"/>tempo<anchor xml:id="l2a4"/>, <anchor xml:id="l2a5"/>giovinetto fiore<anchor xml:id="l2a6"/>,
@@ -89,7 +89,7 @@
             </witness>
             <witness xml:id="Lo">
                <!--ref target="X"-->Lo<!--/ref-->
-               cc. <locus>13v-14r [= <abbr type="siglum" xml:id="Lo1">Lo<hi rend="super">1</hi></abbr>] e 20v-21-r [= <abbr type="siglum" xml:id="Lo2">Lo<hi rend="super">2</hi></abbr> ]</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="LoT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">fr(atr)is bartolini de padova</hi>
+               cc. <locus>13v-14r</locus> [= <abbr type="siglum" xml:id="Lo1">Lo<hi rend="super">1</hi></abbr>] e 20v-21-r [= <abbr type="siglum" xml:id="Lo2">Lo<hi rend="super">2</hi></abbr>], <abbr xml:id="LoC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="LoT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">fr(atr)is bartolini de padova</hi>
             </witness>
             <witness xml:id="R">
                <ref target="http://www.mirabileweb.it/manuscript-rom/paris-biblioth%C3%A8que-nationale-de-france-n-a-fr-6771-manoscript/LIO_30658">R</ref>
@@ -101,7 +101,6 @@
             </witness>
             </listWit>
            <listApp type="substantial">
-            <listApp>
                 <listApp>
                     <head>1</head>
                     <app from="#l1a1" to="#l1a2">
@@ -170,7 +169,7 @@
                         </rdgGrp>
                     </app>
                 </listApp>
-            </listApp>
+           </listApp>
             <listApp type="formal">
                 <listApp>
                     <head>1</head>

@@ -96,7 +96,6 @@
             </witness>
             </listWit>
            <listApp type="substantial">
-            <listApp>
                <listApp>
                  <head>2</head>
                  <app from="#l2a1" to="#l2a2">
@@ -144,7 +143,7 @@
                   <rdg wit="#R">etre viditi nel passo</rdg>
                  </app>
                </listApp>
-            </listApp>
+           </listApp>
          <listApp type="formal">
             <listApp>
                <head>1</head>

@@ -121,7 +121,6 @@
             </witness>
         </listWit>
         <listApp type="substantial">
-            <listApp>
                 <listApp>
                     <head>1</head>
                     <app from="#l1a1" to="#l1a2">
@@ -176,7 +175,7 @@
                             <rdg>so cor <wit><ref target="#MoAC">MoA<hi rend="super">C</hi></ref></wit></rdg>
                             <rdg wit="#R">cor soa <wit><ref target="#MoAT">MoA<hi rend="super">T</hi></ref></wit></rdg>
                             <rdg wit="#Lu">cor a soa</rdg>
-                            <rdg>cor suoa <witDetail><hi rend="italic">con</hi> a <hi rend="italic">espunto</hi></witDetail><wit><ref target="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                            <rdg>cor suoa <witDetail wit="#SqC"><hi rend="italic">con</hi> a <hi rend="italic">espunto</hi></witDetail><wit><ref target="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
                             <rdg>cor sua<wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
                         </rdgGrp>
                     </app>
@@ -228,7 +227,7 @@
                         <rdg wit="#R">chil</rdg>
                     </app>
                 </listApp>
-            </listApp>
+        </listApp>
             <listApp type="formal">
                 <listApp>
                     <head>1</head>

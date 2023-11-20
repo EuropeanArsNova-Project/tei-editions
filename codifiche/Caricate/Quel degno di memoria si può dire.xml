@@ -97,7 +97,6 @@
             </witness>
             </listWit>
            <listApp type="substantial">
-            <listApp>
                <listApp>
                  <head>1</head>
                  <app from="#l1a1" to="#l1a2">
@@ -129,7 +128,7 @@
                   </rdgGrp>
                  </app>
                </listApp>
-            </listApp>
+           </listApp>
          <listApp type="formal">
             <listApp>
                <head>1</head>

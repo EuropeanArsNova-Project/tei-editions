@@ -96,13 +96,13 @@
             <listApp>
                 <head>1-3</head>
                 <app from="#l1a1" to="#l3a1">
-                    <rdg wit="Sq"><witDetail><hi rend="italic">rip. sia sotto cantus che sotto tenor </hi></witDetail> <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                    <rdg wit="Sq"><witDetail wit="#Sq"><hi rend="italic">rip. sia sotto cantus che sotto tenor </hi></witDetail> <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                 </app>
             </listApp>
             <listApp>
                 <head>7-8</head>
                 <app from="#l7a1" to="#l8a1">
-                    <rdg wit="Sq"><witDetail><hi rend="italic">rip. sia sotto cantus che sotto tenor </hi></witDetail> <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                    <rdg wit="Sq"><witDetail wit="#Sq"><hi rend="italic">rip. sia sotto cantus che sotto tenor </hi></witDetail> <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                 </app>
             </listApp>
             <listApp>

@@ -103,7 +103,7 @@
                 <head>1</head>
                 <app from="#l1a1" to="#l1a2">
                     <lem>Amor</lem>
-                    <rdg wit="Sq">amore <witDetail><hi rend="italic">(+1)</hi></witDetail> </rdg>
+                    <rdg wit="Sq">amore <witDetail wit="#Sq"><hi rend="italic">(+1)</hi></witDetail> </rdg>
                 </app>
                 <app from="#l1a3" to="#l1a4">
                     <lem>che me</lem>

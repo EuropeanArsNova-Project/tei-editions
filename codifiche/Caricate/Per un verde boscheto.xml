@@ -113,7 +113,6 @@
             </witness>
             </listWit>
            <listApp type="substantial">
-            <listApp>
                 <listApp>
                     <head>2</head>
                     <app from="#l2a1" to="#l2a2">
@@ -203,7 +202,7 @@
                         <rdg wit="#Rc9">il</rdg>
                     </app>
                 </listApp>
-            </listApp>
+           </listApp>
             <listApp type="formal">
                 <listApp>
                     <head>1</head>
@@ -279,7 +278,7 @@
                         <rdg wit="#Fp">unde io</rdg>
                     </app>
                     <app from="#l3a3" to="#l3a4">
-                        <lem>con<lem>
+                        <lem>con</lem>
                         <rdgGrp>
                             <rdg wit="#Pit">co</rdg>
                             <rdg wit="#R">cum</rdg>
@@ -296,11 +295,11 @@
                         </rdgGrp>
                     </app>
                     <app from="#l6a7" to="#l6a8">
-                        <lem>preso<lem>
+                        <lem>preso</lem>
                         <rdg wit="#Fp">presso</rdg>
                     </app>
                     <app from="#l6a11" to="#l6a12">
-                        <lem>fatica<lem>
+                        <lem>fatica</lem>
                         <rdg wit="#R">fatiga</rdg>
                     </app>
                 </listApp>

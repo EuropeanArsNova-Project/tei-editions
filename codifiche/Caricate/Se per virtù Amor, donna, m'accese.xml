@@ -75,8 +75,10 @@
             </l>
             <l xml:id="l7">
                 pria ch’altro amor m’avesse a·ssé ricolto.
+                </l>
             <l xml:id="l8">
                 Dunque, caro mie ben che ’l cor m’à’ tolto,
+            </l>
             <l xml:id="l9">
                 parte del tuo mi dona,
 	        </l>
@@ -92,10 +94,10 @@
                cc. <locus>78v-79r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-5), <hi rend="italic">resid</hi>. (vv. 6-10): <hi rend="italic">p(aulus) a(bbas)</hi>
             </witness>
             </listWit>
-           <listApp type="substantial">
-            </listApp>
-         <listApp type="formal">
-         </listApp>
+           <!--listApp type="substantial">
+            </listApp-->
+         <!--listApp type="formal">
+         </listApp-->
          <div type="metricalScheme">
             <p>Ballata mezzana 10’z 10’y 10’z; 10’a 10’b, 10’a 10’b; 10’b 6’c 10’z. Si noti l’asimmetria metrica tra volta e ripresa.</p> 
             <p><hi rend="italic">Pagnotta</hi> 103 : 13.</p>
