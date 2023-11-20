@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Lʼaspido sordo, e ʼl tir e·llo scorçone</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Vittoria Brancato</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>           
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front>
+         <div>
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"></hi>)
+            </p>
+         </div>        
+      </front>-->
+        <body>
+            <lg>
+                <l xml:id="l1">Lʼaspido sordo, e ʼl <anchor xml:id="l1a1"/>tir<anchor xml:id="l1a2"/> e·llo scorçone,</l>
+                <l xml:id="l2">la talpa, la <anchor xml:id="l2a1"/>cicignʼ<anchor xml:id="l2a2"/> e ʼl badalischio</l>
+                <l xml:id="l3">si <anchor xml:id="l3a1"/>trovan<anchor xml:id="l3a2"/> per le <anchor xml:id="l3a3"/>selve al<anchor xml:id="l3a4"/> suon del fischio. </l>
+                <l xml:id="l4">O Febʼ, o <anchor xml:id="l4a1"/>ssuo<anchor xml:id="l4a2"/> sorella <anchor xml:id="l4a3"/>in<anchor xml:id="l4a4"/> iscorpione!</l>
+                <l xml:id="l5" n="5"><anchor xml:id="l5a1"/>Presti la gratia <anchor xml:id="l5a3"/>in lor<anchor xml:id="l5a4"/> et lo <anchor xml:id="l5a5"/>sapere<anchor xml:id="l5a6"/>,<anchor xml:id="l5a2"/></l>
+                <l xml:id="l6"><anchor xml:id="l6a3"/>sì che<anchor xml:id="l6a4"/> lor <anchor xml:id="l6a5"/>passïon<anchor xml:id="l6a6"/> <anchor xml:id="l6a1"/>faccia<anchor xml:id="l6a2"/> <anchor xml:id="l6a7"/>sentire<anchor xml:id="l6a8"/>.</l>
+            </lg>
+            <lg>
+                <l xml:id="l7"><anchor xml:id="l7a3"/>Saturnʼ<anchor xml:id="l7a4"/> e Marte <anchor xml:id="l7a1"/>diene<anchor xml:id="l7a2"/> lor la força,</l>
+                <l xml:id="l8"><anchor xml:id="l8a1"/>sì chi<anchor xml:id="l8a2"/> è <anchor xml:id="l8a3"/>morso<anchor xml:id="l8a4"/> <anchor xml:id="l8a5"/>passi<anchor xml:id="l8a6"/> <anchor xml:id="l8a7"/>e<anchor xml:id="l8a8"/> <anchor xml:id="l8a9"/>getti<anchor xml:id="l8a10"/> scorça.</l>                
+            </lg>
+
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Sq">
+                    <!--ref target="X"-->Sq<!--/ref-->cc. <locus>77v-78r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid.</hi> (vv. 4-6)
+                </witness>
+                
+                <witness xml:id="Lo">
+                    <!--ref target="X"-->Lo<!--/ref-->cc. <locus>25v-26r</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="LoT">T</abbr> <hi rend="italic">resid.</hi> (vv. 4-6) 
+                </witness>
+                
+                <witness xml:id="SL">
+                    <!--ref target="X"-->SL<!--/ref-->cc. <locus>77v-78r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">don donatus</hi>. Testo per gran parte illeggibile.
+                </witness>
+                
+                <witness xml:id="Ah1">
+                    <!--ref target="X"-->Ah1<!--/ref-->c. 27v: <hi rend="italic">madriale di righo belondi</hi>
+                </witness>
+                
+                
+            </listWit>
+
+
+            <listApp type="substantial">              
+               <listApp>
+                   <head>3</head>
+                   <app from="#l3a1" to="#l3a2">
+                       <lem>trovan</lem>
+                       <rdg wit="#Ah1">truova</rdg>
+                   </app>
+               </listApp>
+                
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a1" to="#l5a2">
+                        <lem>Presti la gratia in lor et lo sapere,</lem>
+                        <rdg wit="#Ah1">a lor presti la gratia e llo sapere</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>faccia</lem>
+                        <rdg wit="#Ah1">faccian</rdg>
+                    </app>                  
+                </listApp>
+                
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>diene</lem>
+                        <rdg>diedo <wit><ref corresp="#LoC">Lo <hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg wit="#Ah1">ne dia</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem>sì chi</lem>
+                        <rdg wit="#Ah1">sicche</rdg>
+                    </app>
+                    
+                    <app from="#l8a3" to="#l8a4">
+                        <lem>morso</lem>
+                        <rdg wit="#Lo">mosso</rdg>
+                    </app>
+                    
+                    <app from="#l8a5" to="#l8a6">
+                        <lem>passi</lem>
+                        <rdg wit="#Sq #SL"> passo <wit><ref corresp="#LoC">Lo <hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l8a7" to="#l8a8">
+                        <lem>e</lem>
+                        <rdg type="omission" wit="#Sq"><hi rend="italic">om.</hi><wit><ref corresp="#LoC">Lo <hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+
+
+
+           <listApp type="formal">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>tir</lem>
+                        <rdg wit="#Ah1">tiro</rdg>
+                    </app>
+                </listApp>
+               
+               <listApp>
+                   <head>2</head>
+                   <app from="#l2a1" to="#l2a2">
+                       <lem>cicignʼ</lem>
+                       <rdg wit="#Ah1">cicignia</rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>3</head>
+                   <app from="#l3a3" to="#l3a4">
+                       <lem>selve al</lem>
+                       <rdg wit="#Lo">selval <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>4</head>
+                   <app from="#l4a1" to="#l4a2">
+                       <lem>ssuo</lem>
+                       <rdg wit="#Ah1">sua</rdg>
+                       <rdg>suʼ <wit><ref corresp="#LoT">Lo <hi rend="super">T</hi></ref></wit></rdg>
+                   </app>
+                   
+                   <app from="#l4a3" to="#l4a4">
+                       <lem>in</lem>
+                       <rdg wit="#Ah1">inn</rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>5</head>
+                   <app from="#l5a3" to="#l5a4">
+                       <lem>in lor</lem>
+                       <rdg>illoro <wit><ref corresp="#LoT">Lo <hi rend="super">T</hi></ref></wit></rdg>
+                   </app>
+                   
+                   <app from="#l5a5" to="#l5a6">
+                       <lem>sapere</lem>
+                       <rdg>saperre <wit><ref corresp="#LoT">Lo <hi rend="super">T</hi></ref></wit></rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>6</head>
+                   <app from="#l6a3" to="#l6a4">
+                       <lem>sì che</lem>
+                       <rdg wit="#Ah1">sicche</rdg>
+                   </app>
+                   
+                   <app from="#l6a5" to="#l6a6">
+                       <lem>passïon</lem>
+                       <rdg>passionne <wit><ref corresp="#LoT">Lo <hi rend="super">T</hi></ref></wit></rdg>
+                   </app>
+                   
+                   <app from="#l6a7" to="#l6a8">
+                       <lem>sentire</lem>
+                       <rdg>sentirre <wit><ref corresp="#LoT">Lo <hi rend="super">T</hi></ref></wit></rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>7</head>
+                   <app from="#l7a3" to="#l7a4">
+                       <lem>Saturnʼ</lem>
+                       <rdg wit="#Ah1">Saturno</rdg>
+                   </app>
+               </listApp>
+               
+           </listApp>
+            
+
+
+            <div type="metricalScheme">
+                <p>Madrigale 10ʼa 10ʼb 10ʼb, 10ʼc 10ʼd 10ʼd; 10ʼe 10ʼe.</p>
+                <p><hi rend="italic">Capovilla</hi> XLVIII.</p>
+                <p>Rima imperfetta (assonanza atona) ai vv. 5 : 6.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#LiGotti1944">Li Gotti 1944, p. 8;</bibl>
+                <bibl corresp="#Marrocco1972">Marrocco 1972, pp. 54-6;</bibl>
+                <bibl corresp="#Giorgetti2019-2020">Giorgetti 2019-2020, pp. 97-100;</bibl>
+            </listBibl>
+
+
+            <listBibl type="bibliography">
+                <bibl corresp="#LiGotti1944a">Li Gotti 1944a, pp. 385-6.</bibl>
+            </listBibl>
+
+
+            <div type="commentary">
+                <p>Per una possibile interpretazione politica dellʼintero brano in ottica anti-viscontea cfr. Giorgetti 2019-2020, pp. 97-9. </p>
+                <note target="#l1">
+                    <num>1.</num>
+                    <p><hi rend="italic">tir e·llo scorçone</hi>: diversamente dalla vulgata (edd. Li Gotti e Marrocco), in cui si legge «tirello scorçone», la <hi rend="italic">distinctio</hi> (già proposta nel lavoro di Giorgetti 2019-2020, p. 97, e suggerita anche dal copista di Ah1 <hi rend="italic">tiro schorçone</hi>) permette di avere un trittico di serpenti velenosi (<hi rend="italic">aspido</hi>, <hi rend="italic">tir</hi> e <hi rend="italic">scorçone</hi>), che fa il paio con gli altri tre animali al v. successivo (la <hi rend="italic">talpa</hi>, e gli altri due serpenti <hi rend="italic">cicignʼ</hi> e <hi rend="italic">badalischio</hi>).</p>
+                </note>
+                
+                <note target="#l4 #l6">
+                    <num>4-6.</num>
+                    <p> Intendi ʻo Febo, o sua sorella (Artemide) nelle fattezze di scorpione! Siano pronti (<hi rend="italic">presti</hi>) in loro la grazia e il sapere, così che facciano sentire la loro sofferenza (cioè quella che sono in grado di infliggere)ʼ.</p>
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="LiGotti1944">E. Li Gotti, <hi rend="italic">Poesie musicali italiane del sec. XIV</hi>, in «Atti della Reale Accademia di scienze, lettere e arti di Palermo», IV/2 (1944), pp. 99-167</bibl>
+                <bibl xml:id="Marrocco1972">Thomas Marrocco, <hi rend="italic">Italian Secular Music. Anonymous Madrigals and Cacce and the Works of Niccolò da Perugia</hi>, Monaco, Éditions de l’Oiseau-Lyre, 1972 (Polyphonic Music of the Fourteenth Century, VIII)</bibl>
+                <bibl xml:id="Giorgetti2019-2020">Elisa Giorgetti, <hi rend="italic">Edizione critica commentata dei testi intonati da Donato da Cascia</hi>, tesi di Laurea Magistrale, Università di Firenze, 2019-2020</bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
