@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A l’aventure va Gauvain</title>
+            <title>Je ris, je chante, je m’esbas</title>
             <author><ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830">Francesco Landini</ref></author>
             <respStmt>
                <resp>Digital scholarly editon created within the ERC</resp>
@@ -18,7 +18,7 @@
             </respStmt>
             <respStmt>
                <resp>Revised by</resp>
-               <name></name>
+               <name>Davide Checchi</name>
             </respStmt>
             <respStmt>
                <resp>TEI-encoded by</resp>
@@ -51,60 +51,80 @@
       <body>
          <lg>
             <l xml:id="l1">
+               Je ris, je chante, je m’esbas,
             </l>
+            <l xml:id="l2">
+               je ne scay s’il m’est mal ou bien;
+            </l>
+            <l xml:id="l3">
+               j’aime tout et si n’ayme rien,
+            </l>
+            <l xml:id="l4">
+               je sui en boin point, ne suy pas.
+            </l>
+            <l xml:id="l5" n="5">
+               Il n’est honme qui ne fust las		
+            </l>
+            <l xml:id="l6">
+               du grant annuy que je soustien;
+            </l>
+            <l xml:id="l7">
+               je ris [je chante, je m’esbas,
+            </l>
+            <l xml:id="l8">
+               je ne scay s’il m’est mal ou bien].
+            </l>
+            <l xml:id="l9">
+               [... -as]
+            </l>
+            <l xml:id="l10" n="10">
+               [... -ien]
+            </l>
+            <l xml:id="l11">
+               [... -ien]
+            </l>
+            <l xml:id="l12">
+               [... -as]
+            </l>
+            <l xml:id="l13">
+               <hi rend="italic"><supplied xml:id="s1l13" corresp="#s1l14 #s1l15 #s1l16">[Je ris, je chante, je m’esbas,</supplied></hi>
+            </l>
+            <l xml:id="l14">
+               <hi rend="italic"><supplied xml:id="s1l14">je ne scay s’il m’est mal ou bien;</supplied></hi>
+            </l>
+            <l xml:id="l15" n="15">
+               <hi rend="italic"><supplied xml:id="s1l15">j’aime tout et si n’ayme rien,</supplied></hi>
+            </l>
+            <l xml:id="l16">
+               <hi rend="italic"><supplied xml:id="s1l16">je sui en boin point, ne suy pas.]</supplied></hi>
+            </l>            
          </lg>
       </body>
       <back>
          <listWit>            
             <witness xml:id="Ox2">
                <!--ref target="X"-->Ox2<!--/ref-->
-               c. <locus>109v</locus>, <abbr xml:id="Ox2C">C</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-16): <hi rend="italic">joh(ann)es cesaris</hi>         
+               c. <locus>94v</locus>, <abbr xml:id="Ox2C">C</abbr> (vv. 1-8): <hi rend="italic">joh(ann)es cesaris</hi>         
             </witness>
          </listWit>
-         <listApp type="substantial">
-            <listApp>
-               <head><!-- Aggiungi il numero del verso --></head>
-               <app from="" to="">
-                  <!-- Crea un elemento app per ogni entrata dell'apparato critico -->
-                  <lem><!-- Inserisci il lemma --></lem>
-                  <!-- Per le varianti con riferimenti agli interi manoscritti -->
-                  <rdg wit="# #"><!-- Inseirsci la variante --></rdg>
-                  <!-- Per le varianti con riferimenti alle parti nel mansocritto -->
-                  <rdg><!-- Inseirsci la variante --> <wit><ref corresp="#"><!-- Sigla ms --><hi rend="super"><!-- T/C/Ct --></hi></ref></wit></rdg>
-               </app>
-            </listApp>
-         </listApp>
+         <!--listApp type="substantial">
+         </listApp-->
          <div type="metricalScheme">
             <p>
-               <!-- Copia qui lo SCHEMA METRICO. Se necessario suddividi in paragrafi (<p>)
-               e marca i corsivi (<hi rend="italic"></hi>). --> 
+               <hi rend="italic">Rondeau</hi> 8A 8B 8B 8A; 8a 8b, 8A 8B; [8a 8b 8b 8a; 8A 8B 8B 8A].
             </p>
          </div>
          <listBibl type="editions">
             <bibl corresp="#Reaney1955">Reaney 1955, p. <hi rend="small-caps">iii</hi>.</bibl>
          </listBibl>
-         <listBibl type="bibliography">
+         <!--listBibl type="bibliography">
             <bibl corresp="#">
-               <!-- Sigla -->
-               <!--  <ref target="http://">Sigla con link esterno (possibilmente usare permalink)</ref> -->
-               <!-- Per un riferimento bibliografico che può essere sciolto,
-                  dentro a @corresp di <bibl> inserisci l'id del biblStruct corrispondente -->
-               <!-- Se lo scioglimento non si trova nella bibliografia minima sotto, utilizza qui
-                  <relatedItem> inserendo al suo interno un <bibl> o un <biblStruct> </relatedItem> -->
             </bibl>
-            <bibl>
-               Autore anno, pp. x-xx
-               <relatedItem>
-                  <bibl>Riferimento bibliografico completo</bibl>
-               </relatedItem>
-            </bibl>
-         </listBibl>
+         </listBibl-->
          <div type="commentary">
-            <note target="# #"><!-- qui utilizza gli id dei versi -->
-               <num><!-- Aggiungi il numero dei versi. Se si tratta di un range: 1-2. --></num>
-               <hi rend="italic"><!-- Aggiungi qui la porzione di testo cui la nota fa riferimento -->:</hi>
-               <!-- Copia qui il testo della nota. Suddividilo in paragrafi (<p>)
-               e marca i corsivi (<hi rend="italic"></hi>) -->
+            <note target="# #">
+               <num>4.</num>
+               <hi rend="italic">en boin point:</hi> loc.: ‘in buono stato, in buona salute, in una buona situazione’, cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">point1</hi>.
             </note>
          </div>
          <listBibl type="editionsBibliography">

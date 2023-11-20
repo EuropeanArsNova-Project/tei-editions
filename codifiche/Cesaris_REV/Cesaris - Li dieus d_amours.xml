@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>A l’aventure va Gauvain</title>
+            <title>Li dieus d’amours, sires de vrais amans</title>
             <author><ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830">Francesco Landini</ref></author>
             <respStmt>
                <resp>Digital scholarly editon created within the ERC</resp>
@@ -129,7 +129,13 @@
             </p>
          </div>
          <listBibl type="editions">
-            <bibl corresp="#Reaney1955">Reaney 1955, p. <hi rend="small-caps">iii</hi>.</bibl>
+            <bibl corresp="#Reaney1955">Reaney 1955, p. <hi rend="small-caps">iv</hi>;</bibl>
+            <bibl corresp="#Apel-Rosenberg1971">
+               Apel-Rosenberg 1971, pp. <hi rend="small-caps">xxix-xxx</hi>;
+            </bibl>
+            <bibl corresp="#Greene1982">
+               Greene 1982, p. 77.
+            </bibl>
          </listBibl>
          <!--listBibl type="bibliography">
             <bibl corresp="#">
