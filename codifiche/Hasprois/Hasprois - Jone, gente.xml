@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Jone, gente, joyeuse et belle</title>
+            <respStmt>
+               <resp>Digital scholarly editon created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Alice Colantuoni</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Davide Checchi</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>    
+      </front-->
+      <body>
+         <lg>
+            <l xml:id="l1">
+               <anchor xml:id="l1a1"/>Jone<anchor xml:id="l1a2"/>, gente, joyeuse et <anchor xml:id="l1a3"/>belle<anchor xml:id="l1a4"/>,
+            </l>
+            <l xml:id="l2">
+               doulce, <anchor xml:id="l2a1"/>plaisante<anchor xml:id="l2a2"/>, <anchor xml:id="l2a3"/>fresche<anchor xml:id="l2a4"/>, nouvelle,
+            </l>
+            <l xml:id="l3">
+               pour <anchor xml:id="l3a1"/>Dieu<anchor xml:id="l3a2"/>, soyés vers moy piteuse, 
+            </l>
+            <l xml:id="l4">
+               de mes <anchor xml:id="l4a1"/>maux<anchor xml:id="l4a2"/> garir envïeuse,
+            </l>
+            <l xml:id="l5" n="5">
+               car ma dolour trop <anchor xml:id="l5a1"/>renovelle<anchor xml:id="l5a2"/>.
+            </l>
+            <l xml:id="l6">
+               <supplied reason="illegible">[... -elle]</supplied>
+            </l>
+            <l xml:id="l7">
+               <supplied reason="illegible">[... -elle]</supplied>
+            </l>
+            <l xml:id="l8">
+               <supplied reason="illegible">[... -euse]</supplied>
+            </l>
+            <l xml:id="l9">
+               <hi rend="italic">
+                  <supplied corresp="#l11s1 #l12s1">[Jone, gente, joyeuse et belle,</supplied>
+               </hi>
+            </l>
+            <l xml:id="l10" n="10">
+               <hi rend="italic">
+                  <supplied xml:id="l10s1">doulce, plaisante, fresche, nouvelle,	</supplied>
+               </hi>
+            </l>
+            <l xml:id="l11">
+               <hi rend="italic">
+                  <supplied xml:id="l11s1">pour Dieu, soyés vers moy piteuse]</supplied>
+               </hi>
+            </l>
+            <l xml:id="l12">
+               <supplied reason="illegible">[... -elle]</supplied>
+            </l>
+            <l xml:id="l13">
+               <supplied reason="illegible">[... -elle]</supplied>
+            </l>
+            <l xml:id="l14">
+               <supplied reason="illegible">[... -euse]</supplied>
+            </l>
+            <l xml:id="l15" n="15">
+               <supplied reason="illegible">[... -euse]</supplied>
+            </l>
+            <l xml:id="l16">
+               <supplied reason="illegible">[... -elle]</supplied>
+            </l>
+            <l xml:id="l17">
+               <hi rend="italic">
+                  <supplied corresp="#l18s1 #l19s1 #l20s1 #l21s1">[Jone, gente, joyeuse et belle,</supplied>
+               </hi>
+            </l>
+            <l xml:id="l18">
+               <hi rend="italic">
+                  <supplied xml:id="l18s1">doulce, plaisante, fresche, nouvelle,</supplied>
+               </hi>
+            </l>
+            <l xml:id="l19">
+               <hi rend="italic">
+                  <supplied xml:id="l19s1">pour Dieu, soyés vers moy piteuse,</supplied>
+               </hi>
+            </l>
+            <l xml:id="l20" n="20">
+               <hi rend="italic">
+                  <supplied xml:id="l20s1">de mes maux garir envïeuse,</supplied>
+               </hi>
+            </l>
+            <l xml:id="l21">
+               <hi rend="italic">
+                  <supplied xml:id="l21s1">car ma dolour trop renovelle.]</supplied>
+               </hi>
+            </l>
+         </lg>
+      </body>
+      <back>
+         <listWit>            
+            <witness xml:id="Q15">
+               <!--ref target="X"-->Q15<!--/ref-->
+               <locus>cc. 21v-24r</locus>, <abbr xml:id="Q15C">C</abbr> (vv. 1-5), <abbr xml:id="Q15Ct">Ct</abbr> (vv. 1-5): <hi rend="italic">hasprose</hi>         
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>Jone</lem>
+                  <rdg>Lone <wit><ref corresp="#Q15C">Q15<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app from="#l1a3" to="#l1a4">
+                  <lem>belle</lem>
+                  <rdg><gap reason="illegible" rend="ill."/> <wit><ref corresp="#Q15C">Q15<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>2</head>
+               <app from="#l2a1" to="#l2a2">
+                  <lem>plaisante</lem>
+                  <rdg>plaisant <wit><ref corresp="#Q15Ct">Q15<hi rend="super">Ct</hi></ref></wit></rdg>
+               </app>
+               <app from="#l2a3" to="#l2a4">
+                  <lem>fresche</lem>
+                  <rdg wit="#Q15">fresche et</rdg>
+               </app>
+            </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+               <head>3</head>
+               <app from="#l3a1" to="#l3a2">
+                  <lem>Dieu</lem>
+                  <rdg>Dieux <wit><ref corresp="#Q15Ct">Q15<hi rend="super">Ct</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>4</head>
+               <app from="#l4a1" to="#l4a2">
+                  <lem>maux</lem>
+                  <rdg>maulx <wit><ref corresp="#Q15Ct">Q15<hi rend="super">Ct</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>5</head>
+               <app from="#l5a1" to="#l5a2">
+                  <lem>renovelle</lem>
+                  <rdg>renouvelle <wit><ref corresp="#Q15Ct">Q15<hi rend="super">Ct</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+               <hi rend="italic">Rondeau</hi>: 8’A 8’A 8’B 8’B 8’A; [8’a 8’a 8’b, 8’B 8’A; 8’a 8’a 8’b 8’b 8’a; 8’A 8’A 8’B 8’B 8’A].
+            </p>
+            <p>
+               Rima ricca e derivativa ai vv. 2 : 5.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Reaney1959">Reaney 1959, p. <hi rend="small-caps">lxv</hi>.</bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl-->
+         <!--div type="commentary">
+            <note target="# #">
+               <num></num>
+            </note>
+         </div-->
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Reaney1959">
+               <hi rend="italic">Early Fifteenth-Century Music, I. Baude Cordier, Johannis Cesaris, Johannis Carmen, Johannis Tapissier</hi>, ed. by G. Reaney, Roma, AIM, 1955 (CMM, 11/1).
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

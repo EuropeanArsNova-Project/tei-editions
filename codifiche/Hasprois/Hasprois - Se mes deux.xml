@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Se mes deux yeux peussent a vous parler</title>
+            <respStmt>
+               <resp>Digital scholarly editon created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Alice Colantuoni</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Davide Checchi</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>    
+      </front-->
+      <body>
+         <lg>
+            <l xml:id="l1">
+               Se mes deux yeux peussent a vous parler
+            </l>
+            <l xml:id="l2">
+               quant je vous voy, chiere dame honnouree,
+            </l>
+            <l xml:id="l3">
+               et hardement fust en moy sans doubter
+            </l>
+            <l xml:id="l4">
+               pour desclarer mon <anchor xml:id="l4a1"/>cuer<anchor xml:id="l4a2"/> et ma pensee,
+            </l>
+            <l xml:id="l5" n="5">
+               je prieroye qu’il vous pleust a ouïr 
+            </l>
+            <l xml:id="l6">
+               les griefs tourmens qu’il me convient souffrir
+            </l>
+            <l xml:id="l7">
+               pour vo destre oeul, qui est d’un regart plains,
+            </l>
+            <l xml:id="l8">
+               tel et si fait que <anchor xml:id="l8a1"/>pou<supplied>[t]</supplied><anchor xml:id="l8a2"/> amans occir.
+            </l>
+            <l xml:id="l9">
+               <hi rend="italic">Amours le scet, de ce sui tous certains.</hi>
+            </l>
+         </lg>
+      </body>
+      <back>
+         <listWit>            
+            <witness xml:id="Ox2">
+               <!--ref target="X"-->Ox2<!--/ref-->
+               c. <locus>109v</locus>, <abbr xml:id="Ox2C">C</abbr> (vv. 1-9): <hi rend="italic">hasprois</hi>
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+               <head>4</head>
+               <app from="#l4a1" to="#l4a2">
+                  <lem>cuer</lem>
+                  <rdg wit="#Ox2">
+                     <witDetail wit="#Ox2"><hi rend="italic">abbreviato con disegno a forma di cuore</hi></witDetail>
+                  </rdg>
+               </app>           
+            </listApp>
+            <listApp>
+               <head>8</head>
+               <app from="#l8a1" to="l8a2">
+                  <lem>pout</lem>
+                  <rdg wit="Ox2">pour</rdg>
+               </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+               <hi rend="italic">Ballade</hi> 10a 10’b, 10a 10’b; 10c 10c 10d 10c 10D.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Reaney1959">Reaney 1959, p. <hi rend="small-caps">lxv</hi>.</bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl-->
+         <!--div type="commentary">
+            <note target="# #">
+               <num></num>
+            </note>
+         </div-->
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Reaney1959">
+               <hi rend="italic">Early Fifteenth-Century Music, I. Baude Cordier, Johannis Cesaris, Johannis Carmen, Johannis Tapissier</hi>, ed. by G. Reaney, Roma, AIM, 1955 (CMM, 11/1).
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>
