@@ -138,7 +138,7 @@
                      <head>12</head>
                      <app from="#t1l12a1" to="#t1l12a2">
                         <lem>car</lem>
-                        <rdg wit="Ox2">est <hi rend="italic">(?)</hi> car</rdg>
+                        <rdg wit="Ox2">est <unclear><hi rend="italic">(?)</hi></unclear> car</rdg>
                      </app>
                   </listApp>
                </listApp>

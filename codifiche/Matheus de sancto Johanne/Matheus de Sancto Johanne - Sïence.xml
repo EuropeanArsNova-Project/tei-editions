@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pour ce que je ne say gaire</title>
+            <respStmt>
+               <resp>Digital scholarly editon created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Alice Colantuoni</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>    
+      </front-->
+      <body>
+         <lg>
+            <l xml:id="l1">
+               Sïence n’a nul annemi   
+            </l>
+            <l xml:id="l2">
+               se non ceulz qui sont ignorant:   
+            </l>
+            <l xml:id="l3">
+               envïeuz sont, je le vous di,   
+            </l>
+            <l xml:id="l4">
+               souvent sur ceulz qui sont sachant,   
+            </l>
+            <l xml:id="l5" n="5">
+               et vont melodie abatant  
+            </l>
+            <l xml:id="l6">
+               tout <anchor xml:id="l6a1"/>voulentier<supplied>[s]</supplied><anchor xml:id="l6a2"/> per leur ha<supplied>[ut]</supplied> cry.
+            </l>
+            <l xml:id="l7">
+               <hi rend="italic">
+                  Qui plus <anchor xml:id="l7a1"/>ha<supplied>[ut]</supplied><anchor xml:id="l7a2"/> crïe: «Hay, avant!   
+               </hi>               
+            </l>
+            <l xml:id="l8">
+               <hi rend="italic">
+                  C’est trop bien fait!», disons ainsy.   
+               </hi>               
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l9">
+               Ilz n’ont mesure ne demi  
+            </l>
+            <l xml:id="l10" n="10">
+               ny ton n’at on <supplied xml:id="l10s1">[ne]</supplied> peu ne grant
+            </l>
+            <l xml:id="l11">
+               ne proportion, et je <anchor xml:id="l11a1"/>qu’<supplied>[ainsi]</supplied><anchor xml:id="l11a2"/> 
+            </l>
+            <l xml:id="l12">
+               vois leur <anchor xml:id="l12a1"/>ha<supplied>[ut]</supplied><anchor xml:id="l12a2"/> cry bien escoutant,  
+            </l>
+            <l xml:id="l13">
+               dy auz compaignons maintenant:
+            </l>
+            <l xml:id="l14">
+               «Escoutés seignours, je vous pri,   
+            </l>
+            <l xml:id="l15" n="15">
+               <hi rend="italic">
+                  Qui plus ha<supplied>[ut]</supplied> crïe: «Hay, avant!   
+               </hi>               
+            </l>
+            <l xml:id="l16">
+               <hi rend="italic">
+                  C’est trop bien fait!», disons ainsy.   
+               </hi>               
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l17">
+               Souvent se moustrent estre ami
+            </l>
+            <l xml:id="l18">
+               en grans proumesses proumetant,
+            </l>
+            <l xml:id="l19">
+               maiz ja per eulz <anchor xml:id="l19a1"/><supplied>[n]</supplied>’ie<supplied>[r]</supplied>t acompli<anchor xml:id="l19a2"/>, 
+            </l>
+            <l xml:id="l20" n="20">
+               quar ilz usent de faulz semblant.  
+            </l>
+            <l xml:id="l21">
+               Maudiz soient telz partisant,
+            </l>
+            <l xml:id="l22">
+               quar de tant que j’en ay oÿ,
+            </l>
+            <l xml:id="l23">
+               <hi rend="italic">
+                  Qui plus <supplied corresp="#l24s1">[haut crïe: «Hay, avant!</supplied>
+               </hi>               
+            </l>
+            <l xml:id="l24">
+               <hi rend="italic">
+                  <supplied xml:id="l24s1">C’est trop bien fait!», disons ainsy]</supplied>.
+               </hi>               
+            </l>
+         </lg>
+      </body>
+      <back>
+         <listWit>            
+            <witness xml:id="Ch">
+               <ref target="http://www.mirabileweb.it/manuscript-rom/chantilly-biblioth%C3%A8que-et-archives-du-ch%C3%A2teau-564--manoscript/ARSNOVA_30779">Ch</ref>
+               <locus>c. 57r</locus>, <abbr xml:id="ChC">C</abbr> (vv. 1-8), <hi rend="italic">resid.</hi> (vv. 9-24): <hi rend="italic">m(atheus) de s(ancto) johan(ne)</hi>         
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+               <head>6</head>
+               <app from="#l6a1" to="#l6a2">
+                  <lem>voulentiers</lem>
+                  <rdg wit="#Ch">voulentiere</rdg>
+               </app>
+               <app from="#l6a3" to="#l6a4">
+                  <lem>haut</lem>
+                  <rdg wit="#Ch">hanc</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>7</head>
+               <app from="#l7a1" to="#l7a2">
+                  <lem>haut</lem>
+                  <rdg wit="#Ch">hanc</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>10</head>
+               <app from="#l10s1">
+                  <lem>ne</lem>
+                  <rdg wit="#Ch"/>
+               </app>
+            </listApp>
+            <listApp>
+               <head>11</head>
+               <app from="#l11a1" to="#l11a2">
+                  <lem>qu’<hi rend="italic">ainsi</hi></lem>
+                  <rdg wit="#Ch">que</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>12</head>
+               <app from="#l12a1" to="#l12a2">
+                  <lem>haut</lem>
+                  <rdg wit="#Ch">hanc</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>19</head>
+               <app from="#l19a1" to="#l19a2">
+                  <lem>n’iert acompli</lem>
+                  <rdg wit="#Ch">uient acomplir</rdg>
+               </app>
+            </listApp>
+         </listApp>         
+         <div type="metricalScheme">
+            <p>
+               <hi rend="italic">Ballade</hi> 8a 8b, 8a 8b; 8b 8a 8B 8A. 
+            </p>
+            <p>
+               Rima ricca ai vv. 1 : 9 : 17, 2 : 10, 5 : 12 : 18, 6 : 14; rima identica ai vv. 8 : 11 : 16 : 24.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Apel-Rosenberg1970">
+               Apel-Rosenberg 1970, p. <hi rend="small-caps">lxii</hi>;
+            </bibl>
+            <bibl corresp="#Greene1982">
+               Greene 1982, p. 149;
+            </bibl>
+            <bibl corresp="#Plumley-Stone2009">
+               Plumley-Stone 2009, p. 139.   
+            </bibl>
+         </listBibl>
+         <div type="commentary">
+            <note target="#l9">
+               <num>9.</num>
+               <hi rend="italic">demi</hi>:
+               ‘semitono’, cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">demi</hi>.
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Apel-Rosenberg1970">
+               Willi Apel, <hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, edition of the literary texts by S. N. Rosenberg., Rome, American Institute of Musicology, 1970 (CMM, 53/1).
+            </bibl>
+            <bibl xml:id="Greene1982">
+               Gordon Greene, <hi rend="italic">French Secular Music. Ballades and Canons</hi>, Monaco, Éditions de l’Oiseau-Lyre, 1982 (Polyphonic Music of the Fourteenth Century, XX).   
+            </bibl>
+            <bibl xml:id="Plumley-Stone2009">
+               .
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

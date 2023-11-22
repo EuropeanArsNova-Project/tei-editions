@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Più bella donn' al mondo ma' non fia</title>
+            <author>Francesco Landini</author>
+            <editor>Davide Checchi</editor>
+            <respStmt>
+               <resp>Digital scholarly editon created within the </resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Davide Checchi</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoding by</resp>
+               <name>Matteo Salaroli</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>
+         <div>
+            <p>
+              </p>
+         </div>
+         </front-->
+      <body>
+         <lg>
+            <l xml:id="l1">Più bella <anchor xml:id="l1a1"/>donn' al<anchor xml:id="l1a2"/> mondo ma' non <anchor xml:id="l1a3"/>fia<anchor xml:id="l2a4"/></l>
+            <l xml:id="l2">se 'n vo' regna <anchor xml:id="l2a1"/>pietat[e]<anchor xml:id="l2a2"/>,</l>
+            <l xml:id="l3">ché ·lla <anchor xml:id="l3a1"/>biltat[e]<span type="space"/>adorn' e<anchor xml:id="l3a2"/> legiadria.</l>
+            </lg>
+         <lg>
+            <l xml:id="l4">Gli <anchor xml:id="l4a1"/>ochi lucenti<anchor xml:id="l4a2"/> pien' di vaghi raçi,</l>
+            <l xml:id="l5" n="5">gli <anchor xml:id="l5a1"/>ati<anchor xml:id="l5a2"/> legiadr' e' cape' <anchor xml:id="l5a3"/>biond' e<anchor xml:id="l5a4"/> folti,</l>
+            <l xml:id="l6">che spesso sol per gli ochi so <anchor xml:id="l6a1"/>selvagi<anchor xml:id="l6a2"/>,</l>
+            <l xml:id="l7">mi <anchor xml:id="l7a1"/>fan<anchor xml:id="l7a2"/> <anchor xml:id="l7a3"/>sparger<anchor xml:id="l7a4"/> gran pianti e sospir molti,</l>
+            <l xml:id="l8">che dentro nella mente son racolti,</l>
+            <l xml:id="l9">perch' io non vegio ancora</l>
+            <l xml:id="l10" n="10"><anchor xml:id="l10a1"/>ve[n]ir<anchor xml:id="l10a2"/> quell’ora<span type="space"/>che siate pia.</l>
+             </lg>
+         <lg>
+            <l xml:id="l11">Merçé, ahi lasso, i' sol merçé dimando</l>
+            <l xml:id="l12">e <anchor xml:id="l12a1"/>b[e]n<anchor xml:id="l12a2"/> servendo degna pace <anchor xml:id="l12a3"/>aspet[t]o<anchor xml:id="l12a4"/>!</l>        
+            <l xml:id="l13"><anchor xml:id="l13a1"/>Stringavi<anchor xml:id="l13a2"/> a mi piatate, oimé, mirando</l>
+            <l xml:id="l14">gli gravi afanni del fedel sugetto,</l>
+            <l xml:id="l15" n="15">e co·benigno e gratioso aspetto</l>
+            <l xml:id="l16">d'alcun beato <anchor xml:id="l16a1"/>segno<anchor xml:id="l16a2"/></l>
+            <l xml:id="l17">fatemi degno,<span type="space"/>com' e·cor disia.</l>
+          </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="Lo">
+               <!--ref target="X"-->Lo<!--/ref--> c. <locus>32v</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-5), <abbr xml:id="LoT">T</abbr> (vv. 1-5), <hi rend="italic">resid</hi>. (vv. 6-17): <hi rend="italic">b(allata) ma(estro) fantescho di firenţe</hi>
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>donn'al</lem>
+                  <rdg>donna<wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+               <app from="#l1a3" to="#l1a4">
+                  <lem>fia</lem>
+                  <rdg>fi‹a›a<wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>2</head>
+               <app from="#l2a1" to="#l2a2">
+                  <lem>pietate</lem>
+                  <rdg>pietata<wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg>piatate<wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>3</head>
+               <app from="#l3a1" to="#l3a2">
+                  <lem>biltate adorn'e</lem>
+                  <rdg>bil ta tadorne<wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg>biltate<wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>4</head>
+            <app from="#l4a1" to="#l4a2">
+                  <lem>ochi lucenti</lem>
+               <rdg>ochia l.<wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit><wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+               </listApp>
+            <listApp>
+               <head>5</head>
+               <app from="#l5a1" to="#l5a2">
+                  <lem>ati</lem>
+                  <rdg>ati <hi rend="italic">con</hi> i <hi rend="italic">su</hi> e<wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+               <app from="#l5a3" to="#l5a4">
+                  <lem>biond'e</lem>
+                  <rdg>binde <hi rend="italic">con titulus su</hi> b<wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               </listApp>
+            <listApp>
+               <head>6</head>
+               <app from="#l6a1" to="#l6a2">
+                  <lem>selvagi</lem>
+                  <rdg wit="#Lo">selvagi <hi rend="italic">con titulus su</hi> gi</rdg>
+               </app>
+               </listApp>
+            <listApp>
+               <head>7</head>
+               <app from="#l7a1" to="#l7a2">
+                  <lem>fan</lem>
+                  <rdg wit="#Lo">fano</rdg>
+               </app>
+              <app from="#l7a3" to="#l7a4">
+                  <lem>sparger</lem>
+                  <rdg wit="#Lo">spargere</rdg>
+               </app>
+                </listApp>
+            <listApp>
+               <head>10</head>
+               <app from="#l10a1" to="l10a2">
+               <lem>venir</lem>
+               <rdg wit="#Lo">verire</rdg>
+               </app>
+               </listApp>
+            <listApp>
+               <head>12</head>
+               <app from="#l12a1" to="l12a2">
+                  <lem>ben</lem>
+                  <rdg wit="#Lo">bn</rdg>
+               </app>
+               <app from="#l12a3" to="#l12a4">
+                  <lem>aspetto</lem>
+                  <rdg wit="#Lo">aspeto <hi rend="italic">con titulus su</hi> to</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>13</head>
+               <app from="#l13a1" to="l13a2">
+                  <lem>stringavi</lem>
+                  <rdg wit="#Lo">istringavi</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>16</head>
+               <app from="#l16a1" to="l16a2">
+                  <lem>segno</lem>
+                  <rdg wit="#Lo">segnio <hi rend="italic">con titulus su</hi> ni</rdg>
+               </app>
+            </listApp>
+         </listApp>
+         <!--listApp type="formal">
+                <head>Orthographic Variants</head>
+                <listApp>
+                    <head></head>
+                    <app from="" to="">
+                        <lem></lem>
+                        <rdg wit="# #"></rdg>
+                        <rdg> <wit><ref target="#"> <hi rend="super"></hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+            </listApp-->
+         <div type="metricalScheme">
+            <p>Ballata mezzana 10’z 6’y (4’y)10’z; 10’a 10’b, 10’a 10’b; 10’b 6’c (4’c)10’z. <hi rend="italic">Pagnotta</hi> 100 : 9. <hi rend="italic">Dialefi</hi> v. 11 (<hi rend="italic">Mercé, ahi</hi>)
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+               Corsi, <hi rend="italic">Poesie</hi> p. 211.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>              
+            </bibl>
+         </listBibl-->
+         <div type="commentary">
+            <note target="#l3">
+               <num>3</num>
+               Si intenda “dal momento che la pietà impreziosisce la bellezza e la leggiadria”.
+               </note>
+               <note target="#l4">
+                  <num>4</num>
+              <hi rend="italic">ochi lucenti:</hi>
+                  l’emendamento è già in Corsi ed è richiesto dal senso.
+            </note>
+            <note target="#l10">
+               <num>10</num>
+               <hi rend="italic">venir:</hi>
+               la lezione del manoscritto non dà senso, <hi rend="italic">Corsi</hi>, che legge <hi rend="italic">verive</hi>, emenda il verso in «v’arive l’ora che siate pia». Per <hi rend="italic">siate</hi> dieretico, assolutamente minoritario nella lirica Trecentesca, cfr. Menichetti, <hi rend="italic">Metrica italiana</hi> p. 219; per evitare la dieresi su <hi rend="italic">siate</hi> si potrebbe emendare in <hi rend="italic">[d]esïat’ e pia</hi>.
+               <!-- ATTENZIONE: il riferimento a Menichetti qui non andrebbe messo anche in Bibliografia? (e se sì, va aggiunto nell'elenco sottostante?)-->
+            </note>
+            </div>
+         <listBibl type="editionsBibliography">
+            <biblStruct type="book" xml:id="Apel1970" corresp="http://zotero.org/users/local/daicmDgn/items/Y2L3KU4F">
+               <monogr>
+                  <title level="m">French Secular Compositions of the Fourteenth Century I. Ascribed Compositions</title>
+                  <title type="short">CMM 53/1</title>
+                  <author><forename>Willi</forename><surname>Apel</surname></author>
+                  <imprint><pubPlace>Rome</pubPlace><publisher>American Institute of Musicology</publisher><date>1970</date></imprint>
+               </monogr>
+               <series>
+                  <title level="s">Corpus Mensurabilis Musicae, 53/1</title>
+               </series>
+            </biblStruct>
+            <biblStruct type="book" xml:id="Apel1971" corresp="http://zotero.org/users/local/daicmDgn/items/X6E9LXT4">
+               <monogr>
+                  <title level="m">French Secular Compositions of the Fourteenth Century II. Anonymous Ballades</title>
+                  <title type="short">CMM 53/2</title>
+                  <author><forename>Willi</forename><surname>Apel</surname></author>
+                  <imprint><pubPlace>Rome</pubPlace><publisher>American Institute of Musicology</publisher><date>1971</date></imprint>
+               </monogr>
+               <series>
+                  <title level="s">Corpus Mensurabilis Musicae, 53/2</title>
+               </series>
+            </biblStruct>
+            <biblStruct type="book" xml:id="Apel1972" corresp="http://zotero.org/users/local/daicmDgn/items/CNNBVEQ5">
+               <monogr>
+                  <title level="m">French Secular Compositions of the Fourteenth Century III. Anonymous Virelais, Rondeaux, Chansons, Canons</title>
+                  <title type="short">CMM 53/3</title>
+                  <author><forename>Willi</forename><surname>Apel</surname></author>
+                  <imprint><pubPlace>Rome</pubPlace><publisher>American Institute of Musicology</publisher><date>1972</date></imprint>
+               </monogr>
+               <series>
+                  <title level="s">Corpus Mensurabilis Musicae, 53/3</title>
+               </series>
+            </biblStruct>
+            <biblStruct type="book" xml:id="Bent1985" corresp="http://zotero.org/users/local/daicmDgn/items/QWY3ZQNJ">
+               <monogr>
+                  <title level="m">The Works of Johannes Ciconia</title>
+                  <title type="short">PMFC XXIV</title>
+                  <author><forename>Margaret</forename><surname>Bent</surname></author><author><forename>Anne</forename><surname>Hallmark</surname></author><imprint><pubPlace>Monaco</pubPlace><publisher>Éditions de l’Oiseau-Lyre</publisher><date>1985</date></imprint></monogr><series><title level="s">Polyphonic Music of the Fourteenth Century, XXIV</title></series>
+            </biblStruct>
+            <biblStruct type="journalArticle" xml:id="Brambilla_Ageno1975" corresp="http://zotero.org/users/local/daicmDgn/items/494JQJ8H">
+               <analytic>
+                  <title level="a">Giuseppe Corsi, «Poesie musicali del Trecento»</title>
+                  <title type="short">G. Corsi, «Poesie musicali»</title>
+                  <author><forename>Franca</forename><surname>Brambilla Ageno</surname></author>
+               </analytic>
+               <monogr>
+                  <title level="j">Romance Philology</title>
+                  <imprint><biblScope unit="volume">XXVIII</biblScope><biblScope unit="page">696-706</biblScope><date>1975</date></imprint>
+               </monogr>
+            </biblStruct>
+            <biblStruct type="book" xml:id="Calvia2017" corresp="http://zotero.org/users/local/daicmDgn/items/NU58NJAT">
+               <monogr>
+                  <title level="m">Nicolò del Preposto. Opera completa. Edizione critica commentata dei testi intonati e delle musiche</title>
+                  <title type="short">Nicolò del Preposto</title>
+                  <author><forename>Antonio</forename><surname>Calvia</surname></author>
+                  <imprint><pubPlace>Firenze</pubPlace><publisher>SISMEL Edizioni del Galluzzo</publisher><date>2017</date></imprint>
+               </monogr>
+               <series>
+                  <title level="s">La tradizione musicale. Studi e testi, 18</title>
+               </series>
+            </biblStruct>
+            <biblStruct type="book" xml:id="Corsi1969" corresp="http://zotero.org/users/local/daicmDgn/items/DYEHFS79">
+               <monogr>
+                  <title level="m">Rimatori del Trecento</title>
+                  <title type="short">Rimatori</title>
+                  <idno type="ISBN">88-02-01996-7 978-88-02-01996-3</idno>
+                  <author><forename>Giuseppe</forename><surname>Corsi</surname></author>
+                  <imprint><pubPlace>Torino</pubPlace><publisher>UTET</publisher><date>1969</date></imprint>
+               </monogr>
+            </biblStruct>
+            <biblStruct type="book" xml:id="Corsi1970" corresp="http://zotero.org/users/local/daicmDgn/items/XD38IT6R">
+               <monogr>
+                  <title level="m">Poesie musicali del Trecento</title>
+                  <title type="short">Poesie musicali</title>
+                  <author><forename>Giuseppe</forename><surname>Corsi</surname></author>
+                  <imprint><pubPlace>Bologna</pubPlace><publisher>Commissione per i testi di lingua</publisher><date>1970</date></imprint>
+               </monogr>
+               <series>
+                  <title level="s">Collezione di opere inedite o rare, 131</title>
+               </series>
+            </biblStruct>
+            <biblStruct type="book" xml:id="Epifani2019" corresp="http://zotero.org/users/local/daicmDgn/items/B7WRD8TT">
+               <monogr>
+                  <title level="m">La caccia nell’Ars Nova italiana. Edizione critica commentata dei testi e delle intonazioni</title>
+                  <title type="short">La caccia nell'Ars Nova italiana</title>
+                  <author><forename>Michele</forename><surname>Epifani</surname></author>
+                  <imprint><pubPlace>Firenze</pubPlace><publisher>SISMEL Edizioni del Galluzzo</publisher><date>2019</date></imprint>
+               </monogr>
+               <series>
+                  <title level="s">La tradizione musicale. Studi e testi, 20</title>
+               </series>
+            </biblStruct>
+            <biblStruct type="book" xml:id="Huck2007" corresp="http://zotero.org/users/local/daicmDgn/items/U6ENUGXG">
+               <monogr>
+                  <title level="m">Die mehrfach überlieferten Kompositionen des frühen Trecento. Anonyme Madrigale und Cacce sowie Kompositionen von Piero, Giovanni da Firenze und Jacopo da Bologna</title>
+                  <title type="short">Die mehrfach überlieferten Kompositionen</title>
+                  <author><forename>Oliver</forename><surname>Huck</surname></author>
+                  <author><forename>Sandra</forename><surname>Dieckmann</surname></author>
+                  <imprint><pubPlace>Hildesheim-Zurich-New York</pubPlace><biblScope unit="volume">I &lt;i&gt;Übertragungen, Texte, Kommentare&lt;/i&gt;; II &lt;i&gt;Transkriptionen&lt;/i&gt;</biblScope><publisher>Georg Olms Verlag</publisher><date>2007</date></imprint>
+                  <extent>2</extent>
+               </monogr>
+               <series>
+                  <title level="s">Musica mensurabilis, 2</title>
+               </series>
+            </biblStruct>
+            <biblStruct type="journalArticle" xml:id="Pasquinucci2007" corresp="http://zotero.org/users/local/daicmDgn/items/U4RTPVTC">
+               <analytic>
+                  <title level="a">La poesia musicale di Niccolò Soldanieri</title>
+                  <title type="short">La poesia musicale</title>
+                  <author><forename>Enrico</forename><surname>Pasquinucci</surname></author>
+               </analytic>
+               <monogr>
+                  <title level="j">Studi di filologia italiana</title>
+                  <idno type="ISSN">0392-5110</idno>
+                  <imprint><biblScope unit="volume">LXV</biblScope><biblScope unit="page">65-193</biblScope><date>2007</date></imprint>
+               </monogr>
+            </biblStruct>
+            <biblStruct type="book" xml:id="Pirrotta1954" corresp="http://zotero.org/users/local/daicmDgn/items/FAZBS46W">
+               <monogr>
+                  <title level="m">The Music of Fourteenth Century Italy I. Bartholus de Florentia; Johannes del Florentia; Gherardellus de Florentia</title>
+                  <title type="short">CMM 8/1</title>
+                  <author><forename>Nino</forename><surname>Pirrotta</surname></author>
+                  <imprint><pubPlace>Amsterdam</pubPlace><publisher>American Institute of Musicology</publisher><date>1954</date></imprint>
+               </monogr>
+               <series>
+                  <title level="s">Corpus Mensurabilis Musicae, 8/1</title>
+               </series>
+            </biblStruct>
+            <biblStruct type="book" xml:id="Pirrotta1960" corresp="http://zotero.org/users/local/daicmDgn/items/FW8PYNTI">
+               <monogr>
+                  <title level="m">The Music of Fourteenth Century Italy II. Maestro Piero; Codex Vatican Rossi 215; Anonymous madrigals and cacce from other manuscripts</title>
+                  <title type="short">CMM 8/2</title>
+                  <author><forename>Nino</forename><surname>Pirrotta</surname></author>
+                  <imprint><pubPlace>Amsterdam</pubPlace><publisher>American Institute of Musicology</publisher><date>1960</date></imprint>
+               </monogr>
+               <series>
+                  <title level="s">Corpus Mensurabilis Musicae, 8/2</title>
+               </series>
+            </biblStruct>
+            <biblStruct type="book" xml:id="Pirrotta1962" corresp="http://zotero.org/users/local/daicmDgn/items/XFUL4B2F">
+               <monogr>
+                  <title level="m">The Music of Fourteenth Century Italy III. Laurentius Masii de Florentia; Donatus de Florentia; Rosso da Collegrano, and Nine anonymous pieces</title>
+                  <title type="short">CMM 8/3</title>
+                  <author><forename>Nino</forename><surname>Pirrotta</surname></author>
+                  <imprint><pubPlace>Amsterdam</pubPlace><publisher>American Institute of Musicology</publisher><date>1962</date></imprint>
+               </monogr>
+               <series>
+                  <title level="s">Corpus Mensurabilis Musicae, 8/3</title>
+               </series>
+            </biblStruct>
+            <biblStruct type="book" xml:id="Pirrotta1963" corresp="http://zotero.org/users/local/daicmDgn/items/FT56HATK">
+               <monogr>
+                  <title level="m">The Music of Fourteenth Century Italy IV. Jacobus de Bononia; Vincentius de Arimino</title>
+                  <title type="short">CMM 8/4</title>
+                  <author><forename>Nino</forename><surname>Pirrotta</surname></author>
+                  <imprint><pubPlace>Amsterdam</pubPlace><publisher>American Institute of Musicology</publisher><date>1963</date></imprint>
+               </monogr>
+               <series>
+                  <title level="s">Corpus Mensurabilis Musicae, 8/4</title>
+               </series>
+            </biblStruct>
+            <biblStruct type="book" xml:id="Pirrotta1964" corresp="http://zotero.org/users/local/daicmDgn/items/MFJN6PQL">
+               <monogr>
+                  <title level="m">The Music of Fourteenth Century Italy V. Andreas de Florentia, Guilielmus de Francia, Bonaiutus Corsini, Andrea Stefani, Ser Feo, Jacopo Pianelaio, Gian Toscano and Anonymous</title>
+                  <title type="short">CMM 8/5</title>
+                  <author><forename>Nino</forename><surname>Pirrotta</surname></author>
+                  <imprint><pubPlace>Amsterdam</pubPlace><publisher>American Institute of Musicology</publisher><date>1964</date></imprint>
+               </monogr>
+               <series>
+                  <title level="s">Corpus Mensurabilis Musicae, 8/5</title>
+               </series>
+            </biblStruct>
+            <biblStruct type="journalArticle" xml:id="Sacchetti1990" corresp="http://zotero.org/users/local/daicmDgn/items/Z6CVLQV6">
+               <analytic>
+                  <title level="a">Il libro delle rime</title>
+                  <title type="short">Rime (Ageno)</title>
+                  <author><forename>Franco</forename><surname>Sacchetti</surname></author>
+               </analytic>
+               <monogr>
+                  <title></title>
+                  <editor><forename>Franca</forename><surname>Brambilla Ageno</surname></editor>
+                  <imprint><date>1990</date></imprint>
+               </monogr>
+            </biblStruct>
+            <biblStruct type="journalArticle" xml:id="Sacchetti2007" corresp="http://zotero.org/users/local/daicmDgn/items/PTLZSWDF">
+               <analytic>
+                  <title level="a">Il libro delle rime con le lettere</title>
+                  <title type="short">Rime (Puccini)</title>
+                  <author><forename>Franco</forename><surname>Sacchetti</surname></author>
+               </analytic>
+               <monogr>
+                  <title></title>
+                  <editor><forename>Davide</forename><surname>Puccini</surname></editor>
+                  <imprint><date>2007</date></imprint>
+               </monogr>
+            </biblStruct>
+            <biblStruct type="book" xml:id="Sapegno1952" corresp="http://zotero.org/users/local/daicmDgn/items/8C6U9NZE">
+               <monogr>
+                  <title level="m">Poeti minori del Trecento</title>
+                  <title type="short">Poeti minori</title>
+                  <author><forename>Natalino</forename><surname>Sapegno</surname></author>
+                  <imprint><pubPlace>Milano-Napoli</pubPlace><publisher>Ricciardi</publisher><date>1952</date></imprint>
+               </monogr>
+            </biblStruct>
+            <biblStruct type="book" xml:id="Sucato2003" corresp="http://zotero.org/users/local/daicmDgn/items/V4BN5V2I">
+               <monogr>
+                  <title level="m">Il codice Rossiano 215. Madrigali, ballate, una caccia, un rotondello</title>
+                  <title type="short">Il codice Rossiano</title>
+                  <author><forename>Tiziana</forename><surname>Sucato</surname></author>
+                  <imprint><pubPlace>Pisa</pubPlace><publisher>ETS</publisher><date>2003</date></imprint>
+               </monogr>
+               <series>
+                  <title level="s">«Diverse voci...» 1</title>
+               </series>
+            </biblStruct>
+            <biblStruct type="journalArticle" xml:id="Zenari2004" corresp="http://zotero.org/users/local/daicmDgn/items/XE5ZV7IV">
+               <analytic>
+                  <title level="a">Undici madrigali a testimone unico del Panciatichiano 26 (Firenze, Biblioteca Nazionale Centrale)</title>
+                  <title type="short">Undici madrigali</title>
+                  <author><forename>Massimo</forename><surname>Zenari</surname></author>
+               </analytic>
+               <monogr>
+                  <title level="j">Studi di filologia italiana</title>
+                  <imprint><biblScope unit="volume">LVII</biblScope><biblScope unit="page">131-60</biblScope><date>2004</date></imprint>
+               </monogr>
+            </biblStruct>
+         </listBibl>
+      </back>
+   </text>
+</TEI>
