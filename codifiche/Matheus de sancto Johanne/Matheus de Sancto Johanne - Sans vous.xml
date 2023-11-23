@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Pour ce que je ne say gaire</title>
+            <title>Sans vous ne puis, tres douce creature</title>
             <respStmt>
                <resp>Digital scholarly editon created within the ERC</resp>
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
@@ -17,7 +17,7 @@
             </respStmt>
             <respStmt>
                <resp>Revised by</resp>
-               <name>Luca Gatti</name>
+               <name>Davide Checchi</name>
             </respStmt>
             <respStmt>
                <resp>TEI-encoded by</resp>
@@ -50,92 +50,76 @@
       <body>
          <lg>
             <l xml:id="l1">
-               Sïence n’a nul annemi   
+               Sans vous ne puis, tres <anchor xml:id="l1a1"/>douce<anchor xml:id="l1a2"/> creature, 
             </l>
             <l xml:id="l2">
-               se non ceulz qui sont ignorant:   
+               plaisir avoir qui moy <anchor xml:id="l2a1"/>puist<anchor xml:id="l2a2"/> agreer,
             </l>
             <l xml:id="l3">
-               envïeuz sont, je le vous di,   
+               car quant ne suis pres de <anchor xml:id="l3a1"/>vostre figure<anchor xml:id="l3a2"/>
             </l>
             <l xml:id="l4">
-               souvent sur ceulz qui sont sachant,   
+               en <anchor xml:id="l4a1"/>laquele<anchor xml:id="l4a2"/> est tout doulz <anchor xml:id="l4a3"/>ymaginer<anchor xml:id="l4a4"/>,
             </l>
             <l xml:id="l5" n="5">
-               et vont melodie abatant  
+               si grant <anchor xml:id="l5a1"/>paour<anchor xml:id="l5a2"/> ay que moy hors geter
             </l>
             <l xml:id="l6">
-               tout <anchor xml:id="l6a1"/>voulentier<supplied>[s]</supplied><anchor xml:id="l6a2"/> per leur ha<supplied>[ut]</supplied> cry.
+               ne me <anchor xml:id="l6a1"/>vuelliez<anchor xml:id="l6a2"/> de <anchor xml:id="l6a3"/>vostre<anchor xml:id="l6a4"/> <anchor xml:id="l6a5"/>gouvernance<anchor xml:id="l6a6"/>,
             </l>
             <l xml:id="l7">
                <hi rend="italic">
-                  Qui plus <anchor xml:id="l7a1"/>ha<supplied>[ut]</supplied><anchor xml:id="l7a2"/> crïe: «Hay, avant!   
-               </hi>               
-            </l>
-            <l xml:id="l8">
-               <hi rend="italic">
-                  C’est trop bien fait!», disons ainsy.   
+                  car <anchor xml:id="l7a5"/>vraiement<anchor xml:id="l7a6"/> fors <anchor xml:id="l7a1"/>qu<anchor xml:id="l7a2"/>’en <anchor xml:id="l7a3"/>vous<anchor xml:id="l7a4"/> n’ay fïance.
                </hi>               
             </l>
          </lg>
          <lg>
+            <l xml:id="l8">
+               Car en servir vo gent corps a droiture               
+            </l>
             <l xml:id="l9">
-               Ilz n’ont mesure ne demi  
+               et en tous lieus doubter et honnourer
             </l>
             <l xml:id="l10" n="10">
-               ny ton n’at on <supplied xml:id="l10s1">[ne]</supplied> peu ne grant
+               si ay mis <anchor xml:id="l10a1"/>bien<anchor xml:id="l10a2"/>, com deüsse, ma cure;
             </l>
             <l xml:id="l11">
-               ne proportion, et je <anchor xml:id="l11a1"/>qu’<supplied>[ainsi]</supplied><anchor xml:id="l11a2"/> 
+               si ne say <supplied xml:id="l11s1">[rien]</supplied> trouver qui excuser
             </l>
             <l xml:id="l12">
-               vois leur <anchor xml:id="l12a1"/>ha<supplied>[ut]</supplied><anchor xml:id="l12a2"/> cry bien escoutant,  
+               me puist vers vous, mez qu’en plourant aller,
             </l>
             <l xml:id="l13">
-               dy auz compaignons maintenant:
+               de mez meffais requerir penitence,
             </l>
             <l xml:id="l14">
-               «Escoutés seignours, je vous pri,   
-            </l>
-            <l xml:id="l15" n="15">
                <hi rend="italic">
-                  Qui plus ha<supplied>[ut]</supplied> crïe: «Hay, avant!   
-               </hi>               
-            </l>
-            <l xml:id="l16">
-               <hi rend="italic">
-                  C’est trop bien fait!», disons ainsy.   
+                  car vraiement <supplied>[fors qu’en vous n’ay fiance]</supplied>.
                </hi>               
             </l>
          </lg>
          <lg>
+            <l xml:id="l15" n="15">
+               Si vous promez, tant que ma vie dure,
+            </l>
+            <l xml:id="l16">
+               qu’obeir vueill a vostre comander,             
+            </l>
             <l xml:id="l17">
-               Souvent se moustrent estre ami
+               car fours de vous n’<anchor xml:id="l17a1"/><supplied>[e]</supplied>st<anchor xml:id="l17a2"/> joye qui seure
             </l>
             <l xml:id="l18">
-               en grans proumesses proumetant,
+               soit, <anchor xml:id="l18a1"/><supplied>[c]</supplied>e<anchor xml:id="l18a2"/> m’est vis, ne que gaires durer
             </l>
             <l xml:id="l19">
-               maiz ja per eulz <anchor xml:id="l19a1"/><supplied>[n]</supplied>’ie<supplied>[r]</supplied>t acompli<anchor xml:id="l19a2"/>, 
+               puist; si vous pri, ne daigniez refuser
             </l>
             <l xml:id="l20" n="20">
-               quar ilz usent de faulz semblant.  
+               moy, que suy vostre a tout jour sanz doubtance,
             </l>
             <l xml:id="l21">
-               Maudiz soient telz partisant,
-            </l>
-            <l xml:id="l22">
-               quar de tant que j’en ay oÿ,
-            </l>
-            <l xml:id="l23">
-               <hi rend="italic">
-                  Qui plus <supplied corresp="#l24s1">[haut crïe: «Hay, avant!</supplied>
-               </hi>               
-            </l>
-            <l xml:id="l24">
-               <hi rend="italic">
-                  <supplied xml:id="l24s1">C’est trop bien fait!», disons ainsy]</supplied>.
-               </hi>               
+               car 
+               <hi rend="italic"><supplied>vraiement fors qu’en vous n’ay fiance]</supplied></hi>.
             </l>
          </lg>
       </body>
@@ -143,92 +127,139 @@
          <listWit>            
             <witness xml:id="Ch">
                <ref target="http://www.mirabileweb.it/manuscript-rom/chantilly-biblioth%C3%A8que-et-archives-du-ch%C3%A2teau-564--manoscript/ARSNOVA_30779">Ch</ref>
-               <locus>c. 57r</locus>, <abbr xml:id="ChC">C</abbr> (vv. 1-8), <hi rend="italic">resid.</hi> (vv. 9-24): <hi rend="italic">m(atheus) de s(ancto) johan(ne)</hi>         
+               <locus>c. 35r</locus>, <abbr xml:id="ChC">C</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-21): <hi rend="italic">matheus de s(an)c(t)o johanne</hi>         
+            </witness>
+            <witness xml:id="MoA">
+               <!--ref-->MoA<!--/ref-->
+               <locus>c. 15v</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-7)
             </witness>
          </listWit>
          <listApp type="substantial">
             <listApp>
-               <head>6</head>
-               <app from="#l6a1" to="#l6a2">
-                  <lem>voulentiers</lem>
-                  <rdg wit="#Ch">voulentiere</rdg>
+               <head>2</head>
+               <app from="#l2a1" to="#l2a2">
+                  <lem>puist</lem>
+                  <rdg wit="#MoA" type="indifferentVariant">peust</rdg>
                </app>
-               <app from="#l6a3" to="#l6a4">
-                  <lem>haut</lem>
-                  <rdg wit="#Ch">hanc</rdg>
+            </listApp>
+            <listApp>
+               <head>3</head>
+               <app from="#l3a1" to="#l3a2">
+                  <lem>vostre figure</lem>
+                  <rdg wit="#MoA">vous paytu re</rdg>
                </app>
             </listApp>
             <listApp>
                <head>7</head>
                <app from="#l7a1" to="#l7a2">
-                  <lem>haut</lem>
-                  <rdg wit="#Ch">hanc</rdg>
+                  <lem>qu</lem>
+                  <rdg wit="#MoA"/>
+               </app>
+               <app from="#l7a3" to="#l7a4">
+                  <lem>vous</lem>
+                  <rdg wit="#Ch">vons</rdg>
                </app>
             </listApp>
             <listApp>
                <head>10</head>
-               <app from="#l10s1">
-                  <lem>ne</lem>
-                  <rdg wit="#Ch"/>
+               <app from="#l10a1" to="#l10a2">
+                  <lem>bien</lem>
+                  <rdg wit="#Ch">bien say</rdg>
                </app>
             </listApp>
             <listApp>
                <head>11</head>
-               <app from="#l11a1" to="#l11a2">
-                  <lem>qu’<hi rend="italic">ainsi</hi></lem>
-                  <rdg wit="#Ch">que</rdg>
+               <app from="#l11s1">
+                  <lem>rien</lem>
+                  <rdg wit="#Ch">voye</rdg>
                </app>
             </listApp>
             <listApp>
-               <head>12</head>
-               <app from="#l12a1" to="#l12a2">
-                  <lem>haut</lem>
-                  <rdg wit="#Ch">hanc</rdg>
+               <head>17</head>
+               <app from="#l17a1" to="#l17a2">
+                  <lem>est</lem>
+                  <rdg wit="#Ch">ist</rdg>
                </app>
             </listApp>
             <listApp>
-               <head>19</head>
-               <app from="#l19a1" to="#l19a2">
-                  <lem>n’iert acompli</lem>
-                  <rdg wit="#Ch">uient acomplir</rdg>
+               <head>18</head>
+               <app from="#l18a1" to="#l18a2">
+                  <lem>ce</lem>
+                  <rdg wit="#Ch">de</rdg>
                </app>
             </listApp>
-         </listApp>         
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="l1a2">
+                  <lem>douce</lem>
+                  <rdg wit="#MoA">douche</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>4</head>
+               <app from="#l4a1" to="l4a2">
+                  <lem>laquele</lem>
+                  <rdg wit="#MoA">laquel</rdg>
+               </app>
+               <app from="#l4a3" to="#l4a4">
+                  <lem>ymaginer</lem>
+                  <rdg wit="#MoA">inmaginier</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>5</head>
+               <app from="#l5a1" to="l5a2">
+                  <lem>paour</lem>
+                  <rdg wit="#MoA">paor</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>6</head>
+               <app from="#l6a1" to="l6a2">
+                  <lem>vuelliez</lem>
+                  <rdg wit="#MoA">vueillez</rdg>
+               </app>
+               <app from="#l6a3" to="#l6a4">
+                  <lem>vostre</lem>
+                  <rdg wit="#MoA">voutre</rdg>
+               </app>
+               <app from="#l6a5" to="#l6a6">
+                  <lem>gouvernance</lem>
+                  <rdg wit="#MoA">governance</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>7</head>
+               <app from="#l7a5" to="#l7a6">
+                  <lem>vraiement</lem>
+                  <rdg wit="#MoA">vraiemant</rdg>
+               </app>
+            </listApp>
+         </listApp>
          <div type="metricalScheme">
             <p>
-               <hi rend="italic">Ballade</hi> 8a 8b, 8a 8b; 8b 8a 8B 8A. 
+               <hi rend="italic">Ballade</hi> 10’a 10b 10’a 10b, 10b 10’c 10’C.
             </p>
             <p>
-               Rima ricca ai vv. 1 : 9 : 17, 2 : 10, 5 : 12 : 18, 6 : 14; rima identica ai vv. 8 : 11 : 16 : 24.
+               Rima ricca ai vv. 1 : 8, 9 : 18, 11 : 19, 13 : 20.
             </p>
          </div>
          <listBibl type="editions">
             <bibl corresp="#Apel-Rosenberg1970">
                Apel-Rosenberg 1970, p. <hi rend="small-caps">lxii</hi>;
             </bibl>
-            <bibl corresp="#Greene1982">
-               Greene 1982, p. 1496;
-            </bibl>
-            <bibl corresp="#Plumley-Stone2009">
-               Plumley-Stone 2009, p. 139.   
+            <bibl corresp="#Greene1981">
+               Greene 1981, p. 133.
             </bibl>
          </listBibl>
-         <div type="commentary">
-            <note target="#l9">
-               <num>9.</num>
-               <hi rend="italic">demi</hi>:
-               ‘semitono’, cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">demi</hi>.
-            </note>
-         </div>
          <listBibl type="editionsBibliography">
             <bibl xml:id="Apel-Rosenberg1970">
                Willi Apel, <hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, edition of the literary texts by S. N. Rosenberg., Rome, American Institute of Musicology, 1970 (CMM, 53/1).
             </bibl>
-            <bibl xml:id="Greene1982">
-               Gordon Greene, <hi rend="italic">French Secular Music. Ballades and Canons</hi>, Monaco, Éditions de l’Oiseau-Lyre, 1982 (Polyphonic Music of the Fourteenth Century, XX).   
-            </bibl>
-            <bibl xml:id="Plumley-Stone2009">
-               .
+            <bibl xml:id="Greene1981">
+               Gordon Greene, <hi rend="italic">French Secular Music. Manuscript Chantilly, Musée Condé 564. Second Part: nn. 51-100</hi>, Monaco, Éditions de l’Oiseau-Lyre, 1981 (Polyphonic Music of the Fourteenth Century, XIX).   
             </bibl>
          </listBibl>
       </back>
