@@ -18,6 +18,10 @@
                <name>Davide Checchi</name>
             </respStmt>
             <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
                <resp>TEI-encoding by</resp>
                <name>Matteo Salaroli</name>
                <name>and Chiara Martignano</name>
