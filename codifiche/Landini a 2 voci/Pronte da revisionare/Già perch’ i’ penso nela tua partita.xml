@@ -48,17 +48,11 @@
       </encodingDesc>
    </teiHeader>
    <text>
-      <!--front>
-         <div>
-            <p>
-           </p>
-         </div>         
-      </front-->
       <body>
          <lg>
             <l xml:id="l1"><anchor xml:id="l1a1"/><anchor xml:id="l1a3"/>Già<anchor xml:id="l1a4"/> perch’ i’ <anchor xml:id="l1a5"/>penso<anchor xml:id="l1a6"/> nela tua partita,<anchor xml:id="l1a2"/></l>
             <l xml:id="l2"><anchor xml:id="l2a1"/>dona<anchor xml:id="l2a2"/>, <anchor xml:id="l2a3"/>comincia<anchor xml:id="l2a4"/> <anchor xml:id="l2a5"/>’l<anchor xml:id="l2a6"/> <anchor xml:id="l2a7"/>pianto<anchor xml:id="l2a8"/>,</l>
-            <l xml:id="l3"><anchor xml:id="l3a1"/>il <anchor xml:id="l3a3"/>qual durerà<anchor xml:id="l3a4"/> tanto<anchor xml:id="l3a2"/></l>           
+            <l xml:id="l3"><anchor xml:id="l3a1"/>il qual <anchor xml:id="l3a3"/>durerà<anchor xml:id="l3a4"/> tanto<anchor xml:id="l3a2"/></l>           
             <l xml:id="l4"><anchor xml:id="l4a1"/><anchor xml:id="l4a3"/>che<anchor xml:id="l4a4"/> <anchor xml:id="l4a5"/>’l<anchor xml:id="l4a6"/> <anchor xml:id="l4a7"/>tuo<anchor xml:id="l4a8"/> bel visso <anchor xml:id="l4a9"/>qua<anchor xml:id="l4a10"/> farà redita.<anchor xml:id="l4a2"/></l>
             </lg>
          <lg>
@@ -66,8 +60,8 @@
             <l xml:id="l6"><anchor xml:id="l6a1"/>ancor <anchor xml:id="l6a3"/>che<anchor xml:id="l6a4"/> <anchor xml:id="l6a5"/>sè presente<anchor xml:id="l6a6"/>,<anchor xml:id="l6a2"/></l>
             <l xml:id="l7"><anchor xml:id="l7a1"/><anchor xml:id="l7a3"/>pena<anchor xml:id="l7a4"/> del <anchor xml:id="l7a5"/>tuo<anchor xml:id="l7a6"/> <anchor xml:id="l7a7"/>partir<anchor xml:id="l7a8"/>, <anchor xml:id="l7a9"/>che<anchor xml:id="l7a10"/> fi’ alora<anchor xml:id="l7a2"/></l>
             <l xml:id="l8">che <anchor xml:id="l8a1"/>’l<anchor xml:id="l8a2"/> <anchor xml:id="l8a3"/>visso tuo<anchor xml:id="l8a4"/> lucente</l>
-            <l xml:id="l9">non <anchor xml:id="l9a1"/>vederan<anchor xml:id="l9a2"/> sov<anchor xml:id="l9a13"/>ente<anchor xml:id="l9a4"/></l>   
-            <l xml:id="l10" n="10"><anchor xml:id="l10a1"/>gli ochi<anchor xml:id="l10a2"/>, <anchor xml:id="l10a3"/>che zià<anchor xml:id="l10a4"/> del <anchor xml:id="l10a5"/>pensar<anchor xml:id="l10a6"/> <anchor xml:id="l10a17"/>ciascun plora<anchor xml:id="l10a8"/>?</l>
+            <l xml:id="l9">non <anchor xml:id="l9a1"/>vederan<anchor xml:id="l9a2"/> sov<anchor xml:id="l9a3"/>ente<anchor xml:id="l9a4"/></l>   
+            <l xml:id="l10" n="10"><anchor xml:id="l10a1"/>gli ochi<anchor xml:id="l10a2"/>, <anchor xml:id="l10a3"/>che zià<anchor xml:id="l10a4"/> del <anchor xml:id="l10a5"/>pensar<anchor xml:id="l10a6"/> <anchor xml:id="l10a7"/>ciascun plora<anchor xml:id="l10a8"/>?</l>
             <l xml:id="l11">Io <anchor xml:id="l11a1"/>temo, vaga<anchor xml:id="l11a2"/> dona, <anchor xml:id="l11a3"/>ch’a<anchor xml:id="l11a4"/> quel’ora</l>
             <l xml:id="l12"><anchor xml:id="l12a1"/>che fia ’l <anchor xml:id="l12a3"/>tuo<anchor xml:id="l12a4"/> partimento<anchor xml:id="l12a2"/></l>
             <l xml:id="l13"><anchor xml:id="l13a1"/>non<anchor xml:id="l13a2"/> <anchor xml:id="l13a3"/>sia<anchor xml:id="l13a4"/> <anchor xml:id="l13a5"/>forte<anchor xml:id="l13a6"/> <anchor xml:id="l13a7"/>’l<anchor xml:id="l13a8"/> tormento</l>
@@ -89,23 +83,23 @@
          <listWit>
             <witness xml:id="R">
                <ref target="http://www.mirabileweb.it/manuscript-rom/paris-biblioth%C3%A8que-nationale-de-france-n-a-fr-6771-manoscript/LIO_30658">R</ref>
-               c. <locus>48v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-7), <abbr xml:id="RT">T</abbr> (1-7), <hi rend="italic">resid</hi>. (vv. 8-24)
+               c. <locus>48v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-7), <abbr xml:id="RT">T</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-24)
             </witness>
             <witness xml:id="Fp">
                <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-nazionale-centrale-pal-panciati-manoscript/ARSNOVA_185275">Fp</ref>
-               c. <locus>1v</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-7), <abbr xml:id="FpT">T</abbr> (1-7), <hi rend="italic">resid.</hi> (vv. 8-14): <hi rend="italic">m(agister) f(ranciscus)</hi>
+               c. <locus>1v</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-7), <abbr xml:id="FpT">T</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-14): <hi rend="italic">m(agister) f(ranciscus)</hi>
             </witness>
             <witness xml:id="Sq">
                <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-medicea-laurenziana-med-pal-87--manoscript/ARSNOVA_224962">Sq</ref>
-               c. <locus>169r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-10), <abbr xml:id="SqT">T</abbr> (1-7), <hi rend="italic">resid.</hi> (vv. 11-14): <hi rend="italic">magister franciscus cecus horghanista de florentia</hi>
+               c. <locus>169r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-10), <abbr xml:id="SqT">T</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 11-14): <hi rend="italic">magister franciscus cecus horghanista de florentia</hi>
             </witness>
             <witness xml:id="Pit">
                <!--ref target="X"-->Pit<!--/ref -->
-               cc. <locus>68v-69r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-7), <abbr xml:id="PitT">T</abbr> (1-7), <hi rend="italic">resid.</hi> (vv. 8-14): <hi rend="italic">fra(n)cesco</hi>
+               cc. <locus>68v-69r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-7), <abbr xml:id="PitT">T</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-14): <hi rend="italic">fra(n)cesco</hi>
             </witness>
             <witness xml:id="Lo">
                <!--ref target="X"-->Lo<!--/ref -->
-               c. <locus>59v</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-7), <abbr xml:id="LoT">T</abbr> (1-7), <hi rend="italic">resid.</hi> (vv. 8-14)
+               c. <locus>59v</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-7), <abbr xml:id="LoT">T</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-14)
             </witness>
             <witness xml:id="Mg4">
                <!--ref target="X"-->Mg4<!--/ref -->
@@ -120,12 +114,12 @@
             <listApp>
                <head>1</head>
                <app from="#l1a1" to="#l1a2">
-                  <rdg><hi rend="italic">l.m.</hi><wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
+                  <rdg><gap reason="illegible" rend="l.m."/> <wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
                </app>
                <app from="#l1a3" to="#l1a4">
                   <lem>Già</lem>
                   <rdg>ia<wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
-                  <rdg><hi rend="italic">l.m.</hi><wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>
+                  <rdg><gap reason="illegible" rend="l.m."/> <wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>
                </app>
                <app from="#l1a5" to="#l1a6">
                   <lem>penso</lem>
@@ -136,7 +130,7 @@
                  <head>2</head>
                  <app from="#l2a1" to="#l2a2">
                     <lem>dona</lem>
-                    <rdg><hi rend="italic">l.m.</hi><wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
+                    <rdg><gap reason="illegible" rend="l.m."/> <wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
                     </app>
                  <app from="#l2a3" to="#l2a4">
                     <lem>comincia</lem>
@@ -144,49 +138,48 @@
                  </app>
                  <app from="#l2a5" to="#l2a6">
                     <lem>'l</lem>
-                    <rdg><hi rend="italic">om.</hi><wit><ref target="#FpT">Fp<hi rend="super">T</hi></ref></wit><wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
-                    <rdg><hi rend="italic">l.m.</hi><wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>
-                    <rdg>‹e› il<wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
+                    <rdg><hi rend="italic">om.</hi> <wit><ref target="#FpT">Fp<hi rend="super">T</hi></ref></wit><wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                    <rdg><gap reason="illegible" rend="l.m."/> <wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>
                  </app>
                  <app from="#l2a7" to="#l2a8">
                     <lem>pianto</lem>
                     <rdg>piato<wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
-                    <rdg><hi rend="italic">l.m.</hi><wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>
+                    <rdg><gap reason="illegible" rend="l.m."/> <wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>
                  </app>
                  </listApp>
               <listApp>
                  <head>3</head>
                  <app from="#l3a1" to="l3a2">
-                    <rdg><hi rend="italic">l.m.</hi><wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>
+                    <rdg><gap reason="illegible" rend="l.m."/> <wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>
                  </app>
                  <app from="#l3a3" to="#l3a4">
-                    <lem>qual durerà</lem>
-                    <rdg>qual dura<wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>                    
+                    <lem>durerà</lem>
+                    <rdg>dura<wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>                    
                  </app>
                  </listApp>
               <listApp>
                  <head>4</head>
                  <app from="#l4a1" to="#l4a2">
-                    <rdg><hi rend="italic">l.m.</hi><wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
+                    <rdg><gap reason="illegible" rend="l.m."/> <wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
                     </app>
                  <app from="#l4a3" to="#l4a4">
                     <lem>che</lem>
-                    <rdg><hi rend="italic">l.m.</hi><wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>
+                    <rdg><gap reason="illegible" rend="l.m."/> <wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>
                  </app>
                  <app from="#l4a5" to="#l4a6">
                     <lem>'l</lem>
-                    <rdg><hi rend="italic">om.</hi><wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
-                    <rdg><hi rend="italic">l.m.</hi><wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>   
+                    <rdg><hi rend="italic">om.</hi> <wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                    <rdg><gap reason="illegible" rend="l.m."/> <wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>   
                  </app>
                  <app from="#l4a7" to="#l4a8">
                     <lem>tuo</lem>
-                    <rdg><hi rend="italic">l.m.</hi><wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>   
+                    <rdg><gap reason="illegible" rend="l.m."/> <wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>   
                  </app>
                  <app from="#l4a9" to="#l4a10">
                     <lem>qua</lem>
-                    <rdg wit="#Fp #Pit"><hi rend="bold">nqua</hi></rdg>
+                    <rdg wit="#Fp #Pit" type="indifferentVariant"><hi rend="bold">nqua</hi></rdg>
                     <rdg>i qua<wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
-                    <rdg><hi rend="bold">inqua</hi><wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit><wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
+                    <rdg type="indifferentVariant"><hi rend="bold">inqua</hi><wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit><wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
                     <rdg wit="#Mg4">me</rdg>
                     <rdg>*qual<wit><ref target="#D1B">LD1<hi rend="super">B</hi></ref></wit></rdg>
                  </app>
@@ -195,7 +188,7 @@
                  <head>5</head>
                  <app from="#l5a1" to="#l5a2">
                     <lem>Lasso</lem>
-                    <rdg><hi rend="italic">l.m.</hi><wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
+                    <rdg><gap reason="illegible" rend="l.m."/> <wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
                  </app>
                  <app from="#l5a3" to="#l5a4">
                     <lem>mie cuor sente</lem>
@@ -206,11 +199,11 @@
               <listApp>
                  <head>6</head>
                  <app from="#l6a1" to="#l6a2">
-                    <rdg><hi rend="italic">l.m.</hi><wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>
+                    <rdg><gap reason="illegible" rend="l.m."/> <wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>
                  </app>
                  <app from="#l6a3" to="#l6a4">
                     <lem>che</lem>
-                    <rdg>uērā‹seue› che<wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                    <rdg>uērā<del>seue</del> che<wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
                  </app>
                  <app from="#l6a5" to="#l6a6">
                     <lem>sè presente</lem>
@@ -222,11 +215,11 @@
               <listApp>
                  <head>7</head>
                  <app from="#l7a1" to="#l7a2">
-                    <rdg><hi rend="italic">l.m.</hi><wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
+                    <rdg><gap reason="illegible" rend="l.m."/> <wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
                     </app>
                  <app from="#l7a3" to="#l7a4">
                     <lem>pena</lem>
-                    <rdg><hi rend="italic">l.m.</hi><wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>
+                    <rdg><gap reason="illegible" rend="l.m."/> <wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>
                  </app>
                  <app from="#l7a5" to="#l7a6">
                     <lem>tuo</lem>
@@ -246,12 +239,12 @@
                  <head>8</head>
                  <app from="#l8a1" to="#l8a2">
                     <lem>'l</lem>
-                    <rdg wit="#Sq"><hi rend="italic">om.</hi></rdg>
+                    <rdg wit="#Sq"/>
                  </app>
                  <app from="#l8a3" to="#l8a4">
                     <lem>visso tuo</lem>
                     <rdg wit="#R">tuo visso</rdg>
-                    <rdg wit="#Fp #Sq #Mg4"><hi rend="bold">volto tuo</hi></rdg>
+                    <rdg wit="#Fp #Sq #Mg4" type="indifferentVariant"><hi rend="bold">uolto tuo</hi></rdg>
                     <rdg wit="#Lo">volto tu</rdg>
                  </app>
               </listApp>
@@ -268,14 +261,14 @@
                  </app>
                  <app from="#l9a3" to="#l9a4">
                     <lem>sov<hi rend="italic">ente</hi></lem>
-                    <rdg><hi rend="italic">l.m.</hi><wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
+                    <rdg><gap reason="illegible" rend="l.m."/> <wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
                  </app>
               </listApp>
               <listApp>
                  <head>10</head>
                  <app from="#l10a1" to="#l10a2">
                     <lem>gli ochi</lem>
-                    <rdg><hi rend="italic">l.m.</hi><wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
+                    <rdg><gap reason="illegible" rend="l.m."/> <wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
                  </app>
                  <app from="#l10a3" to="#l10a4">
                     <lem>che zià</lem>
@@ -289,14 +282,14 @@
                  </app>
                  <app from="#l10a7" to="#l10a8">
                     <lem>ciascun plora</lem>
-                    <rdg wit="#Lo">cischum (?) proua</rdg>
+                    <rdg wit="#Lo">cischum <unclear>(?)</unclear> proua</rdg>
                     </app>
               </listApp>
               <listApp>
                  <head>11</head>
                  <app from="#l11a1" to="#l11a2">
                     <lem>temo vaga</lem>
-                    <rdg wit="#Mg4">‹no› notemo</rdg>
+                    <rdg wit="#Mg4"><del>no</del> notemo</rdg>
                     <rdg>pensire<wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
                  </app>
                  <app from="#l11a3" to="#l11a4">
@@ -308,12 +301,11 @@
                  <head>12</head>
                  <app from="#l12a1" to="#l12a2">
                     <lem>'l</lem>
-                    <rdg><hi rend="italic">l.m.</hi><wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
+                    <rdg><gap reason="illegible" rend="l.m."/> <wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
                  </app>
                  <app from="#l12a3" to="#l12a4">
                     <lem>tuo</lem>
-                    <rdg wit="#Sq">‹tor›tuo</rdg>
-                    <rdg><hi rend="italic">l.m.</hi><wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
+                    <rdg><gap reason="illegible" rend="l.m."/> <wit><ref target="#D1A">D1<hi rend="super">A</hi></ref></wit></rdg>
                  </app>
               </listApp>
               <listApp>
@@ -328,8 +320,8 @@
                  </app>
                  <app from="#l13a5" to="#l13a6">
                     <lem>forte</lem>
-                    <rdg><hi rend="bold">greve</hi><wit><ref target="#Sq">Sq</ref></wit><wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
-                    <rdg wit="#Pit">g(ra)ue</rdg>
+                    <rdg type="indifferentVariant"><hi rend="bold">greue</hi><wit><ref target="#Sq">Sq</ref></wit><wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
+                    <rdg wit="#Pit"><expan>g<ex>(ra)</ex>ue</expan></rdg>
                  </app>
                  <app from="#l13a7" to="#l13a8">
                     <lem>'l</lem>
@@ -340,7 +332,7 @@
                  <head>14</head>
                  <app from="#l14a1" to="#l14a2">
                     <lem>partir</lem>
-                    <rdg>partire<wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
+                    <rdg>partire <wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
                  </app>
                  <app from="#l14a3" to="#l14a4">
                     <lem>da me</lem>
@@ -353,15 +345,293 @@
                  </app>
                  </listApp>
                </listApp>
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app>
+                  <lem>i’</lem>
+                  <rdg>io <wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app>
+                  <lem>penso</lem>
+                  <rdg>pensso <wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app>
+                  <lem>nela</lem>
+                  <rdg>
+                     ne lla
+                     <wit><ref target="#Fp">Fp</ref></wit>
+                     <wit><ref target="#Sq">Sq</ref></wit>
+                     <wit><ref target="#Pit">Pit</ref></wit>
+                     <wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit>
+                     <wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app>
+                  <lem>tua</lem>
+                  <rdg>
+                     tuo
+                     <wit><ref target="#Fp">Fp</ref></wit>
+                     <wit><ref target="#Sq">Sq</ref></wit>
+                     <wit><ref target="#Pit">Pit</ref></wit>
+                     <wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>
+                  <rdg>
+                     tu
+                     <wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>2</head>
+               <app>
+                  <lem>dona</lem>
+                  <rdg>
+                     don na
+                     <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit>
+                     <wit><ref target="#Fp">Fp</ref></wit>
+                     <wit><ref target="#Sq">Sq</ref></wit>
+                     <wit><ref target="#Pit">Pit</ref></wit>
+                     <wit><ref target="#Lo">Lo</ref></wit>
+                     <wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit> 
+                     <wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app>
+                  <lem>comincia</lem>
+                  <rdg wit="#Mg4">comenca</rdg>
+               </app>
+               <app>
+                  <lem>’l</lem>
+                  <rdg><del>e</del> il <wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>3</head>
+               <app>
+                  <lem>il</lem>
+                  <rdg wit="#Fp #Sq #Pit #Lo #Mg4">el</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>4</head>
+               <app>
+                  <lem>tuo</lem>
+                  <rdg wit="#Lo">tu</rdg>
+               </app>
+               <app>
+                  <lem>visso</lem>
+                  <rdg>
+                     uiso
+                     <wit><ref target="#Fp">Fp</ref></wit>
+                     <wit><ref target="#Sq">Sq</ref></wit>
+                     <wit><ref target="#Pit">Pit</ref></wit>
+                     <wit><ref target="#Lo">Lo</ref></wit>
+                     <wit><ref target="#Mg4">Mg4</ref></wit> 
+                     <wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app>
+                  <lem>redita</lem>
+                  <rdg>
+                     reddi ta
+                     <wit><ref target="#Fp">Fp</ref></wit>
+                     <wit><ref target="#Sq">Sq</ref></wit>
+                     <wit><ref target="#Pit">Pit</ref></wit>
+                     <wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg>
+                     redi i i ta
+                     <wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>5</head>
+               <app>
+                  <lem>Lasso</lem>
+                  <rdg wit="#Mg4">laso</rdg>
+               </app>
+               <app>
+                  <lem>mie</lem>
+                  <rdg>
+                     mi
+                     <wit><ref target="#FpC">Fp<hi rend="super">C</hi></ref></wit>
+                     <wit><ref target="#Lo">Lo</ref></wit></rdg>
+                  <rdg>
+                     mio
+                     <wit><ref target="#FpT">Fp<hi rend="super">T</hi></ref></wit>
+                     <wit><ref target="#Mg4">Mg4</ref></wit>
+                     <wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app>
+                  <lem>cuor</lem>
+                  <rdg>
+                     cor
+                     <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit>
+                     <wit><ref target="#Fp">Fp</ref></wit>
+                     <wit><ref target="#Sq">Sq</ref></wit>
+                     <wit><ref target="#Pit">Pit</ref></wit>
+                     <wit><ref target="#Lo">Lo</ref></wit>
+                     <wit><ref target="#Mg4">Mg4</ref></wit> 
+                     <wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>6</head>
+               <app>
+                  <lem>sè</lem>
+                  <rdg>
+                     sse
+                     <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit>
+                     <wit><ref target="#Pit">Pit</ref></wit>
+                     <wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>7</head>
+               <app>
+                  <lem>pena</lem>
+                  <rdg>
+                     penna
+                     <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit>
+                     <wit><ref target="#Lo">Lo</ref></wit></rdg>
+               </app>
+               <app>
+                  <lem>fi’</lem>
+                  <rdg>
+                     ffi
+                     <wit><ref target="#FpT">Fp<hi rend="super">T</hi></ref></wit>
+                     <wit><ref target="#Sq">Sq</ref></wit>
+                     <wit><ref target="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                  <rdg>
+                     fia
+                     <wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app>
+                  <lem>alora</lem>
+                  <rdg>
+                     allo ra
+                     <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit>
+                     <wit><ref target="#Fp">Fp</ref></wit>
+                     <wit><ref target="#Sq">Sq</ref></wit>
+                     <wit><ref target="#Pit">Pit</ref></wit></rdg>
+                  <rdg>
+                     alo lo lo o o ra
+                     <wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg>
+                     alo o ra
+                     <wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>8</head>
+               <app>
+                  <lem>visso</lem>
+                  <rdg wit="#Pit #D1">viso</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>9</head>
+               <app>
+                  <lem>non</lem>
+                  <rdg wit="#Lo">no</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>10</head>
+               <app>
+                  <lem>gli</lem>
+                  <rdg wit="#Mg4">y</rdg>
+               </app>
+               <app>
+                  <lem>ochi</lem>
+                  <rdg wit="#Fp">occhi</rdg>
+               </app>
+               <app>
+                  <lem>zià</lem>
+                  <rdg wit="#Fp">ggia</rdg>
+                  <rdg wit="#Sq #Pit #Lo #D1">gia</rdg>
+               </app>
+               <app>
+                  <lem>ciascun</lem>
+                  <rdg wit="#Mg4">çascun</rdg>
+               </app>
+               <app>
+                  <lem>plora</lem>
+                  <rdg>prora <wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>11</head>
+               <app>
+                  <lem>Io</lem>
+                  <rdg wit="#Fp #Sq #Pit #Lo #Mg4 #D1">i</rdg>
+               </app>
+               <app>
+                  <lem>dona</lem>
+                  <rdg wit="#Fp #Sq #Pit #Lo #D1">donna</rdg>
+               </app>
+               <app>
+                  <lem>quel’</lem>
+                  <rdg wit="#Fp #Sq #Pit">quell</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>12</head>
+               <app>
+                  <lem>fia ’l</lem>
+                  <rdg wit="#Sq">fiel</rdg>
+                  <rdg wit="#Pit #Mg4">fia el</rdg>
+                  <rdg>fia il <wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app>
+                  <lem>tuo</lem>
+                  <rdg wit="#Sq"><del>tor</del>tuo</rdg>
+                  <rdg wit="#Lo">tu</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>13</head>
+               <app>
+                  <lem>non</lem>
+                  <rdg wit="#Lo">no</rdg>
+               </app>
+               <app>
+                  <lem>sia</lem>
+                  <rdg wit="#Sq #pit">sie</rdg>
+               </app>
+               <app>
+                  <lem>’l</lem>
+                  <rdg>il
+                     <wit><ref target="#Fp">Fp</ref></wit>
+                     <wit><ref target="#Lo">Lo</ref></wit>
+                     <wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg wit="#Pit">el</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>14</head>
+               <app>
+                  <lem>far</lem>
+                  <rdg>ffar
+                     <wit><ref target="#Sq">Sq</ref></wit>
+                     <wit><ref target="#Pit">Pit</ref></wit>
+                     <wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app>
+                  <lem>me</lem>
+                  <rdg wit="#Sq #Pit">mme</rdg>
+               </app>
+               <app>
+                  <lem>smarita</lem>
+                  <rdg wit="#Fp #Sq #Pit">smarrita</rdg>
+                  <rdg wit="#Lo">ismarita</rdg>
+               </app>
+            </listApp>
+         </listApp>
+         
          <div type="metricalScheme">
-            <p>Ballata grande: 10’z 6’y 6’y 10’z; 6’a 6’a 10’b, 6’a 6’a 10’b; 10’b 6’c 6’c 10’z, nella 
-               seconda strofa b = z.</p> 
+            <p>Ballata grande 10’z 6’y 6’y 10’z; 6’a 6’a 10’b, 6’a 6’a 10’b; 10’b 6’c 6’c 10’z (nella seconda strofa b = z).</p> 
             <p><hi rend="italic">Pagnotta</hi>  24 : 8 e 51 : 1 (seconda strofa).</p>
-            <p>Rima inclusiva ai vv. 11 : 10 : 7 (<hi rend="italic">ora</hi> : <hi rend="italic">plora</hi> : <hi rend="italic">allora</hi>); rima identica ai vv. 1 : 20 : 24 (<hi rend="italic">partita</hi>), 17 : 21 (<hi rend="italic">vita</hi>).</p>
-            <p>Dialefe: v. 17 (<hi rend="italic">pietà alguna</hi>).
-            </p>
-            </div>
-            <listBibl type="editions">
+            <p>Rima inclusiva ai vv. 11 : 10 : 7; rima identica ai vv. 1 : 20 : 24, 17 : 21. </p>
+            <p><hi rend="italic">Pagnotta</hi> 24 : 8 e 51 : 1 (seconda strofa).</p>
+         </div>
+         
+         <listBibl type="editions">
             <bibl corresp="#Corsi1970">
                Corsi 1970, pp. 175-6.
             </bibl>
@@ -372,14 +642,15 @@
                   <bibl>Antonio Calvia, <hi rend="italic">Nuove tracce arsnovistiche dal Fondo Datini: la più antica testimonianza databile dell’opera di Francesco degli Organi (Landini)</hi>, «Textus &amp; Musica», 2 (2020)</bibl></relatedItem>
             </bibl>
          </listBibl>
+         
          <div type="commentary">
             <note target="#l8">
                <num>8.</num>
-               <hi rend="italic">visso tuo</hi>: tutti i testimoni, tranne R, concordano circa la posposizione del possessivo, mentre l’opposizione tra <hi rend="italic">viso</hi> (R Pit D1) e <hi rend="italic">volto</hi> (Fp Sq Lo Mg4) è adiafora, essendo parimenti probabile che la lezione originaria sia <hi rend="italic">viso</hi> (per coerenza col v. 4) che un’innovazione <hi rend="italic">volto</hi> > <hi rend="italic">viso</hi> (per eco del medesimo verso).
+               <hi rend="italic">visso tuo</hi>: tutti i testimoni, tranne R, concordano circa la posposizione del possessivo, mentre l’opposizione tra <hi rend="italic">viso</hi> (R Pit D1) e <hi rend="italic">volto</hi> (Fp Sq Lo Mg4) è adiafora: il v. 4 potrebbe infatti giustificare la lezione viso per coerenza lessicale, sia aver causato, per eco mnemonico, un’innovazione <hi rend="italic">volto</hi> > <hi rend="italic">viso</hi>.
                </note>
             <note target="#l9">
                <num>9.</num>
-               La lezione di Sq Pit permette di ottenere un profilo ritmico analogo a quello del v. 6 e meglio si adatta al profilo ritmico dell’intonazione.
+               La lezione di Sq Pit permette di ottenere un profilo ritmico analogo a quello del v. 6, coerente con il ritmo dell’intonazione.
             </note>
             <note target="#l15">
                <num>15.</num>
@@ -387,240 +658,18 @@
             </note>
             <note target="#l18 #l19 #l20">
                <num>18-20.</num>
-               ‘quindi la tua virtù, se gli è possibile, trovi un rimedio al mio dolore causato dalla tua partenza’.
+               ‘Quindi la tua virtù, se gli è possibile, trovi un rimedio al mio dolore causato dalla tua partenza’.
             </note>
             <note target="#l21 #l22">
                <num>21-22.</num>
-               ‘dato che si è soliti difendere la vita dalla morte, è più agevole farlo quando si conosce in anticipo dove si manifesterà la sofferenza’.
+               ‘Dato che si è soliti difendere la vita dalla morte, è più agevole farlo quando si conosce in anticipo dove si manifesterà la sofferenza’.
             </note>
-            </div>
+         </div>
+         
          <listBibl type="editionsBibliography">
-            <biblStruct type="book" xml:id="Apel1970" corresp="http://zotero.org/users/local/daicmDgn/items/Y2L3KU4F">
-               <monogr>
-                  <title level="m">French Secular Compositions of the Fourteenth Century I. Ascribed Compositions</title>
-                  <title type="short">CMM 53/1</title>
-                  <author><forename>Willi</forename><surname>Apel</surname></author>
-                  <imprint><pubPlace>Rome</pubPlace><publisher>American Institute of Musicology</publisher><date>1970</date></imprint>
-               </monogr>
-               <series>
-                  <title level="s">Corpus Mensurabilis Musicae, 53/1</title>
-               </series>
-            </biblStruct>
-            <biblStruct type="book" xml:id="Apel1971" corresp="http://zotero.org/users/local/daicmDgn/items/X6E9LXT4">
-               <monogr>
-                  <title level="m">French Secular Compositions of the Fourteenth Century II. Anonymous Ballades</title>
-                  <title type="short">CMM 53/2</title>
-                  <author><forename>Willi</forename><surname>Apel</surname></author>
-                  <imprint><pubPlace>Rome</pubPlace><publisher>American Institute of Musicology</publisher><date>1971</date></imprint>
-               </monogr>
-               <series>
-                  <title level="s">Corpus Mensurabilis Musicae, 53/2</title>
-               </series>
-            </biblStruct>
-            <biblStruct type="book" xml:id="Apel1972" corresp="http://zotero.org/users/local/daicmDgn/items/CNNBVEQ5">
-               <monogr>
-                  <title level="m">French Secular Compositions of the Fourteenth Century III. Anonymous Virelais, Rondeaux, Chansons, Canons</title>
-                  <title type="short">CMM 53/3</title>
-                  <author><forename>Willi</forename><surname>Apel</surname></author>
-                  <imprint><pubPlace>Rome</pubPlace><publisher>American Institute of Musicology</publisher><date>1972</date></imprint>
-               </monogr>
-               <series>
-                  <title level="s">Corpus Mensurabilis Musicae, 53/3</title>
-               </series>
-            </biblStruct>
-            <biblStruct type="book" xml:id="Bent1985" corresp="http://zotero.org/users/local/daicmDgn/items/QWY3ZQNJ">
-               <monogr>
-                  <title level="m">The Works of Johannes Ciconia</title>
-                  <title type="short">PMFC XXIV</title>
-                  <author><forename>Margaret</forename><surname>Bent</surname></author><author><forename>Anne</forename><surname>Hallmark</surname></author><imprint><pubPlace>Monaco</pubPlace><publisher>Éditions de l’Oiseau-Lyre</publisher><date>1985</date></imprint></monogr><series><title level="s">Polyphonic Music of the Fourteenth Century, XXIV</title></series>
-            </biblStruct>
-            <biblStruct type="journalArticle" xml:id="Brambilla_Ageno1975" corresp="http://zotero.org/users/local/daicmDgn/items/494JQJ8H">
-               <analytic>
-                  <title level="a">Giuseppe Corsi, «Poesie musicali del Trecento»</title>
-                  <title type="short">G. Corsi, «Poesie musicali»</title>
-                  <author><forename>Franca</forename><surname>Brambilla Ageno</surname></author>
-               </analytic>
-               <monogr>
-                  <title level="j">Romance Philology</title>
-                  <imprint><biblScope unit="volume">XXVIII</biblScope><biblScope unit="page">696-706</biblScope><date>1975</date></imprint>
-               </monogr>
-            </biblStruct>
-            <biblStruct type="book" xml:id="Calvia2017" corresp="http://zotero.org/users/local/daicmDgn/items/NU58NJAT">
-               <monogr>
-                  <title level="m">Nicolò del Preposto. Opera completa. Edizione critica commentata dei testi intonati e delle musiche</title>
-                  <title type="short">Nicolò del Preposto</title>
-                  <author><forename>Antonio</forename><surname>Calvia</surname></author>
-                  <imprint><pubPlace>Firenze</pubPlace><publisher>SISMEL Edizioni del Galluzzo</publisher><date>2017</date></imprint>
-               </monogr>
-               <series>
-                  <title level="s">La tradizione musicale. Studi e testi, 18</title>
-               </series>
-            </biblStruct>
-            <biblStruct type="book" xml:id="Corsi1969" corresp="http://zotero.org/users/local/daicmDgn/items/DYEHFS79">
-               <monogr>
-                  <title level="m">Rimatori del Trecento</title>
-                  <title type="short">Rimatori</title>
-                  <idno type="ISBN">88-02-01996-7 978-88-02-01996-3</idno>
-                  <author><forename>Giuseppe</forename><surname>Corsi</surname></author>
-                  <imprint><pubPlace>Torino</pubPlace><publisher>UTET</publisher><date>1969</date></imprint>
-               </monogr>
-            </biblStruct>
-            <biblStruct type="book" xml:id="Corsi1970" corresp="http://zotero.org/users/local/daicmDgn/items/XD38IT6R">
-               <monogr>
-                  <title level="m">Poesie musicali del Trecento</title>
-                  <title type="short">Poesie musicali</title>
-                  <author><forename>Giuseppe</forename><surname>Corsi</surname></author>
-                  <imprint><pubPlace>Bologna</pubPlace><publisher>Commissione per i testi di lingua</publisher><date>1970</date></imprint>
-               </monogr>
-               <series>
-                  <title level="s">Collezione di opere inedite o rare, 131</title>
-               </series>
-            </biblStruct>
-            <biblStruct type="book" xml:id="Epifani2019" corresp="http://zotero.org/users/local/daicmDgn/items/B7WRD8TT">
-               <monogr>
-                  <title level="m">La caccia nell’Ars Nova italiana. Edizione critica commentata dei testi e delle intonazioni</title>
-                  <title type="short">La caccia nell'Ars Nova italiana</title>
-                  <author><forename>Michele</forename><surname>Epifani</surname></author>
-                  <imprint><pubPlace>Firenze</pubPlace><publisher>SISMEL Edizioni del Galluzzo</publisher><date>2019</date></imprint>
-               </monogr>
-               <series>
-                  <title level="s">La tradizione musicale. Studi e testi, 20</title>
-               </series>
-            </biblStruct>
-            <biblStruct type="book" xml:id="Huck2007" corresp="http://zotero.org/users/local/daicmDgn/items/U6ENUGXG">
-               <monogr>
-                  <title level="m">Die mehrfach überlieferten Kompositionen des frühen Trecento. Anonyme Madrigale und Cacce sowie Kompositionen von Piero, Giovanni da Firenze und Jacopo da Bologna</title>
-                  <title type="short">Die mehrfach überlieferten Kompositionen</title>
-                  <author><forename>Oliver</forename><surname>Huck</surname></author>
-                  <author><forename>Sandra</forename><surname>Dieckmann</surname></author>
-                  <imprint><pubPlace>Hildesheim-Zurich-New York</pubPlace><biblScope unit="volume">I &lt;i&gt;Übertragungen, Texte, Kommentare&lt;/i&gt;; II &lt;i&gt;Transkriptionen&lt;/i&gt;</biblScope><publisher>Georg Olms Verlag</publisher><date>2007</date></imprint>
-                  <extent>2</extent>
-               </monogr>
-               <series>
-                  <title level="s">Musica mensurabilis, 2</title>
-               </series>
-            </biblStruct>
-            <biblStruct type="journalArticle" xml:id="Pasquinucci2007" corresp="http://zotero.org/users/local/daicmDgn/items/U4RTPVTC">
-               <analytic>
-                  <title level="a">La poesia musicale di Niccolò Soldanieri</title>
-                  <title type="short">La poesia musicale</title>
-                  <author><forename>Enrico</forename><surname>Pasquinucci</surname></author>
-               </analytic>
-               <monogr>
-                  <title level="j">Studi di filologia italiana</title>
-                  <idno type="ISSN">0392-5110</idno>
-                  <imprint><biblScope unit="volume">LXV</biblScope><biblScope unit="page">65-193</biblScope><date>2007</date></imprint>
-               </monogr>
-            </biblStruct>
-            <biblStruct type="book" xml:id="Pirrotta1954" corresp="http://zotero.org/users/local/daicmDgn/items/FAZBS46W">
-               <monogr>
-                  <title level="m">The Music of Fourteenth Century Italy I. Bartholus de Florentia; Johannes del Florentia; Gherardellus de Florentia</title>
-                  <title type="short">CMM 8/1</title>
-                  <author><forename>Nino</forename><surname>Pirrotta</surname></author>
-                  <imprint><pubPlace>Amsterdam</pubPlace><publisher>American Institute of Musicology</publisher><date>1954</date></imprint>
-               </monogr>
-               <series>
-                  <title level="s">Corpus Mensurabilis Musicae, 8/1</title>
-               </series>
-            </biblStruct>
-            <biblStruct type="book" xml:id="Pirrotta1960" corresp="http://zotero.org/users/local/daicmDgn/items/FW8PYNTI">
-               <monogr>
-                  <title level="m">The Music of Fourteenth Century Italy II. Maestro Piero; Codex Vatican Rossi 215; Anonymous madrigals and cacce from other manuscripts</title>
-                  <title type="short">CMM 8/2</title>
-                  <author><forename>Nino</forename><surname>Pirrotta</surname></author>
-                  <imprint><pubPlace>Amsterdam</pubPlace><publisher>American Institute of Musicology</publisher><date>1960</date></imprint>
-               </monogr>
-               <series>
-                  <title level="s">Corpus Mensurabilis Musicae, 8/2</title>
-               </series>
-            </biblStruct>
-            <biblStruct type="book" xml:id="Pirrotta1962" corresp="http://zotero.org/users/local/daicmDgn/items/XFUL4B2F">
-               <monogr>
-                  <title level="m">The Music of Fourteenth Century Italy III. Laurentius Masii de Florentia; Donatus de Florentia; Rosso da Collegrano, and Nine anonymous pieces</title>
-                  <title type="short">CMM 8/3</title>
-                  <author><forename>Nino</forename><surname>Pirrotta</surname></author>
-                  <imprint><pubPlace>Amsterdam</pubPlace><publisher>American Institute of Musicology</publisher><date>1962</date></imprint>
-               </monogr>
-               <series>
-                  <title level="s">Corpus Mensurabilis Musicae, 8/3</title>
-               </series>
-            </biblStruct>
-            <biblStruct type="book" xml:id="Pirrotta1963" corresp="http://zotero.org/users/local/daicmDgn/items/FT56HATK">
-               <monogr>
-                  <title level="m">The Music of Fourteenth Century Italy IV. Jacobus de Bononia; Vincentius de Arimino</title>
-                  <title type="short">CMM 8/4</title>
-                  <author><forename>Nino</forename><surname>Pirrotta</surname></author>
-                  <imprint><pubPlace>Amsterdam</pubPlace><publisher>American Institute of Musicology</publisher><date>1963</date></imprint>
-               </monogr>
-               <series>
-                  <title level="s">Corpus Mensurabilis Musicae, 8/4</title>
-               </series>
-            </biblStruct>
-            <biblStruct type="book" xml:id="Pirrotta1964" corresp="http://zotero.org/users/local/daicmDgn/items/MFJN6PQL">
-               <monogr>
-                  <title level="m">The Music of Fourteenth Century Italy V. Andreas de Florentia, Guilielmus de Francia, Bonaiutus Corsini, Andrea Stefani, Ser Feo, Jacopo Pianelaio, Gian Toscano and Anonymous</title>
-                  <title type="short">CMM 8/5</title>
-                  <author><forename>Nino</forename><surname>Pirrotta</surname></author>
-                  <imprint><pubPlace>Amsterdam</pubPlace><publisher>American Institute of Musicology</publisher><date>1964</date></imprint>
-               </monogr>
-               <series>
-                  <title level="s">Corpus Mensurabilis Musicae, 8/5</title>
-               </series>
-            </biblStruct>
-            <biblStruct type="journalArticle" xml:id="Sacchetti1990" corresp="http://zotero.org/users/local/daicmDgn/items/Z6CVLQV6">
-               <analytic>
-                  <title level="a">Il libro delle rime</title>
-                  <title type="short">Rime (Ageno)</title>
-                  <author><forename>Franco</forename><surname>Sacchetti</surname></author>
-               </analytic>
-               <monogr>
-                  <title></title>
-                  <editor><forename>Franca</forename><surname>Brambilla Ageno</surname></editor>
-                  <imprint><date>1990</date></imprint>
-               </monogr>
-            </biblStruct>
-            <biblStruct type="journalArticle" xml:id="Sacchetti2007" corresp="http://zotero.org/users/local/daicmDgn/items/PTLZSWDF">
-               <analytic>
-                  <title level="a">Il libro delle rime con le lettere</title>
-                  <title type="short">Rime (Puccini)</title>
-                  <author><forename>Franco</forename><surname>Sacchetti</surname></author>
-               </analytic>
-               <monogr>
-                  <title></title>
-                  <editor><forename>Davide</forename><surname>Puccini</surname></editor>
-                  <imprint><date>2007</date></imprint>
-               </monogr>
-            </biblStruct>
-            <biblStruct type="book" xml:id="Sapegno1952" corresp="http://zotero.org/users/local/daicmDgn/items/8C6U9NZE">
-               <monogr>
-                  <title level="m">Poeti minori del Trecento</title>
-                  <title type="short">Poeti minori</title>
-                  <author><forename>Natalino</forename><surname>Sapegno</surname></author>
-                  <imprint><pubPlace>Milano-Napoli</pubPlace><publisher>Ricciardi</publisher><date>1952</date></imprint>
-               </monogr>
-            </biblStruct>
-            <biblStruct type="book" xml:id="Sucato2003" corresp="http://zotero.org/users/local/daicmDgn/items/V4BN5V2I">
-               <monogr>
-                  <title level="m">Il codice Rossiano 215. Madrigali, ballate, una caccia, un rotondello</title>
-                  <title type="short">Il codice Rossiano</title>
-                  <author><forename>Tiziana</forename><surname>Sucato</surname></author>
-                  <imprint><pubPlace>Pisa</pubPlace><publisher>ETS</publisher><date>2003</date></imprint>
-               </monogr>
-               <series>
-                  <title level="s">«Diverse voci...» 1</title>
-               </series>
-            </biblStruct>
-            <biblStruct type="journalArticle" xml:id="Zenari2004" corresp="http://zotero.org/users/local/daicmDgn/items/XE5ZV7IV">
-               <analytic>
-                  <title level="a">Undici madrigali a testimone unico del Panciatichiano 26 (Firenze, Biblioteca Nazionale Centrale)</title>
-                  <title type="short">Undici madrigali</title>
-                  <author><forename>Massimo</forename><surname>Zenari</surname></author>
-               </analytic>
-               <monogr>
-                  <title level="j">Studi di filologia italiana</title>
-                  <imprint><biblScope unit="volume">LVII</biblScope><biblScope unit="page">131-60</biblScope><date>2004</date></imprint>
-               </monogr>
-            </biblStruct>
+            <bibl xml:id="Corsi1970">
+               <hi rend="italic">Poesie musicali del Trecento</hi>, a cura di G. Corsi, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+            </bibl>
          </listBibl>
       </back>
    </text>
