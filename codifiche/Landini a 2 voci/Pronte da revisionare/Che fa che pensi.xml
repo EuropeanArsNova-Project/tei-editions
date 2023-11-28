@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Che fa’? Che pensi? Che cercando vai?</title>
+            <editor>Davide Checchi</editor>
+            <respStmt>
+               <resp>Digital scholarly editon created within the </resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Davide Checchi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoding by</resp>
+               <name>Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg>
+            <l xml:id="l1">
+               Che <anchor xml:id="l1a1"/>fa’<anchor xml:id="l1a2"/>? Che pensi? <anchor xml:id="l1a3"/>Che cercando vai<anchor xml:id="l1a4"/>?
+            </l>
+            <l xml:id="l2">
+               Quel che non <anchor xml:id="l2a1"/>ci è<anchor xml:id="l2a2"/>, né fu, né sarà mai?
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l3">
+               <anchor xml:id="l3a1"/>Tu<anchor xml:id="l3a2"/>
+               <anchor xml:id="l3a3"/>cerchi<anchor xml:id="l3a4"/>
+               ’l <anchor xml:id="l3a5"/>dolce<anchor xml:id="l3a6"/> nel <anchor xml:id="l3a7"/>veleno<anchor xml:id="l3a8"/> amaro,
+            </l>      
+            <l xml:id="l4">
+               ripos’ e <anchor xml:id="l4a1"/>pace<anchor xml:id="l4a2"/> in <anchor xml:id="l4a3"/>tenpestosa<anchor xml:id="l4a4"/> guerra.
+            </l>
+            <l xml:id="l5" n="5">
+               Dolce riposo et pace <anchor xml:id="l5a1"/>è<anchor xml:id="l5a2"/> sol nel chiaro
+            </l>
+            <l xml:id="l6">
+               eterno cielo, et non qua giuso in terra.
+            </l>
+            <l xml:id="l7">
+               <anchor xml:id="l7a1"/>Se∙ttu<anchor xml:id="l7a2"/> no∙l credi, credimi ch’egli erra
+            </l>
+            <l xml:id="l8">
+               qualunque oppinïon contra <anchor xml:id="l8a1"/>quest’<anchor xml:id="l8a2"/> ài.
+            </l>
+         </lg>
+      </body>
+      <back>
+         
+         <listWit>            
+            <witness xml:id="Sq">
+               <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-nazionale-centrale-pal-panciati-manoscript/ARSNOVA_185275">Fp</ref> 
+               c. <locus>157v-158r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8):  <hi rend="italic">magister franciscus cecus horghanista de florentia</hi>
+            </witness>
+            <witness xml:id="Pit">
+               <!--ref target="X"-->Pit<!--/ref-->
+               c. <locus>104r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-4), <abbr xml:id="PitT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">f(ranciscus)</hi>
+            </witness>
+            <witness xml:id="Fn">
+               <!--ref target="X"-->Fn<!--/ref-->
+               c. <locus><hi rend="small-caps">i</hi>’r</locus>, <abbr xml:id="FnT">T</abbr> (vv. 1-4): la rubrica non è leggibile per la rifilatura della carta.
+            </witness>
+         </listWit>
+         
+         <listApp type="substantial">
+            <listApp>
+               <head>5</head>
+               <app from="#l5a1" to="#l5a2">
+                  <lem>è</lem>
+                  <rdg wit="#Pit"/>
+               </app>
+            </listApp>
+         </listApp>
+         
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>fa’</lem>
+                  <rdg>fai
+                     <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit>
+                     <wit><ref target="#PitC">Pit<hi rend="super">C</hi></ref></wit>
+                     <wit><ref target="#Fn">Fn</ref></wit></rdg>
+               </app>
+               <app from="#l1a3" to="#l1a4">
+                  <lem>che cercando vai</lem>
+                  <rdg wit="#Fn"><gap reason="illegible" rend="ill."/></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>2</head>
+               <app from="#l2a1" to="#l2a2">
+                  <lem>ci è</lem>
+                  <rdg>ce
+                     <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit>
+                     <wit><ref target="#Pit">Pit</ref></wit>
+                     <wit><ref target="#Fn">Fn</ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>3</head>
+               <app from="#l3a1" to="#l3a2">
+                  <lem>tu</lem>
+                  <rdg wit="#Fn"><gap reason="illegible" rend="ill."/></rdg>
+               </app>
+               <app from="#l3a3" to="#l3a4">
+                  <lem>cerch<hi rend="italic">i</hi></lem>
+                  <rdg wit="#Fn"><gap reason="illegible" rend="ill."/></rdg>
+               </app>
+               <app from="#l3a5" to="#l3a6">
+                  <lem>dolce</lem>
+                  <rdg wit="#Fn"><gap reason="illegible" rend="ill."/></rdg>
+               </app>
+               <app from="#l3a7" to="#l3a8">
+                  <lem>veleno</lem>
+                  <rdg>velenọ <wit><ref target="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg>uelen
+                     <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit>
+                     <wit><ref target="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                  <rdg wit="#Fn"><gap reason="illegible" rend="ill."/></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>4</head>
+               <app from="#l4a1" to="#l4a2">
+                  <lem>pace</lem>
+                  <rdg>pacẹ <wit><ref target="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app from="#l4a3" to="#l4a4">
+                  <lem>tenpestosa</lem>
+                  <rdg wit="#Fn">tenpesto<add>sa</add></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>7</head>
+               <app from="#l7a1" to="#l7a2">
+                  <lem>Se∙ttu</lem>
+                  <rdg wit="#Pit">setu</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>8</head>
+               <app from="#l8a1" to="#l8a2">
+                  <lem>quest’</lem>
+                  <rdg wit="#Pit">questa</rdg>
+               </app>
+            </listApp>
+         </listApp>
+         
+         <div type="metricalScheme">
+            <p>
+               Ballata minore 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z.
+            </p> 
+            <p>
+               <hi rend="italic">Pagnotta</hi> 111 : 102.
+            </p>
+            <p>
+               Rima inclusiva ai vv. 7 : (4 : 6), 8 : (1 : 2).
+            </p>
+            <p>
+               Punti sottoscritti: v. 3 (<hi rend="italic">veleno</hi>) Pit<hi rend="super">C</hi>; v. 4 (<hi rend="italic">pace</hi>) Pit<hi rend="super">C</hi>.
+            </p>
+         </div>
+         
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+               Corsi 1970, p. 145.
+            </bibl>
+         </listBibl>
+         
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1970">
+               <hi rend="italic">Poesie musicali del Trecento</hi>, a cura di G. Corsi, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>
