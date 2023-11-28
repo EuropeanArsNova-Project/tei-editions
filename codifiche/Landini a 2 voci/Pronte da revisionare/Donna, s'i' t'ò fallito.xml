@@ -211,9 +211,160 @@
             </listApp>          
          </listApp>
          
-         <!--listApp type="formal">
-            
-         </listApp-->
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app>
+                  <lem>Donna</lem>
+                  <rdg wit="#R #PdA">dona</rdg>
+               </app>
+               <app>
+                  <lem>i’</lem>
+                  <rdg>io <wit><ref target="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app>
+                  <lem>fallito</lem>
+                  <rdg wit="#Lo #PdA">falito</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>2</head>
+               <app>
+                  <lem>od</lem>
+                  <rdg>o
+                     <wit><ref target="#PitC">Pit<hi rend="super">C</hi></ref></wit>
+                     <wit><ref target="#R">R</ref></wit>
+                     <wit><ref target="#Man">Man</ref></wit>
+                     <wit><ref target="#PdA">PdA</ref></wit></rdg>
+               </app>
+               <app>
+                  <lem>che</lem>
+                  <rdg>ch<add>e</add> <wit><ref target="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app>
+                  <lem>tuo</lem>
+                  <rdg>tu<add>o</add> <wit><ref target="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app>
+                  <lem>seguir</lem>
+                  <rdg>segh<add>ui</add>r <wit><ref target="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>3</head>
+               <app>
+                  <lem>di</lem>
+                  <rdg wit="#PdA">de</rdg>
+               </app>
+               <app>
+                  <lem>pelle</lem>
+                  <rdg wit="#Sq #Pit #R #Man #PdA">per le</rdg>
+               </app>
+               <app>
+                  <lem>tuo</lem>
+                  <rdg wit="#R #PdA">tue</rdg>
+               </app>
+               <app>
+                  <lem>contento</lem>
+                  <rdg wit="#Lo">chonten n n n nto</rdg>
+               </app>
+            </listApp>  
+            <listApp>
+               <head>4</head>
+               <app>
+                  <lem>s’i’</lem>
+                  <rdg wit="#Sq">ssio</rdg>
+                  <rdg wit="#R #Man">sio</rdg>
+               </app>
+               <app>
+                  <lem>porto ed</lem>
+                  <rdg>ported <wit><ref target="FpT">Fp<hi rend="super">T</hi></ref></wit>
+                     <wit><ref target="#PdA">PdA</ref></wit></rdg>
+                  <rdg wit="#Sq #R">porto et</rdg>
+                  <rdg wit="#Pit #Man">portọ et</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>5</head>
+               <app>
+                  <lem>e</lem>
+                  <rdg wit="#Sq #Pit #Lo">et</rdg>
+               </app>
+               <app>
+                  <lem>tuo</lem>
+                  <rdg wit="#Lo">tu</rdg>
+               </app>
+            </listApp> 
+            <listApp>
+               <head>6</head>
+               <app>
+                  <lem>mio</lem>
+                  <rdg>m<add>i</add>o <wit><ref target="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app>
+                  <lem>sai</lem>
+                  <rdg>ssai <wit><ref target="#Sq">Sq</ref></wit>
+                     <wit><ref target="PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                  <rdg wit="#Lo">sa a a a y</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>7</head>
+               <app>
+                  <lem>perch’ a</lem>
+                  <rdg wit="#Man #PdA">perche a</rdg>
+               </app>
+               <app>
+                  <lem>diletto</lem>
+                  <rdg wit="#Pit #Man #PdA">dilecto</rdg>
+               </app>
+               <app>
+                  <lem>fa’</lem>
+                  <rdg wit="#Sq #Pit #Lo #Man">fai</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>8</head>
+               <app>
+                  <lem>veggendo</lem>
+                  <rdg wit="#Sq #Pit #Man">vegendo</rdg>
+               </app>
+               <app>
+                  <lem>tuo</lem>
+                  <rdg wit="#Lo #PdA">tua</rdg>
+                  <rdg wit="#Man">toa</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>9</head>
+               <app>
+                  <lem>viso</lem>
+                  <rdg wit="#Lo">uisso</rdg>
+               </app>
+               <app>
+                  <lem>tolto</lem>
+                  <rdg wit="#Lo">tollto</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>10</head>
+               <app>
+                  <lem>io</lem>
+                  <rdg wit="#Man">i</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>11</head>
+               <app>
+                  <lem>e</lem>
+                  <rdg wit="#Sq #Pit #Lo">et</rdg>
+               </app>
+               <app>
+                  <lem>non</lem>
+                  <rdg wit="#Lo">no</rdg>
+               </app>
+            </listApp>
+         </listApp>
          
          <div type="metricalScheme">
             <p>

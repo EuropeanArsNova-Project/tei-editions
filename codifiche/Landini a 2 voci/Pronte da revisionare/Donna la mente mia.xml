@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Donna la mente mia è sì ’nvaghita</title>
+            <editor>Davide Checchi</editor>
+            <respStmt>
+               <resp>Digital scholarly editon created within the </resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Davide Checchi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoding by</resp>
+               <name>Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg>
+            <l xml:id="l1">
+               Donna la mente mia è sì ’nvaghita
+            </l>
+            <l xml:id="l2">
+               del tuo gentil aspetto,
+            </l>
+            <l xml:id="l3">
+               ch’altro dilecto <span type="space"/> non à la mia vita.
+            </l>
+         </lg>
+         <lg>      
+            <l xml:id="l4">
+               Io guardo gli atti begli e onesti e vaghi,
+            </l>
+            <l xml:id="l5" n="5">
+               che contentan el cor sol di vedere;
+            </l>
+            <l xml:id="l6">
+               né cos’al mondo so che più m’apaghi
+            </l>
+            <l xml:id="l7">
+               che mirar te, né cheggio altro piacere,
+            </l>
+            <l xml:id="l8">
+               però ch’à di virtù tanto podere
+            </l>
+            <l xml:id="l9">
+               la tua soma biltade,
+            </l>
+            <l xml:id="l10" n="10">
+               ch’a onestade, <span type="space"/> Amor, sempre m’invita.	
+            </l>
+         </lg>
+      </body>
+      <back>
+         <listWit>            
+            <witness xml:id="Fp">
+               <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-nazionale-centrale-pal-panciati-manoscript/ARSNOVA_185275">Fp</ref>
+               <locus>c. 13v</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-5), <abbr xml:id="FpT">T</abbr> (vv. 1-5), <hi rend="italic">resid.</hi> (vv. 6-10): <hi rend="italic">m(agister) f(ranciscus)</hi>
+            </witness>
+            <witness xml:id="Mg4">
+               <!-- ref -->Mg4<!-- /ref -->
+               <locus>c. 24v</locus>
+            </witness>
+         </listWit>
+         
+         <listApp type="substantial">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>pena, et</lem>
+                  <rdg>pene et <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>4</head>
+               <app from="#l4a1" to="#l4a2">
+                  <lem>c’alcun’ ora</lem>
+                  <rdg wit="#Sq">che talora</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>7</head>
+               <app from="#l7a1" to="#l7a2">
+                  <lem>che m’è fatto</lem>
+                  <rdg wit="#Sq">a me date</rdg>
+               </app>
+            </listApp>
+         </listApp>
+         
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a3" to="#l1a4">
+                  <lem>avrà</lem>
+                  <rdg wit="#Sq">ara</rdg>
+               </app>
+               <app from="#l1a5" to="#l1a6">
+                  <lem>il</lem>
+                  <rdg wit="#Sq">l</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>2</head>
+               <app from="#l2a1" to="#l2a2">
+                  <lem>sotto</lem>
+                  <rdg>socto <wit><ref target="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app from="#l2a3" to="#l2a4">
+                  <lem>fede</lem>
+                  <rdg wit="#Sq">fe</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>3</head>
+               <app from="#l3a1" to="#l3a2">
+                  <lem>mai</lem>
+                  <rdg wit="#Sq">maị</rdg>
+               </app>
+               <app from="#l3a3" to="#l3a4">
+                  <lem>vendetta</lem>
+                  <rdg wit="#Sq">vendecta</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>4</head>
+               <app from="#l4a3" to="#l4a4">
+                  <lem>rispiarmi</lem>
+                  <rdg>risparmi</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>5</head>
+               <app from="#l5a1" to="#l5a2">
+                  <lem>saetta</lem>
+                  <rdg>saecta <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>7</head>
+               <app from="#l7a3" to="#l7a4">
+                  <lem>e</lem>
+                  <rdg wit="#Sq">et</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>8</head>
+               <app from="#l8a1" to="#l8a2">
+                  <lem>gran</lem>
+                  <rdg wit="#Sq">gram</rdg>
+               </app>
+            </listApp>
+         </listApp>
+         
+         <div type="metricalScheme">
+            <p>
+               Ballata mezzana 10’z 6’y (4’y)10’z; 10’a 10’b, 10’a 10’b; 10’b 6’c (4’c)10z.
+            </p>
+            <p>
+               Rima inclusiva ai vv. 3 : 10, rima ricca ai vv. 5 : 8, vv. 9 : 10 (interna).
+            </p>
+            <p>
+               <hi rend="italic">Pagnotta</hi> 100 : 5.
+            </p>
+         </div>
+         
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+               Corsi 1970, p. 160.
+            </bibl>
+         </listBibl>
+         
+         <div type="commentary">
+            <note target="#l9">
+               <num>9.</num>
+               Non adatta al contesto la lezione <hi rend="italic">bontade</hi> di Mg4
+            </note>
+            <note target="#l10">
+               <num>10.</num>
+               La lezione di Mg4 risulta deteriore in quanto, obbligando alla sinalefe tra <hi rend="italic">ch’a</hi>
+               e <hi rend="italic">onestade</hi>, nell’intonazione fa ricadere in posizione ritmicamente
+               forte le sillabe <hi rend="italic">-ne-</hi> e <hi rend="italic">-de-</hi> di <hi rend="italic">onestade</hi>
+               in luogo di <hi rend="italic">o-</hi> e della sillaba tonica <hi rend="italic">-sta-</hi>.
+            </note>
+         </div>
+         
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1970">
+               <hi rend="italic">Poesie musicali del Trecento</hi>, a cura di G. Corsi, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>
