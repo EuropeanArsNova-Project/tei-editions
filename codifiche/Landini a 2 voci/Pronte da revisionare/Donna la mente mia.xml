@@ -49,36 +49,36 @@
       <body>
          <lg>
             <l xml:id="l1">
-               Donna la mente mia è sì ’nvaghita
+               <anchor xml:id="l1a3"/>Donna<anchor xml:id="l1a4"/> la mente mia è sì <anchor xml:id="l1a1"/>’nvaghita<anchor xml:id="l1a2"/>
             </l>
             <l xml:id="l2">
-               del tuo gentil aspetto,
+               del tuo <anchor xml:id="l2a1"/>gentil<anchor xml:id="l2a2"/> <anchor xml:id="l2a3"/>aspetto<anchor xml:id="l2a4"/>,
             </l>
             <l xml:id="l3">
-               ch’altro dilecto <span type="space"/> non à la mia vita.
+               ch’altro <anchor xml:id="l3a1"/>dilecto <span type="space"/> non<anchor xml:id="l3a2"/> à la mia vita.
             </l>
          </lg>
          <lg>      
             <l xml:id="l4">
-               Io guardo gli atti begli e onesti e vaghi,
+               <anchor xml:id="l4a1"/>Io guardo<anchor xml:id="l4a2"/> gli <anchor xml:id="l4a3"/>atti<anchor xml:id="l4a4"/> <anchor xml:id="l4a5"/>begli e<anchor xml:id="l4a6"/> <anchor xml:id="l4a7"/>onesti e vaghi<anchor xml:id="l4a8"/>,
             </l>
             <l xml:id="l5" n="5">
-               che contentan el cor sol di vedere;
+               che <anchor xml:id="l5a1"/>contentan<anchor xml:id="l5a2"/> el cor sol <anchor xml:id="l5a3"/>di<anchor xml:id="l5a4"/> vedere;
             </l>
             <l xml:id="l6">
-               né cos’al mondo so che più m’apaghi
+               <anchor xml:id="l6a1"/>né<anchor xml:id="l6a2"/> <anchor xml:id="l6a5"/>cos’<anchor xml:id="l6a6"/>al mondo <anchor xml:id="l6a3"/>so che più m’apaghi<anchor xml:id="l6a4"/>
             </l>
             <l xml:id="l7">
-               che mirar te, né cheggio altro piacere,
+               che <anchor xml:id="l7a1"/>mirar<anchor xml:id="l7a2"/> te, né <anchor xml:id="l7a3"/>cheggio<anchor xml:id="l7a4"/> altro piacere,
             </l>
             <l xml:id="l8">
-               però ch’à di virtù tanto podere
+               però ch’à <anchor xml:id="l8a1"/>di<anchor xml:id="l8a2"/> <anchor xml:id="l8a3"/>virtù<anchor xml:id="l8a4"/> tanto <anchor xml:id="l8a5"/>podere<anchor xml:id="l8a6"/>
             </l>
             <l xml:id="l9">
-               la tua soma biltade,
+               la tua <anchor xml:id="l9a3"/>soma<anchor xml:id="l9a4"/> <anchor xml:id="l9a1"/>biltade<anchor xml:id="l9a2"/>,
             </l>
             <l xml:id="l10" n="10">
-               ch’a onestade, <span type="space"/> Amor, sempre m’invita.	
+               <anchor xml:id="l10a1"/>ch’a<anchor xml:id="l10a2"/> <anchor xml:id="l10a5"/>onestade<anchor xml:id="l10a6"/>, <span type="space"/> <anchor xml:id="l10a3"/>Amor, sempre<anchor xml:id="l10a4"/> <anchor xml:id="l10a7"/>m’invita<anchor xml:id="l10a8"/>.	
             </l>
          </lg>
       </body>
@@ -98,22 +98,62 @@
             <listApp>
                <head>1</head>
                <app from="#l1a1" to="#l1a2">
-                  <lem>pena, et</lem>
-                  <rdg>pene et <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                  <lem>’nvaghita</lem>
+                  <rdg wit="#Mg4">uagita</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>2</head>
+               <app from="#l2a1" to="#l2a2">
+                  <lem>gentil</lem>
+                  <rdg>getil <wit><ref target="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
                </app>
             </listApp>
             <listApp>
                <head>4</head>
                <app from="#l4a1" to="#l4a2">
-                  <lem>c’alcun’ ora</lem>
-                  <rdg wit="#Sq">che talora</rdg>
+                  <lem>Io guardo</lem>
+                  <rdg wit="#Mg4">yognar do</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>6</head>
+               <app from="#l6a1" to="#l6a2">
+                  <lem>né</lem>
+                  <rdg wit="#Mg4">nonne</rdg>
+               </app>
+               <app from="#l6a3" to="#l6a4">
+                  <lem>so… m’apaghi</lem>
+                  <rdg wit="#Mg4">che piu mi piaqua</rdg>
                </app>
             </listApp>
             <listApp>
                <head>7</head>
                <app from="#l7a1" to="#l7a2">
-                  <lem>che m’è fatto</lem>
-                  <rdg wit="#Sq">a me date</rdg>
+                  <lem>mirar</lem>
+                  <rdg wit="#Mg4">remirar</rdg>
+               </app>
+               <app from="#l7a3" to="#l7a4">
+                  <lem>cheggio</lem>
+                  <rdg wit="#Mg4">domando</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>9</head>
+               <app from="#l9a1" to="#l9a2">
+                  <lem>biltade</lem>
+                  <rdg wit="#Mg4">bontade</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>10</head>
+               <app from="#l10a1" to="#l10a2">
+                  <lem>ch’a</lem>
+                  <rdg wit="#Mg4"><expan>ch<ex>(e)</ex></expan></rdg>
+               </app>
+               <app from="#l10a3" to="#l10a4">
+                  <lem>Amor sempre</lem>
+                  <rdg wit="#Mg4" type="indifferentVariant">senpre amor</rdg>
                </app>
             </listApp>
          </listApp>
@@ -122,62 +162,95 @@
             <listApp>
                <head>1</head>
                <app from="#l1a3" to="#l1a4">
-                  <lem>avrà</lem>
-                  <rdg wit="#Sq">ara</rdg>
-               </app>
-               <app from="#l1a5" to="#l1a6">
-                  <lem>il</lem>
-                  <rdg wit="#Sq">l</rdg>
+                  <lem>donna</lem>
+                  <rdg wit="#Mg4">dona</rdg>
                </app>
             </listApp>
             <listApp>
                <head>2</head>
                <app from="#l2a1" to="#l2a2">
-                  <lem>sotto</lem>
-                  <rdg>socto <wit><ref target="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                  <lem>gentil</lem>
+                  <rdg wit="#Mg4">çentil</rdg>
                </app>
                <app from="#l2a3" to="#l2a4">
-                  <lem>fede</lem>
-                  <rdg wit="#Sq">fe</rdg>
+                  <lem>aspetto</lem>
+                  <rdg wit="#Mg4">aspeto</rdg>
                </app>
             </listApp>
             <listApp>
                <head>3</head>
                <app from="#l3a1" to="#l3a2">
-                  <lem>mai</lem>
-                  <rdg wit="#Sq">maị</rdg>
-               </app>
-               <app from="#l3a3" to="#l3a4">
-                  <lem>vendetta</lem>
-                  <rdg wit="#Sq">vendecta</rdg>
+                  <lem>dilecto non</lem>
+                  <rdg wit="#Mg4">dileto nonn</rdg>
                </app>
             </listApp>
             <listApp>
                <head>4</head>
                <app from="#l4a3" to="#l4a4">
-                  <lem>rispiarmi</lem>
-                  <rdg>risparmi</rdg>
+                  <lem>atti</lem>
+                  <rdg wit="#Mg4">ati</rdg>
+               </app>
+               <app from="#l4a5" to="#l4a6">
+                  <lem>begli e</lem>
+                  <rdg>belgle <wit><ref target="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                  <rdg wit="#Mg4">beli e</rdg>
+               </app>
+               <app from="#l4a7" to="#l4a8">
+                  <lem>onesti e vaghi</lem>
+                  <rdg wit="#Mg4">honesti euagi</rdg>
                </app>
             </listApp>
             <listApp>
                <head>5</head>
                <app from="#l5a1" to="#l5a2">
-                  <lem>saetta</lem>
-                  <rdg>saecta <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                  <lem>contentan</lem>
+                  <rdg wit="#Mg4">contentano</rdg>
+               </app>
+               <app from="#l5a3" to="#l5a4">
+                  <lem>di</lem>
+                  <rdg wit="#Mg4">de</rdg>
                </app>
             </listApp>
             <listApp>
-               <head>7</head>
-               <app from="#l7a3" to="#l7a4">
-                  <lem>e</lem>
-                  <rdg wit="#Sq">et</rdg>
+               <head>6</head>
+               <app from="#l6a5" to="#l6a6">
+                  <lem>cos’</lem>
+                  <rdg wit="#Mg4">cosa</rdg>
                </app>
             </listApp>
             <listApp>
                <head>8</head>
                <app from="#l8a1" to="#l8a2">
-                  <lem>gran</lem>
-                  <rdg wit="#Sq">gram</rdg>
+                  <lem>di</lem>
+                  <rdg wit="#Mg4">de</rdg>
+               </app>
+               <app from="#l8a3" to="#l8a4">
+                  <lem>virtù</lem>
+                  <rdg wit="#Mg4">uertu</rdg>
+               </app>
+               <app from="#l8a5" to="#l8a6">
+                  <lem>podere</lem>
+                  <rdg wit="#Mg4">potere</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>9</head>
+               <app from="#l9a3" to="#l9a4">
+                  <lem>soma</lem>
+                  <rdg wit="#Mg4">sonma</rdg>
+               </app>
+            </listApp>
+            
+            <listApp>
+               <head>10</head>
+               <app from="#l10a5" to="#l10a6">
+                  <lem>onestade</lem>
+                  <rdg wit="#Fp">onestate</rdg>
+                  <rdg wit="#Mg4">honestade</rdg>
+               </app>
+               <app from="#l10a7" to="#l10a8">
+                  <lem>m’invita</lem>
+                  <rdg wit="#Mg4">menvita </rdg>
                </app>
             </listApp>
          </listApp>
