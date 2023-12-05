@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Un cane, unʼoca et una vechia paçça</title>
+                <!--<author><ref target=""></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Vittoria Brancato</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>           
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front>
+         <div>
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"></hi>)
+            </p>
+         </div>        
+      </front>-->
+        <body>
+            <lg>
+                <l xml:id="l1">Un cane, unʼoca et una vechia paçça</l>
+                <l xml:id="l2"><anchor xml:id="l2a1"/>guardan<anchor xml:id="l2a2"/> sì lʼuscio <anchor xml:id="l2a3"/>della<anchor xml:id="l2a4"/> donna mia,</l>
+                <l xml:id="l3">che gir non posso là dovʼ ella sia.</l>
+                <l xml:id="l4"><anchor xml:id="l4a1"/>Iʼ<anchor xml:id="l4a2"/> gitto lʼesca allʼoca et <anchor xml:id="l4a3"/>non la<anchor xml:id="l4a4"/> piglia, </l>
+                <l xml:id="l5" n="5">ma grida forte et va battendo lʼale;</l>
+                <l xml:id="l6">al can dico «té·<anchor xml:id="l6a3"/>tté<anchor xml:id="l6a4"/>!», <anchor xml:id="l6a1"/>nulla mi <anchor xml:id="l6a2"/> vale.</l>
+                <l xml:id="l7">La <anchor xml:id="l7a1"/>vechia<anchor xml:id="l7a2"/> tosse et sta volta alla figlia</l>
+                <l xml:id="l8">con una <anchor xml:id="l8a1"/>maça<anchor xml:id="l8a2"/> in mano et tutta <anchor xml:id="l8a3"/>viça<anchor xml:id="l8a4"/>,</l>
+                <l xml:id="l9"><anchor xml:id="l9a1"/>e ʼl can<anchor xml:id="l9a2"/> feroce contrʼ a me <anchor xml:id="l9a3"/>aiça<anchor xml:id="l9a4"/>. </l>                
+            </lg>
+            
+            <lg>
+                <l xml:id="l10" n="10">Ma sopratutto questa <anchor xml:id="l10a1"/>vechia<anchor xml:id="l10a2"/> eretica</l>
+                <l xml:id="l11">lʼandar alla mie donna pur mʼimpedica.</l>
+            </lg>
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Sq">
+                    <!--ref target="X"-->Sq<!--/ref-->cc. <locus>74v-75r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic">m(agister) donatus de florentia </hi>
+                </witness>
+                
+                <witness xml:id="SL">
+                    <!--ref target="X"-->SL<!--/ref-->c. 72r, <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 10-11). Il <hi rend="italic">tenor</hi> è per gran parte illeggibile; la rubrica è illeggibile.
+                </witness>
+                
+                <witness xml:id="Fp">
+                    <!--ref target="X"-->Fp<!--/ref--> c. 81r,  <abbr xml:id="FpC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="FpT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic">s(er) donato</hi> 
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">              
+               <listApp>
+                   <head>2</head>
+                   <app from="#l2a1" to="#l2a2">
+                       <lem>guardan</lem>
+                       <rdg>guardar  <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit> </rdg>
+                   </app>
+                   
+                   <app from="l2a3" to="#l2a4">
+                       <lem>della</lem>
+                       <rdg>dalla <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                   </app>
+               </listApp>
+                
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>nulla mi </lem>
+                        <rdg wit="#Fp">e nulla</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>9</head>
+                    <app from="#l9a1" to="#l9a2">
+                        <lem>e ʼl can</lem>
+                        <rdg wit="#Fp">e sta</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>10</head>
+                    <app from="#l10a1" to="#l10a2">
+                        <lem>vechia</lem>
+                        <rdg wit="#Fp">donna <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit> </rdg>
+                    </app>
+                </listApp>
+                  
+            </listApp>
+
+
+
+           <listApp type="formal">
+               <listApp>
+                   <head>4</head>
+                   <app from="#l4a1" to="#l4a2">
+                       <lem>Iʼ</lem>
+                       <rdg wit="#Fp">io</rdg>
+                   </app>
+                   
+                   <app from="#l4a3" to="#l4a4">
+                       <lem>non la</lem>
+                       <rdg wit="#Fp">nolla</rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>6</head>
+                   <app from="#l6a3" to="#l6a4">
+                       <lem>tté</lem>
+                       <rdg wit="#Fp">te</rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>7</head>
+                   <app from="#l7a1" to="#l7a2">
+                       <lem>vechia</lem>
+                       <rdg wit="#Fp">vecchia</rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>8</head>
+                   <app from="#l8a1" to="#l8a2">
+                       <lem>maça</lem>
+                       <rdg wit="#Fp">maçça </rdg>
+                   </app>
+                   
+                   <app from="#l8a3" to="#l8a4">
+                       <lem>viça</lem>
+                       <rdg wit="#Fp">viçça </rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>9</head>
+                   <app from="#l9a3" to="#l9a4">
+                       <lem>aiça</lem>
+                       <rdg wit="#Fp">aiçça </rdg>
+                   </app>
+               </listApp>
+           </listApp>
+            
+
+
+            <div type="metricalScheme">
+                <p>Madrigale 10ʼa 10ʼb 10ʼb; 10ʼc 10ʼd 10ʼd; 10ʼc 10ʼe 10ʼe; 10ʼʼf 10ʼʼf. </p>
+                <p><hi rend="italic">Capovilla</hi> XLIII.</p>
+                <p>Rima imperfetta (assonanza) ai vv. 10 : 11.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Corsi1970">Corsi 1970, pp. 121-2;</bibl>
+                <bibl corresp="#Giorgetti2019-2020">Giorgetti 2019-2020, pp. 79-81. </bibl>
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+                
+            </listBibl>-->
+
+
+            <div type="commentary">
+               <note target="#l6">
+                   <num>6.</num>
+                   <p>A testo è inserito il tipico incitamento rivolto ai cani, per cui cfr. la caccia di Soldanieri, <hi rend="italic">Per un boschetto, tra pungenti spine</hi>, v. 3 <hi rend="italic">gimo aizando: «Té, té, té, té·tté!»</hi> (ed. ArsNova).</p>
+               </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Corsi1970">Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)</bibl>
+                <bibl xml:id="Giorgetti2019-2020">Elisa Giorgetti, <hi rend="italic">Edizione critica commentata dei testi intonati da Donato da Cascia</hi>, tesi di Laurea Magistrale, Università di Firenze, 2019-2020</bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
