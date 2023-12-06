@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Una colonba più che neve bianca</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Alice Colantuoni</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+            <div>
+                <p>
+                </p>
+            </div>         
+        </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    Una colonba più che neve bianca,
+                </l>
+                <l xml:id="l2">
+                    della cui bella piuma <anchor xml:id="l2a1"/>innamorai<anchor xml:id="l2a2"/>,
+                </l>
+                <l xml:id="l3">               
+                    or pena dammi et or diletto assai:
+                </l>    
+                <l xml:id="l4">
+                    leva gli ochi ver me a ora a ora
+                </l>
+                <l xml:id="l5" n="5">
+                    con dolce sguardo, et poi a mano a mano
+                </l>
+                <l xml:id="l6">
+                    cotal mi vede qual io fossi strano.
+                </l>
+            </lg>
+            <lg>
+                <l xml:id="l7">
+                    Così tra ’l forse et lo ’ntra <anchor xml:id="l7a1"/>duo<anchor xml:id="l7a2"/> mi tiene,
+                </l>
+                <l xml:id="l8">
+                    né∙sso <anchor xml:id="l8a1"/>sperar<anchor xml:id="l8a2"/> ch’i’ possa o male o bene.
+                </l>
+            </lg>
+            <lg>
+                <l xml:id="l10" n ="10">
+                    Ai quant’ è ’l <anchor xml:id="l10a1"/>cacciator<anchor xml:id="l10a2"/> villan che prende
+                </l>
+                <l xml:id="l11">
+                    preda c’altr’ à levata, et quant’ offende!
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="Sq">
+                    <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-medicea-laurenziana-med-pal-87--manoscript/ARSNOVA_224962">Sq</ref>
+                    c. <locus>28v-29r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7), <hi rend="italic">resid.</hi> (vv. 4-6 e 8): <hi rend="italic">magister s(er) ghirardellus de florentia</hi>
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem>sperar</lem>
+                        <rdg wit="#Sq">sperare</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>innamorai</lem>
+                        <rdg>inamorai <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>duo</lem>
+                        <rdg>du <witDetail wit="#SqC"><hi rend="super">prima occorrenza del verso, ripetuto due volte</hi></witDetail> <wit><ref target="#SqT">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p>Madrigale 10’a 10’b 10’b, 10’c 10’d 10’d; 10’e 10’e.</p>
+                <p><hi rend="italic">Capovilla</hi> XLVIII.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Carducci1936">
+                    Carducci 1936, p. 356.
+                </bibl>
+                <bibl corresp="#Corsi1970">
+                    Corsi 1970, p. 65.
+                </bibl>
+            </listBibl>
+            <div type="commentary">
+                <note target="#l5">
+                    <num>5</num>
+                    <hi rend="italic">lo ’ntra duo</hi>: ‘il dubbio’. 
+                </note>
+            </div>
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Carducci1936">
+                    Musica e poesia nel mondo elegante italiano del sec. XIV, Ediz. Naz. delle Opere vol. IX (I trovatori e la cavalleria), Bologna, N. Zanichelli Ed., 1936 
+                </bibl>
+                <bibl xml:id="Corsi1970">
+                    Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
