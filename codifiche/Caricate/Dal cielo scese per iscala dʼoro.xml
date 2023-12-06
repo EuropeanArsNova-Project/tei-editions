@@ -144,13 +144,8 @@
 
             <listBibl type="editions">
                 <bibl corresp="#Corsi1969">Corsi 1969, pp. 117-8;</bibl>
-                <bibl corresp="#Giorgetti2019-2020">Giorgetti 2019-2020, pp. 105-8;</bibl>
+                <bibl corresp="#Giorgetti2019-2020">Giorgetti 2019-2020, pp. 105-8.</bibl>
             </listBibl>
-
-
-            <!--<listBibl type="bibliography">
-                <bibl corresp="#"></bibl>
-            </listBibl>-->
 
 
             <div type="commentary">
