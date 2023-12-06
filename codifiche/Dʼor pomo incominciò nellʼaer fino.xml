@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dʼor pomo incominciò nellʼaer fino</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Vittoria Brancato</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>           
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front>
+         <div>
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"></hi>)
+            </p>
+         </div>        
+      </front>-->
+        <body>
+            <lg>
+                <l xml:id="l1">Dʼor pomo incominciò nellʼaer fino,</l>
+                <l xml:id="l2">da cerchi involto, selvagio creare</l>
+                <l xml:id="l3">frutto, cui sol son contento amare.</l>
+                <l xml:id="l4">Poʼ, discendendo in simil campo dʼoro,</l>
+                <l xml:id="l5" n="5">con piccon forte appuntato vermiglio </l>
+                <l xml:id="l6">sʼagiunse, qual di pietra schiantò ʼl ciglio</l>
+                <l xml:id="l7">che <hi rend="italic">gi</hi> incatena legato dʼargento,</l>
+                <l xml:id="l8">sì vago et <anchor xml:id="l8a1"/>bel che<anchor xml:id="l8a2"/> fatto mai in petra,</l>
+                <l xml:id="l9">che dentro a me maʼ più neun <anchor xml:id="l9a1"/><supplied reason="illegible">[p]</supplied>enetra<anchor xml:id="l9a2"/>.</l>                
+            </lg>
+            <lg>
+                <l xml:id="l10" n="10">Al chiaro dolce allisʼ a tutto assenbrasi</l>
+                <l xml:id="l11">el bel fior, sì che dentrʼal cor amenbrasi.</l>
+            </lg>
+
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Sq">
+                    <!--ref target="X"-->Sq<!--/ref-->cc. <locus>74v-75r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic"> m(agister) donatus de florentia</hi>
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">              
+               <listApp>
+                   <head>9</head>
+                   <app from="#l9a1" to="#l9a2">
+                       <lem>penetra</lem>
+                       <rdg wit="#Sq">ne netra</rdg>
+                   </app>
+               </listApp>
+            </listApp>
+
+
+
+           <listApp type="formal">
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem>bel che</lem>
+                        <rdg wit="#Sq">bel <del>fru</del> che</rdg>
+                    </app>
+                </listApp>
+           </listApp>
+            
+
+
+            <div type="metricalScheme">
+                <p>Madrigale 10ʼa 10ʼb 10ʼb; 10ʼc 10ʼd 10ʼd; 10ʼe 10ʼf 10ʼf; 10ʼʼg 10ʼʼg. Stesso schema di <hi rend="italic">Come el potestù far, dolce signore</hi> (ed. ArsNova).</p>
+                <p><hi rend="italic">Capovilla</hi> LIII.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Corsi1969">Corsi 1969, p. 118;</bibl>
+                <bibl corresp="#Paganuzzi1975">Paganuzzi 1975, pp. 143-7;</bibl>
+                <bibl corresp="#Giorgetti2019-2020">Giorgetti 2019-2020, pp. 75-8.</bibl>
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+                <bibl corresp="#"></bibl>
+            </listBibl>-->
+
+
+            <div type="commentary">
+                <p>Per lʼinterpretazione araldica del brano, quindi per lʼidentificazione di famiglie fiorentine nel testo (Peruzzi, Bardi e Alberti), vedi Paganuzzi 1975, Puccini 2007, pp. 614-15, Carleton 2009.</p>
+                <note target="#l3">
+                    <num>3.</num>
+                    <p>Il verso esige lettura con dialefe dopo <hi rend="italic">contento</hi>, a meno che non si intervenga inserendo [<hi rend="italic">d’</hi>]<hi rend="italic">amare</hi>, aggiunta che non implica modifiche al senso. </p>
+                </note>
+                
+                <note target="#l8">
+                    <num>8.</num>
+                    <p> Intendo ʽtanto bello quanto mai nessun oggetto in pietraʼ, forse da considerare come inciso. </p>
+                </note>
+                
+                <note target="#l10 #l11">
+                    <num>10-11.</num>
+                    <p>Il ritornello presenta lʼimmagine del fiore che sembra campeggiare nello stemma descritto ai versi precedenti, simile ad un fiordaliso che ha sede nel cuore del poeta. </p>
+                </note>
+                
+                <note target="#l10">
+                    <num>10.</num>
+                    <p><hi rend="italic">allis</hi>: ʽfiordalisoʼ, cfr. <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">aliso</hi>. Non è escluso possa trattarsi di un <hi rend="italic">senhal</hi>, insieme a <hi rend="italic">gi</hi> e alla <hi rend="italic">pietra</hi>. </p>
+                </note>
+                
+                <note target="#l11">
+                    <num>11.</num>
+                    <p><hi rend="italic">amenbrasi</hi>: ʻcollocarsi, aver sedeʼ, per cui cfr. <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">ammembrare</hi><hi rend="super">1</hi>, § 1.1.</p>
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Corsi1969">G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969</bibl>
+                <bibl xml:id="Paganuzzi1975">Enrico Paganuzzi, <hi rend="italic">L'opera idraulica di Consignorio della Scala in un madrigale di Donato da Firenze</hi>, in «Vita veronese», 28 (1975), pp. 143-47</bibl>
+                <bibl xml:id="Giorgetti2019-2020">Elisa Giorgetti, <hi rend="italic">Edizione critica commentata dei testi intonati da Donato da Cascia</hi>, tesi di Laurea Magistrale, Università di Firenze, 2019-2020</bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

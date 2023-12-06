@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Un bel girfalco scese alle mie grida</title>
+                <author><ref target="https://www.mirabileweb.it/author/niccol%C3%B2-soldanieri-author/230008">Niccolò Soldanieri</ref></author>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Vittoria Brancato</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>           
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front>
+         <div>
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"></hi>)
+            </p>
+         </div>        
+      </front>-->
+        <body>
+            <lg>
+                <l xml:id="l1"><anchor xml:id="l1a1"/>Un<anchor xml:id="l1a2"/> bel <anchor xml:id="l1a3"/>girfalco<anchor xml:id="l1a4"/> <anchor xml:id="l1a5"/>scese<anchor xml:id="l1a6"/> alle <anchor xml:id="l1a7"/>mie<anchor xml:id="l1a8"/> grida,</l>
+                <l xml:id="l2"><anchor xml:id="l2a1"/>del<anchor xml:id="l2a2"/>lʼ<anchor xml:id="l2a3"/>aere<anchor xml:id="l2a4"/> in <anchor xml:id="l2a5"/>braccio <anchor xml:id="l2a7"/>a<anchor xml:id="l2a6"/> piombo<anchor xml:id="l2a8"/> giù mi venne,</l>
+                <l xml:id="l3">comʼ <anchor xml:id="l3a1"/>Amor<anchor xml:id="l3a2"/> <anchor xml:id="l3a3"/>volle<anchor xml:id="l3a4"/> e ʼl <anchor xml:id="l3a5"/>destro<anchor xml:id="l3a6"/> di suo penne.</l>
+                <l xml:id="l4"><anchor xml:id="l4a6"/><anchor xml:id="l4a1"/>In <anchor xml:id="l4a2"/><anchor xml:id="l4a7"/>pieʼ<anchor xml:id="l4a3"/> <anchor xml:id="l4a4"/>gli misi<anchor xml:id="l4a5"/> e, <anchor xml:id="l4a8"/>fatto<anchor xml:id="l4a9"/> chʼebbe gorga,</l>
+                <l xml:id="l5" n="5"><anchor xml:id="l5a1"/>alçò più alto assai che·lla caduta<anchor xml:id="l5a2"/>,</l>
+                <l xml:id="l6"><anchor xml:id="l6a2"/>onde<anchor xml:id="l6a3"/>, <anchor xml:id="l6a4"/>giucando<anchor xml:id="l6a5"/>, il <anchor xml:id="l6a6"/>perdeʼ<anchor xml:id="l6a7"/> di veduta.<anchor xml:id="l6a1"/></l>
+            </lg>
+            <lg>
+                <l xml:id="l7"><anchor xml:id="l7a1"/>E<anchor xml:id="l7a2"/> che ritorni <anchor xml:id="l7a3"/><anchor xml:id="l7a5"/>no<anchor xml:id="l7a6"/> mi<anchor xml:id="l7a4"/> dice <anchor xml:id="l7a7"/>ʼl<anchor xml:id="l7a8"/> core,</l>
+                <l xml:id="l8"><anchor xml:id="l8a3"/>che<anchor xml:id="l8a4"/> credo che <anchor xml:id="l8a5"/>se<anchor xml:id="l8a6"/> ʼl <anchor xml:id="l8a7"/>tenga<anchor xml:id="l8a8"/> altro <anchor xml:id="l8a1"/>signore<anchor xml:id="l8a2"/>.</l>                
+            </lg>
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Red">
+                    <!--ref target="X"-->Red<!--/ref--> c. 111v: <hi rend="italic">Madriale del detto </hi> [Niccolò Soldanieri]
+                </witness>
+                
+                <witness xml:id="Sq">
+                    <!--ref target="X"-->Sq<!--/ref-->cc. <locus>71v-72r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid.</hi> (vv. 4-6): <hi rend="italic">hic e(st) m(agister) don donatus de florentia</hi>
+                </witness>
+                
+                <witness xml:id="Pit">
+                    <!--ref target="X"-->Pit<!--/ref-->cc. <locus>15v-16r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="PitT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">don donatus</hi>.
+                </witness>
+                
+                <witness xml:id="SL">
+                    <!--ref target="X"-->SL<!--/ref-->cc. <locus>72v-73r </locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid.</hi> (vv. 4-6). Testo per gran parte illeggibile.
+                </witness>
+                
+                <witness xml:id="T">
+                    <!--ref target="X"-->T<!--/ref--> c. 113v 
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">              
+               <listApp>
+                   <head>2</head>
+                   <app from="#l2a1" to="#l2a2">
+                       <lem>del</lem>
+                       <rdg wit="#Sq">ccio appiombo giu mi uen ne la rianbra <hi rend="italic">con segno di inversione </hi></rdg>
+                   </app>
+                   
+                   <app from="#l2a3" to="#l2a4">
+                       <lem>aere</lem>
+                       <rdg wit="#Sq #Pit">aria</rdg>
+                   </app>
+               </listApp>
+                
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>Amor</lem>
+                        <rdg wit="#Red #T">amore <hi rend="italic">(+1)</hi></rdg>
+                    </app>
+                    
+                    <app from="#l3a3" to="#l3a4">
+                        <lem>volle</lem>
+                        <rdg wit="#T">volse</rdg>
+                    </app>
+                    
+                    <app from="#l3a5" to="#l3a6">
+                        <lem>destro</lem>
+                        <rdg wit="#Sq">disio</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>4-6</head>
+                    <app from="#l4a1" to="#l6a1">
+                        <rdg wit="#Pit"/>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a2" to="#l4a3">
+                        <lem>pieʼ</lem>
+                        <rdg wit="#T">par</rdg>
+                    </app>
+                    
+                    <app from="#l4a4" to="#l4a5">
+                        <lem>gli misi</lem>
+                        <rdg wit="#T">lil misse</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a1" to="#l5a2">
+                        <rdg wit="#Sq #Pit">alço piu assai che non fu la caduta </rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>E</lem>
+                        <rdg wit="#T"/>
+                    </app>
+                    
+                    <app from="#l7a3" to="#l7a4">
+                        <lem>no mi</lem>
+                        <rdg>nonn <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem>signore</lem>
+                        <rdg wit="#T">amatore</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+
+
+
+           <listApp type="formal">
+               <listApp>
+                   <head>1</head>
+                   <app from="#l1a1" to="#l1a2">
+                       <lem>Un</lem>
+                       <rdg wit="#T">Um</rdg>
+                   </app>
+                   
+                   <app from="#l1a3" to="#l1a4">
+                       <lem>girfalco</lem>
+                       <rdg wit="#T">giffalcho </rdg>
+                   </app>
+                   
+                   <app from="#l1a5" to="#l1a6">
+                       <lem>scese</lem>
+                       <rdg wit="#Pit">sces <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                   </app>
+                   
+                   <app from="#l1a7" to="#l1a8">
+                       <lem>mie</lem>
+                       <rdg>mi<add place="above">e</add> <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>2</head>
+                   <app from="#l2a5" to="#l2a6">
+                       <lem>braccio a</lem>
+                       <rdg>bracci a <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit>
+                                     <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit> </rdg>
+                   </app>
+                   
+                   <app from="#l2a7" to="#l2a8">
+                       <lem>a piombo</lem>
+                       <rdg wit="#Sq">appiombo <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>4</head>
+                   <app from="#l4a6" to="#l4a7">
+                       <lem>In</lem>
+                       <rdg wit="#T">im</rdg>
+                   </app>
+                   
+                   <app from="#l4a8" to="#l4a9">
+                       <lem>fatto</lem>
+                       <rdg wit="#Sq">facto</rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>6</head>
+                   <app from="#l6a2" to="#l6a3">
+                       <lem>onde</lem>
+                       <rdg wit="#Red">unde</rdg>
+                   </app>
+                   
+                   <app from="#l6a4" to="#l6a5">
+                       <lem>giucando</lem>
+                       <rdg wit="#T">jucando</rdg>
+                   </app>
+                   
+                   <app from="#l6a6" to="#l6a7">
+                       <lem>perdeʼ</lem>
+                       <rdg wit="#T">perdei</rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>7</head>
+                   <app from="#l7a5" to="#l7a6">
+                       <lem>no</lem>
+                       <rdg>non <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit>
+                                <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit>   </rdg>
+                   </app>
+                   
+                   <app from="#l7a7" to="#l7a8">
+                       <lem>ʼl</lem>
+                       <rdg wit="#Sq #Pit">il</rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>8</head>
+                   <app from="#l8a3" to="#l8a4">
+                       <lem>che</lem>
+                       <rdg>che che <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                   </app>
+                   
+                   <app from="#l8a5" to="#l8a6">
+                       <lem>se</lem>
+                       <rdg>sse <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                   </app>
+                   
+                   <app from="#l8a7" to="#l8a8">
+                       <lem>tenga</lem>
+                       <rdg wit="#T">tengna</rdg>
+                       <rdg wit="#Sq">teng</rdg>
+                   </app>
+               </listApp>
+           </listApp>
+            
+
+
+            <div type="metricalScheme">
+                <p>Madrigale 10ʼa 10ʼb 10ʼb, 10ʼc 10ʼd 10ʼd; 10ʼe 10ʼe.</p>
+                <p><hi rend="italic">Capovilla</hi> XLVIII.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Corsi1969">Corsi 1969, p. 745;</bibl>
+                <bibl corresp="#Pasquinucci2007">Pasquinucci 2007, pp. 176-7;</bibl>
+                <bibl corresp="#Giorgetti2019-2020">Giorgetti 2019-2020, pp. 55-8.</bibl>
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+                
+            </listBibl>-->
+
+
+            <div type="commentary">
+               <note target="#l1">
+                   <num>1.</num>
+                   <p><hi rend="italic">girfalco</hi>: ʻgirifalcoʼ o falcone islandese, specie rara appartenente alla famiglia dei falconidi (Pasquinucci 2007, <hi rend="italic">nota ad loc</hi>.).</p>
+               </note>
+                
+               <note target="#l3">
+                   <num>3.</num>
+                   <p><hi rend="italic">destro</hi>: ʻabilità, agilitàʼ (<hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">destro</hi> § 3.2).</p>
+                   <p><hi rend="italic">di suo penne</hi>: ʻdelle sue aliʼ, sineddoche per ʻdel voloʼ. </p>
+               </note>
+                
+                <note target="#l4">
+                    <num>4.</num>
+                    <p><hi rend="italic">gorga</hi>: ʻcavità orale, golaʼ (<hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">gorga</hi>); la locuzione <hi rend="italic">avere gorga</hi> parrebbe significare 'ingozzarsi, nutrirsiʼ (Pasquinucci 2007, <hi rend="italic">nota ad loc</hi>.); cfr. anche <hi rend="italic">gorgare</hi> ʻingurgitare, ingerireʼ (<hi rend="italic">TLIO</hi>, s.v.).</p>
+                </note>
+                
+                <note target="#l5">
+                    <num>5.</num>
+                    <p>‘Volò molto più in alto rispetto al punto da cui era caduto’.</p>
+                </note>
+                
+                <note target="#l6">
+                    <num>6.</num>
+                    <p><hi rend="italic">giucando</hi>: «volteggiando liberamente nellʼaria» (Pasquinucci 2007, <hi rend="italic">nota ad loc.</hi>). </p>
+                </note>
+                
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Corsi1969">G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969</bibl>
+                <bibl xml:id="Pasquinucci2007">Enrico Pasquinucci, <hi rend="italic">La poesia musicale di Niccolò Soldanieri</hi>, in «Studi di filologia italiana», 65 (2007), pp. 65-193</bibl>
+                <bibl xml:id="Giorgetti2019-2020">Elisa Giorgetti, <hi rend="italic">Edizione critica commentata dei testi intonati da Donato da Cascia</hi>, tesi di Laurea Magistrale, Università di Firenze, 2019-2020</bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
