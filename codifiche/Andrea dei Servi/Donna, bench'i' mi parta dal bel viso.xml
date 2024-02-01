@@ -97,7 +97,7 @@
         <back>
             <listWit>
                 <witness xml:id="Sq">
-                    <!--ref target="X"-->Sq<!--/ref--> cc. 183v-184r, <abbr xml:id="SqC">C</abbr> (vv. 1-7), <abbr xml:id="SqT">T</abbr> (vv. 1-7), <abbr xml:id="SqCt">Ct</abbr> (vv. 1-5), <hi rend="italic">resid.</hi> (vv. 8-10): <hi rend="italic">m(agister) f(rater) andreas horghanista de florentia</hi>
+                    <ref type="siglum" target="#Sq">Sq</ref> cc. 183v-184r, <abbr xml:id="SqC">C</abbr> (vv. 1-7), <abbr xml:id="SqT">T</abbr> (vv. 1-7), <abbr xml:id="SqCt">Ct</abbr> (vv. 1-5), <hi rend="italic">resid.</hi> (vv. 8-10): <hi rend="italic">m(agister) f(rater) andreas horghanista de florentia</hi>
                 </witness>
             </listWit>
 

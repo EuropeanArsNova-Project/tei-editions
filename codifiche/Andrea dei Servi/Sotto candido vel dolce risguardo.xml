@@ -6,7 +6,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Perché languir mi fai</title>
+                <title>Sotto candido vel dolce risguardo</title>
                 <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
@@ -58,21 +58,21 @@
         <body>
             <lg>
                 <l xml:id="l1">
-                    Perché languir mi <anchor xml:id="l1a1"/>fai<anchor xml:id="l1a2"/>,
+                    Sotto candido vel dolce risguardo
                 </l>
                 <l xml:id="l2">
-                    donna, ch’i’ son pur tuo come tu·ssai?
+                    m’accese sì la mente
+                </l>
+                <l xml:id="l3">
+                    che fatto m’à a·mme uscir di mente.
                 </l>
             </lg>
             <lg>
-                <l xml:id="l3">
-                    <anchor xml:id="l3a1"/>I’ vengo<anchor xml:id="l3a2"/> al tuo cospetto
-                </l>
                 <l xml:id="l4">
-                    però ch’Amor al suo voler mi mena
+                    I’ ardo acceso d’amorosa fiamma
                 </l>
                 <l xml:id="l5" n="5">
-                    <supplied reason="illegible">[...]</supplied>
+                    creata da un dolc’, umile sguardo
                 </l>
                 <l xml:id="l6">
                     <supplied reason="illegible">[...]</supplied>
@@ -81,7 +81,13 @@
                     <supplied reason="illegible">[...]</supplied>
                 </l>
                 <l xml:id="l8">
-                    <supplied reason="illegible">[... -ai]</supplied>
+                    <supplied reason="illegible">[...]</supplied>
+                </l>
+                <l xml:id="l9">
+                    <supplied reason="illegible">[...]</supplied>
+                </l>
+                <l xml:id="l10" n="10">
+                    <supplied reason="illegible">[...]</supplied>
                 </l>
             </lg>
             
@@ -92,55 +98,26 @@
         <back>
             <listWit>
                 <witness xml:id="Sq">
-                    <ref type="siglum" target="#Sq">Sq</ref> c. 188r, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4): <hi rend="italic">magister frater andreas horghanista de florentia</hi>
+                    <ref type="siglum" target="#Sq">Sq</ref> c. 187v, <abbr xml:id="SqC">C</abbr> (vv. 1-5): <hi rend="italic">magister frater andreas horghanista de florentia</hi>
                 </witness>
             </listWit>
-
-
-            <listApp type="substantial">               
-               <listApp>
-                   <head>3</head>
-                   <app from="#l3a1" to="#l3a2">
-                       <lem>I’ vengo</lem>
-                       <rdg>i ven i venggiol
-                           <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
-                       <rdg>i ven in veghal
-                            <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
-                    </app>
-                </listApp>
-            </listApp>
-
-
-
-            <listApp type="formal">
-                <listApp>
-                    <head>1</head>
-                    <app from="#l1a1" to="#l1a2">
-                        <lem>fai</lem>
-                        <rdg>fay y
-                            <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
-                    </app>
-                </listApp>
-            </listApp>
             
-
-            <div type="commentary">
-                <note target="#l3">
-                    <num>3.</num>
-                    <hi rend="italic">vengo</hi>:
-                    nel <hi rend="italic">tenor</hi> il <hi rend="italic">titulus</hi> cade indebitamente sul pronome personale invece che sulla forma verbale piena. La lezione buona si ricaverà, dunque, dal confronto della forma attestata nel <hi rend="italic">cantus</hi>, pur con ritocco ortografico.
-                </note>
-            </div>
 
             <div type="metricalScheme">
                 <p>
-                    Ballata piccola 6’z 10’z; 6’a 10’b, [6’? 10’?; 6’? 10’z]. La trascrizione della ballata è interrotta alla seconda mutazione: il frammento è censito <hi rend="italic">sine numero</hi> in <hi rend="italic">Pagnotta</hi>.
+                    Ballata mezzana 10’z 6’y 10’y; 10’a 10’b, [10’? 10’?; 10’? 6’? 10’?]. Il testo, frammentario, è censito <hi rend="italic">sine numero</hi> in <hi rend="italic">Pagnotta</hi>: mancano, verosimilmente, seconda mutazione e volta (ma b = z).
+                </p>
+                <p>
+                    Rima inclusiva e derivativa ai vv. 1 : 5, rima equivoca ai vv. 2 : 3.
+                </p>
+                <p>
+                    Punti sottoscritti: v. 4 (<hi rend="italic">ardo</hi>) Sq.
                 </p>
             </div>
 
 
             <listBibl type="editions">
-                <bibl corresp="#Corsi1970">Corsi 1970, p. 308.</bibl>   
+                <bibl corresp="#Corsi1970">Corsi 1970, pp. 307-8.</bibl>   
             </listBibl>
 
 
