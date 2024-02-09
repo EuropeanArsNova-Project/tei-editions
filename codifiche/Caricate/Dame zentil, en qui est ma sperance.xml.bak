@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dame zentil, en qui est ma sperance</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+      <!-- <front>
+         <div>
+            <p>
+            </p>
+         </div>
+      </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1">
+                Dame zentil, en qui est ma sperance,
+            </l>
+            <l xml:id="l2">
+                vou estes tout mon bien et mon confort,
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l3">
+                ni d’autre riens n’ai joie ni plaisance,
+            </l>
+            <l xml:id="l4">
+                <hi rend="italic">dame zentil, <supplied reason="illegible">[en qui est ma sperance]</supplied>,</hi>
+            </l>
+            <l xml:id="l5" n="5">
+                et par vous ai de tous biens aboundance,
+            </l>
+            <l xml:id="l6">
+                quant je puis <anchor xml:id="l6a1"/>voir <anchor xml:id="l6a2"/> vo tres gracieuse port,
+            </l>
+            <l xml:id="l7">
+                <hi rend="italic">dame zentil, <supplied reason="illegible">[en qui est ma sperance:</supplied></hi>
+            </l>
+            <l xml:id="l8">
+                <supplied reason="illegible"><hi rend="italic">vou estes tout mon bien et mon confort]</hi></supplied>.
+            </l>
+        </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="MoA">
+                <!--ref target=""-->MoA<!--/ref-->
+                c. <locus>39v</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 3-6), <hi rend="italic">resid.</hi> (vv. 3-6): <hi rend="italic">anthonellus</hi>
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+                <head>6</head>
+                <app from="#l6a1" to="#l6a2">
+                   <lem>voir</lem>
+                   <rdg wit="#MoA">veoir</rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+                <hi rend="italic">Rondeau</hi> 10’A 10B; 10’a, 10’A; 10’a 10b; 10’A 10B.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Bertoni1917">
+                Bertoni 1917, p. 46;
+            </bibl>
+            <bibl corresp="#Apel-Rosenberg1970">
+                Apel-Rosenberg, pp. <hi rend="small-caps">XLVI-XLVII</hi>;
+            </bibl>
+            <bibl corresp="#Vivarelli2005">
+                Vivarelli 2005, p. 98.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+        <div type="commentary">
+            <note target="#l6">
+                <num>6</num>
+                <p><hi rend="italic">voir</hi>: la variante del ms. è forma bisillabica dell’a. fr., qui inaccettabile per la misura del verso.</p>
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Bertoni1917">
+                Giulio Bertoni, <hi rend="italic">Poesie musicali francesi nel cod. Estense Lat. n. 568</hi>, «Archivium Romanicum» 1 (1917), pp. 21-57.
+            </bibl>
+            <bibl xml:id="Apel-Rosenberg1970">
+                <hi rend="italic">French Secular Compositions of the Fourteenth Century, </hi>I. <hi rend="italic">Ascribed Compositions</hi>, ed. by W. Apel. Edition of the literary texts by S. N. Rosenberg., Roma, AIM, 1970 (CMM, 53/1).
+            </bibl>
+            <bibl xml:id="Vivarelli2005">
+                Carla Vivarelli, <hi rend="italic">Le composizioni francesi di Filippotto e Antonello da Caserta tràdite nel Codice Estense a.M.5.24</hi>, Pisa, ETS, 2005 («Diverse voci... 6»).
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

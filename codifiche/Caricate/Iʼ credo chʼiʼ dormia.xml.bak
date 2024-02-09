@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iʼ credo chʼiʼ dormia, o a·mme parve</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+      <!-- <front>
+         <div>
+            <p>
+            </p>
+         </div>
+      </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1">
+                Iʼ credo chʼiʼ <anchor xml:id="l1a1"/>dormia<anchor xml:id="l1a2"/>, <anchor xml:id="l1a3"/>o a·mme<anchor xml:id="l1a4"/> parve,
+            </l>
+            <l xml:id="l2">
+                quando la dea dʼAmor vidi venire
+            </l>
+            <l xml:id="l3">
+                nellʼ<anchor xml:id="l3a1"/>atto<anchor xml:id="l3a2"/> che <anchor xml:id="l3a3"/>pietà<anchor xml:id="l3a4"/> fa duol sentire.
+            </l>
+            <l xml:id="l4">
+                <supplied reason="illegible">[...]</supplied>
+            </l>
+            <l xml:id="l5" n="5">
+                <supplied reason="illegible">[...]</supplied>
+            </l>
+            <l xml:id="l6">
+                <supplied reason="illegible">[...]</supplied>
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l7">
+                <anchor xml:id="l7a1"/>Rimango<anchor xml:id="l7a2"/>, <anchor xml:id="l7a3"/>in<anchor xml:id="l7a4"/> sogno, <anchor xml:id="l7a5"/>pensando<anchor xml:id="l7a6"/> pensoso
+            </l>
+            <l xml:id="l8">
+                ed alla donna suo <anchor xml:id="l8a1"/>servʼ<anchor xml:id="l8a2"/> amoroso.
+            </l>
+         </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="Sq">
+               <!--ref target=""-->Sq<!--/ref-->
+               cc. <locus>53v-54r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">magister laurentius | de florentia</hi>
+            </witness>
+            <witness xml:id="Lo">
+                <!--ref target=""-->Lo<!--/ref-->
+                cc. <locus>19v-20r</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="LoT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">madriale di s(er) lorenço</hi>
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+               <head>7</head>
+               <app from="#l7a1" to="#l7a2">
+                  <lem>Rimango</lem>
+                  <rdg>rimagho <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app from="#l7a3" to="#l7a4">
+                    <lem>in</lem>
+                    <rdg type="omission"> <hi rend="italic"> om. </hi> <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+                <head>1</head>
+                <app from="#l1a1" to="#l1a2">
+                    <lem>dormia</lem>
+                    <rdg wit="Lo">dormiva <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+                <app from="#l1a3" to="#l1a4">
+                    <lem>o a·mme</lem>
+                    <rdg wit="Lo">od a me <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                    <rdg wit="Lo">o a me <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>3</head>
+                <app from="#l3a1" to="#l3a2">
+                   <lem>atto</lem>
+                   <rdg>acto <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+                <app from="#l3a3" to="#l3a4">
+                    <lem>pietà</lem>
+                    <rdg>pieta <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>7</head>
+                <app from="#l7a5" to="#l7a6">
+                   <lem>pensando</lem>
+                   <rdg>pensamdo <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>8</head>
+                <app from="#l8a1" to="#l8a2">
+                    <lem>servʼ</lem>
+                    <rdg>servo <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+                Madrigale mutilo, di cui si conservano solo 5 versi (primo terzetto e ritornello), con schema 10ʼa 10ʼb 10ʼb, [...]; 10ʼm 10ʼm.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+                Corsi 1970, p. 79;
+            </bibl>
+            <bibl corresp="#Fantini2015-2016">
+                Fantini 2015-2016, pp. 152-4.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+         <!-- <div type="commentary">
+            <note target="#">
+               <num></num>
+               <p></p>
+            </note>
+         </div> -->
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1970">
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+            </bibl>
+            <bibl xml:id="Fantini2015-2016">
+                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016.
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

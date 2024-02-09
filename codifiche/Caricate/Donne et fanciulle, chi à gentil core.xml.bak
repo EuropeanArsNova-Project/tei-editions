@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Donne et fanciulle, chi à gentil core</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+      <!-- <front>
+         <div>
+            <p>
+            </p>
+         </div>
+      </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1">
+                <anchor xml:id="l1a1"/>Donne<anchor xml:id="l1a2"/> et fanciulle, chi à gentil core
+            </l>
+            <l xml:id="l2">
+                pigli del tempo, seguitand’ Amore.
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l3">
+                Pigli del tempo ciascuna di voi
+            </l>
+            <l xml:id="l4">
+                mentre che·ssiete <anchor xml:id="l4a1"/>giovinett’ e<anchor xml:id="l4a2"/> belle,
+            </l>
+            <l xml:id="l5" n="5">
+                però che poco vale il penter poi
+            </l>
+            <l xml:id="l6">
+                c’àn fatto il corso le chiarite stelle.
+            </l>
+            <l xml:id="l7">
+                Pigliate exempro procurando a quelle
+            </l>
+            <l xml:id="l8">
+                che per vechieça perdono ’l valore.
+            </l>
+        </lg>
+         <lg>
+            <l xml:id="l9">
+                Quando è perduto el tenpo disïato,
+            </l>
+            <l xml:id="l10"  n="10">
+                non è più doglia né più greve affano		
+            </l>
+            <l xml:id="l11">
+                <anchor xml:id="l11a1"/><supplied reason="illegible">[ch]</supplied>e<anchor xml:id="l11a2"/> ricordarsi del felice stato,
+            </l>
+            <l xml:id="l12">
+                quando <anchor xml:id="l12a1"/>amendar<anchor xml:id="l12a2"/> non si potrebbe el danno.
+            </l>
+            <l xml:id="l13">
+                Molte son quelle che ricevon <anchor xml:id="l13a1"/>’nganno<anchor xml:id="l13a2"/>
+            </l>
+            <l xml:id="l14">
+                non conoscendo prima il lor signore.
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l15" n="15">
+                Chi d’amor sente non si teng’ a vile,	
+            </l>
+            <l xml:id="l16">
+                però che suo ragion vuol giovineça,
+            </l>
+            <l xml:id="l17">
+                amor di donna e animo gentile
+            </l>
+            <l xml:id="l18">
+                ne’ be’ costumi, e·lla piacevoleça.
+            </l>
+            <l xml:id="l19">
+                Vaga, benigna, adorna di belleça:
+            </l>
+            <l xml:id="l20" n="20">
+                è questa donna che mi passa el core.	
+            </l>
+         </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="Pit">
+               <!--ref target=""-->Pit<!--/ref-->
+               cc. <locus>85v-86r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-4), <abbr xml:id="PitT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-20): [c. 84r: <hi rend="italic">do(n) paolo</hi>]
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+               <head>11</head>
+               <app from="#l11a1" to="#l11a2">
+                  <lem>che</lem>
+                  <rdg wit="Pit">e</rdg> 
+               </app>
+            </listApp>
+            <listApp>
+                <head>12</head>
+                <app from="#l12a1" to="#l12a2">
+                   <lem>amendar</lem>
+                   <rdg wit="Pit">amendare</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>13</head>
+                <app from="#l13a1" to="#l13a2">
+                    <lem>’nganno</lem>
+                    <rdg wit="Pit">inganno </rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                    <lem>Donne</lem>
+                    <rdg>done <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>4</head>
+                <app from="#l4a1" to="#l4a2">
+                    <lem>giovinett’ e</lem>
+                    <rdg>giovinette et <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+        </listApp>
+         <div type="metricalScheme">
+            <p>
+                Ballata minore 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z. 
+            </p>
+            <p>
+                <hi rend="italic">Pagnotta</hi> 111 : 121.
+            </p>
+            <p>
+                Rima identica ai vv. 1 : 20.
+            </p>
+            <p>
+                Punti sottoscritti: vv. 1 (<hi rend="italic">done</hi>) Pit<hi rend="super">T</hi>
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+                Corsi 1970, p. 350.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+         <div type="commentary">
+            <note target="#l7">
+               <num>7</num>
+               <p><hi rend="italic">procurando</hi>: ‘osservando con attenzione’.</p>
+            </note>
+            <note target="#l11">
+                <num>11</num>
+                <p><hi rend="italic">che</hi>: l’emendamento è già in Corsi.</p>
+            </note>
+            <note target="#l13">
+                <num>13</num>
+                <p><hi rend="italic">’nganno:</hi>: si preferisce qui una soluzione più conservativa rispetto alla possibilità di sostituire <hi rend="italic">ricevon</hi> con <hi rend="italic">riceve</hi>, suggerita in Ageno 1975 e ripresa in <hi rend="italic">Pagnotta</hi> (p. 180).
+                </p>
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1970">
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>
