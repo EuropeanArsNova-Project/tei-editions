@@ -6,7 +6,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Piançe la bella iguana </title>
+            <title>Piançe la bella iguana se ’l süo amor non vede</title>
             <!--<author><ref target="X"></ref></author>-->
             <respStmt>
                <resp>Digital scholarly edition created within the ERC</resp>
@@ -14,15 +14,15 @@
             </respStmt>
             <respStmt> 
                <resp>Edited by</resp> 
-               <name> Maria Sofia Lannutti</name> 
+               <name>Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
                <resp>Revised by</resp> 
-               <name> Luca Gatti</name> 
+               <name>Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
                <resp>TEI-encoded by</resp> 
-               <name> Elvira Mercatanti</name> 
+               <name>Elvira Mercatanti</name>
             </respStmt> 
          </titleStmt>
          <publicationStmt>
@@ -57,41 +57,41 @@
       <body>
          <lg>
             <l xml:id="l1">
-               Piançe la bella iguana    se ’l süo amor non vede,
+               Piançe la bella iguana <span type="space"/> se ’l süo amor non vede,
             </l>
             <l xml:id="l2">
-               fil d’oro ten in mano    e spera di mercede.
+               fil d’oro ten in mano <span type="space"/> e spera di mercede.
             </l>
          </lg>
          <lg>
             <l xml:id="l3">
-               Çentil furto mi prese	    che dai bei <anchor xml:id="l3a1"/>ochi<anchor xml:id="l3a2"/> scese.
+               Çentil furto mi prese <span type="space"/> che dai bei <anchor xml:id="l3a1"/>ochi<anchor xml:id="l3a2"/> scese.
             </l>
          </lg>
          <lg>
             <l xml:id="l4">
-               Scese dolci sospiri    poi che non ride el sole,
+               Scese dolci sospiri <span type="space"/> poi che non ride el sole,
             </l>
             <l xml:id="l5" n="5">
-               e sempre, come donna,    vol pur quel che la vole.	
+               e sempre, come donna, <span type="space"/> vol pur quel che la vole.	
             </l>
          </lg>
          <lg>
             <l xml:id="l6">
-               L’umel sdegno l’adorna,    ch’a bella pace torna.
+               L’umel sdegno l’adorna, <span type="space"/> ch’a bella pace torna.
             </l>
          </lg>
          <lg>
             <l xml:id="l7">
-               Torna ’l piacer a danpno,    ch’el se coruça, <anchor xml:id="l7a1"/>Am<supplied reason="illegibile">[o]</supplied>re<anchor xml:id="l7a2"/>,
+               Torna ’l piacer a danpno, <span type="space"/> ch’el se coruça, <anchor xml:id="l7a1"/>Am<supplied reason="illegible">[o]</supplied>re<anchor xml:id="l7a2"/>,
             </l>
             <l xml:id="l8">
-               che lassa questa euguana    per star con altro fiore.
+               che lassa questa euguana <span type="space"/> per star con altro fiore.
             </l>
          </lg>
          <lg>
             <l xml:id="l9">
-               Oimè! Co’ ’l cor me françe,    quando i bei <anchor xml:id="l9a1"/>ochi<anchor xml:id="l9a2"/> piançe!
+               Oimè! Co’ ’l cor me françe, <span type="space"/> quando i bei <anchor xml:id="l9a1"/>ochi<anchor xml:id="l9a2"/> piançe!
             </l>
          </lg>
          
@@ -102,7 +102,7 @@
       <back>
          <listWit>            
             <witness xml:id="Rs">
-               <!--ref target="X"-->Rs<!--/ref-->
+               <ref target="#Rs" type="siglum">Rs</ref>
                c. 6v, <abbr xml:id="RsC">C</abbr> (vv. 1-6), <abbr xml:id="RsT">T</abbr> (vv. 1-6)
             </witness>
          </listWit>
@@ -113,7 +113,7 @@
                <head>3</head>
                <app from="#l3a1" to="#l3a2">
                   <lem>ochi</lem>
-                  <rdg wit="#Rs"> iochi</rdg>
+                  <rdg wit="#Rs">iochi</rdg>
                </app>          
             </listApp>
 
@@ -121,7 +121,7 @@
                <head>7</head>
                <app from="#l7a1" to="#l7a2">
                   <lem>Amore</lem>
-                  <rdg wit="#Rs"> amare</rdg>
+                  <rdg wit="#Rs">amare</rdg>
                </app>           
             </listApp>
 
@@ -129,7 +129,7 @@
                <head>9</head>
                <app from="#l9a1" to="#l9a2">
                   <lem>ochi</lem>
-                  <rdg wit="#Rs"> iochi</rdg>
+                  <rdg wit="#Rs">iochi</rdg>
                </app>          
             </listApp>
          </listApp>
@@ -148,39 +148,39 @@
 
          <listBibl type="editions">
             <bibl corresp="#Liuzzi1937">
-               Liuzzi 1937, pp. 55-6
+               Liuzzi 1937, pp. 55-6;
             </bibl>
 
             <bibl corresp="#LiGotti1944"> 
-               Li Gotti 1944, pp. 127-8
+               Li Gotti 1944, pp. 127-8;
             </bibl>            
 
             <bibl corresp="#Sesini1943-1950"> 
-              Sesini 1943-1950, p. 223
+              Sesini 1943-1950, p. 223;
             </bibl>
             
             <bibl corresp="#Sapegno1952">
-               Sapegno 1952, p. 507
+               Sapegno 1952, p. 507;
             </bibl>
 
             <bibl corresp="#Muscetta-Rivalta1956">
-               Muscetta-Rivalta 1956, p. 863
+               Muscetta-Rivalta 1956, p. 863;
             </bibl>
 
             <bibl corresp="#Corsi1969">
-               Corsi 1969, p. 1087
+               Corsi 1969, p. 1087;
             </bibl>
 
             <bibl corresp="#Corsi1970"> 
-              Corsi 1970, p. 362
+              Corsi 1970, p. 362;
             </bibl>
 
             <bibl corresp="#Pirrotta1992"> 
-              Pirrotta 1992, pp. 29-30
+              Pirrotta 1992, pp. 29-30;
             </bibl>
 
             <bibl corresp="#Sucato2003">
-               Sucato 2003, p. 75
+               Sucato 2003, p. 75.
             </bibl>
          </listBibl>
 
@@ -193,28 +193,28 @@
 
          <div type="commentary">
             <note target="#l1">
-               <num> 1.</num>
-               <p> <hi rend="italic">iguana</hi> (al v. 8 <hi rend="italic">euguana</hi>): ‘ninfa delle acque’ (cfr. <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">aiguana</hi>). </p>
+               <num>1.</num>
+               <p><hi rend="italic">iguana</hi> (al v. 8 <hi rend="italic">euguana</hi>): ‘ninfa delle acque’ (cfr. <bibl corresp="#TLIO"><hi rend="italic">TLIO</hi></bibl>, s.v. <hi rend="italic">aiguana</hi>). </p>
             </note>
 
             <note target="#l3">
-               <num> 3.</num>
-               <p> <hi rend="italic">furto</hi>: ‘seduzione, fascino’.</p>
+               <num>3.</num>
+               <p><hi rend="italic">furto</hi>: ‘seduzione, fascino’.</p>
             </note>
 
             <note target="#l4 #l5">
-               <num> 4-5.</num>
-               <p> ‘Il sole non le sorride più, così lei sospira dolcemente, e desidera (ama) solo colui che la desidera (ama), come si addice a una donna’.</p>
+               <num>4-5.</num>
+               <p>‘Il sole non le sorride più, così lei sospira dolcemente, e desidera (ama) solo colui che la desidera (ama), come si addice a una donna’.</p>
             </note>
 
             <note target="#l6">
-               <num> 6.</num>
-               <p> ‘L’adorna uno <hi rend="italic">sdegno</hi> benigno (<hi rend="italic">umel</hi>), che diventa conciliante (<hi rend="italic">torna a bella pace</hi>)’.</p>
+               <num>6.</num>
+               <p>‘L’adorna uno <hi rend="italic">sdegno</hi> benigno (<hi rend="italic">umel</hi>), che diventa conciliante (<hi rend="italic">torna a bella pace</hi>)’.</p>
             </note>
 
             <note target="#l9">
                <num> 9.</num>
-               <p> ‘Ahimè! Come mi si spezza il cuore, quando i begli occhi piangono!’.</p>
+               <p>‘Ahimè! Come mi si spezza il cuore, quando i begli occhi piangono!’.</p>
             </note>
          </div>
 

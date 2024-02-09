@@ -92,7 +92,7 @@
         <back>
             <listWit>
                 <witness xml:id="Sq">
-                    <ref type="siglum" target="#Sq">Sq</ref> c. 188r, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4): <hi rend="italic">magister frater andreas horghanista de florentia</hi>
+                    <ref type="siglum" target="/witnesses/Sq">Sq</ref> c. 188r, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4): <hi rend="italic">magister frater andreas horghanista de florentia</hi>
                 </witness>
             </listWit>
 

@@ -49,17 +49,9 @@
     <text>
         <group>
             
-            <text>  
-                <!--<front> 
-                 <div> 
-                    <p> 
-                       Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
-                       e marca i corsivi (<hi rend="italic"> </hi> )
-                    </p> 
-                 </div>         
-              </front> -->
+            <text>
                 <body>
-                    <head><hi rend="italic">Espoir me f[ui]t a mon plus grant besoin</hi></head>
+                    <head>Espoir me f[ui]t a mon plus grant besoin</head>
                     <lg>
                         <l xml:id="l1"><anchor xml:id="l1a7"/><anchor xml:id="l1a1"/>Espoir<anchor xml:id="l1a2"/><anchor xml:id="l1a8"/> me <anchor xml:id="l1a3"/>faut <anchor xml:id="l1a4"/> a <anchor xml:id="l1a5"/>mon plus grant <anchor xml:id="l1a9"/>besoin<anchor xml:id="l1a6"/><anchor xml:id="l1a10"/>:</l>
                         <l xml:id="l2"><anchor xml:id="l2a1"/>com<anchor xml:id="l2a2"/> plus <anchor xml:id="l2a3"/>me <anchor xml:id="l2a5"/>voit en<anchor xml:id="l2a6"/> peril<anchor xml:id="l2a4"/>, plus <anchor xml:id="l2a9"/>s’<anchor xml:id="l2a7"/>eslogne<anchor xml:id="l2a8"/><anchor xml:id="l2a10"/>.</l>
@@ -84,7 +76,7 @@
                             
                             <app from="#l1a3" to="#l1a4">
                                 <lem>faut</lem>
-                                <rdg type="indifferentVariant" wit="#Ut #Ca5"> fuit</rdg>
+                                <rdg type="indifferentVariant" wit="#Ut #Ca5"><hi rend="bold">fuit</hi></rdg>
                             </app>
                             
                             <app from="#l1a5" to="#l1a6">
@@ -112,7 +104,7 @@
                             
                             <app from="#l2a7" to="#l2a8">
                                 <lem>eslogne</lem>
-                                <rdg type="indifferentVariant" wit="#Ut"> enlonge</rdg>
+                                <rdg type="indifferentVariant" wit="#Ut"><hi rend="bold">enlonge</hi></rdg>
                             </app>
                         </listApp>
                         
@@ -216,7 +208,7 @@
            <text> 
                 <!--<front></front>-->
                 <body>
-                    <head><hi rend="italic">Revien, Espoir, confort aïe party</hi></head> 
+                    <head>Revien, Espoir, confort aïe party</head> 
                     <lg>
                         <l xml:id="l1.2"><anchor xml:id="l1a1-2"/>Revien<anchor xml:id="l1a2-2"/>, Espoir, confort aïe <anchor xml:id="l1a3-2"/>party<anchor xml:id="l1a4-2"/>,</l>
                         <l xml:id="l2.2">car <anchor xml:id="l2a1-2"/>Pitez s’est<anchor xml:id="l2a2-2"/> en ma dame <anchor xml:id="l2a3-2"/>endormy<supplied reason="illegible">[e]</supplied><anchor xml:id="l2a4-2"/>:</l>
