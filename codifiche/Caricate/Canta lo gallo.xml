@@ -127,7 +127,7 @@
       <back>
          <listWit>            
             <witness xml:id="Rs">
-               <!--ref target="X"-->Rs<!--/ref-->
+               <ref type="siglum" target="#Rs">Rs</ref> 
                c. 26v, <abbr xml:id="RsC">C</abbr> (vv. 1-4), <abbr xml:id="RsT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-16)
             </witness>
          </listWit>
@@ -156,7 +156,7 @@
             </listApp>
          
             <listApp>
-               <head> 11</head>
+               <head>11</head>
                <app from="#l11a1" to="#l11a2">
                   <lem>alor</lem>
                   <rdg wit="#Rs">alora</rdg>

@@ -82,23 +82,23 @@
       <back>
          <listWit>
             <witness xml:id="Bo7">
-                <!--ref target=""-->Bo7<!--/ref-->
+                <ref type="siglum" target="#">Bo7</ref>
                 cc. <locus>9v-10r</locus>: <hi rend="italic">del medesimo </hi>[c. 8v: <hi rend="italic">del boccaccio</hi>]
             </witness>
             <witness xml:id="Mg2">
-                <!--ref target=""-->Mg2<!--/ref-->
+                <ref type="siglum" target="#">Mg2</ref>
                 c. <locus>3v</locus>: <hi rend="italic">b(allata) di m(esser) boccaccio</hi>
             </witness>
             <witness xml:id="Mg6">
-                <!--ref target=""-->Rc1<!--/ref-->
+                <ref type="siglum" target="#R">Rc1</ref>
                 c. <locus>85v</locus>: <hi rend="italic">del medes(m)o</hi>
             </witness>
             <witness xml:id="Sq">
-                <!--ref target=""-->Sq<!--/ref-->
+                <ref type="siglum" target="#Sq">Sq</ref>
                 c. <locus>47r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-6), <hi rend="italic">resid.</hi> (vv. 7-8): <hi rend="italic">magister laurentius de florentia</hi>
             </witness>
             <witness xml:id="C1">
-                <!--ref target=""-->C1<!--/ref-->
+                <ref type="siglum" target="#">C1</ref>
                 c. <locus>437v (p.876)</locus>: <hi rend="italic">del medesimo</hi>
             </witness>
          </listWit>

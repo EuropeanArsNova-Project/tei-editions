@@ -15,15 +15,15 @@
                 </respStmt>
                 <respStmt>
                     <resp>Edited by</resp>
-                    <name> Vittoria Brancato</name> 
+                    <name>Vittoria Brancato</name> 
                 </respStmt>
                 <respStmt>
                     <resp>Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
                     <resp>TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -84,27 +84,27 @@
         <back>
             <listWit>
                 <witness xml:id="Sq">
-                    <!--ref target="X"-->Sq<!--/ref--> cc. <locus>7v-8r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-6 e 13-14), <abbr xml:id="SqT">T</abbr> (vv. 1-6 e 13-14), <abbr xml:id="SqCt">Ct</abbr>(vv. 1-6 e 13-14), <hi rend="italic">resid.</hi> (vv. 7-12): <hi rend="italic">hic e(st) magister iachob(us) de bononia</hi>
+                    <ref type="siglum" target="#Sq">Sq</ref> cc. <locus>7v-8r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-6 e 13-14), <abbr xml:id="SqT">T</abbr> (vv. 1-6 e 13-14), <abbr xml:id="SqCt">Ct</abbr>(vv. 1-6 e 13-14), <hi rend="italic">resid.</hi> (vv. 7-12): <hi rend="italic">hic e(st) magister iachob(us) de bononia</hi>
                 </witness>
                 
                 <witness xml:id="Fp">
-                    <!--ref target="X"-->Fp<!--/ref--> cc. <locus>71v-72r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-6 e 13-14), <abbr xml:id="FpT">T</abbr> (vv. 1-6 e 13-14), <abbr xml:id="FpCt">Ct</abbr> (vv. 1-6 e 13-14), <hi rend="italic">resid.</hi> (vv. 7-12): <hi rend="italic"> m(agister) jacopo da bolo(gna)</hi>
+                    <ref type="siglum" target="#Fp">Fp</ref> cc. <locus>71v-72r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-6 e 13-14), <abbr xml:id="FpT">T</abbr> (vv. 1-6 e 13-14), <abbr xml:id="FpCt">Ct</abbr> (vv. 1-6 e 13-14), <hi rend="italic">resid.</hi> (vv. 7-12): <hi rend="italic"> m(agister) jacopo da bolo(gna)</hi>
                 </witness>
                 
                 <witness xml:id="Pit">
-                    <!--ref target="X"-->Pit<!--/ref--> cc. <locus>1v-2r </locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-6 e 13-14), <abbr xml:id="PitT">T</abbr> (vv. 1-6 e 13-14), <abbr xml:id="PitCt">Ct</abbr> (vv. 1-6 e 13-14), <hi rend="italic">resid.</hi> (vv. 7-12): <hi rend="italic">maestro jac[…] a bologna</hi>
+                    <ref type="siglum" target="#Pit">Pit</ref> cc. <locus>1v-2r </locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-6 e 13-14), <abbr xml:id="PitT">T</abbr> (vv. 1-6 e 13-14), <abbr xml:id="PitCt">Ct</abbr> (vv. 1-6 e 13-14), <hi rend="italic">resid.</hi> (vv. 7-12): <hi rend="italic">maestro jac[…] a bologna</hi>
                 </witness>
                 
                 <witness xml:id="R">
-                    <!--ref target="X"-->R<!--/ref--> cc. <locus>1v-2r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-6 e 13-14), <abbr xml:id="RT">T</abbr>(vv. 1-6 e 13-14), <abbr xml:id="RCt">Ct</abbr> (vv. 1-6 e 13-14), <hi rend="italic">resid.</hi> (vv. 7-12)
+                    <ref type="siglum" target="#R">R</ref> cc. <locus>1v-2r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-6 e 13-14), <abbr xml:id="RT">T</abbr>(vv. 1-6 e 13-14), <abbr xml:id="RCt">Ct</abbr> (vv. 1-6 e 13-14), <hi rend="italic">resid.</hi> (vv. 7-12)
                 </witness>
                 
                 <witness xml:id="SL">
-                    <!--ref target="X"-->SL<!--/ref--> cc. <locus> 5v-6r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 13-14), <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 13-14), <abbr xml:id="SLCt">Ct</abbr> (vv. 1-6 e 13-14), <hi rend="italic">resid.</hi>: <hi rend="italic">m(agister) […] bus</hi>. Parzialmente leggibili il primo terzetto del <hi rend="italic">cantus</hi>, l’incipit del <hi rend="italic">tenor</hi>, il primo terzetto e il ritornello del <hi rend="italic">contratenor</hi>.                    
+                    <ref type="siglum" target="#SL">SL</ref> cc. <locus> 5v-6r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 13-14), <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 13-14), <abbr xml:id="SLCt">Ct</abbr> (vv. 1-6 e 13-14), <hi rend="italic">resid.</hi>: <hi rend="italic">m(agister) […] bus</hi>. Parzialmente leggibili il primo terzetto del <hi rend="italic">cantus</hi>, l’incipit del <hi rend="italic">tenor</hi>, il primo terzetto e il ritornello del <hi rend="italic">contratenor</hi>.                    
                 </witness>
                 
                 <witness xml:id="Np3">
-                    <!--ref target="X"-->Np3<!--/ref--> c. 97v (vv. 1-6 e 13-14)
+                    <ref type="siglum" target="#">Np3</ref> c. 97v (vv. 1-6 e 13-14)
                 </witness>
             </listWit>
 
@@ -138,7 +138,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 6</head>
+                    <head>6</head>
                     <app from="#l6a1" to="#l6a2">
                         <lem>donna istessa sì</lem>
                         <rdg> donna se stessa <wit><ref corresp="#FpCt">Fp<hi rend="super">Ct</hi></ref></wit></rdg>
@@ -153,7 +153,7 @@
                 </listApp>
                 
                 <listApp> 
-                    <head> 7-12</head>
+                    <head>7-12</head>
                     <app from="#l7a1" to="#l12a1">                        
                         <rdg wit="#Np3"/> 
                     </app>
@@ -177,7 +177,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 8</head>
+                    <head>8</head>
                     <app from="#l8a1" to="#l8a2">
                         <lem>chiude</lem>
                         <rdg wit="#R"> e chiude</rdg>
@@ -190,7 +190,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 9</head>
+                    <head>9</head>
                     <app from="#l9a1" to="#l9a2">
                         <lem>poi come</lem>
                         <rdg wit="#Fp"> mandome</rdg>
@@ -199,7 +199,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 10</head>
+                    <head>10</head>
                     <app from="#l10a1" to="#l10a2"> 
                         <lem>fuoco</lem>
                         <rdg wit="#Fp"> <add rend="add.">et</add></rdg> 
@@ -212,7 +212,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 11</head>
+                    <head>11</head>
                     <app from="#l11a1" to="#l11a2">
                         <lem>à</lem>
                         <rdg wit="#Fp"/>                        
@@ -235,7 +235,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 12</head>
+                    <head>12</head>
                     <app from="#l12a2" to="#l12a3">
                         <lem>più non à</lem>
                         <rdg wit="#Fp"> niente à</rdg>
@@ -243,7 +243,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 13</head>
+                    <head>13</head>
                     <app from="#l13a1" to="#l13a2">
                         <lem>ʼl</lem>
                         <rdg type="omission">  <hi rend="italic">om.</hi>
@@ -256,7 +256,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 14</head>
+                    <head>14</head>
                     <app from="#l14a1" to="#l14a2">
                         <lem>conʼ</lem>
                         <rdg> si <wit><ref corresp="#SLCt">SL<hi rend="super">Ct</hi></ref></wit></rdg>
@@ -277,7 +277,7 @@
 
             <listApp type="formal">
                 <listApp>
-                    <head> 1</head>
+                    <head>1</head>
                     <app from="#l1a1" to="#l1a2">
                         <lem>Sotto</lem>
                         <rdg> so to <wit>R 
@@ -299,7 +299,7 @@
                 
                 
                 <listApp>
-                    <head> 2</head>
+                    <head>2</head>
                     <app from="#l2a1" to="#l2a2">
                         <lem>nom’</lem>
                         <rdg wit="#Np3"> nome</rdg>
@@ -317,7 +317,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a1" to="#l3a2">
                         <lem>regna</lem>
                         <rdg> reg <hi rend="italic">con titulus </hi> <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit> </rdg>
@@ -353,7 +353,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 4</head>
+                    <head>4</head>
                     <app from="#l4a3" to="#l4a4">
                         <lem>sì che</lem>
                         <rdg wit="#Np3">sicche</rdg>                        
@@ -378,7 +378,7 @@
                 
                 
                 <listApp>
-                    <head> 5</head>
+                    <head>5</head>
                     <app from="#l5a7" to="#l5a8">
                         <lem>La mi</lem>
                         <rdg wit="#R"> la me</rdg>
@@ -405,7 +405,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 6</head>
+                    <head>6</head>
                     <app from="#l6a5" to="#l6a6">
                         <lem>poʼ</lem>
                         <rdg wit="#Fp #R"> poi <wit><ref corresp="#SqCt">Sq<hi rend="super">Ct</hi></ref></wit></rdg>
@@ -428,7 +428,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 7</head>
+                    <head>7</head>
                     <app from="#l7a8" to="#l7a9">
                         <lem>sʼaccorçe</lem>
                         <rdg wit="R"> sacorçe  <wit><ref corresp="FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
@@ -436,7 +436,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 8</head>
+                    <head>8</head>
                     <app from="#l8a5" to="#l8a6">
                         <lem>gli</lem>
                         <rdg wit="#R"> j</rdg>
@@ -454,7 +454,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 9</head>
+                    <head>9</head>
                     <app from="#l9a3" to="#l9a4">
                         <lem>tossicosa</lem>
                         <rdg wit="#R"> tosichosa</rdg>
@@ -467,7 +467,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 10</head>
+                    <head>10</head>
                     <app from="#l10a5" to="#l10a6">
                         <lem>di fuoco</lem>
                         <rdg wit="#R"> de focho</rdg>
@@ -490,7 +490,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 12</head>
+                    <head>12</head>
                     <app from="#l12a4" to="#l12a5">
                         <lem>Amor i·llei</lem>
                         <rdg wit="#Pit"> Amore in lei</rdg>
@@ -504,7 +504,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 13</head>
+                    <head>13</head>
                     <app from="#l13a3" to="#l13a4">
                         <lem>Costeʼ</lem>
                         <rdg wit="#Np3"> Costei <wit><ref corresp="FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
@@ -523,7 +523,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 14</head>
+                    <head>14</head>
                     <app from="#l14a5" to="#l14a6">
                         <lem>conʼ</lem>
                         <rdg> cum 

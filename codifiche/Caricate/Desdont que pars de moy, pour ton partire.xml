@@ -74,7 +74,7 @@
         <back>
             <listWit>
                 <witness xml:id="Ut">
-                    <!--ref target="X"-->Ut<!--/ref-->c. 27r, <abbr xml:id="UtC">C</abbr>(vv. 1-2), <hi rend="italic">resid.</hi> (vv. 3-8): <hi rend="italic">cleric(us) de landes bone memorie</hi>
+                    <ref type="siglum" target="#Ut">Ut</ref>c. 27r, <abbr xml:id="UtC">C</abbr>(vv. 1-2), <hi rend="italic">resid.</hi> (vv. 3-8): <hi rend="italic">cleric(us) de landes bone memorie</hi>
                 </witness>
             </listWit>
 

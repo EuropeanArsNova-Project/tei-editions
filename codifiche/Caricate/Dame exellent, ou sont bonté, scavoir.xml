@@ -74,7 +74,7 @@
         <back>
             <listWit>
                 <witness xml:id="Ox2">
-                    <!--ref target="X"-->Ox2<!--/ref--> c. 116r, <abbr xml:id="Ox2C1">C1</abbr> (vv. 1-8), <abbr xml:id="Ox2T">T</abbr> (vv. 1-8), <abbr xml:id="Ox2C2">C2</abbr> (vv. 1-8): <hi rend="italic">m(agister) baude cordier</hi>
+                    <ref type="siglum" target="#Ox2">Ox2</ref>  c. 116r, <abbr xml:id="Ox2C1">C1</abbr> (vv. 1-8), <abbr xml:id="Ox2T">T</abbr> (vv. 1-8), <abbr xml:id="Ox2C2">C2</abbr> (vv. 1-8): <hi rend="italic">m(agister) baude cordier</hi>
                 </witness>
             </listWit>
 

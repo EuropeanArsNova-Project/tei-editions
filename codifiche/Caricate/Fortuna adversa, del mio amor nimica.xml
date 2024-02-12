@@ -75,31 +75,31 @@
         <back>
             <listWit>
                 <witness xml:id="A">
-                    <!--ref target="X"-->A<!--/ref-->c. 9r: <hi rend="italic">madriale di francho detto p(er) altrui </hi> (marginalia: <hi rend="italic">XIIIIa intonata </hi> | <hi rend="italic">magister donatus p(re)sb(it)e(r) de caschia sonu(m) dedit)</hi>.
+                    <ref type="siglum" target="#">A</ref>c. 9r: <hi rend="italic">madriale di francho detto p(er) altrui </hi> (marginalia: <hi rend="italic">XIIIIa intonata </hi> | <hi rend="italic">magister donatus p(re)sb(it)e(r) de caschia sonu(m) dedit)</hi>.
                 </witness>
                 
                 <witness xml:id="Mp4">
-                    <!--ref target="X"-->Mp4<!--/ref--> cc. <locus>150v-151r</locus>                    
+                    <ref type="siglum" target="#">Mp4</ref> cc. <locus>150v-151r</locus>                    
                 </witness>
                 
                 <witness xml:id="Rc2">
-                    <!--ref target="X"-->Rc2<!--/ref--> c. 107r: <hi rend="italic">mandriale</hi>
+                    <ref type="siglum" target="#R">Rc2</ref> c. 107r: <hi rend="italic">mandriale</hi>
                 </witness>
                 
                 <witness xml:id="Pl3">
-                    <!--ref target="X"-->Pl3<!--/ref--> c. 111r
+                    <ref type="siglum" target="#">Pl3</ref> c. 111r
                 </witness>
                 
                 <witness xml:id="C3">
-                    <!--ref target="X"-->C3<!--/ref--> c. 26v: <hi rend="italic">madriale .15.</hi>                    
+                    <ref type="siglum" target="#">C3</ref> c. 26v: <hi rend="italic">madriale .15.</hi>                    
                 </witness>
                 
                 <witness xml:id="C6">
-                    <!--ref target="X"-->C6<!--/ref--> c. 73v: <hi rend="italic">mandriale</hi>                    
+                    <ref type="siglum" target="#">C6</ref> c. 73v: <hi rend="italic">mandriale</hi>                    
                 </witness>
          
                 <witness xml:id="V1">
-                    <!--ref target="X"-->V1<!--/ref-->c. 327r
+                    <ref type="siglum" target="#">V1</ref>c. 327r
                 </witness>
             </listWit>
 

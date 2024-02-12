@@ -81,7 +81,7 @@
         <back>
             <listWit>
                 <witness xml:id="Ch">
-                    <!--ref target="X"-->Ch<!--/ref--> c. 29r, <abbr xml:id="ChC">C</abbr> (vv. 1-4)
+                    <ref type="siglum" target="#Ch">Ch</ref> c. 29r, <abbr xml:id="ChC">C</abbr> (vv. 1-4)
                 </witness>
             </listWit>
 

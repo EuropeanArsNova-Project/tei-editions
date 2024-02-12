@@ -84,7 +84,7 @@
       <back>
          <listWit>
             <witness xml:id="Sq">
-               <!--ref target=""-->Sq<!--/ref-->
+               <ref type="siglum" target="#Sq">Sq</ref>
                cc. <locus>52v-53r</locus>, <abbr xml:id="SqC1">C1</abbr> (vv. 1-8), <abbr xml:id="SqC2">C2</abbr> (vv. 1-3): <hi rend="italic">magister laurentius de flore‹r›/n/tia</hi>
             </witness>
          </listWit>

@@ -92,15 +92,15 @@
             <listWit>
                 
                 <witness xml:id="Ch">
-                    <!--ref target="X"-->Ch<!--/ref--> c. 39r, <abbr xml:id="ChC">C</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-21):<hi rend="italic"> ph(ilip)ot(us)</hi>
+                    <ref type="siglum" target="#Ch">Ch</ref> c. 39r, <abbr xml:id="ChC">C</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-21):<hi rend="italic"> ph(ilip)ot(us)</hi>
                 </witness>
                 
                 <witness xml:id="MoA">
-                    <!--ref target="X"-->MoA<!--/ref--> c. 35v, <abbr xml:id="MoAC">C</abbr> (vv. 1-7),<hi rend="italic"> mag(iste)r filipotus</hi> 
+                    <ref type="siglum" target="#MoA">MoA</ref> c. 35v, <abbr xml:id="MoAC">C</abbr> (vv. 1-7),<hi rend="italic"> mag(iste)r filipotus</hi> 
                 </witness>
                 
                 <witness xml:id="R">
-                    <!--ref target="X"-->R<!--/ref--> c. 80v, <abbr xml:id="RC">C</abbr> (vv. 1-7)                    
+                    <ref type="siglum" target="#R">R</ref> c. 80v, <abbr xml:id="RC">C</abbr> (vv. 1-7)                    
                 </witness>
             </listWit>
 
@@ -161,7 +161,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 7</head>
+                    <head>7</head>
                     <app from="#l7a1" to="#l7a2">
                         <lem>vois languissant</lem>
                         <rdg wit="#R"/>                        

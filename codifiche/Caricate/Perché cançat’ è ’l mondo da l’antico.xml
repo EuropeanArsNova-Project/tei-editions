@@ -108,15 +108,15 @@
                c. <locus>39r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-4), <abbr xml:id="MoAT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-14): <hi rend="italic">frater bartholinus</hi>
             </witness>
             <witness xml:id="Lu">
-               <!--ref target="X"-->Lu<!--/ref-->
+               <ref type="siglum" target="#Lu">Lu</ref>
                c. <locus>4v</locus>, <abbr xml:id="LuC">C</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">fr(atr)is bartholini</hi>. Per danno materiale sono lacunose le lezioni <hi rend="italic">Per</hi> e <hi rend="italic">antico</hi> (v. 1), <hi rend="italic">deça</hi> (v. 2), <hi rend="italic">dolçeçça</hi> (v. 3), <hi rend="italic">mente amara</hi> (v. 4).
             </witness>
             <witness xml:id="R">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/paris-biblioth%C3%A8que-nationale-de-france-n-a-fr-6771-manoscript/LIO_30658">R</ref>
+               <ref target="#R">R</ref>
                c. <locus>17r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-4), <abbr xml:id="RT">T</abbr> (vv. 1-4), <abbr xml:id="RCt">Ct</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 9-14, 5-8)
             </witness>
             <witness xml:id="Sq">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-medicea-laurenziana-med-pal-87--manoscript/ARSNOVA_224962">Sq</ref>
+               <ref target="#Sq">Sq</ref>
                c. <locus>115r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4): <hi rend="italic">magister frater bartolinus de padua</hi>
             </witness>
         </listWit>

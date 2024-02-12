@@ -15,15 +15,15 @@
             </respStmt>
             <respStmt>
                <resp>Edited by</resp>
-               <name> Maria Sofia Lannutti</name>
+               <name>Maria Sofia Lannutti</name>
             </respStmt>
             <respStmt>
                <resp>Revised by</resp>
-               <name> Luca Gatti</name>
+               <name>Luca Gatti</name>
             </respStmt>
             <respStmt>
                <resp>TEI-encoded by</resp>
-               <name> Elvira Mercatanti</name>
+               <name>Elvira Mercatanti</name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -87,7 +87,7 @@
       <back>
          <listWit>
             <witness xml:id="Rs">
-               <!--ref target="X"-->Rs<!--/ref--> cc. <locus> 2v-3r</locus>, <abbr xml:id="RsC"
+               <ref type="siglum" target="#Rs">Rs</ref>  cc. <locus> 2v-3r</locus>, <abbr xml:id="RsC"
                   >C</abbr> (vv. 1-3 e 10), <abbr xml:id="RsT">T</abbr> (vv. 1-3 e 10), <hi
                   rend="italic"> resid.</hi> (vv. 4-9) </witness>
          </listWit>
@@ -95,7 +95,7 @@
 
          <listApp type="substantial">
             <listApp>
-               <head> 5</head>
+               <head>5</head>
                <app from="#l5a1" to="#l5a2">
                   <lem>d’altre</lem>
                   <rdg wit="#Rs"> altre</rdg>
@@ -103,7 +103,7 @@
             </listApp>
 
             <listApp>
-               <head> 6</head>
+               <head>6</head>
                <app from="#l6a1" to="#l6a2">
                   <lem>d’erba</lem>
                   <rdg wit="#Rs"> erba</rdg>
@@ -115,7 +115,7 @@
 
          <listApp type="formal">
             <listApp>
-               <head> 2</head>
+               <head>2</head>
                <app from="#l2a1" to="#l2a2">
                   <lem>ala</lem>
                   <rdg>alla <wit><ref corresp="#RsT">Rs <hi rend="super">T</hi></ref></wit></rdg>
@@ -123,7 +123,7 @@
             </listApp>
             
             <listApp>
-               <head> 10</head>
+               <head>10</head>
                <app from="#l10a1" to="#l10a2">
                   <lem>dela</lem>
                   <rdg> della<wit><ref corresp="#RsT">Rs <hi rend="super">T</hi></ref></wit></rdg>

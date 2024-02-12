@@ -72,7 +72,7 @@
         <back>
             <listWit>
                 <witness xml:id="Fp">
-                    <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-nazionale-centrale-pal-panciati-manoscript/ARSNOVA_185275">Fp</ref>
+                    <ref target="#Fp">Fp</ref>
                     cc. <locus>74v-75r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-4), <abbr xml:id="FpT">T</abbr> (vv. 1-4): [c. 74v: <hi rend="italic">m(agister) jacopo da bolo(gna)</hi>; c. 75r: <hi rend="italic">idem m(agister)</hi>]
                 </witness>
             </listWit>

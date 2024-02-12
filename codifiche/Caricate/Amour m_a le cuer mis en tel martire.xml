@@ -79,7 +79,7 @@
       <back>
          <listWit>
             <witness xml:id="MoA">
-                <!--ref target=""-->MoA<!--/ref-->
+                <ref type="siglum" target="#MoA">MoA</ref>
                 cc. <locus>33v-34r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-7): <hi rend="italic">anthonello</hi>
             </witness>
          </listWit>

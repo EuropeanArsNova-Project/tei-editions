@@ -90,11 +90,11 @@
       <back>
          <listWit>
             <witness xml:id="Pit">
-               <!--ref target="X"-->Pit<!--/ref-->
+               <ref type="siglum" target="#Pit">Pit</ref>
                c. <locus>82r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-5), <hi rend="italic">resid</hi>. (vv. 6-10): <hi rend="italic">do(n) paolo</hi>
             </witness>
             <witness xml:id="SL">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-archivio-del-capitolo-di-san-lorenzo-2211-manoscript/ARSNOVA_21819">SL</ref>
+               <ref target="#SL">SL</ref>
                c. <locus>108v [CXXXVIIIv]</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-5), <hi rend="italic">resid</hi>. (vv. 6-10): <hi rend="italic">a(bbas) paulus</hi>
             </witness>
             </listWit>

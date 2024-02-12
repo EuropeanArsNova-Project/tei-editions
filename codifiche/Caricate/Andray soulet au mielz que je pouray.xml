@@ -70,7 +70,7 @@
         <back>
             <listWit>
                 <witness xml:id="MoA">
-                    <!--ref target="X"-->MoA<!--/ref-->
+                    <ref type="siglum" target="#MoA">MoA</ref>
                     c. <locus>41v</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-4): <hi rend="italic">de p(er)usio</hi>
                 </witness>
             </listWit>

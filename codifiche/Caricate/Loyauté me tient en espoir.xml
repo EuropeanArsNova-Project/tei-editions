@@ -74,11 +74,11 @@
         <back>
             <listWit>
                 <witness xml:id="Ch">
-                    <!--ref target="X"-->Ch<!--/ref--> c. 36v, <abbr xml:id="ChC">C</abbr> (vv. 1-2), <hi rend="italic">resid.</hi> (vv. 3-8): <hi rend="italic">garinus</hi>
+                    <ref type="siglum" target="#Ch">Ch</ref> c. 36v, <abbr xml:id="ChC">C</abbr> (vv. 1-2), <hi rend="italic">resid.</hi> (vv. 3-8): <hi rend="italic">garinus</hi>
                 </witness>
                 
                 <witness xml:id="Pit">
-                    <!--ref target="X"-->Pit<!--/ref--> c. 121r, <abbr xml:id="PitC">C</abbr> (solo incipit v. 1)
+                    <ref type="siglum" target="#Pit">Pit</ref> c. 121r, <abbr xml:id="PitC">C</abbr> (solo incipit v. 1)
                 </witness>
             </listWit>
 

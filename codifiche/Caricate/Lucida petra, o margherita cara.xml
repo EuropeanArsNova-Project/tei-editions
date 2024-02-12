@@ -76,7 +76,7 @@
         <back>
             <listWit>
                 <witness xml:id="Sq">
-                    <!--ref target="X"-->Sq<!--/ref--> cc. <locus>19v-20r</locus>, <abbr xml:id="SqC"
+                    <ref type="siglum" target="#Sq">Sq</ref> cc. <locus>19v-20r</locus>, <abbr xml:id="SqC"
                         >C</abbr> (vv. 1-3 e 7-8), <abbr
                             xml:id="SqT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">magiser iachobus de bononia</hi> 
                 </witness>

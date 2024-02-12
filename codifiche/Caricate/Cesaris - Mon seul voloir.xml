@@ -283,14 +283,14 @@
       <back>
          <listWit>            
             <witness xml:id="Ox2">
-               <!--ref target="X"-->Ox2<!--/ref-->
+               <ref type="siglum" target="#Ox2">Ox2</ref> 
                <locus>c. 122r</locus>, <abbr xml:id="Ox2C1">C1</abbr> (<hi rend="italic">Mon seul voloir, ma souverayne joye</hi> vv. 1-4);
                <abbr xml:id="Ox2C2">C2</abbr> (<hi rend="italic">Certes, m’amour, c’est ma vye et ma joye</hi> vv. 1-4),
                <hi rend="italic">resid.</hi> (<hi rend="italic">Mon seul voloir, ma souverayne joye</hi> vv. 5-16; <hi rend="italic">Certes, m’amour, c’est ma vye et ma joye</hi> vv. 5-16):
                <hi rend="italic">cesaris</hi>         
             </witness>
             <witness xml:id="Pz">
-               <!--ref target=""-->Pz<!--/ref-->
+               <ref type="siglum" target="#Pz">Pz</ref> 
                <locus>c. 3r</locus>,
                <abbr xml:id="PzC1">C1</abbr> (<hi rend="italic">Mon seul voloir, ma souverayne joye</hi> vv. 1-4)
             </witness>

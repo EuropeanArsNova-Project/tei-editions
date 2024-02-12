@@ -134,7 +134,7 @@
         <back>
             <listWit>
                 <witness xml:id="Be">
-                    <!--ref target="X"-->Be<!--/ref-->
+                    <ref type="siglum" target="#">Be</ref>
                     cc. <locus>4v[XXIIv] e 2r [XXIIr]</locus>, <abbr xml:id="BeC">C</abbr> (vv. 1-8), <hi rend="italic">resid.</hi> (vv. 9-24)
                 </witness>
             </listWit>

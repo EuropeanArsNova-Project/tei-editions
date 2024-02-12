@@ -83,7 +83,7 @@
         <back>
             <listWit>
                 <witness xml:id="Ld3">
-                    <!--ref target="X"-->Ld3<!--/ref--> c. 6v, <abbr xml:id="Ld3C">C</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-16)
+                    <ref type="siglum" target="#Ld3">Ld3</ref> c. 6v, <abbr xml:id="Ld3C">C</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-16)
                 </witness>
             </listWit>
 

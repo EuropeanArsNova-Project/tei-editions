@@ -15,15 +15,15 @@
                 </respStmt>
                 <respStmt>
                     <resp>Edited by</resp>
-                    <name> Maria Sofia Lannutti</name> 
+                    <name>Maria Sofia Lannutti</name> 
                 </respStmt>
                 <respStmt>
                     <resp>Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
                     <resp>TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -84,14 +84,14 @@
         <back>
             <listWit>
                 <witness xml:id="Ox2">
-                    <!--ref target="X"-->Ox2<!--/ref--> c. 181v-182r [CLIXr-CLXv], <abbr xml:id="Ox2C">C</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-16):<hi rend="italic"> baudet cordier </hi>
+                    <ref type="siglum" target="#Ox2">Ox2</ref>  c. 181v-182r [CLIXr-CLXv], <abbr xml:id="Ox2C">C</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-16):<hi rend="italic"> baudet cordier </hi>
                 </witness>
             </listWit>
 
 
             <listApp type="substantial">
                 <listApp>
-                    <head> 4</head>
+                    <head>4</head>
                     <app from="#l4a1" to="#l4a2">
                         <lem>deveroit</lem>
                         <rdg wit="#Ox2"> devueroit</rdg>
@@ -99,7 +99,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 5</head>
+                    <head>5</head>
                     <app from="#l5a1" to="#l5a2">
                         <lem>Euvre</lem>
                         <rdg wit="#Ox2"> enure </rdg>
@@ -107,7 +107,7 @@
                 </listApp>
                 
                 <listApp> 
-                    <head> 9</head>
+                    <head>9</head>
                     <app from="#l9a1" to="#l9a2">
                         <lem>foloier</lem>
                         <rdg wit="#Ox2"> folicer</rdg>

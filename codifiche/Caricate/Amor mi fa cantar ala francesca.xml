@@ -15,15 +15,15 @@
             </respStmt>
             <respStmt>
                <resp>Edited by</resp>
-               <name> Maria Sofia Lannutti</name>
+               <name>Maria Sofia Lannutti</name>
             </respStmt>
             <respStmt>
                <resp>Revised by</resp>
-               <name> Luca Gatti</name>
+               <name>Luca Gatti</name>
             </respStmt>
             <respStmt>
                <resp>TEI-encoded by</resp>
-               <name> Elvira Mercatanti</name>
+               <name>Elvira Mercatanti</name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -82,14 +82,14 @@
       <back>
          <listWit>
             <witness xml:id="Rs">
-               <!--ref target="X"-->Rs<!--/ref--> 
+               <ref type="siglum" target="#Rs">Rs</ref>  
                c. 18v, <abbr xml:id="RsC">C</abbr> (vv. 1-2), <hi rend="italic">resid.</hi> (vv. 3-10)</witness>
          </listWit>
 
 
          <listApp type="substantial">
             <listApp>
-               <head> 4</head>
+               <head>4</head>
                <app from="#l4a1" to="#l4a2">
                   <lem>a</lem>
                   <rdg wit="#Rs"/>

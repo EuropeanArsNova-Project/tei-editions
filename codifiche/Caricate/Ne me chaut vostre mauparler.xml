@@ -96,11 +96,11 @@
                 
                     <listWit>
                         <witness xml:id="Ln7">
-                            <!--ref target="X"-->Ln7<!--/ref--> c. 20r-v, vv. 1-20: <hi rend="italic">bergerete chantee</hi>
+                            <ref type="siglum" target="#">Ln7</ref> c. 20r-v, vv. 1-20: <hi rend="italic">bergerete chantee</hi>
                         </witness>
                         
                         <witness xml:id="MoA">
-                            <!--ref target="X"-->MoA<!--/ref--> c. 49r, <abbr xml:id="MoAC">C</abbr> (vv. 1-6),  <hi rend="italic">resid.</hi> (7-12): [c. 47r: <hi rend="italic"> m(attheus) de p(er)usio</hi>]
+                            <ref type="siglum" target="#MoA">MoA</ref> c. 49r, <abbr xml:id="MoAC">C</abbr> (vv. 1-6),  <hi rend="italic">resid.</hi> (7-12): [c. 47r: <hi rend="italic"> m(attheus) de p(er)usio</hi>]
                         </witness>
                     </listWit>
         

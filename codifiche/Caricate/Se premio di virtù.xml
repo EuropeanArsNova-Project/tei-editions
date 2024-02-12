@@ -101,15 +101,15 @@
       <back>
          <listWit>
             <witness xml:id="R">
-                <!--ref target=""-->R<!--/ref-->
+                <ref type="siglum" target="#R">R</ref>
                 c. <locus>44r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3 e 12-13), <hi rend="italic">resid.</hi> (vv. 4-11)
             </witness>
             <witness xml:id="SL">
-                <!--ref target=""-->SL<!--/ref-->
+                <ref type="siglum" target="#SL">SL</ref>
                 cc. <locus>33v-34r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 12-13), <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 12-13): <hi rend="italic">resid.</hi> (vv. 4-9). Il <hi rend="italic">tenor</hi> è quasi del tutto illeggibile, ciò che si distingue coincide con il testo del <hi rend="italic">cantus</hi>.
             </witness>
             <witness xml:id="Sq">
-                <!--ref target=""-->Sq<!--/ref-->
+                <ref type="siglum" target="#Sq">Sq</ref>
                 c. <locus>113r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 12-13), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 12-13), <hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic">magister frater bartolinus de padua</hi>
             </witness>
          </listWit>

@@ -88,17 +88,17 @@
       <back>
          <listWit>            
             <witness xml:id="MoA">
-               <!--ref target="X"-->MoA<!--/ref-->
+               <ref type="siglum" target="#MoA">MoA</ref>
                c. 13v, <abbr xml:id="MoAC">C</abbr> (vv.1-8): <hi rend="italic">antonellus</hi>.
             </witness>
 
             <witness xml:id="R">
-               <!--ref target="X"-->R<!--/ref-->
+               <ref type="siglum" target="#R">R</ref>
                c. 47r, <abbr xml:id="RC">C</abbr> (vv. 1-8)
             </witness>
 
             <witness xml:id="To">
-               <!--ref target="X"-->To<!--/ref-->
+               <ref type="siglum" target="#">To</ref>
                c. 5r, <abbr xml:id="ToC">C</abbr> (vv. 1-8)
             </witness>
          </listWit>

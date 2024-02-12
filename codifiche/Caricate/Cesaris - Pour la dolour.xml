@@ -218,7 +218,7 @@
       <back>
          <listWit>            
             <witness xml:id="Ox2">
-               <!--ref target="X"-->Ox2<!--/ref-->
+               <ref type="siglum" target="#Ox2">Ox2</ref> 
                <locus>c. 84v</locus>, <abbr xml:id="Ox2C1">C1</abbr> (<hi rend="italic">Pour la doulour, l’annoy, le grief martire</hi> vv. 1-4);
                <abbr xml:id="Ox2C2">C2</abbr> (<hi rend="italic">Qui dolente n’aura veu en sa vie</hi> vv. 1-4),
                <hi rend="italic">resid.</hi> (<hi rend="italic">Pour la doulour</hi> vv. 5-8; <hi rend="italic">Qui dolente n’aura</hi> vv. 5-8):

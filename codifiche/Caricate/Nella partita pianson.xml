@@ -88,15 +88,15 @@
          
          <listWit> 
             <witness xml:id="Fp">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-nazionale-centrale-pal-panciati-manoscript/ARSNOVA_185275">Fp</ref>
+               <ref target="#Fp">Fp</ref>
                <locus>c. 56r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-5), <abbr xml:id="FpT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 6-10): <hi rend="italic">m(agister) fran(ciscus)</hi>
             </witness>
             <witness xml:id="Sq">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-medicea-laurenziana-med-pal-87--manoscript/ARSNOVA_224962">Sq</ref>
+               <ref target="#Sq">Sq</ref>
                <locus>c. 139r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-5), <abbr xml:id="SqT">T</abbr> (vv. 1-5), <hi rend="italic">resid.</hi> (vv. 6-10): <hi rend="italic">magister franciscus cecus horghanista de florentia</hi>
             </witness>
             <witness xml:id="Pit">
-               <!--ref target=""-->Pit<!--/ref-->
+               <ref type="siglum" target="#Pit">Pit</ref>
                <locus>cc. 114v-115r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-5), <abbr xml:id="PitT">T</abbr> (vv. 1-5), <hi rend="italic">resid.</hi> (vv. 6-10): <hi rend="italic">f(ranciscus)</hi>
             </witness>
          </listWit>

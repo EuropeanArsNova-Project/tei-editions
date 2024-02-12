@@ -7,7 +7,6 @@
         <fileDesc>
             <titleStmt>
                 <title>Avrai ge ja de ma dame comfort</title>
-                <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
                     <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
@@ -81,7 +80,7 @@
         <back>
             <listWit>
                 <witness xml:id="Pis">
-                    <!--ref target="X"-->Pis<!--/ref--> c. 2v, <abbr xml:id="PisC">C</abbr> (vv. 1-4)
+                    <ref type="siglum" target="#Pis">Pis</ref> c. 2v, <abbr xml:id="PisC">C</abbr> (vv. 1-4)
                 </witness>
             </listWit>
 

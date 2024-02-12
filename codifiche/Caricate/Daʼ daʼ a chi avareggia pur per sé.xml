@@ -82,23 +82,23 @@
       <back>
          <listWit>
             <witness xml:id="Red">
-                <!--ref target=""-->Red<!--/ref-->
+                <ref type="siglum" target="#R">Red</ref>
                 c. <locus>110v</locus>: <hi rend="italic">madriale del detto</hi>
             </witness>
             <witness xml:id="T">
-                <!--ref target=""-->T<!--/ref-->
+                <ref type="siglum" target="#">T</ref>
                 c. <locus>153r</locus>
             </witness>
             <witness xml:id="Sq">
-                <!--ref target=""-->Sq<!--/ref-->
+                <ref type="siglum" target="#Sq">Sq</ref>
                 cc. <locus>50v-51r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">magister laurentius | de florentia</hi>
             </witness>
             <witness xml:id="LA1">
-                <!--ref target=""-->LA1<!--/ref-->
+                <ref type="siglum" target="#">LA1</ref>
                 c. <locus>267v</locus>
             </witness>
             <witness xml:id="LA2">
-                <!--ref target=""-->LA2<!--/ref-->
+                <ref type="siglum" target="#">LA2</ref>
                 c. <locus>100v</locus>; il primo terzetto del brano è trascritto anche a c. <locus>127v</locus> (<abbr xml:id="LA21">1</abbr>).
             </witness>
          </listWit>

@@ -15,15 +15,15 @@
             </respStmt>
             <respStmt>
                <resp>Edited by</resp>
-               <name> Maria Sofia Lannutti</name>
+               <name>Maria Sofia Lannutti</name>
             </respStmt>
             <respStmt>
                <resp>Revised by</resp>
-               <name> Luca Gatti</name>
+               <name>Luca Gatti</name>
             </respStmt>
             <respStmt>
                <resp>TEI-encoded by</resp>
-               <name> Elvira Mercatanti</name>
+               <name>Elvira Mercatanti</name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -75,14 +75,14 @@
       <back>
          <listWit>
             <witness xml:id="Rs">
-               <!--ref target="X"-->Rs<!--/ref--> 
+               <ref type="siglum" target="#Rs">Rs</ref>  
                c. 25r, <abbr xml:id="RsC">C</abbr> (vv. 1-3 e 7), <abbr xml:id="RsT">T</abbr> (vv. 1-3 e 7), <hi rend="italic"> resid.</hi> (vv. 4-6 e 8) </witness>
          </listWit>
 
 
          <listApp type="substantial">
             <listApp>
-               <head> 3</head>
+               <head>3</head>
                <app from="#l3a1" to="#l3a2">
                   <lem>nela rete</lem>
                   <rdg> nella retta <wit><ref corresp="#RsT"> Rs<hi rend="super">T</hi></ref></wit></rdg>
@@ -90,7 +90,7 @@
             </listApp>
             
             <listApp>
-               <head> 8</head>
+               <head>8</head>
                <app from="#l8a1" to="l8a2">
                   <lem>calido</lem>
                   <rdg wit="#Rs"> callido</rdg>

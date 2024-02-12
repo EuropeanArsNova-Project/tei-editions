@@ -15,15 +15,15 @@
                 </respStmt>
                 <respStmt>
                     <resp>Edited by</resp>
-                    <name> Maria Sofia Lannutti</name> 
+                    <name>Maria Sofia Lannutti</name> 
                 </respStmt>
                 <respStmt>
                     <resp>Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
                     <resp>TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -84,14 +84,14 @@
         <back>
             <listWit>
                 <witness xml:id="MoA">
-                    <!--ref target="X"-->MoA<!--/ref--> c. 47r, <abbr xml:id="MoAC">C</abbr> (vv. 1-4), <abbr xml:id="MoAT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (5-16): <hi rend="italic">  m(attheus) d(e) p(erusio)</hi>
+                    <ref type="siglum" target="#MoA">MoA</ref> c. 47r, <abbr xml:id="MoAC">C</abbr> (vv. 1-4), <abbr xml:id="MoAT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (5-16): <hi rend="italic">  m(attheus) d(e) p(erusio)</hi>
                 </witness>
             </listWit>
 
 
             <listApp type="substantial">
                 <listApp>
-                    <head> 9</head>
+                    <head>9</head>
                     <app from="#l9a1" to="#l9a2">
                         <lem>triste</lem>
                         <rdg wit="#MoA">trist</rdg>
@@ -99,7 +99,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 12</head>
+                    <head>12</head>
                     <app from="#l12a1" to="#l12a2">
                         <lem>si</lem>
                         <rdg wit="#MoA"/>
@@ -112,7 +112,7 @@
 
             <listApp type="formal">
                 <listApp>
-                    <head> 4</head>
+                    <head>4</head>
                     <app from="#l4a1" to="#l4a2">
                         <lem>de ma dolour</lem>
                         <rdg wit="#MoA"><hi rend="italic">rip.</hi></rdg>

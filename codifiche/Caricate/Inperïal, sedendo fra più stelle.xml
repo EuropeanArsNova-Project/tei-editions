@@ -84,7 +84,7 @@
       <back>
         <listWit>
             <witness xml:id="Lu">
-               <!--ref target="X"-->Lu<!--/ref-->
+               <ref type="siglum" target="#Lu">Lu</ref>
                cc. <locus>36v-38r</locus>, <abbr xml:id="LuC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="LuT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid</hi>. (vv. 4-6)
             </witness>
             <witness xml:id="MoA">
@@ -92,11 +92,11 @@
                cc. <locus>29v-30r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="MoAT">T</abbr> (vv. 1-3 e 7-8),<abbr xml:id="MoACt">Ct</abbr> (vv. 1 e 7), <hi rend="italic">resid</hi>. (vv. 4-5): <hi rend="italic">dactalus de padua fecit</hi>
             </witness>
             <witness xml:id="R">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/paris-biblioth%C3%A8que-nationale-de-france-n-a-fr-6771-manoscript/LIO_30658">R</ref>
+               <ref target="#R">R</ref>
                cc. <locus>45v-46r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="RT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid</hi>. (vv. 4-6)
             </witness>
             <witness xml:id="Sq">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-medicea-laurenziana-med-pal-87--manoscript/ARSNOVA_224962">Sq</ref>
+               <ref target="#Sq">Sq</ref>
                cc. <locus>109v-110r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">magister frater bartolinus de padua</hi>
             </witness>
         </listWit>

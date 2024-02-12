@@ -93,19 +93,19 @@
       <back>
          <listWit>
             <witness xml:id="Fp">
-                <!--ref target=""-->Fp<!--/ref-->
+                <ref type="siglum" target="#Fp">Fp</ref>
                 cc. <locus>55r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-3), <abbr xml:id="FpT">T</abbr> (vv. 1-3 e 10), <hi rend="italic">resid.</hi> (vv. 4-9 e 11): <hi rend="italic">idem m(agister) g(iovanni)</hi>
             </witness>
             <witness xml:id="Sq">
-                <!--ref target=""-->Sq<!--/ref-->
+                <ref type="siglum" target="#Sq">Sq</ref>
                 cc. <locus>3v-4r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic">magister iovannes de frorentia</hi>
             </witness>
             <witness xml:id="R">
-                <!--ref target=""-->R<!--/ref-->
+                <ref type="siglum" target="#R">R</ref>
                 c. <locus>32v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3 e 10), <hi rend="italic">resid.</hi> (vv. 4-9),<abbr xml:id="RT">T</abbr> (vv. 1-3 e 10)
             </witness>
             <witness xml:id="Ol">
-                <!--ref target=""-->Ol<!--/ref-->
+                <ref type="siglum" target="#">Ol</ref>
                 c. <locus>77v</locus>, <abbr xml:id="OC">C</abbr> (vv. 10)
             </witness>
          </listWit>

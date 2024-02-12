@@ -106,7 +106,7 @@
       <back>
          <listWit>
             <witness xml:id="MoA">
-                <!--ref target=""-->MoA<!--/ref-->
+                <ref type="siglum" target="#MoA">MoA</ref>
                 c. <locus>42r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-4), <hi rend="italic">resid.</hi>(vv. 5-16): <hi rend="italic">m(attheus) de p(er)usio</hi>
             </witness>
          </listWit>

@@ -15,15 +15,15 @@
             </respStmt>
             <respStmt>
                <resp>Edited by</resp>
-               <name> Maria Sofia Lannutti</name>
+               <name>Maria Sofia Lannutti</name>
             </respStmt>
             <respStmt>
                <resp>Revised by</resp>
-               <name> Luca Gatti</name>
+               <name>Luca Gatti</name>
             </respStmt>
             <respStmt>
                <resp>TEI-encoded by</resp>
-               <name> Elvira Mercatanti</name>
+               <name>Elvira Mercatanti</name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -89,11 +89,11 @@
       <back>
          <listWit>
             <witness xml:id="Rs">
-               <!--ref target="X"-->Rs<!--/ref--> 
+               <ref type="siglum" target="#Rs">Rs</ref>  
                c. 26r, <abbr xml:id="RsC">C</abbr> (vv. 1-4), <abbr xml:id="RsT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-12)</witness>
             
             <witness>
-               <!--ref target="X"-->Reg<!--/ref-->
+               <ref type="siglum" target="#R">Reg</ref>
                c. Bv, <abbr xml:id="RegC">C</abbr> (vv. 1-4), <abbr xml:id="RegT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-12)
                </witness>
          </listWit>
@@ -101,7 +101,7 @@
 
          <listApp type="substantial">
             <listApp>
-               <head> 2</head>
+               <head>2</head>
                <app from="#l2a1" to="#l2a2">
                   <lem>spirito</lem>
                   <rdg wit="#Reg"> spi<gap reason="illegible" unit="chars" quantity="3" rend="***"/> </rdg>
@@ -114,7 +114,7 @@
             </listApp>
             
             <listApp>
-               <head> 3</head>
+               <head>3</head>
                <app from="#l3a1" to="#l3a2">
                   <lem>ladri</lem>
                   <rdg wit="#Reg"> la<gap reason="illegible" unit="chars" quantity="2" rend="**"/></rdg>
@@ -122,7 +122,7 @@
             </listApp>
             
             <listApp>
-               <head> 4</head>
+               <head>4</head>
                <app from="#l4a1" to="#l4a2">
                   <lem>l’a<hi rend="italic">to che</hi></lem>
                   <rdg wit="#Reg"> <gap reason="illegible" rend="ill."/> </rdg>                  
@@ -130,7 +130,7 @@
             </listApp>
             
             <listApp>
-               <head> 6</head>
+               <head>6</head>
                <app from="#l6a1" to="#l6a2">
                   <lem>cum sì tanto</lem>
                   <rdg wit="#Rs"> cu tanto</rdg>
@@ -139,7 +139,7 @@
             </listApp>
             
             <listApp>
-               <head> 7</head>
+               <head>7</head>
                <app from="#l7a1" to="#l7a2">
                   <lem>de</lem>
                   <rdg wit="#Reg"> d<gap reason="illegible" unit="chars" quantity="1" rend="*"/> </rdg>                  
@@ -152,7 +152,7 @@
             </listApp>
             
             <listApp>
-               <head> 8</head>
+               <head>8</head>
                <app from="#l8a1" to="#l8a2">
                   <lem>m<hi rend="italic">a’ ta</hi>nto</lem>
                   <rdg wit="#Reg"> <gap reason="illegible" rend="ill."/></rdg>
@@ -160,7 +160,7 @@
             </listApp>
             
             <listApp>
-               <head> 9</head>
+               <head>9</head>
                <app from="#l9a1" to="#l9a2">
                   <lem>Destr<hi rend="italic">uçi la pietà la toa va</hi>gheça</lem>
                   <rdg wit="#Reg"> <gap reason="illegible" rend="ill."/></rdg>
@@ -173,7 +173,7 @@
             </listApp>
             
             <listApp>
-               <head> 11</head>
+               <head>11</head>
                <app from="#l11a1" to="#l12a2">
                   <lem>poi con ti</lem>
                   <rdg wit="#Reg"> <gap reason="illegible" unit="chars" quantity="2" rend="**"/>y con <gap reason="illegible" unit="chars" quantity="2" rend="**"/></rdg>
@@ -181,7 +181,7 @@
             </listApp>
             
             <listApp> 
-               <head> 12</head>
+               <head>12</head>
                <app from="#l12a1" to="#l12a2">
                   <lem>mio</lem>
                   <rdg wit="#Reg"/>                  
@@ -194,7 +194,7 @@
 
          <listApp type="formal">
             <listApp>
-               <head> 1</head>
+               <head>1</head>
                <app from="#l1a1" to="#l1a2">
                   <lem>to’</lem>
                   <rdg wit="#Reg"> toy</rdg>
@@ -202,7 +202,7 @@
             </listApp>
             
             <listApp>
-               <head> 6</head>
+               <head>6</head>
                <app from="#l6a3" to="#l624">
                   <lem>ale</lem>
                   <rdg wit="#Rs"> alle </rdg>                  

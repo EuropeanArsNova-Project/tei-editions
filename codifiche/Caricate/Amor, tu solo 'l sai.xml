@@ -13,15 +13,15 @@
             </respStmt> 
             <respStmt> 
                <resp>Edited by</resp> 
-               <name> Maria Sofia Lannutti</name> 
+               <name>Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
                <resp>Revised by</resp> 
-               <name> Luca Gatti</name> 
+               <name>Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
                <resp>TEI-encoded by</resp> 
-               <name> Elvira Mercatanti</name> 
+               <name>Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt> 
          <publicationStmt> 
@@ -105,12 +105,12 @@
       <back> 
          <listWit>            
             <witness xml:id="Pit">              
-               <!--ref target="X"--> Pit<!--/ref --> 
+               <ref type="siglum" target="#Pit"> Pit</ref> 
                cc. <locus> 73v-74r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-7), <abbr xml:id="PitT">T</abbr> (vv. 1-7), <hi rend="italic"> resid.</hi> (vv. 8-14): <hi rend="italic">p(aulus) a(bbas</hi> 
             </witness> 
 
             <witness xml:id="Lw"> 
-               <!--ref target="X"--> Lw<!--/ref --> 
+               <ref type="siglum" target="#Lw"> Lw</ref> 
                c. dr., <abbr xml:id="LwC">C</abbr> (vv. 1-7) 
             </witness>  
          </listWit> 
@@ -119,7 +119,7 @@
 
          <listApp type="substantial"> 
             <listApp> 
-               <head> 2</head> 
+               <head>2</head> 
                <app from="#l2a1" to="#l2a2"> 
                   <lem>'l</lem> 
                   <rdg wit="#Lw"/>
@@ -127,7 +127,7 @@
             </listApp> 
 
             <listApp> 
-               <head> 3</head> 
+               <head>3</head> 
                <app from="#l3a1" to="#l3a2"> 
                   <lem>cu</lem> 
                   <rdg wit="#Lw"> che</rdg> 
@@ -135,7 +135,7 @@
             </listApp> 
 
             <listApp> 
-               <head> 5</head> 
+               <head>5</head> 
                <app from="#l5a1" to="#l5a2"> 
                   <lem>Nessuno 'l sa</lem> 
                   <rdg type="indifferentVariant" wit="#Lw"> nessun nol sa</rdg> 
@@ -148,7 +148,7 @@
             </listApp> 
 
             <listApp> 
-               <head> 7</head> 
+               <head>7</head> 
                <app from="#l7a3" to="l7a4"> 
                   <lem>cui</lem> 
                   <rdg wit="#Lw"> chi <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit> </rdg> 
@@ -159,7 +159,7 @@
 
          <listApp type="formal"> 
             <listApp> 
-               <head> 3</head>
+               <head>3</head>
                <app from="#l3a3" to="#l3a4"> 
                   <lem>avene</lem> 
                   <rdg wit="#Lw"> advene  <wit><ref corresp="#PitT">Pit</ref><hi rend="super">T</hi></wit></rdg>
@@ -167,7 +167,7 @@
             </listApp> 
 
             <listApp> 
-               <head> 4 </head> 
+               <head>4 </head> 
                <app from="#l4a1" to="#l4a2"> 
                   <lem>gl'</lem> 
                   <rdg wit="#Lw"> l</rdg> 
@@ -175,7 +175,7 @@
             </listApp>            
 
             <listApp> 
-               <head> 7 </head> 
+               <head>7 </head> 
                <app from="#l7a1" to="l7a2"> 
                   <lem>chi</lem>    
                   <rdg wit="#Lw"> chi chi</rdg> 

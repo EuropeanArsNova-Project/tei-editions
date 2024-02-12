@@ -96,15 +96,15 @@
       <back>
          <listWit>
             <witness xml:id="Lu">
-                <!--ref target=""-->Lu<!--/ref-->
+                <ref type="siglum" target="#Lu">Lu</ref>
                 cc. <locus>23v-24r [LXVIIv-LXVIIIr], </locus>, <abbr xml:id="LuC">C</abbr> (vv. 1-6), <abbr xml:id="LuT">T</abbr> (vv. 1-6), <hi rend="italic">resid.</hi> (vv. 7-12): <hi rend="italic">antonellus marot</hi>
             </witness>
             <witness xml:id="PdB">
-                <!--ref target=""-->PdB<!--/ref-->
+                <ref type="siglum" target="#PdB">PdB</ref>
                 c. <locus>Bv</locus>, <abbr xml:id="PdBC">C</abbr> (vv. 1-6), <abbr xml:id="PdBT">T</abbr> (vv. 1-6): <hi rend="italic">tonelus</hi>
             </witness>
             <witness xml:id="Pis">
-                <!--ref target=""-->Pis<!--/ref-->
+                <ref type="siglum" target="#Pis">Pis</ref>
                 c. <locus>IIr</locus>, <abbr xml:id="PisC">C</abbr> (vv. 1-6)), <hi rend="italic">resid.</hi> (vv. 7-12)
             </witness>
          </listWit>

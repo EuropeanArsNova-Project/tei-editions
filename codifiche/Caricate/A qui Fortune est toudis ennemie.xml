@@ -15,15 +15,15 @@
                 </respStmt>
                 <respStmt>
                     <resp>Edited by</resp>
-                    <name> Maria Sofia Lannutti</name> 
+                    <name>Maria Sofia Lannutti</name> 
                 </respStmt>
                 <respStmt>
                     <resp>Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
                     <resp>TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -79,14 +79,14 @@
         <back>
             <listWit>
                 <witness xml:id="MoA">
-                    <!--ref target="X"-->MoA<!--/ref--> cc. <locus>20v-21r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-8), <hi rend="italic">anthonellus</hi> [c. 21r: <hi rend="italic">m(agiste)r filipoctus</hi>]
+                    <ref type="siglum" target="#MoA">MoA</ref> cc. <locus>20v-21r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-8), <hi rend="italic">anthonellus</hi> [c. 21r: <hi rend="italic">m(agiste)r filipoctus</hi>]
                 </witness>
             </listWit>
 
 
             <listApp type="substantial">
                 <listApp>
-                    <head> 6</head>
+                    <head>6</head>
                     <app from="#l6a1" to="#l6a2">
                         <lem>ne</lem>
                         <rdg wit="#MoA"/>
@@ -94,7 +94,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 7</head>
+                    <head>7</head>
                     <app from="#l7a1" to="#l7a2">
                         <lem>ne</lem>
                         <rdg wit="#MoA"/>

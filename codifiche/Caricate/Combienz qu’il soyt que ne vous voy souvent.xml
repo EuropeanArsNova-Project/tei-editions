@@ -74,11 +74,11 @@
         <back>
             <listWit>
                 <witness xml:id="R">
-                    <!--ref target="X"-->R<!--/ref--> c. 73r, <abbr xml:id="ManC">C</abbr> (vv. 1-2)
+                    <ref type="siglum" target="#R">R</ref> c. 73r, <abbr xml:id="ManC">C</abbr> (vv. 1-2)
                 </witness>
                 
                 <witness xml:id="Str">
-                    <!--ref target="X"-->Str<!--/ref--> c. 24v (<hi rend="italic">perduto</hi>)
+                    <ref type="siglum" target="#">Str</ref> c. 24v (<hi rend="italic">perduto</hi>)
                 </witness>
             </listWit>
 

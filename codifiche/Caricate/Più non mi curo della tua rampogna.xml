@@ -15,15 +15,15 @@
                 </respStmt>
                 <respStmt>
                     <resp>Edited by</resp>
-                    <name> Maria Sofia Lannutti</name>
+                    <name>Maria Sofia Lannutti</name>
                 </respStmt>
                 <respStmt>
                     <resp>Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
                     <resp>TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -77,32 +77,32 @@
             <listWit>
                 
                 <witness xml:id="Fp">
-                    <!--ref target="X"-->Fp<!--/ref--> cc. <locus>53v-54r</locus>, <abbr
+                    <ref type="siglum" target="#Fp">Fp</ref> cc. <locus>53v-54r</locus>, <abbr
                         xml:id="FpC">C</abbr> (vv. 1-3 e 7), <abbr xml:id="FpT">T</abbr> (vv. 1-3 e
                     7), <hi rend="italic">resid.</hi> (vv. 4-6 e 8): <hi rend="italic">m(agister) giova(nni)</hi>
                 </witness>
                 
                 <witness xml:id="Sq">
-                    <!--ref target="X"-->Sq<!--/ref--> cc. <locus>1v-2r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8),<abbr xml:id="SqT">T</abbr>(vv. 1-3 e 7): <hi rend="italic">m(agister) iovannes de florentia</hi>
+                    <ref type="siglum" target="#Sq">Sq</ref> cc. <locus>1v-2r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8),<abbr xml:id="SqT">T</abbr>(vv. 1-3 e 7): <hi rend="italic">m(agister) iovannes de florentia</hi>
                 </witness>                
 
                 <witness xml:id="Lo">
-                    <!--ref target="X"-->Lo<!--/ref--> cc. <locus>18v-19r</locus>, <abbr xml:id="LoC"
+                    <ref type="siglum" target="#Lo">Lo</ref> cc. <locus>18v-19r</locus>, <abbr xml:id="LoC"
                         >C</abbr> (vv. 1-3 e 7), <abbr xml:id="LoT">T</abbr> (vv. 1-3 e 7), <hi rend="italic"> resid.</hi> (vv. 4-6 e 8): <hi rend="italic">m(ae)stro giovanni de chascina</hi>
                 </witness>
                 
                 <witness xml:id="O1">
-                    <!--ref target="X"-->O1<!--/ref-->
+                    <ref type="siglum" target="#">O1</ref>
                     c. 1v, <abbr xml:id="O1C">C</abbr> (vv. 1-3: testo illeggibile)
                 </witness>
                 
                 <witness xml:id="SL">
-                    <!--ref target="X"-->SL<!--/ref-->
+                    <ref type="siglum" target="#SL">SL</ref>
                     cc. <locus>34v-35r</locus> (<hi rend="italic">cantus</hi> e <hi rend="italic">tenor</hi> sono illeggibili): [c. 35r: <hi rend="italic">m(agister) io&lt;...&gt; d&lt;...&gt; c&lt;...&gt;]</hi>]
                 </witness>
                 
                 <witness xml:id="Ve1">
-                    <!--ref target="X"-->Ve1<!--/ref-->
+                    <ref type="siglum" target="#">Ve1</ref>
                     c. 2v: il frammento ad oggi risulta disperso. 
                 </witness>
                 
@@ -111,7 +111,7 @@
 
             <listApp type="substantial">
                 <listApp>
-                    <head> 1</head>
+                    <head>1</head>
                     <app from="#l1a1" to="#l1a2">
                         <lem>rampogna</lem>
                         <rdg> ra po o o o gnia <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
@@ -119,7 +119,7 @@
                 </listApp>
 
                 <listApp>
-                    <head> 2</head>
+                    <head>2</head>
                     <app from="#l2a1" to="l2a2">
                         <lem>lungamente</lem>
                         <rdg> lungamente <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
@@ -132,7 +132,7 @@
                 </listApp>
 
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a1" to="l3a2">
                         <lem>e ’l</lem>
                         <rdg> et<wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
@@ -151,7 +151,7 @@
 
 
                 <listApp>
-                    <head> 4-6</head>
+                    <head>4-6</head>
                     <app from="#l4a1" to="#l6a1">                        
                         <rdg wit="#Sq"/>
                     </app>
@@ -160,7 +160,7 @@
                 
 
                 <listApp>
-                    <head> 4</head>
+                    <head>4</head>
                     <app from="#l4a2" to="l4a3">
                         <lem>Onde</lem>
                         <rdg wit="#Lo"> ondio</rdg>
@@ -173,7 +173,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 5-6</head>
+                    <head>5-6</head>
                     <app from="#l5a1" to="#l6a2">
                         <lem>poiché per te non si teme vergogna,
                             falso, crudele, pien dʼogni mençogna
@@ -183,7 +183,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 8</head>
+                    <head>8</head>
                     <app from="#l8a3" to="#l8a4">
                         <lem>credilo</lem>
                         <rdg> credil <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
@@ -210,7 +210,7 @@
             <listApp type="formal">
                 
                 <listApp>
-                    <head> 1</head>
+                    <head>1</head>
                     <app from="#l1a3" to="#l1a4">
                         <lem>non</lem>
                         <rdg wit="Lo"> no </rdg>
@@ -230,7 +230,7 @@
                 </listApp>
 
                 <listApp>
-                    <head> 2</head>
+                    <head>2</head>
                     <app from="#l2a5" to="#l2a6">
                         <lem>Amor</lem>
                         <rdg> a a a a mor <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>                        
@@ -248,7 +248,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a7" to="#l3a8">
                         <lem>per lo</lem>
                         <rdg> pello <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
@@ -261,7 +261,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 7</head>
+                    <head>7</head>
                     
                     <app from="#l7a1" to="#l7a2">
                         <lem>ti</lem>
@@ -284,7 +284,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 8</head>
+                    <head>8</head>
                     <app from="#l8a1" to="#l8a2"> 
                     
                     </app>

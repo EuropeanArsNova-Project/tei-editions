@@ -15,15 +15,15 @@
                 </respStmt>
                 <respStmt>
                     <resp>Edited by</resp>
-                    <name> Maria Sofia Lannutti</name> 
+                    <name>Maria Sofia Lannutti</name> 
                 </respStmt>
                 <respStmt>
                     <resp>Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
                     <resp>TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -81,7 +81,7 @@
         <back>
             <listWit>
                 <witness xml:id="Ch">
-                    <!--ref target="X"-->Ch<!--/ref--> c. 12r, <abbr xml:id="ChC">C</abbr> (vv. 1-3), <hi rend="italic">resid.</hi> (vv. 4-16; <hi rend="italic">Seigneurs, je vous pri chierement</hi> vv. 1-8; <hi rend="italic">Maistre Baude Cordier se nomme</hi> vv. 1-8; <hi rend="italic">Par bonne amour, par dilection</hi> vv. 1-8): <hi rend="italic">m(agister) baude cordier</hi>
+                    <ref type="siglum" target="#Ch">Ch</ref> c. 12r, <abbr xml:id="ChC">C</abbr> (vv. 1-3), <hi rend="italic">resid.</hi> (vv. 4-16; <hi rend="italic">Seigneurs, je vous pri chierement</hi> vv. 1-8; <hi rend="italic">Maistre Baude Cordier se nomme</hi> vv. 1-8; <hi rend="italic">Par bonne amour, par dilection</hi> vv. 1-8): <hi rend="italic">m(agister) baude cordier</hi>
                 </witness>
             </listWit>
 

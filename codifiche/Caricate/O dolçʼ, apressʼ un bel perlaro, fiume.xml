@@ -15,15 +15,15 @@
                 </respStmt>
                 <respStmt>
                     <resp>Edited by</resp>
-                    <name> Vittoria Brancato</name> 
+                    <name>Vittoria Brancato</name> 
                 </respStmt>
                 <respStmt>
                     <resp>Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
                     <resp>TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -75,31 +75,31 @@
             <listWit>
                 
                 <witness xml:id="Sq">
-                    <!--ref target="X"-->Sq<!--/ref--> cc. <locus>14v-15r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-8), <abbr xml:id="SqT">T</abbr> (vv. 1-8): <hi rend="italic"> magister iacobus de bononia</hi>
+                    <ref type="siglum" target="#Sq">Sq</ref> cc. <locus>14v-15r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-8), <abbr xml:id="SqT">T</abbr> (vv. 1-8): <hi rend="italic"> magister iacobus de bononia</hi>
                 </witness>
                 
                 <witness xml:id="Fp">
-                    <!--ref target="X"-->Fp<!--/ref--> cc. <locus>62v-63r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-8), <abbr xml:id="FpT">T</abbr> (vv. 1-8): <hi rend="italic"> m(agister) jacopo da bol(onia)</hi>
+                    <ref type="siglum" target="#Fp">Fp</ref> cc. <locus>62v-63r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-8), <abbr xml:id="FpT">T</abbr> (vv. 1-8): <hi rend="italic"> m(agister) jacopo da bol(onia)</hi>
                 </witness>
                 
                 <witness xml:id="Lo">
-                    <!--ref target="X"-->Lo<!--/ref--> cc. <locus>1v-2r</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-8), <abbr xml:id="LoT">T</abbr> (vv. 1-8)
+                    <ref type="siglum" target="#Lo">Lo</ref> cc. <locus>1v-2r</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-8), <abbr xml:id="LoT">T</abbr> (vv. 1-8)
                 </witness>
                 
                 <witness xml:id="Lo1">
-                    <!--ref target="X"-->Lo1<!--/ref--> cc. <locus>3v-4r</locus>, <abbr xml:id="Lo1C">C</abbr> (vv. 7-8), <abbr xml:id="Lo1T">T</abbr> (vv. 1-8)
+                    <ref type="siglum" target="#">Lo1</ref> cc. <locus>3v-4r</locus>, <abbr xml:id="Lo1C">C</abbr> (vv. 7-8), <abbr xml:id="Lo1T">T</abbr> (vv. 1-8)
                 </witness>
                 
                 <witness xml:id="R">
-                    <!--ref target="X"-->R<!--/ref--> c. 7r, <abbr xml:id="RC">C</abbr> (vv. 1-8), <abbr xml:id="RT">T</abbr>(vv. 1-8)
+                    <ref type="siglum" target="#R">R</ref> c. 7r, <abbr xml:id="RC">C</abbr> (vv. 1-8), <abbr xml:id="RT">T</abbr>(vv. 1-8)
                 </witness>
                 
                 <witness xml:id="Pit">
-                    <!--ref target="X"-->Pit<!--/ref--> cc. <locus>8v-9r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-8), <abbr xml:id="PitT">T</abbr> (vv. 1-8): <hi rend="italic"> ma(gister) jaco(po)</hi>
+                    <ref type="siglum" target="#Pit">Pit</ref> cc. <locus>8v-9r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-8), <abbr xml:id="PitT">T</abbr> (vv. 1-8): <hi rend="italic"> ma(gister) jaco(po)</hi>
                 </witness> 
                 
                 <witness xml:id="Fc">
-                    <!--ref target="X"-->Fc<!--/ref--> c. 2r, <abbr xml:id="FcT">T</abbr> (vv. 1-8)                    
+                    <ref type="siglum" target="#">Fc</ref> c. 2r, <abbr xml:id="FcT">T</abbr> (vv. 1-8)                    
                 </witness>             
                               
                 
@@ -108,7 +108,7 @@
 
             <listApp type="substantial">
                 <listApp>
-                    <head> 1</head>
+                    <head>1</head>
                     <app from="#l1a1" to="#l1a2">
                         <lem>perlaro</lem>
                         <rdg> perlarun<wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit>  <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
@@ -116,7 +116,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 2</head>
+                    <head>2</head>
                     <app from="#l2a1" to="#l2a2">
                         <lem>lavi</lem>
                         <rdg wit="#Lo"> lave</rdg>
@@ -134,7 +134,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a1" to="#l3a2">
                         <lem>di</lem>
                         <rdg> a <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
@@ -143,7 +143,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 4</head>
+                    <head>4</head>
                     <app from="#l4a1" to="#l4a2">
                         <lem>cui</lem>
                         <rdg> cur <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
@@ -158,7 +158,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 5</head>
+                    <head>5</head>
                     <app from="#l5a1" to="#l5a2">
                         <lem>le</lem>
                         <rdg wit="#Lo"> ie</rdg>
@@ -169,7 +169,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 6</head>
+                    <head>6</head>
                     <app from="#l6a1" to="#l6a2">
                         <lem>alquanto</lem>
                         <rdg wit="#Sq #Pit"> alquant ella </rdg>
@@ -182,7 +182,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 7</head>
+                    <head>7</head>
                     <app from="#l7a1" to="#l7a2">
                         <lem>a me</lem>
                         <rdg wit="#Lo #R #Fc"> mi <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>                        
@@ -190,7 +190,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 8</head>
+                    <head>8</head>
                     <app from="#l8a1" to="#l8a2">
                         <lem>ma</lem>
                         <rdg> mi <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
@@ -215,7 +215,7 @@
 
             <listApp type="formal">
                 <listApp>
-                    <head> 1</head>
+                    <head>1</head>
                     <app from="#l1a3" to="#l1a4">
                         <lem>dolçʼ</lem>
                         <rdg wit="#Fp #R"> dolce <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
@@ -241,7 +241,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 2</head>
+                    <head>2</head>
                     <app from="#l2a7" to="#l2a8">
                         <lem>spesso</lem>
                         <rdg> speso<wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit>  <wit><ref corresp="#Lo1T">Lo<hi rend="subscript">1</hi><hi rend="super">T</hi></ref></wit></rdg>
@@ -260,7 +260,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a3" to="#l3a4">
                         <lem>di</lem>
                         <rdg wit="#Lo #Fc"> de <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
@@ -294,7 +294,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 4</head>
+                    <head>4</head>
                     <app from="#l4a5" to="#l4a6">
                         <lem>cui</lem>
                         <rdg wit="#Fc"> ccui<wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit>  <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
@@ -319,7 +319,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 5</head>
+                    <head>5</head>
                     <app from="#l5a3" to="#l5a4">
                         <lem>Ma sʼella</lem>
                         <rdg> ma<del>l</del> sella<wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
@@ -354,7 +354,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 6</head>
+                    <head>6</head>
                     <app from="#l6a5" to="#l6a6">
                         <lem>darmi</lem>
                         <rdg wit="#R"> darme <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit>  <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
@@ -372,7 +372,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 7</head>
+                    <head>7</head>
                     <app from="l7a3" to="#l7a4">
                         <lem>lassʼ</lem>
                         <rdg wit="#Fp #Lo #Fc"> lasso <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit> <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit> <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
@@ -402,7 +402,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 8</head>
+                    <head>8</head>
                     <app from="#l8a7" to="#l8a8">
                         <lem>ttiene</lem>
                         <rdg wit="#Fp #R"> tiene <wit><ref corresp="#Lo1C">Lo<hi rend="subscript">1</hi><hi rend="super">C</hi></ref></wit></rdg>

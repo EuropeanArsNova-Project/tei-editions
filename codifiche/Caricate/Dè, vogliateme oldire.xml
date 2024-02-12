@@ -96,7 +96,7 @@
       <back>
          <listWit>
             <witness xml:id="Lu">
-                <!--ref target=""-->Lu<!--/ref-->
+                <ref type="siglum" target="#Lu">Lu</ref>
                 c. <locus>25v</locus>, <abbr xml:id="LuC">C</abbr> (vv. 1-6), <abbr xml:id="LuT">T</abbr> (vv. 1-5), <hi rend="italic">resid.</hi> (vv. 6-10): [c. 68v: <hi rend="italic">antonellus</hi>]
             </witness>
          </listWit>

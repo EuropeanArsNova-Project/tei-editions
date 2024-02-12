@@ -92,11 +92,11 @@
             <listWit>
                 
                 <witness xml:id="Ch">
-                    <!--ref target="X"-->Ch<!--/ref--> c. 32r, <abbr xml:id="ChC">C</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-21):<hi rend="italic">ph(ilip)ot(us) de ca(sert)es</hi>
+                    <ref type="siglum" target="#Ch">Ch</ref> c. 32r, <abbr xml:id="ChC">C</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-21):<hi rend="italic">ph(ilip)ot(us) de ca(sert)es</hi>
                 </witness>
                 
                 <witness xml:id="MoA">
-                    <!--ref target="X"-->MoA<!--/ref--> c. 27v, <abbr xml:id="MoAC">C</abbr> (vv. 1-7),<hi rend="italic"> ma(gister) filipoctus de caserta</hi> 
+                    <ref type="siglum" target="#MoA">MoA</ref> c. 27v, <abbr xml:id="MoAC">C</abbr> (vv. 1-7),<hi rend="italic"> ma(gister) filipoctus de caserta</hi> 
                 </witness>
             </listWit>
 
@@ -196,7 +196,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 5</head>
+                    <head>5</head>
                     <app from="#l5a1" to="#l5a2">
                         <lem>jor</lem>
                         <rdg wit="#MoA">jour</rdg>

@@ -77,7 +77,7 @@
       <back>
          <listWit>
             <witness xml:id="Rs">
-               <!--ref target="X"-->Rs<!--/ref--> 
+               <ref type="siglum" target="#Rs">Rs</ref>  
                c. 22r, <abbr xml:id="RsC">C</abbr> (vv. 1-5), <hi rend="italic"> resid.</hi> (vv. 6-10)</witness>
          </listWit>
 

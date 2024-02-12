@@ -95,25 +95,25 @@
         <back>
             <listWit>
                 <witness xml:id="Sq">
-                    <!--ref target="X"-->Sq<!--/ref--> cc. <locus>5v-6r</locus>, <abbr xml:id="SqC"
+                    <ref type="siglum" target="#Sq">Sq</ref> cc. <locus>5v-6r</locus>, <abbr xml:id="SqC"
                         >C</abbr> (vv. 1-3 e 7-8), <hi rend="italic"> resid.</hi> (vv. 4-6), <abbr
                             xml:id="SqT">T</abbr> (vv. 1-3 e 7): <hi rend="italic">m(agister) iovannes de
                         florentia</hi>
                 </witness>
 
                 <witness xml:id="Fp">
-                    <!--ref target="X"-->Fp<!--/ref--> cc. <locus>51v-52r</locus>, <abbr
+                    <ref type="siglum" target="#Fp">Fp</ref> cc. <locus>51v-52r</locus>, <abbr
                         xml:id="FpC">C</abbr> (vv. 1-3 e 7), <abbr xml:id="FpT">T</abbr> (vv. 1-3 e
                     7): <hi rend="italic">m(agister) g(iovanni)</hi>
                 </witness>
 
                 <witness xml:id="R">
-                    <!--ref target="X"-->R<!--/ref--> cc. <locus>30v-31r</locus>, <abbr xml:id="RC"
+                    <ref type="siglum" target="#R">R</ref> cc. <locus>30v-31r</locus>, <abbr xml:id="RC"
                         >C</abbr> (vv. 1-3 e 7), <abbr xml:id="RT">T</abbr> (vv. 1-3 e 7-8),<hi
                         rend="italic"> resid.</hi> (vv. 4-6) </witness>
 
                 <witness xml:id="Lo">
-                    <!--ref target="X"-->Lo<!--/ref--> cc. <locus>6v-7r</locus>, <abbr xml:id="LoC"
+                    <ref type="siglum" target="#Lo">Lo</ref> cc. <locus>6v-7r</locus>, <abbr xml:id="LoC"
                         >C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="LoT">T</abbr> (vv. 1-3 e 7): <hi
                         rend="italic">mag(ist)ri ioh(ann)is de frorentia</hi>
                 </witness>

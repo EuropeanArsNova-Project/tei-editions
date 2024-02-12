@@ -94,15 +94,15 @@
             <listWit>
                 
                 <witness xml:id="Ch">
-                    <!--ref target="X"-->Ch<!--/ref--> c. 33v, <abbr xml:id="ChC">C</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-21):<hi rend="italic"> jo(hanne)s galiots</hi>
+                    <ref type="siglum" target="#Ch">Ch</ref> c. 33v, <abbr xml:id="ChC">C</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-21):<hi rend="italic"> jo(hanne)s galiots</hi>
                 </witness>
                 
                 <witness xml:id="MoA">
-                    <!--ref target="X"-->MoA<!--/ref--> c. 21r, <abbr xml:id="MoAC">C</abbr> (vv. 1-7),<hi rend="italic">resid.</hi> (vv. 8-13): <hi rend="italic">m(agiste)r filipoctus</hi> 
+                    <ref type="siglum" target="#MoA">MoA</ref> c. 21r, <abbr xml:id="MoAC">C</abbr> (vv. 1-7),<hi rend="italic">resid.</hi> (vv. 8-13): <hi rend="italic">m(agiste)r filipoctus</hi> 
                 </witness>
                 
                 <witness xml:id="R">
-                    <!--ref target="X"-->R<!--/ref--> c. 84v, <abbr xml:id="RC">C</abbr> (vv. 1-7)                    
+                    <ref type="siglum" target="#R">R</ref> c. 84v, <abbr xml:id="RC">C</abbr> (vv. 1-7)                    
                 </witness>
             </listWit>
 

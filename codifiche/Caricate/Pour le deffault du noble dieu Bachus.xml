@@ -15,15 +15,15 @@
                 </respStmt>
                 <respStmt>
                     <resp>Edited by</resp>
-                    <name> Maria Sofia Lannutti</name> 
+                    <name>Maria Sofia Lannutti</name> 
                 </respStmt>
                 <respStmt>
                     <resp>Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
                     <resp>TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -76,14 +76,14 @@
         <back>
             <listWit>
                 <witness xml:id="Ox2">
-                    <!--ref target="X"-->Ox2<!--/ref--> c. 108v, <abbr xml:id="Ox2C">C</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">baude cordier </hi>
+                    <ref type="siglum" target="#Ox2">Ox2</ref>  c. 108v, <abbr xml:id="Ox2C">C</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">baude cordier </hi>
                 </witness>
             </listWit>
 
 
             <listApp type="substantial">
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a1" to="#l3a2">
                         <lem>gouverne</lem>
                         <rdg wit="#Ox2"> gonuerne </rdg>
@@ -91,7 +91,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 4</head>
+                    <head>4</head>
                     <app from="#l4a1" to="#l4a2">
                         <lem>son</lem>
                         <rdg wit="#Ox2"> sons</rdg>

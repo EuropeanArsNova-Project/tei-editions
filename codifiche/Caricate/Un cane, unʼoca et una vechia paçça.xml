@@ -79,15 +79,15 @@
         <back>
             <listWit>
                 <witness xml:id="Sq">
-                    <!--ref target="X"-->Sq<!--/ref-->cc. <locus>74v-75r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic">m(agister) donatus de florentia </hi>
+                    <ref type="siglum" target="#Sq">Sq</ref>cc. <locus>74v-75r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic">m(agister) donatus de florentia </hi>
                 </witness>
                 
                 <witness xml:id="SL">
-                    <!--ref target="X"-->SL<!--/ref-->c. 72r, <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 10-11). Il <hi rend="italic">tenor</hi> è per gran parte illeggibile; la rubrica è illeggibile.
+                    <ref type="siglum" target="#SL">SL</ref>c. 72r, <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 10-11). Il <hi rend="italic">tenor</hi> è per gran parte illeggibile; la rubrica è illeggibile.
                 </witness>
                 
                 <witness xml:id="Fp">
-                    <!--ref target="X"-->Fp<!--/ref--> c. 81r,  <abbr xml:id="FpC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="FpT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic">s(er) donato</hi> 
+                    <ref type="siglum" target="#Fp">Fp</ref> c. 81r,  <abbr xml:id="FpC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="FpT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic">s(er) donato</hi> 
                 </witness>
             </listWit>
 

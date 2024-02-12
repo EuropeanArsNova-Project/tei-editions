@@ -278,23 +278,23 @@
                         Dei testimoni musicali, Ut è lacunoso in quanto tagliato sul margine sinistro,
                         mentre lo stato di conservazione di Ca5 rende il testo del Cantus largamente illeggibile
                         e il <hi rend="italic">residuum</hi> lacunoso per la rifilatura del margine destro.</desc>
-                    <!--ref target="X"-->Pen<!--/ref--> c. 41v,<hi rend="italic">Revien, Espoir, confort aïe party </hi> vv. 1-8, <hi rend="italic">Espoir me f[ui]t a mon plus grant besoin </hi> vv. 1-8
+                    <ref type="siglum" target="#">Pen</ref> c. 41v,<hi rend="italic">Revien, Espoir, confort aïe party </hi> vv. 1-8, <hi rend="italic">Espoir me f[ui]t a mon plus grant besoin </hi> vv. 1-8
                 </witness>
                 
                 <witness xml:id="Ut">
-                    <!--ref target="X"-->Ut<!--/ref--> c. 40v, <abbr xml:id="UtC1">C1</abbr> (<hi rend="italic">Espoir me f[ui]t a mon plus grant besoin </hi> vv. 1-2), <abbr xml:id="UtC2">C2</abbr> (<hi rend="italic">Revien, Espoir, confort aïe party </hi> vv. 1-2)
+                    <ref type="siglum" target="#Ut">Ut</ref> c. 40v, <abbr xml:id="UtC1">C1</abbr> (<hi rend="italic">Espoir me f[ui]t a mon plus grant besoin </hi> vv. 1-2), <abbr xml:id="UtC2">C2</abbr> (<hi rend="italic">Revien, Espoir, confort aïe party </hi> vv. 1-2)
                 </witness>
                 
                 <witness xml:id="Ca5">
-                    <!--ref target="X"-->Ca5<!--/ref--> c. 9r, <abbr xml:id="Ca5C">C</abbr> (<hi rend="italic">Espoir me f[ui]t a mon plus grant besoin </hi> vv. 1-2), <hi rend="italic">resid.</hi> (<hi rend="italic">Espoir me f[ui]t a mon plus grant besoin </hi> vv. 3-8)
+                    <ref type="siglum" target="#">Ca5</ref> c. 9r, <abbr xml:id="Ca5C">C</abbr> (<hi rend="italic">Espoir me f[ui]t a mon plus grant besoin </hi> vv. 1-2), <hi rend="italic">resid.</hi> (<hi rend="italic">Espoir me f[ui]t a mon plus grant besoin </hi> vv. 3-8)
                 </witness>
                 
                 <witness xml:id="Trém">
-                    <!--ref target="X"-->Trém<!--/ref--> c. 26v-27r (perduto)
+                    <ref type="siglum" target="#">Trém</ref> c. 26v-27r (perduto)
                 </witness>
                 
                 <witness xml:id="Str">
-                    <!--ref target="X"-->Str<!--/ref--> c. 72r (perduto)
+                    <ref type="siglum" target="#">Str</ref> c. 72r (perduto)
                 </witness>              
                 
                 

@@ -91,7 +91,7 @@
         <back>
             <listWit>
                 <witness xml:id="Sq">
-                    <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-medicea-laurenziana-med-pal-87--manoscript/ARSNOVA_224962">Sq</ref>
+                    <ref target="#Sq">Sq</ref>
                     c. <locus>29r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4 e 7), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">magister s(er) ghirardellus de florentia</hi>
                 </witness>
             </listWit>

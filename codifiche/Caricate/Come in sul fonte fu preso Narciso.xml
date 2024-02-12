@@ -101,35 +101,35 @@
                 <back>
                     <listWit>
                         <witness xml:id="Mg1">
-                            <!--ref target=""-->Mg1<!--/ref-->
+                            <ref type="siglum" target="#">Mg1</ref>
                             c. <locus>10r</locus>: <hi rend="italic">di m(esser) joan bocc(a)cio</hi>
                         </witness>
                         <witness xml:id="Sq">
-                            <!--ref target=""-->Sq<!--/ref-->
+                            <ref type="siglum" target="#Sq">Sq</ref>
                             c. <locus>52r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 10), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 10): <hi rend="italic">magister laurentivs de florentia</hi>
                         </witness>
                         <witness xml:id="Td">
-                            <!--ref target=""-->Td<!--/ref-->
+                            <ref type="siglum" target="#">Td</ref>
                             c. <locus><hi rend="small-caps">I</hi>r</locus>: <hi rend="italic">di m(esser) giovanni boccaccio</hi>
                         </witness>
                         <witness xml:id="Bo10">
-                            <!--ref target=""-->Bo10<!--/ref-->
+                            <ref type="siglum" target="#">Bo10</ref>
                             c. <locus>233v</locus>: <hi rend="italic">del bocaccio</hi>
                         </witness>
                         <witness xml:id="Mg7">
-                            <!--ref target=""-->Mg7<!--/ref-->
+                            <ref type="siglum" target="#">Mg7</ref>
                             c. <locus>123r</locus>: <hi rend="italic">del boccaccio</hi>
                         </witness>
                         <witness xml:id="Naz">
-                            <!--ref target=""-->Naz<!--/ref-->
+                            <ref type="siglum" target="#">Naz</ref>
                             c. <locus>262v</locus>: <hi rend="italic">si in un manoscritto mio come in un altro che ha il <gap reason="illegible" rend="[ill.]"/> bernardo benvenuti i seguenti versi sono attribuiti al boccaccio</hi>
                         </witness>
                         <witness xml:id="Np2">
-                            <!--ref target=""-->Np2<!--/ref-->
+                            <ref type="siglum" target="#">Np2</ref>
                             c. <locus>8r</locus>: <hi rend="italic">joan(ni) bocac(cio)</hi>
                         </witness>
                         <witness xml:id="Triss">
-                            <!--ref target=""-->Triss<!--/ref-->
+                            <ref type="siglum" target="#">Triss</ref>
                             c. <locus><hi rend="small-caps">LXIV</hi></locus>: <hi rend="italic">del boccaccio</hi>
                         </witness>
                     </listWit>
@@ -325,7 +325,7 @@
                 <back>
                     <listWit>
                         <witness>
-                            <!--ref target=""-->Sq<!--/ref-->
+                            <ref type="siglum" target="#Sq">Sq</ref>
                             c. <locus>52r</locus>, <abbr>C</abbr> (vv. 1-3 e 10), <abbr>T</abbr> (vv. 1-3 e 10): <hi rend="italic">magister laurentivs de florentia</hi>
                         </witness>
                     </listWit>

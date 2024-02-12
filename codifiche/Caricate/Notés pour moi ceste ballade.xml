@@ -14,15 +14,15 @@
             </respStmt>
             <respStmt> 
                <resp>Edited by</resp> 
-               <name> Maria Sofia Lannutti</name> 
+               <name>Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
                <resp>Revised by</resp> 
-               <name> Luca Gatti</name> 
+               <name>Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
                <resp>TEI-encoded by</resp> 
-               <name> Elvira Mercatanti</name> 
+               <name>Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt>
          <publicationStmt>
@@ -84,7 +84,7 @@
       <back>
          <listWit>            
             <witness xml:id="MoA">
-               <!--ref target="X"-->MoA<!--/ref-->
+               <ref type="siglum" target="#MoA">MoA</ref>
                c. 14v., <abbr xml:id="MoAC">C</abbr> (vv.1-8): <hi rend="italic">idem</hi> [c. 13v: <hi rend="italic">anthonello de caserta</hi>]
             </witness>
          </listWit>

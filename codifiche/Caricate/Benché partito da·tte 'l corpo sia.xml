@@ -13,15 +13,15 @@
            </respStmt> 
            <respStmt> 
               <resp>Edited by</resp> 
-              <name> Maria Sofia Lannutti</name> 
+              <name>Maria Sofia Lannutti</name> 
            </respStmt> 
            <respStmt> 
               <resp>Revised by</resp> 
-              <name> Luca Gatti</name> 
+              <name>Luca Gatti</name> 
            </respStmt> 
            <respStmt> 
               <resp>TEI-encoded by</resp> 
-              <name> Elvira Mercatanti</name> 
+              <name>Elvira Mercatanti</name> 
            </respStmt> 
         </titleStmt> 
         <publicationStmt> 
@@ -85,7 +85,7 @@
 
         <listWit>            
            <witness xml:id="Pit"> 
-              <!--ref target="X"--> Pit<!--/ref--> 
+              <ref type="siglum" target="#Pit">Pit</ref> 
                c. 84r,<abbr xml:id="PitC">C</abbr> (vv.1-4): <hi rend="italic">do(mino) paolo</hi> 
            </witness> 
         </listWit> 
@@ -95,7 +95,7 @@
 
         <listApp type="formal"> 
            <listApp> 
-              <head> 1</head> 
+              <head>1</head> 
               <app from="#l1a1" to="#l1a2"> 
                  <lem>da·tte</lem> 
                  <rdg wit="#Pit"> dacte</rdg> 

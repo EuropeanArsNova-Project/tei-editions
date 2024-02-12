@@ -13,15 +13,15 @@
             </respStmt>
             <respStmt> 
                <resp>Edited by</resp> 
-               <name> Maria Sofia Lannutti</name> 
+               <name>Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
                <resp>Revised by</resp> 
-               <name> Luca Gatti</name> 
+               <name>Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
                <resp>TEI-encoded by</resp> 
-               <name> Elvira Mercatanti</name> 
+               <name>Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt>
          <publicationStmt>
@@ -89,12 +89,12 @@
       <back>
          <listWit>            
             <witness xml:id="Pit">
-               <!--ref target="X"-->Pit<!--/ref-->
+               <ref type="siglum" target="#Pit">Pit</ref>
                c. 83r, <abbr xml:id="PitC">C</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">do(n) paolo</hi>
             </witness>
 
             <witness xml:id="SL">
-               <!--ref target="X"-->SL<!--/ref-->
+               <ref type="siglum" target="#SL">SL</ref>
                c. 105v, <abbr xml:id="SLC">C</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">a(bbas) paulus</hi>
             </witness>
          </listWit>
@@ -102,7 +102,7 @@
 
          <listApp type="substantial">
             <listApp>
-               <head> 1</head>
+               <head>1</head>
                <app from="#l1a1" to="#l1a2">
                   <lem>Po’ c’ànno</lem>
                   <rdg> o<gap reason="illegible" unit="chars" quantity="3" rend="***"/> canno<wit><ref corresp="#SLT">SL<hi rend="super">T</hi></ref></wit></rdg>
@@ -115,7 +115,7 @@
             </listApp>
 
             <listApp>
-               <head> 2</head>
+               <head>2</head>
                <app from="#l2a1" to="#l2a2">
                   <lem>manchi</lem>
                   <rdg> man<gap reason="illegible" unit="chars" quantity="2" rend="**"/><wit><ref corresp="#SLT">SL<hi rend="super">T</hi></ref></wit></rdg>
@@ -123,7 +123,7 @@
             </listApp>
 
             <listApp>
-               <head> 3</head>
+               <head>3</head>
                <app from="#l3a1" to="#l3a2">
                   <lem>viso</lem>
                   <rdg> <gap reason="illegible" rend="ill."/><wit><ref corresp="#SLT">SL<hi rend="super">T</hi></ref></wit></rdg>               
@@ -131,7 +131,7 @@
             </listApp>
 
             <listApp>
-               <head> 4</head>
+               <head>4</head>
                <app from="#l4a1" to="#l4a2">
                   <lem>prese</lem>
                   <rdg> <gap reason="illegible" rend="ill."/><wit><ref corresp="#SLC">SL<hi rend="super">C</hi></ref></wit></rdg>               
@@ -144,7 +144,7 @@
             </listApp>
 
             <listApp>
-               <head> 6</head>
+               <head>6</head>
                <app from="#l6a1" to="#l6a2">
                   <lem>sconsolato et l’alma</lem>
                   <rdg wit="#SL"> sconsolla<gap reason="illegible" unit="chars" quantity="3" rend="***"/>ma </rdg>
@@ -152,7 +152,7 @@
             </listApp>
 
             <listApp>
-               <head> 8</head>
+               <head>8</head>
                <app from="#l8a1" to="#l8a2">
                   <lem>franchi</lem>
                   <rdg> <gap reason="illegible" unit="chars" quantity="3" rend="***"/>chi <wit><ref corresp="#SLC">SL<hi rend="super">C</hi></ref></wit></rdg>               
@@ -163,7 +163,7 @@
 
          <listApp type="formal">
             <listApp>
-               <head> 2</head>
+               <head>2</head>
                <app from="#l2a3" to="#l2a4">
                   <lem>balcon’ e</lem>
                   <rdg> balconie<wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
@@ -171,7 +171,7 @@
             </listApp>
 
             <listApp>
-               <head> 3</head>
+               <head>3</head>
                <app from="#l3a3" to="#l3a4">
                   <lem>pensoso</lem>
                   <rdg> pen<del>so</del>soso <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>             
@@ -179,7 +179,7 @@
             </listApp>
 
             <listApp>
-               <head> 4</head>
+               <head>4</head>
                <app from="#l4a5" to="#l4a6">
                   <lem>facto</lem>
                   <rdg wit="#Sl"> fatto</rdg>
@@ -187,7 +187,7 @@
             </listApp>
 
             <listApp>
-               <head> 5</head>
+               <head>5</head>
                <app from="#l5a1" to="#l5a2">
                   <lem>Poi sotto</lem>
                   <rdg wit="#SL"> ‹postol› posoto</rdg>
@@ -195,7 +195,7 @@
             </listApp>
 
             <listApp>
-               <head> 8</head>
+               <head>8</head>
                <app from="#l8a3" to="#l8a4">
                   <lem>spero</lem>
                   <rdg wit="#SL"> ispero</rdg>

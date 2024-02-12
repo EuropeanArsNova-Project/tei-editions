@@ -88,23 +88,23 @@
       <back>
          <listWit>
             <witness xml:id="Red">
-                <!--ref target=""-->Red<!--/ref-->
+                <ref type="siglum" target="#R">Red</ref>
                 c. <locus>112r</locus>: <hi rend="italic">ballata del detto</hi>
             </witness>
             <witness xml:id="Sq">
-                <!--ref target=""-->Sq<!--/ref-->
+                <ref type="siglum" target="#Sq">Sq</ref>
                 c. <locus>51r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-5): <hi rend="italic">magister laurentius | de florentia</hi>
             </witness>
             <witness xml:id="Mgl3">
-                <!--ref target=""-->Mgl3<!--/ref-->
+                <ref type="siglum" target="#">Mgl3</ref>
                 c. <locus>50v</locus>: <hi rend="italic">ballata</hi>
             </witness>
             <witness xml:id="C1">
-                <!--ref target=""-->C1<!--/ref-->
+                <ref type="siglum" target="#">C1</ref>
                 c. <locus>455v</locus>
             </witness>
             <witness xml:id="Rc1">
-                <!--ref target=""-->Rc1<!--/ref-->
+                <ref type="siglum" target="#R">Rc1</ref>
                 c. <locus>58v</locus>: <hi rend="italic">ballata di niccolaio soldanieri di firenze</hi>
             </witness>
          </listWit>

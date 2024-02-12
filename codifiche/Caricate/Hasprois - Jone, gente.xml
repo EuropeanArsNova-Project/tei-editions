@@ -133,7 +133,7 @@
       <back>
          <listWit>            
             <witness xml:id="Q15">
-               <!--ref target="X"-->Q15<!--/ref-->
+               <ref type="siglum" target="#">Q15</ref>
                <locus>cc. 21v-24r</locus>, <abbr xml:id="Q15C">C</abbr> (vv. 1-5), <abbr xml:id="Q15Ct">Ct</abbr> (vv. 1-5): <hi rend="italic">hasprose</hi>         
             </witness>
          </listWit>

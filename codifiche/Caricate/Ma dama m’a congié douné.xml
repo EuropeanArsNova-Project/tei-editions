@@ -125,11 +125,11 @@
         <back>
             <listWit>
                 <witness xml:id="Ch">
-                    <!--ref target="X"-->Ch<!--/ref-->
+                    <ref type="siglum" target="#Ch">Ch</ref>
                     c. <locus>14v</locus>, <abbr xml:id="ChC">C</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-21)
                 </witness>
                 <witness xml:id="Trém">
-                    <!--ref target="X"-->Trém<!--/ref-->
+                    <ref type="siglum" target="#">Trém</ref>
                     c. <locus>Ir</locus> (<hi rend="italic">perduto</hi>): l’<hi rend="italic">incipit Ma dame ma conje</hi> è citato nell’indice seguito dal numero di carta (XXXVII), che non si è conservata.
                 </witness>
             </listWit>

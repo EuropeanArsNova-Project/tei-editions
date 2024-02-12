@@ -14,15 +14,15 @@
             </respStmt>
             <respStmt> 
                <resp>Edited by</resp> 
-               <name> Maria Sofia Lannutti</name> 
+               <name>Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
                <resp>Revised by</resp> 
-               <name> Luca Gatti</name> 
+               <name>Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
                <resp>TEI-encoded by</resp> 
-               <name> Elvira Mercatanti</name> 
+               <name>Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt>
          <publicationStmt>
@@ -90,7 +90,7 @@
       <back>
          <listWit>            
             <witness xml:id="Lu">
-               <!--ref target="X"-->Lu<!--/ref-->
+               <ref type="siglum" target="#Lu">Lu</ref>
                c. 26r, <abbr xml:id="LuC">C</abbr> (vv.1-4), <abbr xml:id="LuT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">marot</hi>
             </witness>
          </listWit>
@@ -119,7 +119,7 @@
             </listApp>
 
             <listApp>
-               <head> 6</head>
+               <head>6</head>
                <app from="#l6a1" to="#l6a2">
                   <lem>sospir</lem>
                   <rdg wit="#Lu"> sospiri</rdg>
@@ -132,7 +132,7 @@
             </listApp>
 
             <listApp>
-               <head> 7</head>
+               <head>7</head>
                <app from="#l7a1" to="#l7a2">
                   <lem>ora</lem>
                   <rdg> or <gap reason="illegible" unit="chars" quantity="1" rend="*"/> <wit><ref corresp="#Lu">Lu</ref></wit></rdg>                
@@ -140,7 +140,7 @@
             </listApp>
 
             <listApp>
-               <head> 8</head>
+               <head>8</head>
                <app from="#l8a1" to="#l8a2">
                   <lem>prego</lem>
                   <rdg wit="#Lu"> <gap reason="illegible" rend="ill."/></rdg>

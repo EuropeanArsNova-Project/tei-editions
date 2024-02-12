@@ -100,11 +100,11 @@
       <back>
          <listWit>
             <witness xml:id="Rc1">
-                <!--ref target=""-->Rc1<!--/ref-->
+                <ref type="siglum" target="#R">Rc1</ref>
                 c. <locus>68v</locus>: <hi rend="italic"> ballata di mess(er) greghorio calonista di firenze</hi>
             </witness>
             <witness xml:id="Sq">
-                <!--ref target=""-->Sq<!--/ref-->
+                <ref type="siglum" target="#Sq">Sq</ref>
                 c. <locus>50r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-7): <hi rend="italic">magister laurenius | de florentia</hi>
             </witness>
          </listWit>

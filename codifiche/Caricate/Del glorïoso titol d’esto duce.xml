@@ -98,7 +98,7 @@
       <back>
          <listWit>            
             <witness xml:id="Lu">
-               <!--ref target="X"-->Lu<!--/ref-->
+               <ref type="siglum" target="#Lu">Lu</ref>
                cc. <locus>22v-23v [LXVIv-LXVIIv]</locus>, <abbr xml:id="LuC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="LuT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid.</hi> (vv. 4-6 e 9-10): <hi rend="italic">antonellus marot de caserta</hi>
             </witness>
          </listWit>

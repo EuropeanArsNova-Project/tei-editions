@@ -84,7 +84,7 @@
         <back>
             <listWit>
                 <witness xml:id="Fp">
-                    <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-nazionale-centrale-pal-panciati-manoscript/ARSNOVA_185275">Fp</ref>
+                    <ref target="#Fp">Fp</ref>
                     cc. <locus>59v-60r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid</hi>. (vv. 1-3 e 7-8): <hi rend="italic">m(agister) giova(nni)</hi>
                 </witness>
             </listWit>

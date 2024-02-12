@@ -84,15 +84,15 @@
       <back>
          <listWit>
             <witness xml:id="Pit">
-               <!--ref target="X"-->Pit<!--/ref-->
+               <ref type="siglum" target="#Pit">Pit</ref>
                c. <locus>98v</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-4), <abbr xml:id="PitT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">d(minus) p(aulus)</hi>(eraso)
             </witness>
             <witness xml:id="Cil">
-               <!--ref target="X"-->Cil<!--/ref-->
+               <ref type="siglum" target="#Cil">Cil</ref> 
                c. <locus>94v</locus>, <abbr xml:id="CilC">C</abbr> (vv. 1-4), <abbr xml:id="CilT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">d(ominus) p(aulus)</hi>
             </witness>
             <witness xml:id="SL">
-                <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-archivio-del-capitolo-di-san-lorenzo-2211-manoscript/ARSNOVA_21819">SL</ref>
+                <ref target="#SL">SL</ref>
                c. <locus>108r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-4), <abbr xml:id="SLT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">a(bbas) paulus</hi>.
             </witness>
             </listWit>

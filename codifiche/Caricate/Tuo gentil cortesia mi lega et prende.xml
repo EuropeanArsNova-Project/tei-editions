@@ -83,7 +83,7 @@
       <back>
          <listWit>
             <witness xml:id="Sq">
-                <!--ref target=""-->Sq<!--/ref-->
+                <ref type="siglum" target="#Sq">Sq</ref>
                 c. <locus>119r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-2), <abbr xml:id="SqT">T</abbr> (vv. 1-2), <hi rend="italic">resid.</hi> (vv. 3-7): <hi rend="italic">magister frater bartolinus de padua</hi>
             </witness>
          </listWit>

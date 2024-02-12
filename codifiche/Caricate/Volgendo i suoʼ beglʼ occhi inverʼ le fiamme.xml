@@ -75,27 +75,27 @@
         <back>
             <listWit>
                 <witness xml:id="A">
-                    <!--ref target="X"-->A<!--/ref-->c. 14v: <hi rend="italic">madriale di francho detto</hi> (marginalia: <hi rend="italic">magi(ster) donatus de cascya sonu(m) dedit</hi>).
+                    <ref type="siglum" target="#A">A</ref>c. 14v: <hi rend="italic">madriale di francho detto</hi> (marginalia: <hi rend="italic">magi(ster) donatus de cascya sonu(m) dedit</hi>).
                 </witness>
                 
                 <witness xml:id="C3">
-                    <!--ref target="X"-->C3<!--/ref--> cc. <locus>42v-43r</locus>: madriale di francho d. 21.                    
+                    <ref type="siglum" target="#C3">C3</ref> cc. <locus>42v-43r</locus>: madriale di francho d. 21.                    
                 </witness>
                 
                 <witness xml:id="Mp4">
-                    <!--ref target="X"-->Mp4<!--/ref--> cc. <locus>151v-152r</locus>                    
+                    <ref type="siglum" target="#Mp4">Mp4</ref> cc. <locus>151v-152r</locus>                    
                 </witness>
                 
                 <witness xml:id="Pl3">
-                    <!--ref target="X"-->Pl3<!--/ref--> c. 111r
+                    <ref type="siglum" target="#Pl3">Pl3</ref> c. 111r
                 </witness>
                 
                 <witness xml:id="Pat">
-                    <!--ref target="X"-->Pat<!--/ref--> c. 26r                    
+                    <ref type="siglum" target="#Pat">Pat</ref> c. 26r                    
                 </witness>
          
                 <witness xml:id="P3">
-                    <!--ref target="X"-->P3<!--/ref-->cc. <locus>112v-113r</locus>
+                    <ref type="siglum" target="#P3">P3</ref>cc. <locus>112v-113r</locus>
                 </witness>
             </listWit>
 

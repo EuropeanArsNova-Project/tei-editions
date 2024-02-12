@@ -85,11 +85,11 @@
         <back>
             <listWit>
                 <witness xml:id="R">
-                    <ref target="http://www.mirabileweb.it/manuscript-rom/paris-biblioth%C3%A8que-nationale-de-france-n-a-fr-6771-manoscript/LIO_30658">R</ref>
+                    <ref target="#R">R</ref>
                     c. <locus>73v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-9)
                 </witness>
                 <witness xml:id="Trém">
-                    <!--ref target="X"-->Trém<!--/ref-->
+                    <ref type="siglum" target="#">Trém</ref>
                     c. <locus>Ir</locus> (<hi rend="italic">perduto</hi>): l’<hi rend="italic">incipit Com(m)e le cerf</hi> è citato nell’indice seguito dal numero di carta (XLV), che non si è conservata.
                 </witness>
             </listWit>

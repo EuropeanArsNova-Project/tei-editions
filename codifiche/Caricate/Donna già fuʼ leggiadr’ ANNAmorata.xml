@@ -84,15 +84,15 @@
         <back>
             <listWit>
                 <witness xml:id="Fp">
-                    <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-nazionale-centrale-pal-panciati-manoscript/ARSNOVA_185275">Fp</ref>
+                    <ref target="#Fp">Fp</ref>
                     cc. <locus>56v-57r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-8), <abbr xml:id="FpT">T</abbr> (vv. 1-8): <hi rend="italic">m(agister) giova(nni)</hi>
                 </witness>
                 <witness xml:id="Sq">
-                    <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-medicea-laurenziana-med-pal-87--manoscript/ARSNOVA_224962">Sq</ref>
+                    <ref target="#Sq">Sq</ref>
                     cc. <locus>4v-5r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-8), <abbr xml:id="SqT">T</abbr> (vv. 1-8): <hi rend="italic">m(agister) iovannes de florentia</hi>
                 </witness>
                 <witness xml:id="SL">
-                    <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-archivio-del-capitolo-di-san-lorenzo-2211-manoscript/ARSNOVA_21819">SL</ref>
+                    <ref target="#SL">SL</ref>
                     cc. <locus>30v-31r</locus> (<hi rend="italic">cantus</hi> e <hi rend="italic">tenor</hi> sono illeggibili)
                 </witness>
             </listWit>

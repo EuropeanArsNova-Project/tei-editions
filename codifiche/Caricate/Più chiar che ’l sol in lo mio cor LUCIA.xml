@@ -14,15 +14,15 @@
             </respStmt>
             <respStmt> 
                <resp>Edited by</resp> 
-               <name> Maria Sofia Lannutti</name> 
+               <name>Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
                <resp>Revised by</resp> 
-               <name> Luca Gatti</name> 
+               <name>Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
                <resp>TEI-encoded by</resp> 
-               <name> Elvira Mercatanti</name> 
+               <name>Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt>
          <publicationStmt>
@@ -112,12 +112,12 @@
       <back>
          <listWit>            
             <witness xml:id="Lu">
-               <!--ref target="X"-->Lu<!--/ref-->
+               <ref type="siglum" target="#Lu">Lu</ref>
                cc. <locus>24v-25v</locus>, <abbr xml:id="LuC">C</abbr> (vv.1-4), <abbr xml:id="LuT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-14): <hi rend="italic">antonellus</hi>
             </witness>
 
             <witness xml:id="Pr">
-               <!--ref target="X"-->Pr<!--/ref-->
+               <ref type="siglum" target="#">Pr</ref>
                c. 1r, <abbr xml:id="PrC">C</abbr> (vv. 1-4), <abbr xml:id="PrT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">a. marotus de caserta abbas</hi>
             </witness>
          </listWit>

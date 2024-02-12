@@ -76,7 +76,7 @@
         <back>
             <listWit>
                 <witness xml:id="MoA">
-                    <!--ref target="X"-->MoA<!--/ref--> c. 47r, <abbr xml:id="MoAC">C</abbr> (vv. 1-4), <abbr xml:id="MoAT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (5-8): <hi rend="italic"> idem </hi> [c. 47r: <hi rend="italic"> m(attheus) d(e) p(erusio)</hi>]
+                    <ref type="siglum" target="#MoA">MoA</ref> c. 47r, <abbr xml:id="MoAC">C</abbr> (vv. 1-4), <abbr xml:id="MoAT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (5-8): <hi rend="italic"> idem </hi> [c. 47r: <hi rend="italic"> m(attheus) d(e) p(erusio)</hi>]
                 </witness>
             </listWit>
 

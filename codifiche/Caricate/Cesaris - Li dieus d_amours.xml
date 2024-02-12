@@ -120,7 +120,7 @@
       <back>
          <listWit>            
             <witness xml:id="Ch">
-               <ref target="https://www.mirabileweb.it/manuscript-rom/chantilly-biblioth%C3%A8que-et-archives-du-ch%C3%A2teau-564--manoscript/ARSNOVA_30779">Ch</ref>
+               <ref type="siglum" target="#Ch">Ch</ref>
                c. <locus>46v</locus>, <abbr xml:id="ChC">C</abbr> (vv. 14-21): <hi rend="italic">tenor joh(ann)es cesaris</hi>         
             </witness>
          </listWit>

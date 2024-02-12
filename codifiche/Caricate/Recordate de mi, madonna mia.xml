@@ -84,11 +84,11 @@
       <back>
          <listWit>
             <witness xml:id="Pz">
-                <!--ref target=""-->Pz<!--/ref-->
+                <ref type="siglum" target="#Pz">Pz</ref> 
                 c. <locus>24v</locus>, <abbr xml:id="PzC">C</abbr> (vv. 1-4), <abbr xml:id="PzT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8)
             </witness>
             <witness xml:id="Sq">
-                <!--ref target=""-->Sq<!--/ref-->
+                <ref type="siglum" target="#Sq">Sq</ref>
                 c. <locus>117r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4): <hi rend="italic">magister frater bartolinus de padua</hi>
             </witness>
          </listWit>

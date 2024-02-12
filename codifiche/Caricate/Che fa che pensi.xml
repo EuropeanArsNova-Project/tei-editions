@@ -82,15 +82,15 @@
          
          <listWit>            
             <witness xml:id="Sq">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-nazionale-centrale-pal-panciati-manoscript/ARSNOVA_185275">Fp</ref> 
+               <ref type="siglum" target="#Fp">Fp</ref> 
                c. <locus>157v-158r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8):  <hi rend="italic">magister franciscus cecus horghanista de florentia</hi>
             </witness>
             <witness xml:id="Pit">
-               <!--ref target="X"-->Pit<!--/ref-->
+               <ref type="siglum" target="#Pit">Pit</ref>
                c. <locus>104r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-4), <abbr xml:id="PitT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">f(ranciscus)</hi>
             </witness>
             <witness xml:id="Fn">
-               <!--ref target="X"-->Fn<!--/ref-->
+               <ref type="siglum" target="#Fn">Fn</ref>
                c. <locus><hi rend="small-caps">i</hi>’r</locus>, <abbr xml:id="FnT">T</abbr> (vv. 1-4): la rubrica non è leggibile per la rifilatura della carta.
             </witness>
          </listWit>

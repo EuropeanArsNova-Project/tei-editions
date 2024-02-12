@@ -95,31 +95,31 @@
       <back>
          <listWit>
             <witness xml:id="Fp">
-                <!--ref target=""-->Fp<!--/ref-->
+                <ref type="siglum" target="#Fp">Fp</ref>
                 cc. <locus>47v-48r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-6 e 7-9): <hi rend="italic">m(agister) giova(n)ni</hi>
             </witness>
             <witness xml:id="Sq">
-                <!--ref target=""-->Sq<!--/ref-->
+                <ref type="siglum" target="#Sq">Sq</ref>
                 cc. <locus>1v-2r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-6 e 7-9): <hi rend="italic">m(agister) iovannes de florentia</hi>
             </witness>
             <witness xml:id="Rs">
-                <!--ref target=""-->Rs<!--/ref-->
+                <ref type="siglum" target="#Rs">Rs</ref> 
                 c. <locus>23v</locus>, <abbr xml:id="RsC">C</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-6)
             </witness>
             <witness xml:id="SL">
-                <!--ref target=""-->SL<!--/ref-->
+                <ref type="siglum" target="#SL">SL</ref>
                 cc. <locus>27v-28r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-6 e 7-9)): c. 28r: <hi rend="italic">j[...] cascia</hi>
             </witness>
             <witness xml:id="Fc">
-                <!--ref target=""-->Fc<!--/ref-->
+                <ref type="siglum" target="#">Fc</ref>
                 c. <locus>2v</locus>, <abbr xml:id="FcC">C</abbr> (vv. 1-3 e 7-8)
             </witness>
             <witness xml:id="Ol">
-                <!--ref target=""-->Ol<!--/ref-->
+                <ref type="siglum" target="#">Ol</ref>
                 c. <locus>1v</locus> (vv. 1-3 e 10-11)
             </witness>
             <witness xml:id="Mg3">
-                <!--ref target=""-->Mg3<!--/ref-->
+                <ref type="siglum" target="#">Mg3</ref>
                 c. <locus>47v</locus> (vv. 1-3 e 10-11)
             </witness>
          </listWit>

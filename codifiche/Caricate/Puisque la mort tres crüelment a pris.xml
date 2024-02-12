@@ -15,15 +15,15 @@
                 </respStmt>
                 <respStmt>
                     <resp>Edited by</resp>
-                    <name> Maria Sofia Lannutti</name> 
+                    <name>Maria Sofia Lannutti</name> 
                 </respStmt>
                 <respStmt>
                     <resp>Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
                     <resp>TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -109,14 +109,14 @@
         <back>
             <listWit>
                 <witness xml:id="MoA">
-                    <!--ref target="X"-->MoA<!--/ref--> cc. <locus>7v-8r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-12), <hi rend="italic">resid.</hi> (vv. 13-35): [c. 1r: <hi rend="italic">m(attheus) de p(er)usio</hi>]
+                    <ref type="siglum" target="#MoA">MoA</ref> cc. <locus>7v-8r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-12), <hi rend="italic">resid.</hi> (vv. 13-35): [c. 1r: <hi rend="italic">m(attheus) de p(er)usio</hi>]
                 </witness>
             </listWit>
 
 
             <listApp type="substantial">
                 <listApp>
-                    <head> 10</head>
+                    <head>10</head>
                     <app from="#l10a1" to="#l10a2">
                         <lem>retrere</lem>
                         <rdg wit="#MoA">retrer</rdg>
@@ -124,7 +124,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 15</head>
+                    <head>15</head>
                     <app from="#l15a1" to="#l15a2">
                         <lem>toutes</lem>
                         <rdg wit="#MoA"> tous les </rdg>
@@ -132,7 +132,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 26</head>
+                    <head>26</head>
                     <app from="#l26a1" to="#l26a2">
                         <lem>lous</lem>
                         <rdg wit="#MoA"> loues </rdg>
@@ -140,7 +140,7 @@
                 </listApp>
                 
                 <listApp>
-                    <head> 29</head>
+                    <head>29</head>
                     <app from="#l29a1" to="#l29a2">
                         <lem>dois</lem>
                         <rdg wit="#MoA"> doit</rdg>

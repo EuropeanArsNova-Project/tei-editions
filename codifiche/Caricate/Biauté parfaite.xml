@@ -133,47 +133,47 @@
                 <back>
                     <listWit>
                         <witness xml:id="MachA">
-                            <!--ref target=""-->MachA<!--/ref-->
+                            <ref type="siglum" target="#MachA">MachA</ref>
                             c. <locus>196v</locus>
                         </witness>
                         <witness xml:id="MachB">
-                            <!--ref target=""-->MachB<!--/ref-->
+                            <ref type="siglum" target="#MachB">MachB</ref>
                             c. <locus>37r</locus>
                         </witness>
                         <witness xml:id="MachC">
-                            <!--ref target=""-->MachC<!--/ref-->
+                            <ref type="siglum" target="#MachC">MachC</ref>
                             c. <locus>140r</locus>
                         </witness>
                         <witness xml:id="MachD">
-                            <!--ref target=""-->MachD<!--/ref-->
+                            <ref type="siglum" target="#MachD">MachD</ref>
                             c. <locus>24v</locus>
                         </witness>
                         <witness xml:id="MachE">
-                            <!--ref target=""-->MachE<!--/ref-->
+                            <ref type="siglum" target="#MachE">MachE</ref>
                             c. <locus>9r</locus>
                         </witness>
                         <witness xml:id="MachG">
-                            <!--ref target=""-->MachG<!--/ref-->
+                            <ref type="siglum" target="#MachG">MachG</ref>
                             c. <locus>58v</locus>
                         </witness>
                         <witness xml:id="MachH">
-                            <!--ref target=""-->MachH<!--/ref-->
+                            <ref type="siglum" target="#MachH">MachH</ref>
                             c. <locus>112v</locus>
                         </witness>
                         <witness xml:id="MachM">
-                            <!--ref target=""-->MachM<!--/ref-->
+                            <ref type="siglum" target="#MachM">MachM</ref>
                             c. <locus>187r</locus>
                         </witness>
                         <witness xml:id="MachVg">
-                            <!--ref target=""-->MachVg<!--/ref-->
+                            <ref type="siglum" target="#MachVg">MachVg</ref>
                             c. <locus>20r</locus>
                         </witness>
                         <witness xml:id="MoA">
-                            <!--ref target=""-->MoA<!--/ref-->
+                            <ref type="siglum" target="#MoA">MoA</ref>
                             c. <locus>14r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-7): <hi rend="italic">idem</hi> [c. 13: <hi rend="italic">anthonello de caserta</hi>]
                         </witness>
                         <witness xml:id="R">
-                            <!--ref target=""-->R<!--/ref-->
+                            <ref type="siglum" target="#R">R</ref>
                             c. <locus>46v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-7)
                         </witness>
                     </listWit>

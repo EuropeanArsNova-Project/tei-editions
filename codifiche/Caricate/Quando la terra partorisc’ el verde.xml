@@ -84,19 +84,19 @@
       <back>
          <listWit>
             <witness xml:id="Sq">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-medicea-laurenziana-med-pal-87--manoscript/ARSNOVA_224962">Sq</ref>
+               <ref target="#Sq">Sq</ref>
                cc. <locus>106v-107r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">magister frater bartolinus de padua</hi>
             </witness>
             <witness xml:id="Lo">
-               <!--ref target="X"-->Lo<!--/ref-->
+               <ref type="siglum" target="#Lo">Lo</ref>
                cc. <locus>13v-14r</locus> [= <abbr type="siglum" xml:id="Lo1">Lo<hi rend="super">1</hi></abbr>] e 20v-21-r [= <abbr type="siglum" xml:id="Lo2">Lo<hi rend="super">2</hi></abbr>], <abbr xml:id="LoC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="LoT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">fr(atr)is bartolini de padova</hi>
             </witness>
             <witness xml:id="R">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/paris-biblioth%C3%A8que-nationale-de-france-n-a-fr-6771-manoscript/LIO_30658">R</ref>
+               <ref target="#R">R</ref>
                c. <locus>20r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="RT">T</abbr> (vv. 1-3 e 7-8)
             </witness>
             <witness xml:id="SL">
-                <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-archivio-del-capitolo-di-san-lorenzo-2211-manoscript/ARSNOVA_21819">SL</ref>
+                <ref target="#SL">SL</ref>
                cc. <locus>39v-40r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 7-8). Al<hi rend="italic">cantus</hi> si leggono l'intero v. 1, <hi rend="italic">novo</hi> (v. 2), <hi rend="italic">fronde coronata che non per</hi> (v. 3), <hi rend="italic">tal fiamelle</hi> (v. 7), <hi rend="italic">che non sadorna daltre</hi> (v. 8); al <hi rend="italic">tenor</hi> si legge <hi rend="italic">coronata che non perde</hi> (v. 3).
             </witness>
             </listWit>

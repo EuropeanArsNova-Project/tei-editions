@@ -92,15 +92,15 @@
       <back>
          <listWit>
             <witness xml:id="Sq">
-                <!--ref target=""-->Sq<!--/ref-->
+                <ref type="siglum" target="#Sq">Sq</ref>
                 cc. <locus>47v-48r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic">magister laurertius | de florentia</hi>
             </witness>
             <witness xml:id="Fp">
-                <!--ref target=""-->Fp<!--/ref-->
+                <ref type="siglum" target="#Fp">Fp</ref>
                 cc. <locus>77v-78r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="FpT"></abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic"> s(er) lorenço</hi>
             </witness>
             <witness xml:id="Pit">
-                <!--ref target=""-->Pit<!--/ref-->
+                <ref type="siglum" target="#Pit">Pit</ref>
                 cc. <locus>22v-23r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-9), <abbr xml:id="PitT"> </abbr> (vv. 1-3 e 10-11): <hi rend="italic">s(er) lore(n)ço di firençe</hi>
             </witness>
          </listWit>

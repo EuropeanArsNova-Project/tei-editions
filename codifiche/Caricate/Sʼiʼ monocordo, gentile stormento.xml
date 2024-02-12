@@ -75,11 +75,11 @@
         <back>
             <listWit>
                 <witness xml:id="Sq">
-                    <!--ref target="X"-->Sq<!--/ref-->cc. <locus>76v-77r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 4-5), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 4-5): <hi rend="italic">m(agister) donatus de florentia</hi>
+                    <ref type="siglum" target="#Sq">Sq</ref>cc. <locus>76v-77r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 4-5), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 4-5): <hi rend="italic">m(agister) donatus de florentia</hi>
                 </witness>
                 
                 <witness xml:id="SL">
-                    <!--ref target="X"-->SL<!--/ref-->cc. <locus>78v-79r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 4-5), <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 4-5). La rubrica è illeggibile.
+                    <ref type="siglum" target="#SL">SL</ref>cc. <locus>78v-79r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 4-5), <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 4-5). La rubrica è illeggibile.
                 </witness>
             </listWit>
 

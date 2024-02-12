@@ -95,7 +95,7 @@
       <back>
          <listWit>            
             <witness xml:id="Cil">
-               <!--ref target="X"-->Cil<!--/ref-->
+               <ref type="siglum" target="#Cil">Cil</ref> 
                c. 97r, <abbr xml:id="CilC">C</abbr> (vv.1-5), <abbr xml:id="CicT">T</abbr> (vv.1-4): <hi rend="italic">d(ominus) p(aulus)</hi>. Il testo è frammentario: per lacuna meccanica, del <hi rend="italic">cantus</hi> si leggono il v. 5 e, parzialmente, i vv. 1 e 3-4; del <hi rend="italic">tenor</hi>, invece, rimangono il v. 1, con parti dei vv. 3-4.
             </witness>
          </listWit>

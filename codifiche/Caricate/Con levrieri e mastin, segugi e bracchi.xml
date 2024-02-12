@@ -93,15 +93,15 @@
         <back>
             <listWit>
                 <witness xml:id="Fp">
-                    <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-nazionale-centrale-pal-panciati-manoscript/ARSNOVA_185275">Fp</ref>
+                    <ref target="#Fp">Fp</ref>
                     cc. <locus>84v-85r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="FpT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic">s(er) gherardello</hi>
                 </witness>
                 <witness xml:id="Sq">
-                    <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-medicea-laurenziana-med-pal-87--manoscript/ARSNOVA_224962">Sq</ref>
+                    <ref target="#Sq">Sq</ref>
                     c. <locus>27v</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 10-11): <hi rend="italic">magister s(er) ghirardellus de florentia</hi>
                 </witness>
                 <witness xml:id="Lo">
-                    <!--ref target="X"-->Lo<!--/ref>-->
+                    <ref type="siglum" target="#">Lo<!--/ref>-->
                     cc. <locus>71v-72r</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="LoT">T</abbr> (incipit v.1),  <hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic">m(adrigale) di s(ser) gheradello</hi>
                 </witness>
             </listWit>

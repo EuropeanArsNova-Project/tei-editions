@@ -114,7 +114,7 @@
       <back>
          <listWit>            
             <witness xml:id="Ox2">
-               <!--ref target="X"-->Ox2<!--/ref-->
+               <ref type="siglum" target="#Ox2">Ox2</ref> 
                <locus>c. 93v</locus>, <abbr xml:id="Ox2C">C</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic"> r(ichard) loqueville</hi>
             </witness>
          </listWit>

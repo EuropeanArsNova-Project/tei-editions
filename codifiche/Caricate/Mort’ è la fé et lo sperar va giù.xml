@@ -90,12 +90,12 @@
       <back>
          <listWit>            
             <witness xml:id="Pit">
-               <!--ref target="X"--> Pit<!--/ref -->
+               <ref type="siglum" target="#"> Pit<!--/ref -->
                cc. <locus> 94v-95r</locus>, <abbr xml:id="PitC"> C</abbr> (vv. 1-4), <abbr xml:id="PitT"> T</abbr> (vv. 1-4), <hi rend="italic"> resid.</hi> (vv. 5-8):[c.93v: <hi rend="italic">fra(n)ciscus</hi>]
             </witness>
 
             <witness xml:id="Cil">
-               <!--ref target="X"--> Cil <!--/ref--> 
+               <ref type="siglum" target="#"> Cil </ref> 
                c. 94v, <abbr xml:id="CilC"> C </abbr> (vv.1-4), <abbr xml:id="CilT"> T</abbr> (vv. 1-4), <hi rend="italic"> resid. </hi> (vv.5-8): [c.94r: <hi rend="italic">d(ominus) p(aulus)</hi>]
             </witness>
          </listWit>

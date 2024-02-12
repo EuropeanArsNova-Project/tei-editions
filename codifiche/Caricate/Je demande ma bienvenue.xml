@@ -82,7 +82,7 @@
         <back>
             <listWit>
                 <witness xml:id="Ox2">
-                    <!--ref target="X"-->Ox2<!--/ref--> c. 17r, <abbr xml:id="Ox2C">C</abbr> (vv. 1-4), <hi rend="italic"> resid.</hi> (vv. 5-13): <hi rend="italic">acourt</hi>
+                    <ref type="siglum" target="#Ox2">Ox2</ref>  c. 17r, <abbr xml:id="Ox2C">C</abbr> (vv. 1-4), <hi rend="italic"> resid.</hi> (vv. 5-13): <hi rend="italic">acourt</hi>
                     Per l’identificazione di Acourt con Johannes de Altacuria si veda Plumley 2001, laddove esprime parere contrario Strohm 1993, p. 140.
                 </witness>
             </listWit>

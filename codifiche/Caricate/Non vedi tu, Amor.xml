@@ -90,11 +90,11 @@
       <back>
          <listWit>
             <witness xml:id="Sq">
-               <!--ref target=""-->Sq<!--/ref-->
+               <ref type="siglum" target="#Sq">Sq</ref>
                c. <locus>47v</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-10) : <hi rend="italic">magister laurentius | de florentia</hi>
             </witness>
             <witness xml:id="Mar">
-                <!--ref target=""-->Mar<!--/ref-->
+                <ref type="siglum" target="#">Mar</ref>
                 c. <locus>53v</locus>: <hi rend="italic">s(er) lorenço</hi>
             </witness>
          </listWit>

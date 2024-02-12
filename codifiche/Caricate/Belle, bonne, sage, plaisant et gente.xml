@@ -15,15 +15,15 @@
                 </respStmt>
                 <respStmt>
                     <resp>Edited by</resp>
-                    <name> Maria Sofia Lannutti</name> 
+                    <name>Maria Sofia Lannutti</name> 
                 </respStmt>
                 <respStmt>
                     <resp>Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
                     <resp>TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -84,7 +84,7 @@
         <back>
             <listWit>
                 <witness xml:id="Ch">
-                    <!--ref target="X"-->Ch<!--/ref--> c. 11v, <abbr xml:id="ChC">C</abbr> (vv. 1-4), resid. (vv 5-12): <hi rend="italic">m(agister) baude cordier</hi>
+                    <ref type="siglum" target="#Ch">Ch</ref> c. 11v, <abbr xml:id="ChC">C</abbr> (vv. 1-4), resid. (vv 5-12): <hi rend="italic">m(agister) baude cordier</hi>
                 </witness>
             </listWit>
 

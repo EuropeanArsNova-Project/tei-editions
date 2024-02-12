@@ -125,11 +125,11 @@
         <back>
             <listWit>
                 <witness xml:id="Ch">
-                    <!--ref target="X"-->Ch<!--/ref-->
+                    <ref type="siglum" target="#Ch">Ch</ref>
                     c. <locus>51r</locus>, <abbr xml:id="ChC">C</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-21)
                 </witness>
                 <witness xml:id="Ca3">
-                    <!--ref target="X"-->Ca3<!--/ref-->
+                    <ref type="siglum" target="#Ca3">Ca3</ref>
                     c. <locus>3r</locus> (leggibili solo i vv. 5-7)
                 </witness>
             </listWit>

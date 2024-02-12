@@ -102,7 +102,7 @@
       <back>
          <listWit>            
             <witness xml:id="Ox2">
-               <!--ref target="X"-->Ox2<!--/ref-->
+               <ref type="siglum" target="#Ox2">Ox2</ref> 
                c. <locus>109v</locus>, <abbr xml:id="Ox2C">C</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-16): <hi rend="italic">joh(ann)es cesaris</hi>         
             </witness>
          </listWit>

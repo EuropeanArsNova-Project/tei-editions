@@ -84,7 +84,7 @@
         <back>
             <listWit>
                 <witness xml:id="Ch">
-                    <!--ref target="X"-->Ch<!--/ref-->
+                    <ref type="siglum" target="#Ch">Ch</ref>
                     c. <locus>36v</locus>, <abbr xml:id="ChC">C</abbr> (vv. 1-2),  <hi rend="italic">resid. </hi>(vv. 3-8): <hi rend="italic">garinus</hi> (nel margine in alto); <hi rend="italic">ph(ilipo)ct(us)</hi> (nel margine sinistro)
                 </witness>
             </listWit>

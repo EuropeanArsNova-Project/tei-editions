@@ -15,15 +15,15 @@
                 </respStmt>
                 <respStmt>
                     <resp>Edited by</resp>
-                    <name> Vittoria Brancato</name> 
+                    <name>Vittoria Brancato</name> 
                 </respStmt>
                 <respStmt>
                     <resp>Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
                     <resp>TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -76,7 +76,7 @@
         <back>
             <listWit>
                 <witness xml:id="Sq">
-                    <!--ref target="X"-->Sq<!--/ref--> cc. <locus>18v-19r</locus>, <abbr xml:id="SqC"
+                    <ref type="siglum" target="#Sq">Sq</ref> cc. <locus>18v-19r</locus>, <abbr xml:id="SqC"
                         >C</abbr> (vv. 1-3 e 7-8), <abbr
                             xml:id="SqT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">resid.</hi> (vv. 4-6)
                 </witness>
@@ -112,7 +112,7 @@
 
             
                 <listApp>
-                    <head> 3</head>
+                    <head>3</head>
                     <app from="#l3a1" to="#l3a2">
                         <lem>maʼ</lem>
                         <rdg>mai <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
@@ -121,7 +121,7 @@
 
                 
                 <listApp>
-                    <head> 8</head>
+                    <head>8</head>
                     <app from="#l8a1" to="#l8a2">
                         <lem>chʼiʼ odo</lem>
                         <rdg>chʼio odo  <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>

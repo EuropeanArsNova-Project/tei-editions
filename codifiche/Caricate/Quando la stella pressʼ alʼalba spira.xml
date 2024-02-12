@@ -15,15 +15,15 @@
                 </respStmt>
                 <respStmt>
                     <resp>Edited by</resp>
-                    <name> Maria Sofia Lannutti</name>
+                    <name>Maria Sofia Lannutti</name>
                 </respStmt>
                 <respStmt>
                     <resp>Revised by</resp>
-                    <name> Luca Gatti</name>
+                    <name>Luca Gatti</name>
                 </respStmt>
                 <respStmt>
                     <resp>TEI-encoded by</resp>
-                    <name> Elvira Mercatanti</name>
+                    <name>Elvira Mercatanti</name>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -85,7 +85,7 @@
             <listWit>
 
                 <witness xml:id="Fp">
-                    <!--ref target="X"-->Fp<!--/ref--> c. 54v, <abbr xml:id="FpC">C</abbr> (vv.
+                    <ref type="siglum" target="#Fp">Fp</ref> c. 54v, <abbr xml:id="FpC">C</abbr> (vv.
                     1-5), <abbr xml:id="FpT">T</abbr> (vv. 1-5), <hi rend="italic">resid.</hi>
                     (6-10): <hi rend="italic"> m(agister) giova(nni)</hi>
                 </witness>

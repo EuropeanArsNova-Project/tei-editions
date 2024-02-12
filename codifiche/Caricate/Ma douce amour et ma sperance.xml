@@ -80,11 +80,11 @@
         <back>
             <listWit>
                 <witness xml:id="MoA">
-                    <!--ref target="X"-->MoA<!--/ref--> c. 27v, <abbr xml:id="MoAC">C</abbr> (vv. 1-8), <hi rend="italic"> resid.</hi> (vv. 11-12): <hi rend="italic">jo. de janua</hi>                    
+                    <ref type="siglum" target="#MoA">MoA</ref> c. 27v, <abbr xml:id="MoAC">C</abbr> (vv. 1-8), <hi rend="italic"> resid.</hi> (vv. 11-12): <hi rend="italic">jo. de janua</hi>                    
                 </witness>
                 
                 <witness xml:id="Ln7">
-                    <!--ref target="X"-->Ln7<!--/ref--> c. 3v (vv. 1-12)                    
+                    <ref type="siglum" target="#">Ln7</ref> c. 3v (vv. 1-12)                    
                 </witness>
             </listWit>
 

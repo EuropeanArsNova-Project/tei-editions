@@ -13,15 +13,15 @@
             </respStmt>
             <respStmt> 
                <resp>Edited by</resp> 
-               <name> Maria Sofia Lannutti</name> 
+               <name>Maria Sofia Lannutti</name> 
             </respStmt> 
             <respStmt> 
                <resp>Revised by</resp> 
-               <name> Luca Gatti</name> 
+               <name>Luca Gatti</name> 
             </respStmt> 
             <respStmt> 
                <resp>TEI-encoded by</resp> 
-               <name> Elvira Mercatanti</name> 
+               <name>Elvira Mercatanti</name> 
             </respStmt> 
          </titleStmt>
          <publicationStmt>
@@ -96,7 +96,7 @@
       <back>
          <listWit>            
             <witness xml:id="Cil">
-               <!--ref target="X"--> Cil <!--/ref--> 
+               <ref type="siglum" target="#Cil">Cil</ref> 
                c. 97v, <abbr xml:id="CilC">C</abbr> (vv. 1-5),<hi rend="italic"> resid.</hi> (vv. 6-10): [c. 97r:<hi rend="italic"> d(ominus) p(aulus)</hi>]            
             </witness>
          </listWit>
@@ -128,12 +128,12 @@
 
          <div type="commentary">
             <note target="#l2">
-               <num> 2.</num>
+               <num>2.</num>
                <p>Brumana-Ciliberti propongono di integrare<hi rend="italic">Gentil</hi>a inizio di verso, ma leggono<hi rend="italic">benigno</hi> nella lezione seguente.</p>
             </note>
 
             <note target="#l5">
-               <num> 5.</num>
+               <num>5.</num>
                <p>Probabilmente <hi rend="italic">formata in paradiso</hi> (Brumana-Ciliberti).</p>
             </note>
          </div>

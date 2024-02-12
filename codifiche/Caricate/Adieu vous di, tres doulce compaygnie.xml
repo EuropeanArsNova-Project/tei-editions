@@ -79,11 +79,11 @@
         <back>
             <listWit>
                 <witness xml:id="Ch">
-                    <!--ref target="X"-->Ch<!--/ref-->
+                    <ref type="siglum" target="#Ch">Ch</ref>
                     c. <locus>47r</locus>, <abbr xml:id="ChC">C</abbr> (vv. 1-7)
                 </witness>
                 <witness xml:id="Ut">
-                    <!--ref target="X"-->Ut<!--/ref-->
+                    <ref type="siglum" target="#Ut">Ut</ref>
                     c. <locus>20v</locus>, <abbr xml:id="UtC">C</abbr> (vv. 1-7): alcuni versi sono illeggibili per via della rifilatura.
                 </witness>
             </listWit>

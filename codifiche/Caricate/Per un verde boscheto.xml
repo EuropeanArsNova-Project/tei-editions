@@ -84,31 +84,31 @@
       <back>
          <listWit>
             <witness xml:id="Sq">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-medicea-laurenziana-med-pal-87--manoscript/ARSNOVA_224962">Sq</ref>
+               <ref target="#Sq">Sq</ref>
                c. <locus>120v</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4), <abbr xml:id="SqCt">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">magister frater bartolinus de padua</hi>
             </witness>
             <witness xml:id="Fp">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-nazionale-centrale-pal-panciati-manoscript/ARSNOVA_185275">Fp</ref>
+               <ref target="#Fp">Fp</ref>
                c. <locus>66r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-4), <abbr xml:id="FpT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">fra bartolino</hi>
             </witness>
             <witness xml:id="Lo">
-               <!--ref target="X"-->Lo<!--/ref-->
+               <ref type="siglum" target="#Lo">Lo</ref>
                cc. <locus>80v-81r</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-4), <abbr xml:id="LoT">T</abbr> (vv. 1-4), <abbr xml:id="LoCt">Ct</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">m(adrigale) di fra bartolino</hi>
             </witness>
             <witness xml:id="Lu">
-               <!--ref target="X"-->Lu<!--/ref-->
+               <ref type="siglum" target="#Lu">Lu</ref>
                c. <locus>3v</locus>, <abbr xml:id="LuC">C</abbr> (vv. 1-4), <abbr xml:id="LuT">T</abbr> (vv. 1-4), <abbr xml:id="LuCt">Ct</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">fr(atr)is bartholini</hi>. Per lacuna materiale sono cadute le prime lettere delle lezioni <hi rend="italic">Per</hi> (v. 1 nel <hi rend="italic">cantus</hi> e nel <hi rend="italic">tenor</hi>), l’<hi rend="italic">orma</hi> (v. 2 nel <hi rend="italic">cantus</hi>), che (v. 4 nel <hi rend="italic">tenor</hi>).
             </witness>
             <witness xml:id="Pit">
-               <!--ref target="X"-->Pit<!--/ref-->
+               <ref type="siglum" target="#Pit">Pit</ref>
                cc. <locus>39v-40r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-4), <abbr xml:id="PitT">T</abbr> (vv. 1-4), <abbr xml:id="PitCt">Ct</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">fra(t)e(r) bartholinus</hi>
             </witness>
             <witness xml:id="R">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/paris-biblioth%C3%A8que-nationale-de-france-n-a-fr-6771-manoscript/LIO_30658">R</ref>
+               <ref target="#R">R</ref>
                c. <locus>23v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-4), <abbr xml:id="RT">T</abbr> (vv. 1-4), <abbr xml:id="RCt">Ct</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8)
             </witness>
             <witness xml:id="Rc9">
-               <!--ref target="X"-->Rc9<!--/ref-->
+               <ref type="siglum" target="#R">Rc9</ref>
                c. <locus>61r</locus>
             </witness>
             </listWit>

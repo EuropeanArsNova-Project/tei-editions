@@ -102,7 +102,7 @@
       <back>
          <listWit>
             <witness xml:id="Lw">
-               <!--ref target=""-->Lw<!--/ref-->
+               <ref type="siglum" target="#">Lw</ref>
                cc. <locus>av-br</locus>, <abbr xml:id="LwC">C</abbr> (vv. 1-10); manca il <hi rend="italic">residuum</hi>.
             </witness>
          </listWit>

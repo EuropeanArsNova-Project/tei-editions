@@ -126,7 +126,7 @@
         <back>
             <listWit>
                 <witness xml:id="Ch">
-                    <!--ref target="X"-->Ch<!--/ref-->
+                    <ref type="siglum" target="#Ch">Ch</ref>
                     c. <locus>38v</locus>, <abbr xml:id="ChC">C</abbr> (vv. 1-7),  <hi rend="italic">resid.</hi> (vv. 8-21): <hi rend="italic">ph(ilip)ot(us)</hi>
                 </witness>
             </listWit>

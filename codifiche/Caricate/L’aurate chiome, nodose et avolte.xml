@@ -84,19 +84,19 @@
       <back>
          <listWit>
             <witness xml:id="Sq">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-medicea-laurenziana-med-pal-87--manoscript/ARSNOVA_224962">Sq</ref>
+               <ref target="#Sq">Sq</ref>
                cc. <locus>107v-108r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">magister frater bartolinus de padua</hi>
             </witness>
             <witness xml:id="Lu">
-               <!--ref target="X"-->Lu<!--/ref-->
+               <ref type="siglum" target="#Lu">Lu</ref>
                c. <locus>5r [XXXr]</locus>, <abbr xml:id="LuC">C</abbr> (vv. 1-3 e 7-8): <hi rend="italic">fr(atr)is bartholini de padua</hi>
             </witness>
             <witness xml:id="R">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/paris-biblioth%C3%A8que-nationale-de-france-n-a-fr-6771-manoscript/LIO_30658">R</ref>
+               <ref target="#R">R</ref>
                c. <locus>20v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="RT">T</abbr> (vv. 1-3 e 7-8)
             </witness>
             <witness xml:id="SL">
-                <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-archivio-del-capitolo-di-san-lorenzo-2211-manoscript/ARSNOVA_21819">SL</ref>
+                <ref target="#SL">SL</ref>
                cc. <locus>31v-32r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 7-8). Nel <hi rend="italic">tenor</hi> si leggono i vv. 1-2 e 7-8.
             </witness>
             </listWit>

@@ -82,7 +82,7 @@
         <back>
             <listWit>
                 <witness xml:id="Ch">
-                    <!--ref target="X"-->Ch<!--/ref--> c. 15v, <abbr xml:id="ChC">C</abbr> (vv. 1-4), <hi rend="italic"> resid.</hi> (vv. 5-8): <hi rend="italic">jo. de alte curie</hi>                    
+                    <ref type="siglum" target="#Ch">Ch</ref> c. 15v, <abbr xml:id="ChC">C</abbr> (vv. 1-4), <hi rend="italic"> resid.</hi> (vv. 5-8): <hi rend="italic">jo. de alte curie</hi>                    
                 </witness>
             </listWit>
 

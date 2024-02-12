@@ -83,15 +83,15 @@
       <back>
          <listWit>
             <witness xml:id="Sq">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-medicea-laurenziana-med-pal-87--manoscript/ARSNOVA_224962">Sq</ref>
+               <ref target="#Sq">Sq</ref>
                c. <locus>116r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-2), <abbr xml:id="SqT">T</abbr> (vv. 1-2), <hi rend="italic">resid</hi>. (vv. 3-7): <hi rend="italic">magister frater bartolinus de padua</hi>
             </witness>
             <witness xml:id="Lu">
-               <!--ref target="X"-->Lu<!--/ref-->
+               <ref type="siglum" target="#Lu">Lu</ref>
                c. <locus>6v [XXX[I]V]</locus>, <abbr xml:id="LuC">C</abbr> (vv. 1-2), <abbr xml:id="LuT">T</abbr> (vv. 1-2), <hi rend="italic">resid</hi>. (vv. 3-7): <hi rend="italic">fr(atr)is bartholini</hi>
             </witness>
             <witness xml:id="R">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/paris-biblioth%C3%A8que-nationale-de-france-n-a-fr-6771-manoscript/LIO_30658">R</ref>
+               <ref target="#R">R</ref>
                c. <locus>22r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-2), <abbr xml:id="RT">T</abbr> (vv. 1-2), <hi rend="italic">resid</hi>. (vv. 3-7)
             </witness>
             </listWit>

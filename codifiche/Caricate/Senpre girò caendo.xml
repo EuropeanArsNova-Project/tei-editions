@@ -85,7 +85,7 @@
       <back>
          <listWit>            
             <witness xml:id="Sq">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-medicea-laurenziana-med-pal-87--manoscript/ARSNOVA_224962">Sq</ref>
+               <ref target="#Sq">Sq</ref>
                <locus>c. 170v</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-5), <abbr xml:id="SqT">T</abbr> (vv. 1-5): <hi rend="italic">magister franciscus cecus horghanista de florentia</hi>
             </witness>
          </listWit>

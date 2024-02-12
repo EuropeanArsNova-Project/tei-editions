@@ -81,11 +81,11 @@
         <back>
             <listWit>
                 <witness xml:id="Sq">
-                    <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-biblioteca-medicea-laurenziana-med-pal-87--manoscript/ARSNOVA_224962">Sq</ref>
+                    <ref target="#Sq">Sq</ref>
                     c. <locus>6v</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7): <hi rend="italic">m(agister) iouannes de florentia</hi>
                 </witness>
                 <witness xml:id="SL">
-                    <ref target="http://www.mirabileweb.it/manuscript-rom/firenze-archivio-del-capitolo-di-san-lorenzo-2211-manoscript/ARSNOVA_21819">SL</ref>
+                    <ref target="#SL">SL</ref>
                     cc. <locus>35v-36r</locus> (<hi rend="italic">cantus</hi> e <hi rend="italic">tenor</hi> sono illeggibili)
                 </witness>
             </listWit>

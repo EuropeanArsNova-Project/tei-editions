@@ -93,7 +93,7 @@
       <back>
          <listWit>
             <witness xml:id="Fp">
-                <!--ref target=""-->Fp<!--/ref-->
+                <ref type="siglum" target="#Fp">Fp</ref>
                 cc. <locus>97v-98r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-9 e 10-11), <abbr xml:id="FpT">T</abbr> (vv. 10-11), <abbr xml:id="FpCt">Ct</abbr> (vv. 10-11): <hi rend="italic">m(agister) giovan(n)i</hi>]
             </witness>
          </listWit>

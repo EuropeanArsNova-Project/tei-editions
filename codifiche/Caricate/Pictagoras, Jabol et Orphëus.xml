@@ -82,15 +82,15 @@
         <back>
             <listWit>
                 <witness xml:id="Ch">
-                    <!--ref target="X"-->Ch<!--/ref--> c. 30v, <abbr xml:id="ChC">C</abbr> (vv. 1-8), <hi rend="italic"> resid.</hi> (vv. 11-20): <hi rend="italic">suzoy</hi>                    
+                    <ref type="siglum" target="#Ch">Ch</ref> c. 30v, <abbr xml:id="ChC">C</abbr> (vv. 1-8), <hi rend="italic"> resid.</hi> (vv. 11-20): <hi rend="italic">suzoy</hi>                    
                 </witness>
                 
                 <witness xml:id="Bov">
-                    <!--ref target="X"-->Bov<!--/ref--> cc <locus>4v-5r</locus>, <abbr xml:id="BovC">C</abbr> (vv. 1-8)                    
+                    <ref type="siglum" target="#">Bov</ref> cc <locus>4v-5r</locus>, <abbr xml:id="BovC">C</abbr> (vv. 1-8)                    
                 </witness>
                 
                 <witness xml:id="P11">
-                    <!--ref target="X"-->P11<!--/ref--> cc <locus>153r</locus>, <abbr xml:id="P11C">C</abbr> (vv. 1-8)                    
+                    <ref type="siglum" target="#">P11</ref> cc <locus>153r</locus>, <abbr xml:id="P11C">C</abbr> (vv. 1-8)                    
                 </witness>
             </listWit>
 

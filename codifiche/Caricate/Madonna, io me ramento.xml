@@ -102,7 +102,7 @@
       <back>
          <listWit>            
             <witness xml:id="Lu">
-               <!--ref target="X"-->Lu<!--/ref-->
+               <ref type="siglum" target="#Lu">Lu</ref>
                c. 26v, <abbr xml:id="LuC">C</abbr> (vv.1-6), <abbr xml:id="LuT">T</abbr> (vv.1-6), <hi rend="italic">resid.</hi> (vv. 7-12): <hi rend="italic">antonellus</hi>. Il <hi rend="italic">residuum </hi> è divenuto quasi del tutto illeggibile, ci si affida pertanto all’ed. Pirrotta-Li Gotti.
             </witness>
          </listWit>

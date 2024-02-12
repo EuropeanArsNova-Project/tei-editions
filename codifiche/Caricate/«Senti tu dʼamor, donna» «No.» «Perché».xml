@@ -7,7 +7,6 @@
         <fileDesc>
             <titleStmt>
                 <title>«Senti tu dʼamor, donna?» «No.» «Perché?»</title>
-                <!--<author><ref target="X"></ref></author>-->
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
                     <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
@@ -94,7 +93,7 @@
         <back>
             <listWit>
                 <witness xml:id="Sq">
-                    <!--ref target="X"-->Sq<!--/ref-->cc. <locus>72v-73r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-8), <abbr xml:id="SqT">T</abbr> (vv. 1-2), <hi rend="italic">resid.</hi> (vv. 9-20): <hi rend="italic">m(agister) donatus de florentia</hi>
+                    <ref type="siglum" target="#Sq">Sq</ref>cc. <locus>72v-73r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-8), <abbr xml:id="SqT">T</abbr> (vv. 1-2), <hi rend="italic">resid.</hi> (vv. 9-20): <hi rend="italic">m(agister) donatus de florentia</hi>
                 </witness>
             </listWit>
 
