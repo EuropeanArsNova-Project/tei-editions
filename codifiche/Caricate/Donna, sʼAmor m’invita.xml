@@ -96,7 +96,7 @@
         <back>
             <listWit>
                 <witness xml:id="Sq">
-                    <ref target="#Sq">Sq</ref>
+                    <ref type="siglum" target="#Sq">Sq</ref>
                     c. <locus>174r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-8): <hi rend="italic">m(agister) frater egidius (et) guilielmus de francia</hi>
                 </witness>
             </listWit>

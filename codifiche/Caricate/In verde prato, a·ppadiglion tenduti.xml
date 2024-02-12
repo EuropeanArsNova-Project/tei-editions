@@ -85,7 +85,7 @@
                     cc. <locus>95v-96r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-3 e 7), <abbr xml:id="FpT">T</abbr> (vv. 1-3 e 7), <hi rend="italic">resid.</hi> (vv. 4-6), <abbr xml:id="FpCt">Ct</abbr> (vv. 1-3 e 7): <hi rend="italic">magister Jacopo</hi>
                 </witness>
                 <witness xml:id="Sq">
-                    <ref target="#Sq">Sq</ref>
+                    <ref type="siglum" target="#Sq">Sq</ref>
                     c. <locus>14r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7): <hi rend="italic">magister iachob(us) de bononia</hi>
                 </witness>
             </listWit>

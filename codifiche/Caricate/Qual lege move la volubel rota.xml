@@ -92,7 +92,7 @@
                cc. <locus>20v-21r</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="LoT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">fr(atr)is bartolini de padoua</hi>
             </witness>
             <witness xml:id="Sq">
-               <ref target="#Sq">Sq</ref>
+               <ref type="siglum" target="#Sq">Sq</ref>
                cc. <locus>119v-120r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">magister frater bartolinus de padua</hi>
             </witness>
         </listWit>

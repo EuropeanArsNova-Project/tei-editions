@@ -95,7 +95,7 @@
                <locus>c. 9r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-5), <abbr xml:id="FpT">T</abbr> (vv. 1-5), <hi rend="italic">resid.</hi> (vv. 6-10): <hi rend="italic">m(agister) fr(anciscus)</hi>
             </witness>
             <witness xml:id="Sq">
-               <ref target="#Sq">Sq</ref>
+               <ref type="siglum" target="#Sq">Sq</ref>
                <locus>c. 171r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-5), <abbr xml:id="SqT">T</abbr> (vv. 1-5), <hi rend="italic">resid.</hi> (vv. 6-10): <hi rend="italic">magister franciscus cecus horghanista de florentia</hi>
             </witness>
             <witness xml:id="Pit">

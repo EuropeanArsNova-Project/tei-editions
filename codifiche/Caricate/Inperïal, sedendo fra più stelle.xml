@@ -96,7 +96,7 @@
                cc. <locus>45v-46r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="RT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid</hi>. (vv. 4-6)
             </witness>
             <witness xml:id="Sq">
-               <ref target="#Sq">Sq</ref>
+               <ref type="siglum" target="#Sq">Sq</ref>
                cc. <locus>109v-110r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">magister frater bartolinus de padua</hi>
             </witness>
         </listWit>

@@ -98,7 +98,7 @@
                     cc. <locus>68v-69r</locus>, <abbr xml:id="PnC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="PnT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-9),: <hi rend="italic">m(agister) jacopo da bolo(nia)</hi>
                 </witness>
                     <witness xml:id="Sq">
-                        <ref target="#Sq">Sq</ref>
+                        <ref type="siglum" target="#Sq">Sq</ref>
                         cc. <locus>12v-13r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 7-9),: <hi rend="italic">magister jacob(us) de bononia</hi>
                     </witness>
                     <witness xml:id="Lo">

@@ -88,7 +88,7 @@
                     cc. <locus>56v-57r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-8), <abbr xml:id="FpT">T</abbr> (vv. 1-8): <hi rend="italic">m(agister) giova(nni)</hi>
                 </witness>
                 <witness xml:id="Sq">
-                    <ref target="#Sq">Sq</ref>
+                    <ref type="siglum" target="#Sq">Sq</ref>
                     cc. <locus>4v-5r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-8), <abbr xml:id="SqT">T</abbr> (vv. 1-8): <hi rend="italic">m(agister) iovannes de florentia</hi>
                 </witness>
                 <witness xml:id="SL">

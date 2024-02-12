@@ -92,7 +92,7 @@
         <back>
             <listWit>
                 <witness xml:id="Sq">
-                    <ref target="#Sq">Sq</ref>
+                    <ref type="siglum" target="#Sq">Sq</ref>
                     c. <locus>28v-29r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7), <hi rend="italic">resid.</hi> (vv. 4-6 e 8): <hi rend="italic">magister s(er) ghirardellus de florentia</hi>
                 </witness>
             </listWit>

@@ -95,11 +95,11 @@
                             c. <locus>13r</locus>: [c. 12v: <hi rend="italic">aliquot ballate mathei de griffonibus civis bononie</hi>]
                         </witness>
                         <witness xml:id="R">
-                            <ref target="#R">R</ref>
+                            <ref type="siglum" target="#R">R</ref>
                             c. <locus>16r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-4), <abbr xml:id="RT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 6-8)
                         </witness>
                         <witness xml:id="Sq">
-                            <ref target="#Sq">Sq</ref>
+                            <ref type="siglum" target="#Sq">Sq</ref>
                             c. <locus>112r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 6-8): <hi rend="italic">magister frater bartolinus de padua</hi>
                         </witness>
                     </listWit>

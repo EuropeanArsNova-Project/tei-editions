@@ -224,7 +224,7 @@
                      <locus>c. 98v</locus> (vv. 1-36)
                   </witness>
                   <witness xml:id="Sq">
-                     <ref target="#Sq">Sq</ref>
+                     <ref type="siglum" target="#Sq">Sq</ref>
                      <locus>c. 145r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-6), <abbr xml:id="SqT">T</abbr> (vv. 1-6), <hi rend="italic">resid.</hi> (vv. 7-12):  <hi rend="italic">magister franciscus cecus horghanista de florentia</hi>
                   </witness>            
                </listWit>

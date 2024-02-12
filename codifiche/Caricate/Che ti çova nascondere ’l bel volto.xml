@@ -83,7 +83,7 @@
       <back>
         <listWit>
             <witness xml:id="Rs">
-               <!--<ref target="X">-->Rs<!--</ref>-->
+               <ref target="#Rs">Rs</ref>
                c. <locus>18r</locus>, <abbr xml:id="RsC">C</abbr> (vv. 1-3 e 10), <hi rend="italic">resid</hi>. (vv. 3-7)
             </witness>
         </listWit>
