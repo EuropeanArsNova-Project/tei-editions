@@ -100,7 +100,7 @@
                     c. <locus>10v</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="PitT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid.</hi> (vv. 4-6)
                 </witness>
                     <witness xml:id="R">
-                        <ref target="#R">R</ref>
+                        <ref type="siglum" target="#R">R</ref>
                         c. <locus>7r-v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="RT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid.</hi> (vv. 4-6)
                     </witness>
             </listWit>

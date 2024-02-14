@@ -104,7 +104,7 @@
                cc. <locus>39v-40r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-4), <abbr xml:id="PitT">T</abbr> (vv. 1-4), <abbr xml:id="PitCt">Ct</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">fra(t)e(r) bartholinus</hi>
             </witness>
             <witness xml:id="R">
-               <ref target="#R">R</ref>
+               <ref type="siglum" target="#R">R</ref>
                c. <locus>23v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-4), <abbr xml:id="RT">T</abbr> (vv. 1-4), <abbr xml:id="RCt">Ct</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8)
             </witness>
             <witness xml:id="Rc9">

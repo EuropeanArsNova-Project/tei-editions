@@ -220,7 +220,7 @@
                </listApp>
                <listWit>
                   <witness xml:id="FN1">
-                     <ref type="siglum" target="#">FN1</ref>
+                     <ref type="siglum" target="#FN1">FN1</ref>
                      <locus>c. 98v</locus> (vv. 1-36)
                   </witness>
                   <witness xml:id="Sq">

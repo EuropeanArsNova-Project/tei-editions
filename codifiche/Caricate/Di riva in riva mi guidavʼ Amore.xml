@@ -99,7 +99,7 @@
                 cc. <locus>79v-80r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="FpT">T</abbr> (vv. 1-3 e 10),<hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic">s(er) lorenço</hi>
             </witness>
             <witness xml:id="Mar">
-                <ref type="siglum" target="#">Mar</ref>
+                <ref type="siglum" target="#Mar">Mar</ref>
                 c. <locus>54r</locus>
             </witness>
          </listWit>

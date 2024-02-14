@@ -108,7 +108,7 @@
                c. <locus>110v</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-14): <hi rend="italic">magister frater bartolinus de padua</hi>
             </witness>
             <witness xml:id="R">
-               <ref target="#R">R</ref>
+               <ref type="siglum" target="#R">R</ref>
                c. <locus>21r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-4), <abbr xml:id="RT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-11)
             </witness>
         </listWit>

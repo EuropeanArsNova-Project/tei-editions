@@ -100,7 +100,7 @@
                     c. <locus>31v</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-6), <hi rend="italic">resid.</hi> (vv. 7-12): <hi rend="italic">magister s(er) ghirardellus de florentia</hi>
                 </witness>
                 <witness xml:id="Mar">
-                    <ref type="siglum" target="#">Mar</ref>
+                    <ref type="siglum" target="#Mar">Mar</ref>
                     cc. <locus>54v-55r</locus>
                 </witness>
             </listWit>

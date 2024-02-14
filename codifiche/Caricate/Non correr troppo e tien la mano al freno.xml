@@ -91,7 +91,7 @@
                c. <locus>6v [XXX[I]V]</locus>, <abbr xml:id="LuC">C</abbr> (vv. 1-2), <abbr xml:id="LuT">T</abbr> (vv. 1-2), <hi rend="italic">resid</hi>. (vv. 3-7): <hi rend="italic">fr(atr)is bartholini</hi>
             </witness>
             <witness xml:id="R">
-               <ref target="#R">R</ref>
+               <ref type="siglum" target="#R">R</ref>
                c. <locus>22r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-2), <abbr xml:id="RT">T</abbr> (vv. 1-2), <hi rend="italic">resid</hi>. (vv. 3-7)
             </witness>
             </listWit>

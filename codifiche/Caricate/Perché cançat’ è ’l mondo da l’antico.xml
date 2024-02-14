@@ -112,7 +112,7 @@
                c. <locus>4v</locus>, <abbr xml:id="LuC">C</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">fr(atr)is bartholini</hi>. Per danno materiale sono lacunose le lezioni <hi rend="italic">Per</hi> e <hi rend="italic">antico</hi> (v. 1), <hi rend="italic">deça</hi> (v. 2), <hi rend="italic">dolçeçça</hi> (v. 3), <hi rend="italic">mente amara</hi> (v. 4).
             </witness>
             <witness xml:id="R">
-               <ref target="#R">R</ref>
+               <ref type="siglum" target="#R">R</ref>
                c. <locus>17r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-4), <abbr xml:id="RT">T</abbr> (vv. 1-4), <abbr xml:id="RCt">Ct</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 9-14, 5-8)
             </witness>
             <witness xml:id="Sq">

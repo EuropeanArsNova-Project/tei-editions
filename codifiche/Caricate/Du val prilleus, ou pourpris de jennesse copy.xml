@@ -98,7 +98,7 @@
             </witness>
 
             <witness xml:id="To">
-               <ref type="siglum" target="#">To</ref>
+               <ref type="siglum" target="#To">To</ref>
                c. 5r, <abbr xml:id="ToC">C</abbr> (vv. 1-8)
             </witness>
          </listWit>

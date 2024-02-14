@@ -82,7 +82,7 @@
         <back>
             <listWit>
                 <witness xml:id="R">
-                    <ref target="#R">R</ref>
+                    <ref type="siglum" target="#R">R</ref>
                     c. <locus>82v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-8)
                 </witness>
             </listWit>

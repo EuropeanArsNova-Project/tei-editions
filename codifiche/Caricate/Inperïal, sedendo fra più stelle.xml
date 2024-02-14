@@ -92,7 +92,7 @@
                cc. <locus>29v-30r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="MoAT">T</abbr> (vv. 1-3 e 7-8),<abbr xml:id="MoACt">Ct</abbr> (vv. 1 e 7), <hi rend="italic">resid</hi>. (vv. 4-5): <hi rend="italic">dactalus de padua fecit</hi>
             </witness>
             <witness xml:id="R">
-               <ref target="#R">R</ref>
+               <ref type="siglum" target="#R">R</ref>
                cc. <locus>45v-46r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="RT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid</hi>. (vv. 4-6)
             </witness>
             <witness xml:id="Sq">

@@ -85,11 +85,11 @@
         <back>
             <listWit>
                 <witness xml:id="R">
-                    <ref target="#R">R</ref>
+                    <ref type="siglum" target="#R">R</ref>
                     c. <locus>73v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-9)
                 </witness>
                 <witness xml:id="Trém">
-                    <ref type="siglum" target="#">Trém</ref>
+                    <ref type="siglum" target="#Trém">Trém</ref>
                     c. <locus>Ir</locus> (<hi rend="italic">perduto</hi>): l’<hi rend="italic">incipit Com(m)e le cerf</hi> è citato nell’indice seguito dal numero di carta (XLV), che non si è conservata.
                 </witness>
             </listWit>
