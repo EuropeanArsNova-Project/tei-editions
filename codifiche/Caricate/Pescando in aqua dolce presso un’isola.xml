@@ -49,8 +49,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -106,9 +106,9 @@
 
 
          <div type="metricalScheme">
-            <p> Madrigale 10’’a 10’’b 10’’b, 10’’c 10’’d 10’’d; 10’’e 10’’e.</p>
-            <p> <hi rend="italic"> Capovilla </hi> XLVIII </p>
-            <p> Rima inclusiva ai vv. 2 : 3.</p>
+            <p>Madrigale 10’’a 10’’b 10’’b, 10’’c 10’’d 10’’d; 10’’e 10’’e.</p>
+            <p><hi rend="italic"> Capovilla </hi> XLVIII </p>
+            <p>Rima inclusiva ai vv. 2 : 3.</p>
          </div>
 
 
@@ -130,13 +130,13 @@
 
          <div type="commentary">
             <note target="#l5">
-               <num> 5.</num>
-               <p> A favore di un andamento più regolare nella scansione accentuativa del verso, al suo interno si potranno supporre sineresi (<hi rend="italic">aurora è aveça</hi>) e dialefe (<hi rend="italic">respïendere</hi>).</p>
+               <num>5.</num>
+               <p>A favore di un andamento più regolare nella scansione accentuativa del verso, al suo interno si potranno supporre sineresi (<hi rend="italic">aurora è aveça</hi>) e dialefe (<hi rend="italic">respïendere</hi>).</p>
             </note>
             
             <note target="#l8">
-               <num> 8.</num>
-               <p> <hi rend="italic"> calido</hi>: ‘caldo’, la forma <hi rend="italic">callido</hi> è ipercorretta.</p>
+               <num>8.</num>
+               <p><hi rend="italic"> calido</hi>: ‘caldo’, la forma <hi rend="italic">callido</hi> è ipercorretta.</p>
                
             </note>
          </div>

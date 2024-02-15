@@ -83,11 +83,11 @@
                 </witness>
                 
                 <witness xml:id="Rc2">
-                    <ref type="siglum" target="#R">Rc2</ref> c. 107r: <hi rend="italic">mandriale</hi>
+                    <ref type="siglum" target="#Rc2">Rc2</ref> c. 107r: <hi rend="italic">mandriale</hi>
                 </witness>
                 
                 <witness xml:id="Pl3">
-                    <ref type="siglum" target="#">Pl3</ref> c. 111r
+                    <ref type="siglum" target="#Pl3">Pl3</ref> c. 111r
                 </witness>
                 
                 <witness xml:id="C3">
@@ -95,11 +95,11 @@
                 </witness>
                 
                 <witness xml:id="C6">
-                    <ref type="siglum" target="#">C6</ref> c. 73v: <hi rend="italic">mandriale</hi>                    
+                    <ref type="siglum" target="#C6">C6</ref> c. 73v: <hi rend="italic">mandriale</hi>                    
                 </witness>
          
                 <witness xml:id="V1">
-                    <ref type="siglum" target="#">V1</ref>c. 327r
+                    <ref type="siglum" target="#V1">V1</ref>c. 327r
                 </witness>
             </listWit>
 

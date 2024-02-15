@@ -49,8 +49,8 @@
     <text>
         <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -182,7 +182,7 @@
 
 
             <div type="metricalScheme">
-                <p> <hi rend="italic">Virelai</hi>7a 7b 7b 7a; 7c 7d, 7c 7d; 7a 7b 7b 7a.</p>
+                <p><hi rend="italic">Virelai</hi>7a 7b 7b 7a; 7c 7d, 7c 7d; 7a 7b 7b 7a.</p>
             </div>
 
 
@@ -199,33 +199,33 @@
 
             <div type="commentary">
                 <note target="#l1">
-                    <num> 1.</num>
-                    <p> <hi rend="italic">Onques</hi>: il monosillabo iniziale è stato espunto per ripristinare la regolarità sillabica. Sono diversi i versi crescenti di una sillaba in questo testo, dovuti presumibilmente all’adozione insolita dell’<hi rend="italic">eptasyllabe</hi>, che è stato indebitamente ricondotto al più frequente <hi rend="italic">octosyllabe</hi>.</p>
+                    <num>1.</num>
+                    <p><hi rend="italic">Onques</hi>: il monosillabo iniziale è stato espunto per ripristinare la regolarità sillabica. Sono diversi i versi crescenti di una sillaba in questo testo, dovuti presumibilmente all’adozione insolita dell’<hi rend="italic">eptasyllabe</hi>, che è stato indebitamente ricondotto al più frequente <hi rend="italic">octosyllabe</hi>.</p>
                 </note>
                 
                 <note target="#l16">
-                    <num> 16.</num>
-                    <p> <hi rend="italic">que</hi>: vale <hi rend="italic">plus que</hi>.</p>
+                    <num>16.</num>
+                    <p><hi rend="italic">que</hi>: vale <hi rend="italic">plus que</hi>.</p>
                 </note>
                 
                 <note target="#l18">
-                    <num> 18.</num>
-                    <p> <hi rend="italic">joste a durté</hi>: ‘mi contrasta duramente’.</p>
+                    <num>18.</num>
+                    <p><hi rend="italic">joste a durté</hi>: ‘mi contrasta duramente’.</p>
                 </note>
                 
                 <note target="#l21">
-                    <num> 21.</num>
-                    <p> <hi rend="italic">Umais</hi>: per <hi rend="italic">huimais</hi> ‘ora’.</p>
+                    <num>21.</num>
+                    <p><hi rend="italic">Umais</hi>: per <hi rend="italic">huimais</hi> ‘ora’.</p>
                 </note>
                 
                 <note target="#l22">
-                    <num> 22.</num>
-                    <p> <hi rend="italic">spoire</hi>: forma priva di prostesi, riconducibile alla <hi rend="italic">scripta</hi> franco-italiana. Non è da escludersi però che abbia sostituito un originario <hi rend="italic">espoir</hi>.</p>
+                    <num>22.</num>
+                    <p><hi rend="italic">spoire</hi>: forma priva di prostesi, riconducibile alla <hi rend="italic">scripta</hi> franco-italiana. Non è da escludersi però che abbia sostituito un originario <hi rend="italic">espoir</hi>.</p>
                 </note>
                 
                 <note target="#l26 #l28">
-                    <num> 26-28.</num>
-                    <p> ‘E se la vedo, scriverò un poema malevolo sulla sua bellezza, che mi induce a dire questo <hi rend="italic">lai</hi>’.</p>
+                    <num>26-28.</num>
+                    <p>‘E se la vedo, scriverò un poema malevolo sulla sua bellezza, che mi induce a dire questo <hi rend="italic">lai</hi>’.</p>
                 </note>
             </div>
 

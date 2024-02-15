@@ -49,8 +49,8 @@
     <text>
         <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -126,8 +126,8 @@
 
 
             <div type="metricalScheme">
-                <p> <hi rend="italic">Virelai </hi>: 10’a 10b 4c 10c 10b 4’a; 10’a 10b 4c, 10’a 10b 4c; 10’a 10b 4c 10c 10b 4’a.</p>
-                <p> Rima ricca ai vv. 2 : 5 : 11 : 17; rima identica ai vv. 8 : 14; rima derivativa ai vv. 11 : 17.</p>
+                <p><hi rend="italic">Virelai </hi>: 10’a 10b 4c 10c 10b 4’a; 10’a 10b 4c, 10’a 10b 4c; 10’a 10b 4c 10c 10b 4’a.</p>
+                <p>Rima ricca ai vv. 2 : 5 : 11 : 17; rima identica ai vv. 8 : 14; rima derivativa ai vv. 11 : 17.</p>
             </div>
 
 
@@ -144,23 +144,23 @@
 
             <div type="commentary">
                 <note target="#l2">
-                    <num> 2.</num>
-                    <p> <hi rend="italic">fe</hi>:  italianismo per <hi rend="italic">foi</hi>.</p>
+                    <num>2.</num>
+                    <p><hi rend="italic">fe</hi>:  italianismo per <hi rend="italic">foi</hi>.</p>
                 </note>
                 
                 <note target="#l4">
-                    <num> 4.</num>
-                    <p> <hi rend="italic">umais</hi>: per <hi rend="italic"> huimais</hi>‘ora’. </p>
+                    <num>4.</num>
+                    <p><hi rend="italic">umais</hi>: per <hi rend="italic"> huimais</hi>‘ora’. </p>
                 </note>
                 
                <note target="#l14">
-                   <num> 14.</num>
-                   <p> <hi rend="italic">elle</hi>: si riferisce a <hi rend="italic">Fortune</hi>.</p>
+                   <num>14.</num>
+                   <p><hi rend="italic">elle</hi>: si riferisce a <hi rend="italic">Fortune</hi>.</p>
                </note>
                 
                 <note target="#l18">
-                    <num> 18.</num>
-                    <p> Cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic"> outrance</hi>: «<hi rend="italic">Par outrance</hi>. “En dépassant toutes les bornes”». </p>
+                    <num>18.</num>
+                    <p>Cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic"> outrance</hi>: «<hi rend="italic">Par outrance</hi>. “En dépassant toutes les bornes”». </p>
                 </note>
             </div>
 

@@ -100,7 +100,7 @@
       <back>
          <listWit>
             <witness xml:id="Rc1">
-                <ref type="siglum" target="#R">Rc1</ref>
+                <ref type="siglum" target="#Rc1">Rc1</ref>
                 c. <locus>68v</locus>: <hi rend="italic"> ballata di mess(er) greghorio calonista di firenze</hi>
             </witness>
             <witness xml:id="Sq">

@@ -25,19 +25,19 @@
             </respStmt> 
          </titleStmt> 
          <publicationStmt> 
-            <p> </p> 
+            <p></p> 
             <!--publisher> Edizioni del Galluzzo</publisher> 
             <pubPlace> Firenze, Italia</pubPlace> 
             <date> 2021</date> 
             <availability> 
-               <p> L'edizione è disponibile su licenza.</p> 
+               <p>L'edizione è disponibile su licenza.</p> 
             </availability>            
             <idno type="ISBN"> ISBN</idno> 
             <idno type="DOI"> DOI</idno> 
             <idno type="URI"> permalink della scheda ANT</idno--> 
          </publicationStmt> 
          <sourceDesc> 
-            <p> </p> 
+            <p></p> 
          </sourceDesc> 
       </fileDesc> 
       <encodingDesc> 
@@ -47,8 +47,8 @@
    <text> 
       <!--<front> 
          <div> 
-            <p> 
-                Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+                Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -189,7 +189,7 @@
 
          <!--<div type="commentary"> 
             <note target="# #"> 
-               <num> </num> 
+               <num></num> 
                <hi rend="italic"> </hi> 
             </note> 
          </div> --> 

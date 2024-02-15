@@ -49,8 +49,8 @@
     <text>
         <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -281,15 +281,15 @@
 
 
             <div type="metricalScheme">
-                <p> Madrigale 10ʼʼa 6ʼʼb 10ʼʼb, 10ʼʼc 6ʼʼd 10ʼʼd; 10ʼʼe 10ʼʼe.</p>
-                <p> Rima imperfetta (guittoniana e assonanza) ai vv. 2 : 3; rima inclusiva ai vv. 5 : 6.</p>
+                <p>Madrigale 10ʼʼa 6ʼʼb 10ʼʼb, 10ʼʼc 6ʼʼd 10ʼʼd; 10ʼʼe 10ʼʼe.</p>
+                <p>Rima imperfetta (guittoniana e assonanza) ai vv. 2 : 3; rima inclusiva ai vv. 5 : 6.</p>
             </div>
 
 
             <listBibl type="editions">
 
-                <bibl corresp="#LiGotti1944a"> Li Gotti 1944a, p. 379</bibl>
-                <bibl corresp="#Corsi1970"> Corsi 1970, p. 21-2</bibl>
+                <bibl corresp="#LiGotti1944a">Li Gotti 1944a, p. 379;</bibl>
+                <bibl corresp="#Corsi1970">Corsi 1970, p. 21-2.</bibl>
 
             </listBibl>
 
@@ -302,31 +302,31 @@
 
             <div type="commentary">
                 <note target="#l1">
-                    <num> 1.</num>
-                    <p> <hi rend="italic">mandorla</hi>: la pianta ʻmandorloʼ.</p>
+                    <num>1.</num>
+                    <p><hi rend="italic">mandorla</hi>: la pianta ʻmandorloʼ.</p>
                 </note>
 
                 <note target="#l5">
-                    <num> 5.</num>
-                    <p> <hi rend="italic">destro</hi>: sottintendi ʻlatoʼ, come al v. successivo (<hi rend="italic">altro</hi>).</p> 
-                    <p> <hi rend="italic">aspido</hi>: ʻserpente velenosoʼ (cfr. <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">àspide <hi rend="super">1</hi></hi>).</p>
+                    <num>5.</num>
+                    <p><hi rend="italic">destro</hi>: sottintendi ʻlatoʼ, come al v. successivo (<hi rend="italic">altro</hi>).</p> 
+                    <p><hi rend="italic">aspido</hi>: ʻserpente velenosoʼ (cfr. <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">àspide <hi rend="super">1</hi></hi>).</p>
                 </note>
                 
                 <note target="#l6">
-                    <num> 6.</num>
-                    <p> <hi rend="italic"> varo</hi>: lʼaggettivo vale ʻmutevoleʼ (in Giacomo da Lentini), ʻdifferenteʼ in Tommaso di Sasso, qui forse ha il senso di ʻvariopintoʼ. Li Gotti 1944a intende invece ʻinsidiosoʼ, senso che non spiegherebbe però lʼassociazione al diaspro. </p>
-                    <p> <hi rend="italic"> iaspido</hi>: ʻpietra preziosa di diversi colori, dotata di straordinarie virtùʼ, per cui vedi <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">diaspro</hi>. Erronea la lezione di Fp, <hi rend="italic">più varo che llaspido</hi> (quindi <hi rend="italic">che·llʼaspido</hi>), che probabilmente non ha colto lʼallusione al diaspro e ha ripetuto la parola rima del verso precedente.</p>
+                    <num>6.</num>
+                    <p><hi rend="italic"> varo</hi>: lʼaggettivo vale ʻmutevoleʼ (in Giacomo da Lentini), ʻdifferenteʼ in Tommaso di Sasso, qui forse ha il senso di ʻvariopintoʼ. Li Gotti 1944a intende invece ʻinsidiosoʼ, senso che non spiegherebbe però lʼassociazione al diaspro. </p>
+                    <p><hi rend="italic"> iaspido</hi>: ʻpietra preziosa di diversi colori, dotata di straordinarie virtùʼ, per cui vedi <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">diaspro</hi>. Erronea la lezione di Fp, <hi rend="italic">più varo che llaspido</hi> (quindi <hi rend="italic">che·llʼaspido</hi>), che probabilmente non ha colto lʼallusione al diaspro e ha ripetuto la parola rima del verso precedente.</p>
                 </note>
                 
                 <note target="#l7">
-                    <num> 7.</num>
-                    <p> <hi rend="italic"> Ferì lʼagnel</hi>: la lezione, di Fp, sembra da preferire alle altre, anche se non è chiaro quale sia il soggetto. Sq legge <hi rend="italic">fe rilla non si</hi>, Lo <hi rend="italic">ferimo gniōsi</hi> (forse <hi rend="italic">ferimʼ ognior sì</hi>), a cui però non si riconosce un senso. Le due lezioni potrebbero essere il frutto di sviste paleografiche.</p>
-                    <p> <hi rend="italic"> ʼnverʼ me ricolsesi</hi>: ʻsi concentrò, si indirizzò su di meʼ (vedi <hi rend="italic">GDLI</hi>, s.v. <hi rend="italic">raccogliere</hi>).</p>
+                    <num>7.</num>
+                    <p><hi rend="italic"> Ferì lʼagnel</hi>: la lezione, di Fp, sembra da preferire alle altre, anche se non è chiaro quale sia il soggetto. Sq legge <hi rend="italic">fe rilla non si</hi>, Lo <hi rend="italic">ferimo gniōsi</hi> (forse <hi rend="italic">ferimʼ ognior sì</hi>), a cui però non si riconosce un senso. Le due lezioni potrebbero essere il frutto di sviste paleografiche.</p>
+                    <p><hi rend="italic"> ʼnverʼ me ricolsesi</hi>: ʻsi concentrò, si indirizzò su di meʼ (vedi <hi rend="italic">GDLI</hi>, s.v. <hi rend="italic">raccogliere</hi>).</p>
                 </note>
                 
                 <note target="#l8">
-                    <num> 8.</num>
-                    <p> <hi rend="italic"> disciolsesi: </hi> ʻsi sciolseʼ, cioè ʻsi interruppeʼ, facendo svegliare il poeta dormiente (<hi rend="italic"> TLIO</hi>, s.v. <hi rend="italic">disciogliere</hi>, § 2.1.1.1).</p> 
+                    <num>8.</num>
+                    <p><hi rend="italic"> disciolsesi: </hi> ʻsi sciolseʼ, cioè ʻsi interruppeʼ, facendo svegliare il poeta dormiente (<hi rend="italic"> TLIO</hi>, s.v. <hi rend="italic">disciogliere</hi>, § 2.1.1.1).</p> 
                 </note>
             </div>
 

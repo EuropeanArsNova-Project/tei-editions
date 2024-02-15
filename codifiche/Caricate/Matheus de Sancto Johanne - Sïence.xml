@@ -142,7 +142,7 @@
       <back>
          <listWit>            
             <witness xml:id="Ch">
-               <ref target="http://www.mirabileweb.it/manuscript-rom/chantilly-biblioth%C3%A8que-et-archives-du-ch%C3%A2teau-564--manoscript/ARSNOVA_30779">Ch</ref>
+               <ref type="siglum" target="#Ch">Ch</ref>
                <locus>c. 57r</locus>, <abbr xml:id="ChC">C</abbr> (vv. 1-8), <hi rend="italic">resid.</hi> (vv. 9-24): <hi rend="italic">m(atheus) de s(ancto) johan(ne)</hi>         
             </witness>
          </listWit>

@@ -84,7 +84,7 @@
         <back>
             <listWit>
                 <witness xml:id="Rs">
-                    <!--<ref target="X">-->Rs<!--</ref>-->
+                    <ref type="siglum" target="#Rs">Rs</ref>
                     cc. <locus>20v-21r</locus>, <abbr xml:id="RsC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="RsT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid</hi>. (vv. 4-6)
                 </witness>
             </listWit>
@@ -148,7 +148,7 @@
             </listBibl>
             <div type="commentary">
                 <note target="#l7">
-                    <num>7</num>
+                    <num>7.</num>
                     <hi rend="italic">cale</hi>: ‘scenda’.
                 </note>
                 <note target="#l7 #l8">
@@ -156,7 +156,7 @@
                     <hi rend="italic">cale</hi>: <hi rend="italic">ale</hi>’. Dovute a ipercorrettismo le forme  <hi rend="italic">calle</hi> e  <hi rend="italic">alle</hi>.
                 </note>
                 <note target="#l10">
-                    <num>10</num>
+                    <num>10.</num>
                     Conclusione di segno opposto rispetto a <hi rend="italic">Quando i oselli canta</hi>, che precede <hi rend="italic">Seguendo un me’ sparver</hi> in Rs.
                 </note>
             </div>

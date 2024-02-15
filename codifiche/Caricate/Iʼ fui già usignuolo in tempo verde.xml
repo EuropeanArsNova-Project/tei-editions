@@ -79,7 +79,7 @@
                 </witness>
                 
                 <witness xml:id="T">
-                    <ref type="siglum" target="#">T</ref> c. 118r
+                    <ref type="siglum" target="#T">T</ref> c. 118r
                 </witness>
                 
                 <witness xml:id="Sq">

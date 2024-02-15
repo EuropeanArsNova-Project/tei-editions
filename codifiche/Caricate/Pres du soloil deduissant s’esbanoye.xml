@@ -218,41 +218,41 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#Apel-Rosenberg1971">
-                    Apel-Rosenberg 1971, p. XXXII.
+                    Apel-Rosenberg 1971, p. <hi rend="small-caps">XXXII</hi>.
                 </bibl>
             </listBibl>
             <div type="commentary">
                 <note target="#l1 #l2 #l3 #l4">
-                    <num>1-4</num>
+                    <num>1-4.</num>
                     ‘Vicino al sole si svaga piacevolmente un temibile falcone, con lo sguardo vigile, sulla riviera più ricca che ci sia di molti uccelli di ogni specie’.
                 </note>
                 <note target="#l6">
-                    <num>6</num>
+                    <num>6.</num>
                     <hi rend="italic">est</hi>: <hi rend="italic">sont</hi>lezione del ms., non si accorda con gli aggettivi al singolare garantiti dalla rima.
                     <hi rend="italic">se garde</hi>: l’emendamento è richiesto dalla lingua e dal senso, ed è giustificato anche dal ricorrere della forma <hi rend="italic">garde</hi> alla fine di ogni strofe.
                 </note>
                 <note target="#l8 #l9">
-                    <num>8-9</num>
+                    <num>8-9.</num>
                     ‘Ognuno è impaurito e non sa cosa fare, se non ricavare dall’agitazione di essere intrappolato o catturato’.
                 </note>
                 <note target="#l9">
-                    <num>9</num>
+                    <num>9.</num>
                     <hi rend="italic">sayson</hi>: è qui interpretato come deverbale da <hi rend="italic">saisir</hi> ‘catturare’, ma non risulta altrimenti attestato.
                 </note>
                 <note target="#l10">
-                    <num>10</num>
+                    <num>10.</num>
                     <hi rend="italic">en l’eaue si s’enploye</hi>: ‘rimangono proprio impigliati nell’acqua’.
                 </note>
                 <note target="#l12">
-                    <num>12</num>
+                    <num>12.</num>
                     <hi rend="italic">torne ron</hi>: ‘gira intorno’, <hi rend="italic">ron</hi> per <hi rend="italic">rond</hi> con funzione avverbiale.
                 </note>
                 <note target="#l15 #16 #17 #18 #19 #20">
-                    <num>15-20</num>
+                    <num>15-20.</num>
                     ‘Poiché nobiltà e vigore, desiderio, speranza, sagacità e ragione lo rendono capace (lett. accompagnano) di (raggiungere il suo) obiettivo, non appena si alza in volo l’uccello, che lui aspetta di colpire con l’artiglio, non chiede altro, gli sferra un colpo a tradimento. In conclusione, chi vuole stia in guardia!’.
                 </note>
                 <note target="#l18">
-                    <num>18</num>
+                    <num>18.</num>
                     <hi rend="italic">artiglon</hi>: non è attestato in francese, ma corrisponde all’it. <hi rend="italic">artiglione</hi> per <hi rend="italic">artiglio</hi> registrato nel <hi rend="italic">TLIO</hi>.
                 </note>
             </div>

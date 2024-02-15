@@ -47,8 +47,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -185,19 +185,19 @@
 
 
          <div type="metricalScheme">
-            <p> Ballata mezzana 10’y 10’z 10’z; 10’a 10’b 6’c, 10’a 10’b 6’c; 10’c 10’z 10’z. </p>
+            <p>Ballata mezzana 10’y 10’z 10’z; 10’a 10’b 6’c, 10’a 10’b 6’c; 10’c 10’z 10’z. </p>
             <p><hi rend="italic">Pagnotta</hi> 223 : 14.</p>
-            <p> Punti sottoscritti: v. 3 (<hi rend="italic">grembo</hi>) Pit<hi rend="super">C</hi>; v.5 (<hi rend="italic">lei</hi>) Pit<hi rend="super">T</hi>.</p>
+            <p>Punti sottoscritti: v. 3 (<hi rend="italic">grembo</hi>) Pit<hi rend="super">C</hi>; v.5 (<hi rend="italic">lei</hi>) Pit<hi rend="super">T</hi>.</p>
          </div>
 
 
          <listBibl type="editions">
             <bibl corresp="#LiGotti1952">
-               Li Gotti 1952, p. 603
+               Li Gotti 1952, p. 603;
             </bibl>
 
             <bibl corresp="#Pirrotta1961">
-               Pirrotta 1961, p. 71
+               Pirrotta 1961, p. 71;
             </bibl>
 
             <bibl corresp="#Corsi1970">
@@ -216,7 +216,7 @@
 
          <div type="commentary">
             <note target="#l4 #l6">
-               <num> 4-6.</num>
+               <num>4-6.</num>
                <p>Risposta alla domanda formulata nella ripresa.</p>
             </note>
          </div>

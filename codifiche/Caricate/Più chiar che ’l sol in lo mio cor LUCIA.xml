@@ -48,8 +48,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -265,10 +265,10 @@
 
 
          <div type="metricalScheme">
-            <p> Ballata minore 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z.</p>
-            <p> <hi rend="italic">Pagnotta</hi> 111 : 165.</p>
-            <p> Rima imperfetta (assonanza) ai vv. 3 : 5; rima inclusiva ai vv. 10 : 13.</p>
-            <p> Punti sottoscritti: v. 2 (<hi rend="italic">figura</hi>) Lu; v. 13 (<hi rend="italic">troppo</hi>) Lu. </p>
+            <p>Ballata minore 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z.</p>
+            <p><hi rend="italic">Pagnotta</hi> 111 : 165.</p>
+            <p>Rima imperfetta (assonanza) ai vv. 3 : 5; rima inclusiva ai vv. 10 : 13.</p>
+            <p>Punti sottoscritti: v. 2 (<hi rend="italic">figura</hi>) Lu; v. 13 (<hi rend="italic">troppo</hi>) Lu. </p>
          </div>
 
 
@@ -287,7 +287,7 @@
 
          <div type="commentary">
             <note target="#l11">
-               <num> 11.</num>
+               <num>11.</num>
                <p><hi rend="italic">zudio</hi>:‘spietato’.</p>
             </note>
          </div>

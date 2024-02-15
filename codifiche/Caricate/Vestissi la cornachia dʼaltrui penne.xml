@@ -49,8 +49,8 @@
     <text>
         <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -241,9 +241,9 @@
 
 
             <div type="metricalScheme">
-                <p> Madrigale 10ʼa 10ʼb 10ʼb, 10ʼc 10ʼd 10ʼd; 6ʼe 10ʼe.</p>
+                <p>Madrigale 10ʼa 10ʼb 10ʼb, 10ʼc 10ʼd 10ʼd; 6ʼe 10ʼe.</p>
                 <p><hi rend="italic">Capovilla</hi> XLVIII.</p>
-                <p> Rima ricca ai vv. 2 : 3; rima inclusiva e derivativa ai vv. 7: 8.</p>
+                <p>Rima ricca ai vv. 2 : 3; rima inclusiva e derivativa ai vv. 7: 8.</p>
             </div>
 
 
@@ -264,8 +264,8 @@
 
             <div type="commentary">
                 <note target="#l5">
-                    <num> 5.</num>
-                    <p> Il verso accoglie la lezione di Sq <hi rend="italic">per più onta in meço di lor concilio</hi>, a cui si oppone R <hi rend="italic">con per maçor onta en meço lor concilio</hi>. Entrambe le lezioni sono ammissibili, resta il dubbio che quella di Sq sia una banalizzazione con <hi rend="italic">più</hi> in luogo di <hi rend="italic">maçor</hi> e conseguente inserimento della preposizione <hi rend="italic">di</hi> per avere computo sillabico corretto. </p>
+                    <num>5.</num>
+                    <p>Il verso accoglie la lezione di Sq <hi rend="italic">per più onta in meço di lor concilio</hi>, a cui si oppone R <hi rend="italic">con per maçor onta en meço lor concilio</hi>. Entrambe le lezioni sono ammissibili, resta il dubbio che quella di Sq sia una banalizzazione con <hi rend="italic">più</hi> in luogo di <hi rend="italic">maçor</hi> e conseguente inserimento della preposizione <hi rend="italic">di</hi> per avere computo sillabico corretto. </p>
                 </note>                
             </div>
 

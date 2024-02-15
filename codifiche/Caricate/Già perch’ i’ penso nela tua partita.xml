@@ -85,7 +85,7 @@
                c. <locus>48v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-7), <abbr xml:id="RT">T</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-24)
             </witness>
             <witness xml:id="Fp">
-               <ref target="#Fp">Fp</ref>
+               <ref type="siglum" target="#Fp">Fp</ref>
                c. <locus>1v</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-7), <abbr xml:id="FpT">T</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-14): <hi rend="italic">m(agister) f(ranciscus)</hi>
             </witness>
             <witness xml:id="Sq">
@@ -359,7 +359,7 @@
                   <lem>nela</lem>
                   <rdg>
                      ne lla
-                     <wit><ref target="#Fp">Fp</ref></wit>
+                     <wit><ref type="siglum" target="#Fp">Fp</ref></wit>
                      <wit><ref target="#Sq">Sq</ref></wit>
                      <wit><ref target="#Pit">Pit</ref></wit>
                      <wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit>
@@ -369,7 +369,7 @@
                   <lem>tua</lem>
                   <rdg>
                      tuo
-                     <wit><ref target="#Fp">Fp</ref></wit>
+                     <wit><ref type="siglum" target="#Fp">Fp</ref></wit>
                      <wit><ref target="#Sq">Sq</ref></wit>
                      <wit><ref target="#Pit">Pit</ref></wit>
                      <wit><ref target="#D1B">D1<hi rend="super">B</hi></ref></wit></rdg>
@@ -385,7 +385,7 @@
                   <rdg>
                      don na
                      <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit>
-                     <wit><ref target="#Fp">Fp</ref></wit>
+                     <wit><ref type="siglum" target="#Fp">Fp</ref></wit>
                      <wit><ref target="#Sq">Sq</ref></wit>
                      <wit><ref target="#Pit">Pit</ref></wit>
                      <wit><ref target="#Lo">Lo</ref></wit>
@@ -418,7 +418,7 @@
                   <lem>visso</lem>
                   <rdg>
                      uiso
-                     <wit><ref target="#Fp">Fp</ref></wit>
+                     <wit><ref type="siglum" target="#Fp">Fp</ref></wit>
                      <wit><ref target="#Sq">Sq</ref></wit>
                      <wit><ref target="#Pit">Pit</ref></wit>
                      <wit><ref target="#Lo">Lo</ref></wit>
@@ -429,7 +429,7 @@
                   <lem>redita</lem>
                   <rdg>
                      reddi ta
-                     <wit><ref target="#Fp">Fp</ref></wit>
+                     <wit><ref type="siglum" target="#Fp">Fp</ref></wit>
                      <wit><ref target="#Sq">Sq</ref></wit>
                      <wit><ref target="#Pit">Pit</ref></wit>
                      <wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
@@ -461,7 +461,7 @@
                   <rdg>
                      cor
                      <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit>
-                     <wit><ref target="#Fp">Fp</ref></wit>
+                     <wit><ref type="siglum" target="#Fp">Fp</ref></wit>
                      <wit><ref target="#Sq">Sq</ref></wit>
                      <wit><ref target="#Pit">Pit</ref></wit>
                      <wit><ref target="#Lo">Lo</ref></wit>
@@ -505,7 +505,7 @@
                   <rdg>
                      allo ra
                      <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit>
-                     <wit><ref target="#Fp">Fp</ref></wit>
+                     <wit><ref type="siglum" target="#Fp">Fp</ref></wit>
                      <wit><ref target="#Sq">Sq</ref></wit>
                      <wit><ref target="#Pit">Pit</ref></wit></rdg>
                   <rdg>
@@ -596,7 +596,7 @@
                <app>
                   <lem>’l</lem>
                   <rdg>il
-                     <wit><ref target="#Fp">Fp</ref></wit>
+                     <wit><ref type="siglum" target="#Fp">Fp</ref></wit>
                      <wit><ref target="#Lo">Lo</ref></wit>
                      <wit><ref target="#D1C">D1<hi rend="super">C</hi></ref></wit></rdg>
                   <rdg wit="#Pit">el</rdg>

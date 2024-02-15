@@ -47,8 +47,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -152,9 +152,9 @@
 
 
          <div type="metricalScheme">
-            <p> Ballata minima 2z; 10’a 10z, 10’a 10z; 10z. Il <hi rend="italic">residuum </hi> omette alcuni versi della seconda stanza. La corrispondenza della volta con la ripresa è limitata alle ultime due sillabe (<hi rend="italic">Omè e a·mme</hi>).</p>
-            <p> Rima identica ai vv. 1 : 5. </p>
-            <p> Punti sottoscritti: v. 3 (<hi rend="italic">io</hi>) Pit; v.6 (<hi rend="italic">via</hi>) Pit <hi rend="super">C</hi></p>
+            <p>Ballata minima 2z; 10’a 10z, 10’a 10z; 10z. Il <hi rend="italic">residuum </hi> omette alcuni versi della seconda stanza. La corrispondenza della volta con la ripresa è limitata alle ultime due sillabe (<hi rend="italic">Omè e a·mme</hi>).</p>
+            <p>Rima identica ai vv. 1 : 5. </p>
+            <p>Punti sottoscritti: v. 3 (<hi rend="italic">io</hi>) Pit; v.6 (<hi rend="italic">via</hi>) Pit <hi rend="super">C</hi></p>
          </div>
 
 
@@ -173,17 +173,17 @@
 
          <div type="commentary">
             <note target="#l7">
-               <num> 7.</num>
+               <num>7.</num>
                <p><hi rend="italic">«Die ti mandi!»</hi>:‘Vai al diavolo!’. Parla l’amata, che si rivolge all’amante.</p>
             </note>
 
             <note target="#l10 #l11">
-               <num> 10-11.</num>
+               <num>10-11.</num>
                <p>‘e un’altra (donna disse all’amata) di non levargliegli (di non levare all’amante gli <hi rend="italic">omè</hi>): ‘«Così mi manderai i suoi e i tuoi (<hi rend="italic">omè</hi>)!»’. Si può ritenere che la seconda donna esorti l’amata a non acconsentire perché teme che finisca anche lei per lamentarsi (e l’amante non sarebbe più il solo a <hi rend="italic">piangere gli omè</hi>,come dichiarato all’inizio) </p>
             </note>
 
             <note target="#l11">
-               <num> 11.</num>
+               <num>11.</num>
                <p><hi rend="italic">mandrai...tuoi</hi>: i due emendamenti sono necessari per il senso, il primo tiene conto del <hi rend="italic">mandi </hi>in rima al v. 7, il secondo presuppone un errore polare, favorito anche dal successivo <hi rend="italic">a·mme</hi>.</p>
             </note>
          </div>

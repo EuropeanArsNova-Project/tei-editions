@@ -48,8 +48,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -173,7 +173,7 @@
 
          <div type="commentary">
             <note target="#l4 #l5">
-               <num> 4-5</num>
+               <num>4-5</num>
                <p>‘Era scalza, discinta e sbracciata, con il viso incorniciato dalle trecce’.</p>
             </note>
          </div>

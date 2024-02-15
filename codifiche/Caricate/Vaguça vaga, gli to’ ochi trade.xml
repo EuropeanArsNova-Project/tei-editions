@@ -49,8 +49,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -93,7 +93,7 @@
                c. 26r, <abbr xml:id="RsC">C</abbr> (vv. 1-4), <abbr xml:id="RsT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-12)</witness>
             
             <witness>
-               <ref type="siglum" target="#R">Reg</ref>
+               <ref type="siglum" target="#Reg">Reg</ref>
                c. Bv, <abbr xml:id="RegC">C</abbr> (vv. 1-4), <abbr xml:id="RegT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-12)
                </witness>
          </listWit>
@@ -212,17 +212,17 @@
 
 
          <div type="metricalScheme">
-            <p> Madrigale pluristrofico 10’a 10’b 10’b; 10’c.</p>
-            <p> <hi rend="italic"> Capovilla </hi>XXXVI.</p>
+            <p>Madrigale pluristrofico 10’a 10’b 10’b; 10’c.</p>
+            <p><hi rend="italic"> Capovilla </hi>XXXVI.</p>
          </div>
 
 
          <listBibl type="editions">
-            <bibl corresp="Mischiati1966"> Mischiati 1966, p. 74</bibl>
+            <bibl corresp="Mischiati1966"> Mischiati 1966, p. 74;</bibl>
          
-            <bibl corresp="#Sucato2003"> Sucato 2003, p. 86</bibl>
+            <bibl corresp="#Sucato2003"> Sucato 2003, p. 86;</bibl>
             
-            <bibl corresp="#Huck-Dieckmann2007"> Huck-Dieckmann 2007, p. 142</bibl>
+            <bibl corresp="#Huck-Dieckmann2007"> Huck-Dieckmann 2007, p. 142.</bibl>
          </listBibl>
 
 
@@ -234,24 +234,24 @@
 
          <div type="commentary">
             <note target="#l4">
-               <num> 4.</num>
-               <p> ‘così dolce e bello è l’atto che gli occhi gli manifestano’.</p>               
+               <num>4.</num>
+               <p>‘così dolce e bello è l’atto che gli occhi gli manifestano’.</p>               
             </note>
             
             <note target="#l5 #l8">
-               <num> 5-8.</num>
-               <p> ‘Poiché la loro luce (degli occhi) batte le ali nella mia mente con tanta forza che l’anima quasi ne fuoriesce salendo, (la mente) si eleva (si tiene in posizione elevata) ancora di più, quanto il cielo’.</p>
+               <num>5-8.</num>
+               <p>‘Poiché la loro luce (degli occhi) batte le ali nella mia mente con tanta forza che l’anima quasi ne fuoriesce salendo, (la mente) si eleva (si tiene in posizione elevata) ancora di più, quanto il cielo’.</p>
             </note>
             
             <note target="#l8">
-               <num> 8.</num>
-               <p> <hi rend="italic">ma’</hi>: ‘più’.</p>
+               <num>8.</num>
+               <p><hi rend="italic">ma’</hi>: ‘più’.</p>
             </note>
             
             <note target="#l9">
-               <num> 9.</num>
-               <p> ‘la pietà consumi la tua bellezza’. Cfr. Dante, <hi rend="italic">Amor, da che convien pur ch’io mi doglia</hi>, v. 15 «pietà faria men bello il suo bel volto».</p>
-               <p> <hi rend="italic">Destruçi</hi>: cong. pr. III pers. sing. analogico dei verbi della prima coniugazione.</p>
+               <num>9.</num>
+               <p>‘la pietà consumi la tua bellezza’. Cfr. Dante, <hi rend="italic">Amor, da che convien pur ch’io mi doglia</hi>, v. 15 «pietà faria men bello il suo bel volto».</p>
+               <p><hi rend="italic">Destruçi</hi>: cong. pr. III pers. sing. analogico dei verbi della prima coniugazione.</p>
             </note>
          </div>
 

@@ -49,8 +49,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -105,9 +105,9 @@
 
 
          <div type="metricalScheme">
-            <p> Ballata piccola 10’z; 10’a, 10’a; 10’z. </p>
-            <p> <hi rend="italic"> Pagnotta </hi> 49 : 7. </p>
-            <p> Rima ricca ai vv. 4 : 10.</p>
+            <p>Ballata piccola 10’z; 10’a, 10’a; 10’z. </p>
+            <p><hi rend="italic"> Pagnotta </hi> 49 : 7. </p>
+            <p>Rima ricca ai vv. 4 : 10.</p>
          </div>
 
 

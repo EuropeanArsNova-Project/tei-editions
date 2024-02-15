@@ -48,8 +48,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -123,9 +123,9 @@
 
 
          <div type="metricalScheme">
-            <p> Ballata piccola 10’’z; 10’’a, 10’’a; 10’’z. </p>
-            <p> <hi rend="italic">Pagnotta</hi> 49 : 12.</p>
-            <p> Rima inclusiva ai vv. 8 : 9.</p>
+            <p>Ballata piccola 10’’z; 10’’a, 10’’a; 10’’z. </p>
+            <p><hi rend="italic">Pagnotta</hi> 49 : 12.</p>
+            <p>Rima inclusiva ai vv. 8 : 9.</p>
          </div>
 
 
@@ -160,18 +160,18 @@
 
          <div type="commentary">
             <note target="#l1">
-               <num> 1.</num>
-               <p> <hi rend="italic">perigola</hi>: ‘ci si mette in pericolo’. </p>
+               <num>1.</num>
+               <p><hi rend="italic">perigola</hi>: ‘ci si mette in pericolo’. </p>
             </note>
 
             <note target="#l4">
-               <num> 4.</num>
-               <p> ‘si tace del bene e ci si lamenta del male’. Cfr. <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">cigolare</hi>.</p>
+               <num>4.</num>
+               <p>‘si tace del bene e ci si lamenta del male’. Cfr. <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">cigolare</hi>.</p>
             </note>
 
             <note target="#l5">
-               <num> 5.</num>
-               <p> ‘per cui la morte miete le sue vittime’.</p>
+               <num>5.</num>
+               <p>‘per cui la morte miete le sue vittime’.</p>
             </note>
 
             <note target="#l8">
@@ -179,7 +179,7 @@
             </note>
 
             <note target="#l10">
-               <p> <hi rend="italic">formigola</hi>: ‘ne è turbato’.</p>
+               <p><hi rend="italic">formigola</hi>: ‘ne è turbato’.</p>
             </note>
          </div>
 

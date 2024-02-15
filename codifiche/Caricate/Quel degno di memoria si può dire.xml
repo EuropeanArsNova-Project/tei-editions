@@ -92,7 +92,7 @@
                c. <locus>43r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3), <abbr xml:id="RT">T</abbr> (vv. 1-3), <hi rend="italic">resid</hi>. (vv. 4-6)
             </witness>
             <witness xml:id="SL">
-                <ref target="#SL">SL</ref>
+                <ref type="siglum" target="#SL">SL</ref>
                cc. <locus>38v-39r</locus>: illegibile.
             </witness>
             </listWit>
@@ -217,11 +217,11 @@
          </listBibl>
          <div type="commentary">
             <note target="#l4">
-               <num>4</num>
+               <num>4.</num>
                <hi rend="italic">diparte</hi>: ‘divide, distingue’.
             </note>
             <note target="#l6">
-               <num>6</num>
+               <num>6.</num>
                <hi rend="italic">inparte</hi>: ‘accorda, concede’.
             </note>
             <note target="#l7 #l8">

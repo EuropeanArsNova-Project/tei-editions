@@ -47,8 +47,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -101,7 +101,7 @@
             </witness>
 
             <witness xml:id="Cil">
-               <ref type="siglum" target="#"> Cil </ref> 
+               <ref type="siglum" target="#Cil">Cil</ref>
                c. 95r, <abbr xml:id="CilC">C</abbr> (vv. 1-5), <abbr xml:id="CilT">T</abbr> (vv. 1-5): <hi rend="italic">d(ominus) p(aulus)</hi>
             </witness>
          </listWit>
@@ -193,18 +193,18 @@
 
 
          <div type="metricalScheme">
-            <p> Ballata mezzana 10’z 6’y 10’z; 10’a 10’b, 10’a 10’b; 10’b 6’y 10’z. </p>
-            <p> <hi rend="italic">Pagnotta </hi> 110 : 12.</p>
-            <p> Punti sottoscritti: v. 3 (<hi rend="italic">al</hi>) Cil <hi rend="super">T</hi>; v. 5 (<hi rend="italic">giamai</hi>) Pit <hi rend="super">C</hi>; v. 7 (<hi rend="italic">altrui</hi>) Pit.</p>
+            <p>Ballata mezzana 10’z 6’y 10’z; 10’a 10’b, 10’a 10’b; 10’b 6’y 10’z. </p>
+            <p><hi rend="italic">Pagnotta </hi> 110 : 12.</p>
+            <p>Punti sottoscritti: v. 3 (<hi rend="italic">al</hi>) Cil <hi rend="super">T</hi>; v. 5 (<hi rend="italic">giamai</hi>) Pit <hi rend="super">C</hi>; v. 7 (<hi rend="italic">altrui</hi>) Pit.</p>
          </div>
 
 
          <listBibl type="editions">
             <bibl corresp="#Corsi1970">
-               Corsi 1970, p. 287
+               Corsi 1970, p. 287;
             </bibl>
             <bibl corresp="#Brumana-Ciliberti1986">
-               Brumana-Ciliberti 1986, pp. 24-5
+               Brumana-Ciliberti 1986, pp. 24-5.
             </bibl>
          </listBibl>
 
@@ -216,7 +216,7 @@
 
          <div type="commentary">
             <note target="#l3">
-               <num> 3.</num>
+               <num>3.</num>
                <p><hi rend="italic">MA DA’ LENA</hi>: per il <hi rend="italic"> senhal</hi>, cfr. le ballate <hi rend="italic"> LENA, virtù et speranza ogni cor duro</hi>; <hi rend="italic"> Se partir mi convien dal tuo bel viso</hi>; <hi rend="italic"> Dè, dolçe Morte, cavami di pena</hi>. </p>
             </note>
          </div>

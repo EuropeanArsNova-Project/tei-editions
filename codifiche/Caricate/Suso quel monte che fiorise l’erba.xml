@@ -48,8 +48,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -114,29 +114,29 @@
 
 
          <div type="metricalScheme">
-            <p> Madrigale 10’a 10’b 10’c, 10’? 10’? 10’?; 10’c 10’m. </p>
+            <p>Madrigale 10’a 10’b 10’c, 10’? 10’? 10’?; 10’c 10’m. </p>
          </div>
 
 
          <listBibl type="editions">
             <bibl corresp="#LiGotti1944"> 
-               Li Gotti 1944, p. 130
+               Li Gotti 1944, p. 130;
             </bibl>            
 
             <bibl corresp="#Sesini1943-1950"> 
-              Sesini 1943-1950, p. 226
+              Sesini 1943-1950, p. 226;
             </bibl>
 
             <bibl corresp="#Corsi1970"> 
-              Corsi 1970, p. 7
+              Corsi 1970, p. 7;
             </bibl>
 
             <bibl corresp="#Pirrotta1992"> 
-              Pirrotta 1992, p. 30
+              Pirrotta 1992, p. 30;
             </bibl>
 
             <bibl corresp="#Sucato2003">
-               Sucato 2003, p. 77
+               Sucato 2003, p. 77.
             </bibl>
          </listBibl>
 
@@ -149,8 +149,8 @@
 
          <div type="commentary">
             <note target="#l7">
-               <num> 7.</num>
-               <p> <hi rend="italic">trafinçe</hi>: ‘trafisse’.</p>
+               <num>7.</num>
+               <p><hi rend="italic">trafinçe</hi>: ‘trafisse’.</p>
             </note>
          </div>
 

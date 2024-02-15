@@ -48,8 +48,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -130,9 +130,9 @@
 
 
          <div type="metricalScheme">
-            <p> Madrigale 10’a 10’b 10’a, 10’c 10’b 10’c, 10’c 10’d 10’d; 10’e 10’e. </p>
-            <p> <hi rend="italic">Capovilla </hi>XVI.</p>
-            <p> Rima ricca ai vv. 4 : 7.</p>
+            <p>Madrigale 10’a 10’b 10’a, 10’c 10’b 10’c, 10’c 10’d 10’d; 10’e 10’e. </p>
+            <p><hi rend="italic">Capovilla </hi>XVI.</p>
+            <p>Rima ricca ai vv. 4 : 7.</p>
          </div>
 
 
@@ -168,17 +168,17 @@
          <div type="commentary">
             <note target="#l1">
                <num>1.</num>
-               <p> <hi rend="italic">sagia</hi>: ‘accorta, attenta’ nel sorvegliare. </p>
+               <p><hi rend="italic">sagia</hi>: ‘accorta, attenta’ nel sorvegliare. </p>
             </note>
 
             <note target="#l3">
                <num>3.</num>
-               <p> <hi rend="italic"> ch’</hi>: riferito alla <hi rend="italic">vechieta</hi>.</p>
+               <p><hi rend="italic"> ch’</hi>: riferito alla <hi rend="italic">vechieta</hi>.</p>
             </note>
 
             <note target="#l4">
                <num>4.</num>
-               <p> <hi rend="italic"> che</hi>: riferito alla <hi rend="italic">pasturella</hi>.</p>
+               <p><hi rend="italic"> che</hi>: riferito alla <hi rend="italic">pasturella</hi>.</p>
             </note>
          </div>
 

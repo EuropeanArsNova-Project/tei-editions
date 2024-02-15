@@ -136,8 +136,9 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#LiGotti1944">
-                Li Gotti 1944, p. 141; Corsi 1970, p. 49.
+                Li Gotti 1944, p. 141;
             </bibl>
+             <bibl corresp="#Corsi1970">Corsi 1970, p. 49.</bibl>
          </listBibl>
          <!--listBibl type="bibliography">
             <bibl>
@@ -151,15 +152,15 @@
                 <p>Il madrigale parrebbe descrivere lʼarrivo della neve, quindi sembra da mettere in relazione con un altro madrigale intonato da Jacopo, <hi rend="italic">Stracciasʼ i pannʼ in dosso</hi>. Anche qui non è da escludere che <hi rend="italic">bianca</hi> costituisca un <hi rend="italic">senhal</hi>.</p>
             </note>
             <note target="#l3">
-                <num>3</num>
+                <num>3.</num>
                 <p>ʻche non si può sentire, tranne per chi non la branchiʼ (con anacoluto).</p>
             </note>
             <note target="#l5">
-                <num>5</num>
+                <num>5.</num>
                 <p>Con un altro anacoluto, il verso va inteso: ʻin modo tale che appena qualcuno la tocchi, quella interamente (<hi rend="italic">tutto</hi>, avv.) si disintegraʼ. </p>
             </note>
             <note target="#l7">
-                <num>7</num>
+                <num>7.</num>
                 <p>Il ms. reca <hi rend="italic">baronmi</hi> (<hi rend="italic">baromi</hi> al <hi rend="italic">tenor</hi>), lezione conservata da Corsi ma forse incongrua. Li Gotti stampava invece <hi rend="italic">baxònmi</hi>, che per il senso è preferibile. Accoglierei <hi rend="italic">bacionmi</hi> ipotizzando fraintendimento paleografico del gruppo consonantico <hi rend="italic">-cio-</hi> con <hi rend="italic">-ro-</hi>. </p>
             </note>
          </div>

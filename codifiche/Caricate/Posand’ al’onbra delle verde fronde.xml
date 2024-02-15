@@ -89,7 +89,7 @@
         </body>
         <back>
             <listWit>
-                <witness xml:id="R">
+                <witness xml:id="Lo">
                     <ref type="siglum" target="#Lo">Lo</ref>
                     c. <locus>53v</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-3 e 10), <hi rend="italic">resid. (vv. 4-9)</hi>
                 </witness>
@@ -169,10 +169,10 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#LiGotti1944a">
-                    Li Gotti 1944a, p. 47.
+                    Li Gotti 1944a, p. 47;
                 </bibl>
                 <bibl corresp="#Pirrotta1960">
-                    Pirrotta 1960, p. XI.
+                    Pirrotta 1960, p. <hi rend="small-caps">XI</hi>;
                 </bibl>
                 <bibl corresp="#Corsi1970">
                     Corsi 1970, p. 338-9.
@@ -180,31 +180,31 @@
             </listBibl>
             <div type="commentary">
                 <note target="#l4">
-                    <num>4</num>
+                    <num>4.</num>
                     <hi rend="italic">a mandamento dolce</hi>: ‘secondo il dolce comando’. La lezione <hi rend="italic">commandamento</hi> del ms., che genera ipermetria, sarà dovuta ad errore d’anticipo indotto dal <hi rend="italic">comandasti</hi> al verso successivo. Li Gotti e Corsi preferiscono invece adottare <hi rend="italic">dona</hi> in luogo di <hi rend="italic">madona</hi>.
                 </note>
                 <note target="#l5">
-                    <num>5</num>
+                    <num>5.</num>
                     <hi rend="italic">aspetto</hi>: ‘sguardo’.
                 </note>
                 <note target="#l6">
-                    <num>6</num>
+                    <num>6.</num>
                     <hi rend="italic">del sugetto</hi>: ‘di chi ti serve, è soggetto alla tua volontà’.
                 </note>
                 <note target="#l7">
-                    <num>7</num>
+                    <num>7.</num>
                     Il verso è lacunoso, gli editori precedenti integrano in vario modo (Li Gotti e Corsi: <hi rend="italic">accesi e belli</hi>, Pirrotta: <hi rend="italic">accesi e negri</hi>), ma è più probabile che, anche tenendo conto di quanto segue (<hi rend="italic">di cui chiareçç[a]</hi>), <hi rend="italic">accesi</hi> fosse preceduto da un complemento di qualità, <hi rend="italic">di luce</hi> o piuttosto <hi rend="italic">di lume</hi>, come in Petrarca, <hi rend="italic">T. Cupidinis</hi>, vv. 137-138 «gli occhi, ch’accesi d’un celeste lume / m’infiamman sì ch’io son d’arder contento».
                 </note>
                 <note target="#l8">
-                    <num>8</num>
+                    <num>8.</num>
                     <hi rend="italic">di cui chiareçç’</hi>: ‘dal quale (lume proviene) luminosità’. L’emendamento, necessario per la misura del verso, è già in Li Gotti ed è accolto da Corsi.
                 </note>
                 <note target="#l9">
-                    <num>9</num>
+                    <num>9.</num>
                     <hi rend="italic">e</hi>: l’emendamento è già in Li Gotti ed è accolto da Corsi.
                 </note>
                 <note target="#l10">
-                    <num>10</num>
+                    <num>10.</num>
                     L’integrazione è già in Li Gotti, che vi vede il <hi rend="italic">senhal</hi> ANNA, ed è accolta da Corsi.
                 </note>
             </div>

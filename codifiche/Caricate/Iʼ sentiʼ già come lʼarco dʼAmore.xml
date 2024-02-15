@@ -92,7 +92,7 @@
                     cc. <locus>11v-12r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3), <abbr xml:id="RT">T</abbr> (vv. 1-3 e 7-8), <abbr xml:id="RCt">Ct</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid.</hi> (vv. 4-6)
                 </witness>
                 <witness xml:id="SL">
-                    <ref target="#SL">SL</ref>
+                    <ref type="siglum" target="#SL">SL</ref>
                     c. <locus>21r</locus> (illeggibile)
                 </witness>
             </listWit>
@@ -290,11 +290,11 @@
                     <hi rend="italic">diserra</hi>: ʻscoccaʼ, per cui vedi <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">disserrare</hi><hi rend="super">1</hi> § 4.
                 </note>
                 <note target="#l3">
-                    <num>3</num>
+                    <num>3.</num>
                     <hi rend="italic">si sferra</hi>: ʻsi estraeʼ, per cui vedi <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">sferrare</hi> § 2.
                 </note>
                 <note target="#l4">
-                    <num>4</num>
+                    <num>4.</num>
                     ʻDalla stagione della giovinezza fino al punto in cui viene menoʼ (dalla giovinezza alla vecchiaia), per cui cfr. lʼincipit affine della canzone petrarchesca <hi rend="italic">Ne la stagion che ʼl ciel rapido inchina</hi>: con la canzone il madrigale condivide anche la rima <hi rend="italic">-ina</hi> (e la parola rima <hi rend="italic">pellegrina</hi> al v. 5).
                 </note>
             </div>

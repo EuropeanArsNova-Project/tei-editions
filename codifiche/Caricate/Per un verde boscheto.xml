@@ -88,7 +88,7 @@
                c. <locus>120v</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4), <abbr xml:id="SqCt">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">magister frater bartolinus de padua</hi>
             </witness>
             <witness xml:id="Fp">
-               <ref target="#Fp">Fp</ref>
+               <ref type="siglum" target="#Fp">Fp</ref>
                c. <locus>66r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-4), <abbr xml:id="FpT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">fra bartolino</hi>
             </witness>
             <witness xml:id="Lo">
@@ -351,7 +351,7 @@
             </listBibl>
             <div type="commentary">
                 <note target="#l7">
-                    <num>7</num>
+                    <num>7.</num>
                     <hi rend="italic">plica</hi>: ‘attorcigliamento’.
                 </note>
             </div>

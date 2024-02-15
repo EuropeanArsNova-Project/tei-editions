@@ -49,8 +49,8 @@
     <text>
         <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -104,7 +104,7 @@
                 </witness>
                 
                 <witness xml:id="Np3">
-                    <ref type="siglum" target="#">Np3</ref> c. 97v (vv. 1-6 e 13-14)
+                    <ref type="siglum" target="#Np3">Np3</ref> c. 97v (vv. 1-6 e 13-14)
                 </witness>
             </listWit>
 
@@ -563,16 +563,16 @@
 
 
             <div type="metricalScheme">
-                <p> Madrigale 10’a 10’b 10’a, 10’b 10’c 10’c, 10’d 10’e 10’d, 10’e 10’f 10’f; 10’g 10’g.</p>
+                <p>Madrigale 10’a 10’b 10’a, 10’b 10’c 10’c, 10’d 10’e 10’d, 10’e 10’f 10’f; 10’g 10’g.</p>
                 <p><hi rend="italic">Capovilla</hi> Xv.</p>
-                <p> Rima inclusiva ai vv. 2 : 4.</p>
-                <p> Punti sottoscritti: v.11 (<hi rend="italic">animo</hi>) Pit, (<hi rend="italic">aspra</hi>), Pit; v. 12 (<hi rend="italic">che</hi> Pit, <hi rend="italic">amore</hi> (Pit), <hi rend="italic">lei</hi> (Pit).</p>
+                <p>Rima inclusiva ai vv. 2 : 4.</p>
+                <p>Punti sottoscritti: v.11 (<hi rend="italic">animo</hi>) Pit, (<hi rend="italic">aspra</hi>), Pit; v. 12 (<hi rend="italic">che</hi> Pit, <hi rend="italic">amore</hi> (Pit), <hi rend="italic">lei</hi> (Pit).</p>
             </div>
 
 
             <listBibl type="editions">
 
-                <bibl corresp="#Corsi1970"> Corsi 1970, pp. 46-7</bibl>
+                <bibl corresp="#Corsi1970"> Corsi 1970, pp. 46-7.</bibl>
 
             </listBibl>
 
@@ -585,23 +585,23 @@
 
             <div type="commentary">
                 <note target="#l5">
-                    <num> 5.</num>
-                    <p> <hi rend="italic">La</hi>: da intendersi ovviamente come pronome personale (una conferma in Fp, che scrive <hi rend="italic">ella</hi>).</p>
+                    <num>5.</num>
+                    <p><hi rend="italic">La</hi>: da intendersi ovviamente come pronome personale (una conferma in Fp, che scrive <hi rend="italic">ella</hi>).</p>
                 </note>  
                 
                 <note target="#l6">
-                    <num> 6.</num>
-                    <p> <hi rend="italic">vagheça</hi>:‘lancia sguardi’ (TLIO, s.v. <hi rend="italic">vagheggiare</hi>), a meno che non si tratti del sostantivo ‘bellezza’, che costringe però a distinguere <hi rend="italic">donna istess’à vagheça</hi> ‘ha la bellezza di una donna’, con lettura meno probabile. </p>
+                    <num>6.</num>
+                    <p><hi rend="italic">vagheça</hi>:‘lancia sguardi’ (TLIO, s.v. <hi rend="italic">vagheggiare</hi>), a meno che non si tratti del sostantivo ‘bellezza’, che costringe però a distinguere <hi rend="italic">donna istess’à vagheça</hi> ‘ha la bellezza di una donna’, con lettura meno probabile. </p>
                 </note>
                 
                 <note target="#l7">
-                    <num> 7.</num>
-                    <p> Intendi ‘non appena si accorge che la guardo’.</p>
+                    <num>7.</num>
+                    <p>Intendi ‘non appena si accorge che la guardo’.</p>
                 </note>
                 
                 <note target="#l12">
-                    <num> 12.</num>
-                    <p> Ritengo che qui si tratti di Amore personificato, che non può più intercedere presso la donna (<hi rend="italic">i·llei</hi>) per il poeta (<hi rend="italic">per me</hi>), piuttosto che ‘sentimento amoroso’.</p>
+                    <num>12.</num>
+                    <p>Ritengo che qui si tratti di Amore personificato, che non può più intercedere presso la donna (<hi rend="italic">i·llei</hi>) per il poeta (<hi rend="italic">per me</hi>), piuttosto che ‘sentimento amoroso’.</p>
                 </note>
             </div>
 

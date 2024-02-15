@@ -48,8 +48,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -137,7 +137,7 @@
 
 
          <div type="metricalScheme">
-            <p> <hi rend="italic">Rondeau </hi>10’A 6’a 10’B; 10’a 10’A, 10’a 6’a 10’b.</p>
+            <p><hi rend="italic">Rondeau </hi>10’A 6’a 10’B; 10’a 10’A, 10’a 6’a 10’b.</p>
          </div>
 
 
@@ -176,12 +176,12 @@
 
          <div type="commentary">
             <note target="#l2">
-               <num> 2.</num>
+               <num>2.</num>
                <p><hi rend="italic">dites</hi>: forma del francese.</p>
             </note>
 
             <note target="#l5 #l8">
-               <num> 5-8.</num>
+               <num>5-8.</num>
                <p>‘Quella piacevole spina di cui dici, che punge e che ti ha punto fino ad ora, raggiungeremo noi, piacevoli dolci parolette, sì che i suoi occhi, leggendoci, guardino te’.</p>
             </note>
          </div>

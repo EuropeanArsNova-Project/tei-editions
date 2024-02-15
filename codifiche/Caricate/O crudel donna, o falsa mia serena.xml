@@ -48,8 +48,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -137,8 +137,8 @@
 
 
          <div type="metricalScheme">
-            <p> Madrigale 10’a 10’b 10’b, 10’b 10’c 10’c; 10’d 10’d.</p>
-            <p> <hi rend="italic"> Capovilla</hi>XXXV.</p>
+            <p>Madrigale 10’a 10’b 10’b, 10’b 10’c 10’c; 10’d 10’d.</p>
+            <p><hi rend="italic"> Capovilla</hi>XXXV.</p>
          </div>
 
 
@@ -174,7 +174,7 @@
 
          <div type="commentary">
             <note target="#l8">
-               <num> 8.</num>
+               <num>8.</num>
                <p>Franco Sacchetti, <hi rend="italic">Zibaldone del ms. Laurenziano Ashburnhamiano</hi> 574, 122, 12: <hi rend="italic">«Intemperantia ita facit</hi>. Liocorno è una bestia che ha tanta dilettazione di stare con una donzella vergine che, com’egli ne vede alcuna, così va a lei adormentarsi ne le sue braccia; poi vengono li cacciatori e sì lo pigliano, che altrimente non lo potrebeno pigliare se non per questa sua stemperanza» (ed. Puccini 2019).</p>
             </note>
          </div>

@@ -48,8 +48,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -163,22 +163,22 @@
               
 
          <div type="metricalScheme">
-            <p> <hi rend="italic"> Virelai</hi> 8’a 8b 8b 8’a; 8c 8’d, 8c 8’d; 8’a 8b 8b 8’a.</p>
-            <p> Rima ricca ai vv. 1 : 4, 6 : 8, 2: 10 : 11.</p>
+            <p><hi rend="italic"> Virelai</hi> 8’a 8b 8b 8’a; 8c 8’d, 8c 8’d; 8’a 8b 8b 8’a.</p>
+            <p>Rima ricca ai vv. 1 : 4, 6 : 8, 2: 10 : 11.</p>
          </div>
 
 
          <listBibl type="editions">
             <bibl corresp="#Bertoni1917">
-               Bertoni 1917, p. 40
+               Bertoni 1917, p. 40;
             </bibl>
 
             <bibl corresp="#Apel-Rosenberg1970">
-               Apel-Rosenberg 1970, p. XLVI
+               Apel-Rosenberg 1970, p. XLVI;
             </bibl>
 
             <bibl corresp="#Vivarelli2005">
-               Vivarelli 2005, pp. 95-7
+               Vivarelli 2005, pp. 95-7.
             </bibl>
          </listBibl>
 
@@ -191,18 +191,18 @@
 
          <div type="commentary">
             <note target="#l4">
-               <num> 4.</num>
-               <p> <hi rend="italic">par bon estraine </hi>: ‘di buon augurio’ (cfr. DMF, s. v. <hi rend="italic">étrenne</hi>, 1b). </p>
+               <num>4.</num>
+               <p><hi rend="italic">par bon estraine </hi>: ‘di buon augurio’ (cfr. DMF, s. v. <hi rend="italic">étrenne</hi>, 1b). </p>
             </note>
 
             <note target="#l5">
-               <num> 5.</num>
-               <p> <hi rend="italic">virelai</hi>: l’emendamento è già in Vivarelli 2005.</p>
+               <num>5.</num>
+               <p><hi rend="italic">virelai</hi>: l’emendamento è già in Vivarelli 2005.</p>
             </note>
 
             <note target="#l11">
-               <num> 11.</num>
-               <p> <hi rend="italic">sans panser nul outragement</hi>: ‘senza pensieri oltraggiosi’, può essere riferito sia a <hi rend="italic">amé ne fu certainement</hi> sia a <hi rend="italic">et amerai</hi> in costruzione <hi rend="italic">apò koinoù</hi> ▪ <hi rend="italic">nul</hi>: è attributo di <hi rend="italic">outragement</hi>, per cui la <hi rend="italic">-z</hi> flessiva della lezione del ms. (dovuta a ipercorrettismo?) è qui incongrua ed è stata eliminata. È improbabile che <hi rend="italic">nulz</hi> si riferisca alla <hi rend="italic">dame</hi> (<hi rend="italic">nulz de nature humaine</hi>), come si interpreta in Vivarelli 2005. </p>
+               <num>11.</num>
+               <p><hi rend="italic">sans panser nul outragement</hi>: ‘senza pensieri oltraggiosi’, può essere riferito sia a <hi rend="italic">amé ne fu certainement</hi> sia a <hi rend="italic">et amerai</hi> in costruzione <hi rend="italic">apò koinoù</hi> ▪ <hi rend="italic">nul</hi>: è attributo di <hi rend="italic">outragement</hi>, per cui la <hi rend="italic">-z</hi> flessiva della lezione del ms. (dovuta a ipercorrettismo?) è qui incongrua ed è stata eliminata. È improbabile che <hi rend="italic">nulz</hi> si riferisca alla <hi rend="italic">dame</hi> (<hi rend="italic">nulz de nature humaine</hi>), come si interpreta in Vivarelli 2005. </p>
             </note>
          </div>
 

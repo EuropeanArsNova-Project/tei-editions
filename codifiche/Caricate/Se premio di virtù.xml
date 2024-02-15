@@ -157,7 +157,7 @@
                     <lem>çonçevi</lem>
                     <rdg wit="#R">concevi</rdg>
                     <rdg wit="#Sq">giungine</rdg>
-                    <rdg wit="#SL">giun <witDetail><hi rend="italic">seguono grafi ill.</hi></witDetail></rdg>
+                    <rdg wit="#SL">giun <witDetail wit="#SL"><hi rend="italic">seguono grafi ill.</hi></witDetail></rdg>
                 </app>
                 <app from="#l9a5" to="#l9a6">
                     <lem>l'</lem>
@@ -216,7 +216,7 @@
                 </app>
                 <app from="#l1a1" to="#l1a2">
                     <lem>sol’</lem>
-                    <rdg wit="#SL">solo <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>>
+                    <rdg wit="#SL">solo <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
                 </app>
             </listApp>
             <listApp>

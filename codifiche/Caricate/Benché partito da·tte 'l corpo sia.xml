@@ -30,7 +30,7 @@
            <pubPlace> Firenze, Italia</pubPlace> 
            <date> 2021</date> 
            <availability> 
-              <p> L'edizione è disponibile su licenza.</p> 
+              <p>L'edizione è disponibile su licenza.</p> 
            </availability>            
            <idno type="ISBN"> ISBN</idno> 
            <idno type="DOI"> DOI</idno> 
@@ -47,7 +47,7 @@
   <text> 
      <!--front> 
         <div> 
-           <p> 
+           <p>
           </p> 
         </div>         
      </front--> 
@@ -105,7 +105,7 @@
 
 
         <div type="metricalScheme"> 
-           <p> Ballata minore 10’z 10’z; 10’a 10’b, [10’a 10’b; 10’b 10’z].</p>               
+           <p>Ballata minore 10’z 10’z; 10’a 10’b, [10’a 10’b; 10’b 10’z].</p>               
            <p><hi rend="italic"> Pagnotta</hi> [111].</p> 
         </div> 
 

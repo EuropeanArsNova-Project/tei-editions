@@ -48,8 +48,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -142,7 +142,7 @@
 
 
          <div type="metricalScheme">
-            <p> Madrigale pluristrofico (6’a) 13’b, (6’c) 13’b; (6’d) 13’d. <hi rend="italic">Coblas capfinidas</hi>.</p>
+            <p>Madrigale pluristrofico (6’a) 13’b, (6’c) 13’b; (6’d) 13’d. <hi rend="italic">Coblas capfinidas</hi>.</p>
          </div>
 
 
@@ -213,7 +213,7 @@
             </note>
 
             <note target="#l9">
-               <num> 9.</num>
+               <num>9.</num>
                <p>‘Ahimè! Come mi si spezza il cuore, quando i begli occhi piangono!’.</p>
             </note>
          </div>

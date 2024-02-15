@@ -49,8 +49,8 @@
     <text>
         <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -165,8 +165,8 @@
             
             <div type="commentary">
                 <note target="#l7">
-                    <num> 7.</num>
-                    <p> <hi rend="italic">qui maint lassus es chieulx:</hi>‘che vive lassù nei cieli’.</p>
+                    <num>7.</num>
+                    <p><hi rend="italic">qui maint lassus es chieulx:</hi>‘che vive lassù nei cieli’.</p>
                 </note>
             </div>
             

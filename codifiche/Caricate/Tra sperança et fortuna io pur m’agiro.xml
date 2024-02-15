@@ -71,7 +71,7 @@
 		    di <anchor xml:id="l5a1"/>due begli<anchor xml:id="l5a2"/> ochi più duri che petra,
 	    </l>
             <l xml:id="l6">
-		    <anchor xml:id="l6a1"/>per che invano<anchor xml:id="l6a1"/> la mie lença pesca.
+		    <anchor xml:id="l6a1"/>per che invano<anchor xml:id="l6a2"/> la mie lença pesca.
 	    </l>
             <l xml:id="l7">
 		    <anchor xml:id="l7a1"/>Ma io non<anchor xml:id="l7a2"/> finirò <anchor xml:id="l7a3"/>però<anchor xml:id="l7a4"/> la tresca
@@ -88,7 +88,7 @@
                cc. <locus>130v-131r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-4), <abbr xml:id="PitT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">do(n) pa(olo)</hi>(eraso)
             </witness>
             <witness xml:id="Lu">
-                <!--<ref target="X">Lu</ref>-->
+                <ref type="siglum" target="#Lu">Lu</ref>
                c. <locus>44v</locus>, <abbr xml:id="LuC">C</abbr> (vv. 1-4), <abbr xml:id="LuT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8).
             </witness>
             </listWit>

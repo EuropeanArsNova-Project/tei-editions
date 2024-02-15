@@ -427,7 +427,7 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#Pirrotta-LiGotti1950">
-                Pirrotta-Li Gotti 1950, p. 116
+                Pirrotta-Li Gotti 1950, p. 116;
             </bibl>
             <bibl corresp="#Corsi1970">
                 Corsi 1970, pp. 256-7.
@@ -442,23 +442,23 @@
          </listBibl-->
         <div type="commentary">
             <note target="#l3">
-                <num>3</num>
+                <num>3.</num>
                 <p><hi rend="italic">onore</hi>: si è preferito integrare la vocale finale per garantire la regolare cesura <hi rend="italic">a minori</hi>, propria peraltro della versione di Sq.</p>
             </note>
             <note target="#l6">
-                <num>6</num>
-                <p> <hi rend="italic">desiderava</hi>: a testo la variante di Lu e Sq, che evita una dura dialefe.</p>
+                <num>6.</num>
+                <p><hi rend="italic">desiderava</hi>: a testo la variante di Lu e Sq, che evita una dura dialefe.</p>
             </note>
             <note target="#l19">
                 <num>19</num>
                 <p><hi rend="italic">ma al</hi>: l’integrazione della vocale non è indispensabile, ma è richiesta per una maggior chiarezza del testo.</p>
             </note>
             <note target="#l8">
-                <num>8</num>
+                <num>8.</num>
                 <p><hi rend="italic">açutare</hi>: ‘aiutare’.</p>
             </note>
             <note target="#l10">
-                <num>10</num>
+                <num>10.</num>
                 <p>Si accoglie la congettura già in Pirrotta-Li Gotti.</p>
             </note>
          </div>

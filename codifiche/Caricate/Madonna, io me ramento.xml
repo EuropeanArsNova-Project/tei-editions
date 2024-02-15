@@ -48,8 +48,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -157,10 +157,10 @@
 
 
          <div type="metricalScheme">
-            <p> Ballata grande 6’z 6’y 6’y 10’z; 10’a 10b, 10’a 10’b; 6’b 6’c 6’c 10’z.</p>
-            <p> <hi rend="italic">Pagnotta</hi> 98 : 46.</p>
-            <p> Rima ricca ai vv. 6 : 8.</p>
-            <p> Punti sottoscritti: v. 3 (<hi rend="italic">formato</hi>) Lu <hi rend="super">T</hi></p>
+            <p>Ballata grande 6’z 6’y 6’y 10’z; 10’a 10b, 10’a 10’b; 6’b 6’c 6’c 10’z.</p>
+            <p><hi rend="italic">Pagnotta</hi> 98 : 46.</p>
+            <p>Rima ricca ai vv. 6 : 8.</p>
+            <p>Punti sottoscritti: v. 3 (<hi rend="italic">formato</hi>) Lu <hi rend="super">T</hi></p>
          </div>
 
 
@@ -179,7 +179,7 @@
 
          <div type="commentary">
             <note target="#l11">
-               <num> 11.</num>
+               <num>11.</num>
                <p><hi rend="italic">È</hi>:in Pirrotta-Li Gotti si supplisce con l’avverbio <hi rend="italic">pur</hi>.</p>
             </note>
             

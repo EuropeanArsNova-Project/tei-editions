@@ -49,8 +49,8 @@
     <text>
         <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -158,13 +158,13 @@
 
 
             <div type="metricalScheme">
-                <p> <hi rend="italic">Ballade</hi> 10a 10b 10c, 10a 10b 10c; 10c 10d 10’e 10’F 10’E 10C.</p>
-                <p> Rima equivoca ai vv. 1 : 13, 12 : 18, 15 : 27; rima derivativa ai vv. 7 : 30; rima identica ai vv. 12 : 25; rima inclusiva ai 27 : 31.</p>
+                <p><hi rend="italic">Ballade</hi> 10a 10b 10c, 10a 10b 10c; 10c 10d 10’e 10’F 10’E 10C.</p>
+                <p>Rima equivoca ai vv. 1 : 13, 12 : 18, 15 : 27; rima derivativa ai vv. 7 : 30; rima identica ai vv. 12 : 25; rima inclusiva ai 27 : 31.</p>
             </div>
 
 
             <listBibl type="editions">
-                <bibl corresp="#ApelRosenberg1971"> Apel-Rosenberg 1971, p. XXXII.</bibl>
+                <bibl corresp="#ApelRosenberg1971"> Apel-Rosenberg 1971, p. <hi rend="small-caps">XXXII</hi>.</bibl>
             </listBibl>
 
 
@@ -176,33 +176,33 @@
 
             <div type="commentary">
                 <note target="#l8">
-                    <num> 8</num>
-                    <p> <hi rend="italic">gissoit</hi>: ‘era insito’.</p>
+                    <num>8.</num>
+                    <p><hi rend="italic">gissoit</hi>: ‘era insito’.</p>
                 </note>
                 
                 <note target="#l11 #l12">
-                    <num> 11-12.</num>
-                    <p> ‘Nel giudicare l’anima degna della vita eterna, dolce Signora, Dio, siate concordi!’. Il senso suggerisce di interpretare il vocativo douche Dame come riferito alla Vergine.</p>
+                    <num>11-12.</num>
+                    <p>‘Nel giudicare l’anima degna della vita eterna, dolce Signora, Dio, siate concordi!’. Il senso suggerisce di interpretare il vocativo douche Dame come riferito alla Vergine.</p>
                 </note>
                 
                 <note target="#l15">
-                    <num> 15.</num>
-                    <p> L’emendamento è già in Apel-Rosenberg.</p>
+                    <num>15.</num>
+                    <p>L’emendamento è già in Apel-Rosenberg.</p>
                 </note>
                 
                 <note target="#l26">
-                    <num> 26.</num>
-                    <p> <hi rend="italic">lous</hi>: ‘qualità’.</p>
+                    <num>26.</num>
+                    <p><hi rend="italic">lous</hi>: ‘qualità’.</p>
                 </note>
                 
                 <note target="#l27">
-                    <num> 27.</num>
-                    <p> <hi rend="italic">tous cuers mort</hi>: ‘tormenta tutti i cuori’.</p>
+                    <num>27.</num>
+                    <p><hi rend="italic">tous cuers mort</hi>: ‘tormenta tutti i cuori’.</p>
                 </note>
                 
                 <note target="#l31">
-                    <num> 31.</num>
-                    <p> <hi rend="italic">or te remort</hi>: ‘ora provi rimorso’.</p>
+                    <num>31.</num>
+                    <p><hi rend="italic">or te remort</hi>: ‘ora provi rimorso’.</p>
                 </note>
             </div>
 

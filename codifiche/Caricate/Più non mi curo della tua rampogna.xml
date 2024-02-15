@@ -49,8 +49,8 @@
     <text>
         <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -295,9 +295,9 @@
 
 
             <div type="metricalScheme">
-                <p> Madrigale 10ʼa 10ʼb 10ʼb, 10ʼc 10ʼa 10ʼa; 10ʼʼd 10ʼʼd.</p>
+                <p>Madrigale 10ʼa 10ʼb 10ʼb, 10ʼc 10ʼa 10ʼa; 10ʼʼd 10ʼʼd.</p>
                 <p><hi rend="italic">Capovilla</hi> XXXVIII.</p>
-                <p> Rima imperfetta (guittoniana e assonanza) ai vv. 7 : 8.</p>
+                <p>Rima imperfetta (guittoniana e assonanza) ai vv. 7 : 8.</p>
             </div>
 
 
@@ -317,18 +317,18 @@
 
             <div type="commentary">
                 <note target="#l3">
-                    <num> 3.</num>
-                    <p> ʻHai spacciato una cosa (<hi rend="italic">bianco</hi>) per il suo contrario (<hi rend="italic">perso</hi>)ʼ, per cui vedi <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">perso<hi rend="super">1</hi></hi>, § 3. 2.</p>
+                    <num>3.</num>
+                    <p>ʻHai spacciato una cosa (<hi rend="italic">bianco</hi>) per il suo contrario (<hi rend="italic">perso</hi>)ʼ, per cui vedi <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">perso<hi rend="super">1</hi></hi>, § 3. 2.</p>
                 </note>
 
                 <note target="#l7 #l8">
-                    <num> 7-8.</num>
-                    <p> Col ritornello cambia il destinatario del brano, e la sentenza conclusiva si rivolge ad un tu generico, forse chi erroneamente ripone la sua fiducia in Amore. Il monaco è protagonista anche di una ballata anonima tràdita dal ms. Firenze, Biblioteca Nazionale Centrale, Magl. VII. 1078, c. 27v <hi rend="italic">Monico son tuto çoioso</hi>, costruita attorno allʼidea del monaco ingannatore e barattiere di cui è bene non fidarsi.</p>
+                    <num>7-8.</num>
+                    <p>Col ritornello cambia il destinatario del brano, e la sentenza conclusiva si rivolge ad un tu generico, forse chi erroneamente ripone la sua fiducia in Amore. Il monaco è protagonista anche di una ballata anonima tràdita dal ms. Firenze, Biblioteca Nazionale Centrale, Magl. VII. 1078, c. 27v <hi rend="italic">Monico son tuto çoioso</hi>, costruita attorno allʼidea del monaco ingannatore e barattiere di cui è bene non fidarsi.</p>
                 </note>
                 
                 <note target="#l8">
-                    <num> 8.</num>
-                    <p> <hi rend="italic"> rumico</hi>: ʻrimuginoʼ (cfr. <hi rend="italic">GDLI</hi>, s.v. <hi rend="italic">rumigare</hi>). </p>
+                    <num>8.</num>
+                    <p><hi rend="italic"> rumico</hi>: ʻrimuginoʼ (cfr. <hi rend="italic">GDLI</hi>, s.v. <hi rend="italic">rumigare</hi>). </p>
                 </note>
             </div>
 

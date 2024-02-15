@@ -47,8 +47,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -210,14 +210,14 @@
 
 
          <div type="metricalScheme">
-            <p> Ballata minore 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z.	</p>
+            <p>Ballata minore 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z.	</p>
             <p><hi rend="italic"> Pagnotta</hi>:111 : 166.</p>
          </div>
 
 
          <listBibl type="editions">
             <bibl corresp="#LiGotti1952">
-               Li Gotti 1952, p. 602
+               Li Gotti 1952, p. 602;
             </bibl>
 
             <bibl corresp="#Corsi1970">
@@ -234,17 +234,17 @@
 
          <div type="commentary">
             <note target="#l1 #l2">
-               <num> 1-2.</num>
+               <num>1-2.</num>
                <p>Cfr. Corsi 1970: «“balconi” è soggetto: “poi che gli alti balconi hanno stancato”, ecc. Abitudine diffusa delle donne del m. evo era quella di stare ai balconi. Si vegga, per tutti, Francesco da Barberino (<hi rend="italic">Reggimento e costumi di donna</hi>, 38-39, 91, 95, ecc.), che a più riprese esorta la donna, a qualunque grado sociale appartenga, a non stare al balcone o alla finestra».</p>
             </note>
 
             <note target="#l2">
-               <num> 2.</num>
+               <num>2.</num>
                <p><hi rend="italic">vie</hi>: ‘più’, a rimarcare la solitudine dell’amante.</p>
             </note>
 
             <note target="#l8">
-               <num> 8.</num>
+               <num>8.</num>
                <p><hi rend="italic"> spero</hi>: la variante <hi rend="italic">ispero</hi> di SL esclude la dialefe d’eccezione.</p>
             </note>
          </div>

@@ -126,10 +126,10 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#Pirrotta1960">
-                    Pirrotta 1960, p. XI.
+                    Pirrotta 1960, p. XI;
                 </bibl>
                 <bibl corresp="#Corsi1970">
-                    Corsi 1970, p. 340.
+                    Corsi 1970, p. 340;
                 </bibl>
                 <bibl corresp="#Fantini2021">
                     Fantini 2021, pp. 376-8.
@@ -145,11 +145,11 @@
                     <hi rend="italic">sdegnoso</hi>: l’emendamento è già in Corsi 1970 e Fantini 2021.
                 </note>
                 <note target="#l3">
-                    <num>3</num>
+                    <num>3.</num>
                     <hi rend="italic">giaço</hi>: ‘ghiaccio’.
                 </note>
                 <note target="#l8">
-                    <num>8</num>
+                    <num>8.</num>
                     <hi rend="italic">torna</hi>: il soggetto potrebbe essere sia <hi rend="italic">el ciel</hi> (‘trasforma’) sia, più probabilmente, <hi rend="italic">gli gran saxi</hi> (‘si trasformano’).
                 </note>
             </div>

@@ -47,8 +47,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -180,12 +180,12 @@
 
          <div type="commentary">
             <note target="#l3">
-               <num> 3.</num>
+               <num>3.</num>
                <p><hi rend="italic">briga</hi>: ‘fatica’.</p>
             </note>
 
             <note target="#l11">
-               <num> 11.</num>
+               <num>11.</num>
                <p><hi rend="italic">pers’ e cano</hi>:‘scuro e bianco’.</p>
             </note>
          </div>

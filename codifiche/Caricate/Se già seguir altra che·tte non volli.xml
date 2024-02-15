@@ -47,8 +47,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -101,7 +101,7 @@
             </witness>
 
             <witness xml:id="Cil">
-            <ref type="siglum" target="#"> Cil </ref> 
+            <ref type="siglum" target="#Cil">Cil</ref>
             c. 95v, <abbr xml:id="CilC">C</abbr> (vv. 1-5), <hi rend="italic">resid.</hi> (vv.6-10): <hi rend="italic">d(ominus) p(aulus)</hi>            
             </witness>
          </listWit>
@@ -171,7 +171,7 @@
 
          <listBibl type="editions">
             <bibl corresp="#Corsi1970">
-               Corsi 1970, p. 356
+               Corsi 1970, p. 356;
             </bibl>
 
             <bibl corresp="#Brumana-Ciliberti1986">

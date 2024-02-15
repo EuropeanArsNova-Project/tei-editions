@@ -107,35 +107,35 @@
                 cc. <locus>24v-25r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-3 e 10), <abbr xml:id="PitT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi>(vv. 4-9): <hi rend="italic">s(er) lorenço</hi>
             </witness>
             <witness xml:id="C6">
-                <ref type="siglum" target="#">C6</ref>
+                <ref type="siglum" target="#C6">C6</ref>
                 c. <locus>71r</locus>: <hi rend="italic">mandriale</hi> [seguono note illeggibili]
             </witness>
             <witness xml:id="V1">
-                <ref type="siglum" target="#">V1</ref>
+                <ref type="siglum" target="#V1">V1</ref>
                 c. <locus>316r</locus>
             </witness>
             <witness xml:id="Pl3">
-                <ref type="siglum" target="#">Pl3</ref>
+                <ref type="siglum" target="#Pl3">Pl3</ref>
                 c. <locus>100v</locus>
             </witness>
             <witness xml:id="Rc2">
-                <ref type="siglum" target="#R">Rc2</ref>
+                <ref type="siglum" target="#Rc2">Rc2</ref>
                 c. <locus>103r-v</locus>: <hi rend="italic">mandriale</hi>
             </witness>
             <witness xml:id="Np1">
-                <ref type="siglum" target="#">Np1</ref>
+                <ref type="siglum" target="#Np1">Np1</ref>
                 cc. <locus>137-138r</locus>
             </witness>
             <witness xml:id="Mg5">
-                <ref type="siglum" target="#">Mg5</ref>
+                <ref type="siglum" target="#Mg5">Mg5</ref>
                 c. <locus>15v</locus>
             </witness>
             <witness xml:id="P3">
-                <ref type="siglum" target="#">P3</ref>
+                <ref type="siglum" target="#P3">P3</ref>
                 c. <locus>100v</locus>
             </witness>
             <witness xml:id="Triss">
-                <ref type="siglum" target="#">Trissino</ref>
+                <ref type="siglum" target="#Trissino">Trissino</ref>
                 Trissino, <hi rend="italic">Poetica</hi>, c. <locus>45r</locus> (esemplare utilizzato: Roma, Biblioteca Casanatense, R XI. 29)
             </witness>
          </listWit>
@@ -154,7 +154,7 @@
                     <lem>ove</lem>
                     <rdg>ovio <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit> <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
                     <rdg wit="#Fp">ovi <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit> <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
-                    <rdg wit="#Rc2"><unclear reason="illegible" rend="(?)">ove <witDetail><hi rend="italic">forse con una m espunta </hi></witDetail></unclear>
+                    <rdg wit="#Rc2"><unclear reason="illegible" rend="(?)">ove <witDetail wit="#Rc2"><hi rend="italic">forse con una m espunta </hi></witDetail></unclear>
                     </rdg>
                 </app>
             </listApp>
@@ -326,7 +326,7 @@
                 </app>
                 <app from="#l4a4" to="#l4a1">
                     <lem>al</lem>
-                    <rdg wit="#Rc2">al <del>m</del> <witDetail><hi rend="italic">con espunzione </hi></witDetail></rdg>
+                    <rdg wit="#Rc2">al <del>m</del> <witDetail wit="#Rc2"><hi rend="italic">con espunzione </hi></witDetail></rdg>
                 </app>
                 <app from="#l4a1" to="#l4a5">
                     <lem>cor</lem>
@@ -393,7 +393,7 @@
                 <head>8</head>
                 <app from="#l8a3" to="#l8a4">
                     <lem>la</lem>
-                    <rdg wit="#Rc2">la <del>d</del> <witDetail><hi rend="italic">con espunzione </hi></witDetail></rdg>
+                    <rdg wit="#Rc2">la <del>d</del> <witDetail wit="#Rc2"><hi rend="italic">con espunzione </hi></witDetail></rdg>
                 </app>
                 <app from="#l8a5" to="#l8a6">
                     <lem>dimostrommi</lem>
@@ -436,13 +436,13 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#Chiari1969">
-                Chiari 1969, p. 24
+                Chiari 1969, p. 24;
             </bibl>
             <bibl corresp="#Ageno1990">
-                Ageno 1990, p. 33
+                Ageno 1990, p. 33;
             </bibl>
             <bibl corresp="#Puccini2007">
-                Puccini 2007, p. 85
+                Puccini 2007, p. 85;
             </bibl>
             <bibl corresp="#Fantini2015-2016">
                 Fantini 2015-2016, pp. 111-18.

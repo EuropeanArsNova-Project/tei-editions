@@ -96,7 +96,7 @@
                cc. <locus>45v-46r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="RT">T</abbr> (vv. 1-3 e 7-8), <abbr xml:id="RCt">Ct</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid</hi>. (vv. 4-6)
             </witness>
             <witness xml:id="SL">
-                <ref target="#SL">SL</ref>
+                <ref type="siglum" target="#SL">SL</ref>
                cc. <locus>6v-7r</locus> (illeggibile)
             </witness>
           </listWit>

@@ -102,7 +102,7 @@
                         cc. <locus>12v-13r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 7-9),: <hi rend="italic">magister jacob(us) de bononia</hi>
                     </witness>
                     <witness xml:id="Lo">
-                        <ref type="siglum" target="#">Lo<!--/ref>-->
+                        <ref type="siglum" target="#Lo">Lo</ref>
                         cc. <locus>15v-16r</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="LoT">T</abbr> (vv. 1-3 e 7-8),  <hi rend="italic">resid.</hi> (vv. 4-6)
                     </witness>
                     <witness xml:id="R">
@@ -110,7 +110,7 @@
                         c. <locus>7r-v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="RT">T</abbr> (vv. 1-3 e 10-11)
                     </witness>
                     <witness xml:id="SL">
-                        <ref target="#SL">SL</ref>
+                        <ref type="siglum" target="#SL">SL</ref>
                         cc. <locus>11v-12r</locus> (<hi rend="italic">cantus</hi> per gran parte illeggibile, appena visibile il <hi rend="italic">residuum</hi> contenente i vv. 7-9)
                     </witness>
                     <witness xml:id="Pdc">
@@ -383,11 +383,11 @@
             </listBibl>
             <div type="commentary">
                 <note target="#l4">
-                    <num>4</num>
+                    <num>4.</num>
                     ʻIn panni scuri alzati sui fianchiʼ (?), quindi in abiti succinti (per cui vedi anche Corsi 1969, nota  <hi rend="italic">ad loc.</hi>). La locuz.  <hi rend="italic">alla rotonda</hi> è documentata nel  <hi rend="italic">TLIO</hi>, s.v.  <hi rend="italic">rotondo</hi>, però col senso di ʻin cerchioʼ o ʻin modo completoʼ, che non sembra congruo nel contesto.
                 </note>
                 <note target="#l6">
-                    <num>6</num>
+                    <num>6.</num>
                     La variante di Per <hi rend="italic">prixila</hi> in luogo di <hi rend="italic">chiamaʼ·la</hi> Fp fa presagire lʼatmosfera molto più esplicita che si coglie nellʼintero testo di Per con lʼinterpolazione probabilmente spuria di 4 versi.
                 </note>
             </div>

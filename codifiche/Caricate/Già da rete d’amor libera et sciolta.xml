@@ -49,8 +49,8 @@
     <text>
         <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -116,9 +116,9 @@
 
 
             <div type="metricalScheme">
-                <p> Ballata 10’z 10’y; 10’a 10’b, 10’a 10’b; 10’b 10’z</p>
-                <p> <hi rend="italic">Pagnotta </hi>111 : 127</p>
-                <p> Punti sottoscritti: v. 3 (<hi rend="italic">tue</hi>) MoA.</p>
+                <p>Ballata 10’z 10’y; 10’a 10’b, 10’a 10’b; 10’b 10’z</p>
+                <p><hi rend="italic">Pagnotta </hi>111 : 127</p>
+                <p>Punti sottoscritti: v. 3 (<hi rend="italic">tue</hi>) MoA.</p>
             </div>
 
 

@@ -49,8 +49,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -142,7 +142,7 @@
 
 
          <div type="metricalScheme">
-            <p> Madrigale 10’a 10’b 10’a, [10’? 10’? 10’?]; 10’m 10’m.</p>
+            <p>Madrigale 10’a 10’b 10’a, [10’? 10’? 10’?]; 10’m 10’m.</p>
          </div>
 
 
@@ -163,8 +163,8 @@
 
          <div type="commentary">
             <note target="#l8">
-               <num> 8.</num>
-               <p> Interpretazione alternativa in Sucato 2003: «m’è pare Uberto, mia mar’è Vïola».</p>
+               <num>8.</num>
+               <p>Interpretazione alternativa in Sucato 2003: «m’è pare Uberto, mia mar’è Vïola».</p>
             </note>
          </div>
 

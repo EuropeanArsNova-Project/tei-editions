@@ -49,8 +49,8 @@
     <text>
         <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -255,16 +255,16 @@
 
 
             <div type="metricalScheme">
-                <p> Madrigale 10ʼa 10ʼb 10ʼb, 10ʼc 10ʼd 10ʼd; 10ʼe 10ʼe.</p>
-                <p> <hi rend="italic">Capovilla</hi> XLVIII.</p>
-                <p> Rima franta ai vv. 5 : 6.</p>
+                <p>Madrigale 10ʼa 10ʼb 10ʼb, 10ʼc 10ʼd 10ʼd; 10ʼe 10ʼe.</p>
+                <p><hi rend="italic">Capovilla</hi> XLVIII.</p>
+                <p>Rima franta ai vv. 5 : 6.</p>
             </div>
 
 
             <listBibl type="editions">
 
-                <bibl corresp="#Sapegno1952"> Sapegno 1952, p. 512 (con attribuzione erronea a Lorenzo Masini)</bibl>
-                <bibl corresp="#Corsi1969"> Corsi 1969, p. 1016</bibl>
+                <bibl corresp="#Sapegno1952"> Sapegno 1952, p. 512 (con attribuzione erronea a Lorenzo Masini);</bibl>
+                <bibl corresp="#Corsi1969"> Corsi 1969, p. 1016;</bibl>
                 <bibl corresp="#Corsi1970"> Corsi 1970, p. 22.</bibl>
 
             </listBibl>

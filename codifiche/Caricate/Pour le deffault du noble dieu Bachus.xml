@@ -49,8 +49,8 @@
     <text>
         <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -112,13 +112,13 @@
 
 
             <div type="metricalScheme">
-                <p> <hi rend="italic">Rondeau</hi> 10A 10B; 10b 10a; 10a 10b; 10A 10B. Si noti che il primo verso del <hi rend="italic">refrain</hi> non è ripetuto in seconda posizione nella strofe; in prima posizione, diversamente, si ha rima b.</p>
-                <p> Rima identica ai vv. 1 : 6, 2 : 8.</p>
+                <p><hi rend="italic">Rondeau</hi> 10A 10B; 10b 10a; 10a 10b; 10A 10B. Si noti che il primo verso del <hi rend="italic">refrain</hi> non è ripetuto in seconda posizione nella strofe; in prima posizione, diversamente, si ha rima b.</p>
+                <p>Rima identica ai vv. 1 : 6, 2 : 8.</p>
             </div>
 
 
             <listBibl type="editions">                
-                <bibl corresp="#Reaney1955"> Reaney 1955, p. I.</bibl>
+                <bibl corresp="#Reaney1955"> Reaney 1955, p. <hi rend="small-caps">I</hi>.</bibl>
             </listBibl>
             
             
@@ -130,18 +130,18 @@
             
             <div type="commentary">
                <note target="#l1 #l8">
-                   <num> 1-8.</num>
-                   <p> ‘Per colpa del nobile dio Bacco, gli amanti sono molto spesso disonorati, visto che costringe suo malgrado al rifiuto Napea, che decide le sorti degli innamorati. È opportuno pregare il bell’Imeneo che voglia correggere (passando) di bene in meglio (il fatto che) per colpa del nobile dio Bacco gli amanti sono molto spesso disonorati’. </p>
+                   <num>1-8.</num>
+                   <p>‘Per colpa del nobile dio Bacco, gli amanti sono molto spesso disonorati, visto che costringe suo malgrado al rifiuto Napea, che decide le sorti degli innamorati. È opportuno pregare il bell’Imeneo che voglia correggere (passando) di bene in meglio (il fatto che) per colpa del nobile dio Bacco gli amanti sono molto spesso disonorati’. </p>
                </note>
                 
                 <note target="#l4">
-                    <num> 4.</num>
-                    <p> <hi rend="italic"> Napeas</hi>: ninfa abitatrice die boschi, che esigeva fedeltà nelle relazioni d’amore. </p>
+                    <num>4.</num>
+                    <p><hi rend="italic"> Napeas</hi>: ninfa abitatrice die boschi, che esigeva fedeltà nelle relazioni d’amore. </p>
                 </note>
                 
                 <note target="#l5">
-                    <num> 5.</num>
-                    <p> <hi rend="italic"> Ymeneüs</hi>: si fa riferimento al mito di Imeneo, secondo alcune versioni figlio di Dioniso (<hi rend="italic">Bacchus</hi>) e di Afrodite, giovane bellissimo, che libera alcune fanciulle ateniesi rapite dai pirati, e tra loro la sua amata, guadagnandosi il diritto di sposarla.</p>
+                    <num>5.</num>
+                    <p><hi rend="italic"> Ymeneüs</hi>: si fa riferimento al mito di Imeneo, secondo alcune versioni figlio di Dioniso (<hi rend="italic">Bacchus</hi>) e di Afrodite, giovane bellissimo, che libera alcune fanciulle ateniesi rapite dai pirati, e tra loro la sua amata, guadagnandosi il diritto di sposarla.</p>
                 </note>
             </div>
             

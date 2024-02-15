@@ -49,8 +49,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -108,9 +108,9 @@
 
 
          <div type="metricalScheme">
-            <p> Madrigale privo di ritornello 10’a 10’b 10’b, 10’a 10’b 10’b.</p>
-            <p> Rima imperfetta (assonanza) al v. 5.</p>
-            <p> <hi rend="italic"> Capovilla </hi> XXVI. </p>
+            <p>Madrigale privo di ritornello 10’a 10’b 10’b, 10’a 10’b 10’b.</p>
+            <p>Rima imperfetta (assonanza) al v. 5.</p>
+            <p><hi rend="italic"> Capovilla </hi> XXVI. </p>
          </div>
 
 
@@ -138,8 +138,8 @@
 
          <div type="commentary">
             <note target="#l5">
-               <num> 5.</num>
-               <p> <hi rend="italic">berna</hi>: ‘cantano’.</p>
+               <num>5.</num>
+               <p><hi rend="italic">berna</hi>: ‘cantano’.</p>
             </note>
          </div>
 

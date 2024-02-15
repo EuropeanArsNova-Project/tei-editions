@@ -94,7 +94,7 @@
                c. <locus>82r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-5), <hi rend="italic">resid</hi>. (vv. 6-10): <hi rend="italic">do(n) paolo</hi>
             </witness>
             <witness xml:id="SL">
-               <ref target="#SL">SL</ref>
+               <ref type="siglum" target="#SL">SL</ref>
                c. <locus>108v [CXXXVIIIv]</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-5), <hi rend="italic">resid</hi>. (vv. 6-10): <hi rend="italic">a(bbas) paulus</hi>
             </witness>
             </listWit>
@@ -144,7 +144,7 @@
                Li Gotti 1952, p. 604;
             </bibl>
             <bibl corresp="#Corsi1969">
-               Corsi 1969, p. 1077.
+               Corsi 1969, p. 1077;
             </bibl>
             <bibl corresp="#Corsi1970">
                Corsi 1970, p. 283-4.
@@ -156,15 +156,15 @@
                <hi rend="small-caps">C’OSA</hi>: probabile <hi rend="italic">senhal</hi>, ripetuto in rima al v.5, che si trova anche in diversi testi intonati da Landini.
             </note>
             <note target="#l3">
-               <num>3</num>
+               <num>3.</num>
                <hi rend="italic">mir’</hi>: ‘guardi’, esortativo. 
             </note>
             <note target="#l9">
-               <num>9</num>
+               <num>9.</num>
                <hi rend="italic">che</hi>: ‘in modo tale che’. 
             </note>
             <note target="#l10">
-               <num>10</num> si riferisce a <hi rend="small-caps">COSA</hi>.
+               <num>10.</num> si riferisce a <hi rend="small-caps">COSA</hi>.
             </note>
          </div>
          <listBibl type="editionsBibliography">

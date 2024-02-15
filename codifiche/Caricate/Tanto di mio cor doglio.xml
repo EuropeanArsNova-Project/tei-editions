@@ -150,7 +150,7 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#Corsi1969">
-                Corsi 1969, p. 1081
+                Corsi 1969, p. 1081;
             </bibl>
             <bibl corresp="#Corsi1970">
                 Corsi 1970, pp. 259-60.
@@ -165,7 +165,7 @@
          </listBibl-->
         <div type="commentary">
             <note target="#l12">
-                <num>12</num>
+                <num>12.</num>
                 <p><hi rend="italic">conchiudo</hi>: ‘comprendo’.</p>
             </note>
          </div>

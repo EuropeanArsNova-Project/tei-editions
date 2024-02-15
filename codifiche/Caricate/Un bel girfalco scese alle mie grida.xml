@@ -91,7 +91,7 @@
                 </witness>
                 
                 <witness xml:id="T">
-                    <ref type="siglum" target="#">T</ref> c. 113v 
+                    <ref type="siglum" target="#T">T</ref> c. 113v 
                 </witness>
             </listWit>
 

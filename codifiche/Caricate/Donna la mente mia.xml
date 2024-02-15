@@ -85,7 +85,7 @@
       <back>
          <listWit>            
             <witness xml:id="Fp">
-               <ref target="#Fp">Fp</ref>
+               <ref type="siglum" target="#Fp">Fp</ref>
                <locus>c. 13v</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-5), <abbr xml:id="FpT">T</abbr> (vv. 1-5), <hi rend="italic">resid.</hi> (vv. 6-10): <hi rend="italic">m(agister) f(ranciscus)</hi>
             </witness>
             <witness xml:id="Mg4">

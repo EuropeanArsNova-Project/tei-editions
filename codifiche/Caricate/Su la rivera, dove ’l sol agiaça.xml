@@ -48,8 +48,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -136,29 +136,29 @@
 
 
          <div type="metricalScheme">
-            <p> Madrigale 10’a 10’b 10’a, [10’? 10’? 10’?]; 10’m 10’a. </p>
+            <p>Madrigale 10’a 10’b 10’a, [10’? 10’? 10’?]; 10’m 10’a. </p>
          </div>
 
 
          <listBibl type="editions">
             <bibl corresp="#LiGotti1944"> 
-               Li Gotti 1944, p. 127
+               Li Gotti 1944, p. 127;
             </bibl>            
 
             <bibl corresp="#Sesini1943-1950"> 
-              Sesini 1943-1950, p. 223
+              Sesini 1943-1950, p. 223;
             </bibl>
 
             <bibl corresp="#Corsi1970"> 
-              Corsi 1970, p. 364
+              Corsi 1970, p. 364;
             </bibl>
 
             <bibl corresp="#Pirrotta1992"> 
-              Pirrotta 1992, p. 29
+              Pirrotta 1992, p. 29;
             </bibl>
 
             <bibl corresp="#Sucato2003">
-               Sucato 2003, p. 75
+               Sucato 2003, p. 75.
             </bibl>
          </listBibl>
 
@@ -171,8 +171,8 @@
 
          <div type="commentary">
             <note target="#l1">
-               <num> 1.</num>
-               <p> <hi rend="italic">agiaça</hi>: ‘agghiaccia’ (una volta che l’acqua salata sia stata prosciugata dal sole, il sale che rimane risulta simile al ghiaccio).</p>
+               <num>1.</num>
+               <p><hi rend="italic">agiaça</hi>: ‘agghiaccia’ (una volta che l’acqua salata sia stata prosciugata dal sole, il sale che rimane risulta simile al ghiaccio).</p>
             </note>
          </div>
 

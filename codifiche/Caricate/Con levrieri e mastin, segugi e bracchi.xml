@@ -93,7 +93,7 @@
         <back>
             <listWit>
                 <witness xml:id="Fp">
-                    <ref target="#Fp">Fp</ref>
+                    <ref type="siglum" target="#Fp">Fp</ref>
                     cc. <locus>84v-85r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="FpT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic">s(er) gherardello</hi>
                 </witness>
                 <witness xml:id="Sq">
@@ -101,7 +101,7 @@
                     c. <locus>27v</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 10-11): <hi rend="italic">magister s(er) ghirardellus de florentia</hi>
                 </witness>
                 <witness xml:id="Lo">
-                    <ref type="siglum" target="#">Lo<!--/ref>-->
+                    <ref type="siglum" target="#Lo">Lo</ref>
                     cc. <locus>71v-72r</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="LoT">T</abbr> (incipit v.1),  <hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic">m(adrigale) di s(ser) gheradello</hi>
                 </witness>
             </listWit>
@@ -326,7 +326,7 @@
             </listBibl>
             <div type="commentary">
                 <note target="#l5">
-                    <num>5</num>
+                    <num>5.</num>
                     <hi rend="italic">piediche</hi>: ‘corde o catene per i piedi’, dal lat. <hi rend="italic">pedica</hi>.
                 </note>
             </div>

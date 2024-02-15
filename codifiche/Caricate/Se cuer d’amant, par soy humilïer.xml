@@ -49,8 +49,8 @@
     <text>
         <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -123,13 +123,13 @@
 
 
             <div type="metricalScheme">
-                <p> <hi rend="italic">Rondeau</hi> 10A 10B 10B 10A; 10a 10b, 10A 10B; 10a 10b 10b 10a; 10A 10B 10B 10A.</p>
-                <p> Rima identica ai vv. 1 : 7 : 13, 2 : 8 : 14, 3 : 15, rima derivativa e inclusiva ai vv. 2 : 3 : 6 : 8 : 10 : 14 : 15.</p>
+                <p><hi rend="italic">Rondeau</hi> 10A 10B 10B 10A; 10a 10b, 10A 10B; 10a 10b 10b 10a; 10A 10B 10B 10A.</p>
+                <p>Rima identica ai vv. 1 : 7 : 13, 2 : 8 : 14, 3 : 15, rima derivativa e inclusiva ai vv. 2 : 3 : 6 : 8 : 10 : 14 : 15.</p>
             </div>
 
 
             <listBibl type="editions">                
-                <bibl corresp="#Reaney1955"> Reaney 1955, p. II.</bibl>
+                <bibl corresp="#Reaney1955"> Reaney 1955, p. <hi rend="small-caps">II</hi>.</bibl>
             </listBibl>
             
             
@@ -141,23 +141,23 @@
             
             <div type="commentary">
                 <note target="#l2">
-                    <num> 2.</num>
-                    <p> ‘può meritare pietà quando ha commesso un errore’. </p>
+                    <num>2.</num>
+                    <p>‘può meritare pietà quando ha commesso un errore’. </p>
                 </note>   
                 
                 <note target="#l5">
-                    <num> 5.</num>
-                    <p> ‘Non faccio altro che essere triste’.</p>
+                    <num>5.</num>
+                    <p>‘Non faccio altro che essere triste’.</p>
                 </note>
                 
                 <note target="#l6">
-                    <num> 6.</num>
-                    <p> <hi rend="italic"> repris</hi>: ‘biasimato’.</p>
+                    <num>6.</num>
+                    <p><hi rend="italic"> repris</hi>: ‘biasimato’.</p>
                 </note>
                 
                 <note target="#l11">
-                    <num> 11.</num>
-                    <p> <hi rend="italic">soupris</hi>:  ‘sedotto (da un’altra?)’.</p>
+                    <num>11.</num>
+                    <p><hi rend="italic">soupris</hi>:  ‘sedotto (da un’altra?)’.</p>
                 </note>
             </div>
             

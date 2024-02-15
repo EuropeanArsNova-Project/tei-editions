@@ -92,7 +92,7 @@
                c. <locus>94v</locus>, <abbr xml:id="CilC">C</abbr> (vv. 1-4), <abbr xml:id="CilT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">d(ominus) p(aulus)</hi>
             </witness>
             <witness xml:id="SL">
-                <ref target="#SL">SL</ref>
+                <ref type="siglum" target="#SL">SL</ref>
                c. <locus>108r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-4), <abbr xml:id="SLT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">a(bbas) paulus</hi>.
             </witness>
             </listWit>

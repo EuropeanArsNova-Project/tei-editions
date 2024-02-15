@@ -49,8 +49,8 @@
     <text>
         <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -331,7 +331,7 @@
 
 
             <div type="metricalScheme">
-                <p> Madrigale 10ʼa 10ʼb 10ʼa, 10ʼb 10ʼʼc 10ʼʼc; 10ʼʼd 10ʼʼd; 10e 10e. </p>
+                <p>Madrigale 10ʼa 10ʼb 10ʼa, 10ʼb 10ʼʼc 10ʼʼc; 10ʼʼd 10ʼʼd; 10e 10e. </p>
                 <p><hi rend="italic">Capovilla </hi> XIV.</p>
             </div>
 
@@ -352,24 +352,24 @@
             <div type="commentary">
             
                 <note target="#l2">
-                    <num> 2.</num>
-                    <p>  <hi rend="italic">laudʼ e gloria</hi>: da intendere entrambi come verbi.</p>
+                    <num>2.</num>
+                    <p> <hi rend="italic">laudʼ e gloria</hi>: da intendere entrambi come verbi.</p>
                 </note>
 
                 <note target="#l3">
-                    <num> 3.</num>
-                    <p> <hi rend="italic">tʼaguria</hi>: ʻti auguraʼ, per cui vedi <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">auguriare</hi> § 1.1.</p>
+                    <num>3.</num>
+                    <p><hi rend="italic">tʼaguria</hi>: ʻti auguraʼ, per cui vedi <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">auguriare</hi> § 1.1.</p>
                 </note>
 
                 <note target="#l8">
-                    <num> 8.</num>
-                    <p> <hi rend="italic">Luca e Giovanni</hi>: si tratta di Luchino Novello e Giovanni Visconti, figli gemelli di Luchino Visconti e Isabella Fieschi. </p>
-                    <p> <hi rend="italic">a chi lor nome piacquero</hi>: ʻa coloro ai quali piacquero i loro nomiʼ.</p>
+                    <num>8.</num>
+                    <p><hi rend="italic">Luca e Giovanni</hi>: si tratta di Luchino Novello e Giovanni Visconti, figli gemelli di Luchino Visconti e Isabella Fieschi. </p>
+                    <p><hi rend="italic">a chi lor nome piacquero</hi>: ʻa coloro ai quali piacquero i loro nomiʼ.</p>
                 </note>
 
                 <note target="#l9 #l10">
-                    <num> 9-10.</num>
-                    <p> <hi rend="italic">Quarantesei… correa</hi>: Correva lʼanno 1346ʼ.</p>
+                    <num>9-10.</num>
+                    <p><hi rend="italic">Quarantesei… correa</hi>: Correva lʼanno 1346ʼ.</p>
                 </note>
             </div>
 

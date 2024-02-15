@@ -85,7 +85,7 @@
                     c. <locus>6v</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7): <hi rend="italic">m(agister) iouannes de florentia</hi>
                 </witness>
                 <witness xml:id="SL">
-                    <ref target="#SL">SL</ref>
+                    <ref type="siglum" target="#SL">SL</ref>
                     cc. <locus>35v-36r</locus> (<hi rend="italic">cantus</hi> e <hi rend="italic">tenor</hi> sono illeggibili)
                 </witness>
             </listWit>
@@ -128,7 +128,7 @@
             </listBibl>
             <div type="commentary">
                 <note target="#l7">
-                    <num>7</num>
+                    <num>7.</num>
                     Intenderei il verso sentenzioso ‘si vive nella finzione e così il mondo perdura’, con il verbo <hi rend="italic">regnare</hi> che oltre al più comune senso di ‘regnare, dominare’, può avere il senso di ‘vivere, perdurare’ (qui con soggetto <hi rend="italic">mondo</hi>).
                 </note>
             </div>

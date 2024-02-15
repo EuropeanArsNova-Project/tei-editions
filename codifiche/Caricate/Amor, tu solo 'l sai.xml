@@ -25,19 +25,19 @@
             </respStmt> 
          </titleStmt> 
          <publicationStmt> 
-            <p> </p> 
+            <p></p> 
             <!--publisher> Edizioni del Galluzzo</publisher> 
             <pubPlace> Firenze, Italia</pubPlace> 
             <date> 2021</date> 
             <availability> 
-               <p> L'edizione è disponibile su licenza.</p> 
+               <p>L'edizione è disponibile su licenza.</p> 
             </availability>            
             <idno type="ISBN"> ISBN</idno> 
             <idno type="DOI"> DOI</idno> 
             <idno type="URI"> permalink della scheda ANT</idno--> 
          </publicationStmt> 
          <sourceDesc> 
-            <p> </p> 
+            <p></p> 
          </sourceDesc> 
       </fileDesc> 
       <encodingDesc> 
@@ -47,8 +47,8 @@
    <text> 
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -185,9 +185,9 @@
 
 
          <div type="metricalScheme"> 
-            <p> Ballata grande 6’z 6’y 6’y 10’z; 10’a 6’b 10’c, 10’a 6’b 10’c; 6’c 6’y 6’y 10’z. </p> 
-            <p> <hi rend="italic"> Pagnotta</hi> 215 : 2. </p> 
-            <p> Rima derivativa e inclusiva ai vv. 2 : 13; rima ricca ai vv. 7 : 10. </p>  
+            <p>Ballata grande 6’z 6’y 6’y 10’z; 10’a 6’b 10’c, 10’a 6’b 10’c; 6’c 6’y 6’y 10’z. </p> 
+            <p><hi rend="italic"> Pagnotta</hi> 215 : 2. </p> 
+            <p>Rima derivativa e inclusiva ai vv. 2 : 13; rima ricca ai vv. 7 : 10. </p>  
          </div> 
 
 
@@ -213,7 +213,7 @@
 
          <!--<div type="commentary"> 
             <note target="# #"> 
-               <num> </num> 
+               <num></num> 
                <hi rend="italic"> </hi> 
             </note> 
          </div> --> 

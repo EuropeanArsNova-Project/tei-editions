@@ -96,7 +96,7 @@
                c. <locus>20v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="RT">T</abbr> (vv. 1-3 e 7-8)
             </witness>
             <witness xml:id="SL">
-                <ref target="#SL">SL</ref>
+                <ref type="siglum" target="#SL">SL</ref>
                cc. <locus>31v-32r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 7-8). Nel <hi rend="italic">tenor</hi> si leggono i vv. 1-2 e 7-8.
             </witness>
             </listWit>

@@ -49,8 +49,8 @@
    <text>
       <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -133,23 +133,23 @@
 
 
          <div type="metricalScheme">
-            <p> Madrigale 6’a 10’b 6’a, 6’c 10’d 6’c, 6’e 10’f 6’e; 10’g.</p>
-            <p> <hi rend="italic"> Capovilla </hi> XX <hi rend="super">1</hi>. Esempio di <hi rend="italic">mandrialis repetitus </hi>secondo la descrizione di Antonio da Tempo, cap. LVII <hi rend="italic"> De mandrialibus repetitis et eorum forma </hi> (ed. Andrews 1977, pp. 76-7), come <hi rend="italic"> Dal bel castel</hi>, che precede <hi rend="italic">Quando i oselli canta</hi> in Rs.</p>
+            <p>Madrigale 6’a 10’b 6’a, 6’c 10’d 6’c, 6’e 10’f 6’e; 10’g.</p>
+            <p><hi rend="italic"> Capovilla </hi> XX <hi rend="super">1</hi>. Esempio di <hi rend="italic">mandrialis repetitus </hi>secondo la descrizione di Antonio da Tempo, cap. LVII <hi rend="italic"> De mandrialibus repetitis et eorum forma </hi> (ed. Andrews 1977, pp. 76-7), come <hi rend="italic"> Dal bel castel</hi>, che precede <hi rend="italic">Quando i oselli canta</hi> in Rs.</p>
          </div>
 
 
          <listBibl type="editions">
-            <bibl corresp="#Liuzzi1937"> Liuzzi 1937, p. 64 </bibl>
+            <bibl corresp="#Liuzzi1937">Liuzzi 1937, p. 64;</bibl>
 
-            <bibl corresp="#LiGotti1944"> Li Gotti 1944, p. 124 </bibl>
+            <bibl corresp="#LiGotti1944">Li Gotti 1944, p. 124;</bibl>
 
-            <bibl corresp="#Sesini1943-1950"> Sesini 1943-1950, p. 220 </bibl>
+            <bibl corresp="#Sesini1943-1950">Sesini 1943-1950, p. 220;</bibl>
             
-            <bibl corresp="#Corsi1970"> Corsi 1970, p. 363 </bibl>
+            <bibl corresp="#Corsi1970">Corsi 1970, p. 363;</bibl>
 
-            <bibl corresp="#Pirrotta1992"> Pirrotta 1992, p. 27 </bibl>
+            <bibl corresp="#Pirrotta1992">Pirrotta 1992, p. 27;</bibl>
 
-            <bibl corresp="#Sucato2003"> Sucato 2003, p. 72 </bibl>
+            <bibl corresp="#Sucato2003">Sucato 2003, p. 72.</bibl>
          </listBibl>
 
 
@@ -161,8 +161,8 @@
 
          <div type="commentary">
             <note target="#l10">
-               <num> 10.</num>
-               <p> ‘mi percosse con la conocchia’. Conclusione di segno opposto rispetto a <hi rend="italic">Seguendo un me’ sparver</hi>, che segue <hi rend="italic">Quando i oselli canta</hi> in Rs.</p>
+               <num>10.</num>
+               <p>‘mi percosse con la conocchia’. Conclusione di segno opposto rispetto a <hi rend="italic">Seguendo un me’ sparver</hi>, che segue <hi rend="italic">Quando i oselli canta</hi> in Rs.</p>
             </note>
          </div>
 

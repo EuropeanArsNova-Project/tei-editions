@@ -109,8 +109,8 @@
 
 
             <listBibl type="editions">
-                <bibl corresp="#Reaney1959"> Reaney 1959, p. XXXIV;</bibl>
-                <bibl corresp="#Apel-Rosenberg1970"> Apel-Rosenberg 1970, p. LXV.</bibl>
+                <bibl corresp="#Reaney1959"> Reaney 1959, p. <hi rend="small-caps">XXXIV</hi>;</bibl>
+                <bibl corresp="#Apel-Rosenberg1970"> Apel-Rosenberg 1970, p. <hi rend="small-caps">LXV</hi>.</bibl>
             </listBibl>
 
 
@@ -122,7 +122,7 @@
 
             <div type="commentary">
                 <note target="#l4">
-                    <num>4</num>
+                    <num>4.</num>
                     <p><hi rend="italic">dos fier</hi>: l’espressione non risulta mai attestata.</p>
                 </note>
             </div>

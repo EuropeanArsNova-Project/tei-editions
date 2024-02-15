@@ -49,8 +49,8 @@
     <text>
         <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -106,15 +106,15 @@
 
 
             <div type="metricalScheme">
-                <p> Madrigale pluristrofico 10ʼa 10ʼb 10ʼb; 10ʼc 10ʼc. </p>
+                <p>Madrigale pluristrofico 10ʼa 10ʼb 10ʼb; 10ʼc 10ʼc. </p>
                 <p><hi rend="italic">Capovilla</hi> XLIII.</p>
             </div>
 
 
             <listBibl type="editions">
-                <bibl corresp="#Corsi1959"> Corsi 1959, p. 80</bibl>
-                <bibl corresp="#Corsi1970"> Corsi 1970, pp. 20-1</bibl>
-                <bibl corresp="#Zenari2004"> Zenari 2004, pp. 136-7</bibl>
+                <bibl corresp="#Corsi1959"> Corsi 1959, p. 80;</bibl>
+                <bibl corresp="#Corsi1970"> Corsi 1970, pp. 20-1;</bibl>
+                <bibl corresp="#Zenari2004"> Zenari 2004, pp. 136-7.</bibl>
 
             </listBibl>
 
@@ -126,7 +126,7 @@
 
 
             <div type="commentary">
-                <p> Il madrigale sembra risentire del primo capitolo e del primo sonetto della <hi rend="italic">Vita
+                <p>Il madrigale sembra risentire del primo capitolo e del primo sonetto della <hi rend="italic">Vita
                     nova, A ciascun’ alma presa e gentil core</hi>, col racconto della visione di Amore
                     che «ne le bracciʼ avea / madonna involta in un drappo dormendo» (vv. 10-11). Si
                     noti che lʼapparizione di Amore anche nel sonetto dantesco segue una perifrasi
@@ -134,18 +134,18 @@
                     lucente, / quando mʼaparve Amor subitamente» (vv. 6-8).</p>
 
                 <note target="#l7 #l8">
-                    <num> 7-8.</num>
-                    <p> <hi rend="italic"> li fece… partita</hi>: ʻle fece una veste drappeggiata di colore rosso e biancoʼ, forse ʻuna veste divisa in parti rosse e biancheʼ.</p>
+                    <num>7-8.</num>
+                    <p><hi rend="italic"> li fece… partita</hi>: ʻle fece una veste drappeggiata di colore rosso e biancoʼ, forse ʻuna veste divisa in parti rosse e biancheʼ.</p>
                 </note>
                 
                 <note target="#l7">
-                    <num> 7.</num>
-                    <p> <hi rend="italic"> vestita</hi>: participio pass. sostantivato vale ʻabito, vesteʼ</p>
+                    <num>7.</num>
+                    <p><hi rend="italic"> vestita</hi>: participio pass. sostantivato vale ʻabito, vesteʼ</p>
                 </note>
 
                 <note target="#l8">
-                    <num> 8.</num>
-                    <p> <hi rend="italic"> partita</hi>: vale ʻripartitaʼ, quindi forse ʻdrappeggiataʼ.</p>
+                    <num>8.</num>
+                    <p><hi rend="italic"> partita</hi>: vale ʻripartitaʼ, quindi forse ʻdrappeggiataʼ.</p>
                 </note>
             </div>
 

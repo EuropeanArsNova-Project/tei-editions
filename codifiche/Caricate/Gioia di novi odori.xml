@@ -116,7 +116,7 @@
                c. <locus>24r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-4), <abbr xml:id="RT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-12)
             </witness>
             <witness xml:id="SL">
-                <ref target="#SL">SL</ref>
+                <ref type="siglum" target="#SL">SL</ref>
                cc. <locus>37r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-4), <abbr xml:id="SLT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8?). Nel <hi rend="italic">residuum</hi> si leggono le parole <hi rend="italic">alberga amore</hi> (v. 6), <hi rend="italic">priego</hi> e <hi rend="italic">a miei</hi> (v. 8).
             </witness>
         </listWit>
@@ -356,7 +356,7 @@
             </listBibl>
             <div type="commentary">
                 <note target="#l10">
-                    <num>10</num>
+                    <num>10.</num>
                     <hi rend="italic">s’ella à fama</hi>: ‘visto che gode di considerazione’.
                 </note>
                 <note target="#l14">

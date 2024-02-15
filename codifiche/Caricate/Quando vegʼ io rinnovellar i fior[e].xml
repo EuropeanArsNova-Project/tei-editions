@@ -49,8 +49,8 @@
     <text>
         <!--<front> 
          <div> 
-            <p> 
-               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p> )
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
                e marca i corsivi (<hi rend="italic"> </hi> )
             </p> 
          </div>         
@@ -129,17 +129,17 @@
 
 
             <div type="metricalScheme">
-                <p> Madrigale 10ʼa 10ʼb 10ʼa, 10ʼb 10ʼc 10ʼb; 10ʼd. </p>
+                <p>Madrigale 10ʼa 10ʼb 10ʼa, 10ʼb 10ʼc 10ʼb; 10ʼd. </p>
                 <p><hi rend="italic">Capovilla</hi> X.</p>
-                <p> Rima identica ai vv. 2 : 4.</p>
+                <p>Rima identica ai vv. 2 : 4.</p>
             </div>
 
 
             <listBibl type="editions">
 
-                <bibl corresp="#LiGotti1944a"> Li Gotti 1944a, pp. 382-3</bibl>
+                <bibl corresp="#LiGotti1944a"> Li Gotti 1944a, pp. 382-3;</bibl>
 
-                <bibl corresp="#Corsi1970"> Corsi 1970, p. 46</bibl>
+                <bibl corresp="#Corsi1970"> Corsi 1970, p. 46.</bibl>
 
             </listBibl>
 
@@ -153,8 +153,8 @@
             <div type="commentary">
             
                 <note target="#l1">
-                    <num> 1.</num>
-                    <p>  <hi rend="italic">fiore</hi>: la lezione è stata corretta su <hi rend="italic">fiori</hi> del ms., per avere rima perfetta con il v. 3.</p>
+                    <num>1.</num>
+                    <p><hi rend="italic">fiore</hi>: la lezione è stata corretta su <hi rend="italic">fiori</hi> del ms., per avere rima perfetta con il v. 3.</p>
                 </note>
             </div>
 
