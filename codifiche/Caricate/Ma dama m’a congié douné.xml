@@ -129,7 +129,7 @@
                     c. <locus>14v</locus>, <abbr xml:id="ChC">C</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-21)
                 </witness>
                 <witness xml:id="Trém">
-                    <ref type="siglum" target="#">Trém</ref>
+                    <ref type="siglum" target="#Trém">Trém</ref>
                     c. <locus>Ir</locus> (<hi rend="italic">perduto</hi>): l’<hi rend="italic">incipit Ma dame ma conje</hi> è citato nell’indice seguito dal numero di carta (XXXVII), che non si è conservata.
                 </witness>
             </listWit>
@@ -164,7 +164,7 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#Apel-Rosenberg1971">
-                    Apel-Rosenberg 1971, p. XXX.
+                    Apel-Rosenberg 1971, p. <hi rend="small-caps">xxx</hi>.
                 </bibl>
             </listBibl>
             <div type="commentary">
@@ -182,7 +182,7 @@
                     <hi rend="italic">mais</hi>: ‘più’, da lat. MAGIS.
                 </note>
                 <note target="#l17">
-                    <num>17</num>
+                    <num>17.</num>
                     <hi rend="italic">li ferai</hi>: intervengo su <hi rend="italic">le font</hi> indotto forse da <hi rend="italic">ont</hi> (III pers. plur. al v. precedente riferito ai <hi rend="italic">mesdisans</hi>, qui fuori contesto).
                 </note>
             </div>

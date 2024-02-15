@@ -87,7 +87,7 @@
                 </witness>
                 
                 <witness xml:id="Lo1">
-                    <ref type="siglum" target="#">Lo1</ref> cc. <locus>3v-4r</locus>, <abbr xml:id="Lo1C">C</abbr> (vv. 7-8), <abbr xml:id="Lo1T">T</abbr> (vv. 1-8)
+                    <ref type="siglum" target="#Lo1">Lo1</ref> cc. <locus>3v-4r</locus>, <abbr xml:id="Lo1C">C</abbr> (vv. 7-8), <abbr xml:id="Lo1T">T</abbr> (vv. 1-8)
                 </witness>
                 
                 <witness xml:id="R">
@@ -99,7 +99,7 @@
                 </witness> 
                 
                 <witness xml:id="Fc">
-                    <ref type="siglum" target="#">Fc</ref> c. 2r, <abbr xml:id="FcT">T</abbr> (vv. 1-8)                    
+                    <ref type="siglum" target="#Fc">Fc</ref> c. 2r, <abbr xml:id="FcT">T</abbr> (vv. 1-8)                    
                 </witness>             
                               
                 
@@ -428,9 +428,9 @@
 
 
             <listBibl type="editions">
-                <bibl corresp="#Sapegno1952"> Sapegno 1952, p. 513</bibl>
-                <bibl corresp="#Corsi1969"> Corsi 1969, p. 1023</bibl>
-                <bibl corresp="#Corsi1970"> Corsi 1970, pp. 40-1</bibl>
+                <bibl corresp="#Sapegno1952"> Sapegno 1952, p. 513;</bibl>
+                <bibl corresp="#Corsi1969"> Corsi 1969, p. 1023;</bibl>
+                <bibl corresp="#Corsi1970"> Corsi 1970, pp. 40-1.</bibl>
 
             </listBibl>
 

@@ -117,7 +117,7 @@
             </witness>
 
             <witness xml:id="Pr">
-               <ref type="siglum" target="#">Pr</ref>
+               <ref type="siglum" target="#Pr">Pr</ref>
                c. 1r, <abbr xml:id="PrC">C</abbr> (vv. 1-4), <abbr xml:id="PrT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">a. marotus de caserta abbas</hi>
             </witness>
          </listWit>

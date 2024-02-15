@@ -110,7 +110,7 @@
                <locus>cc. 126v-127r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">magister franciscus cecus horghanista de florentia</hi>
             </witness>
             <witness xml:id="Fc">
-               <ref type="siglum" target="#">Fc</ref>
+               <ref type="siglum" target="#Fc">Fc</ref>
                <locus>c. 1r</locus>, <abbr xml:id="FcC">C</abbr> (vv. 1-4), <abbr xml:id="FcT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">m(agiste)r f(ranciscus) deorghannis</hi>
             </witness>
             <witness xml:id="Mg3">
@@ -332,7 +332,7 @@
                L’emendamento, tacito, è già in Corsi. ▪ <hi rend="italic">t’ò chiamato</hi>: ‘ti ho indicato, definito’ cfr. <hi rend="italic">GDLI</hi>, s.v. <hi rend="italic">chiamare</hi> § 16.
             </note>
             <note target="#l14">
-               <num>14</num>
+               <num>14.</num>
                L’emendamento, tacito, è già in Corsi.
             </note>
          </div>

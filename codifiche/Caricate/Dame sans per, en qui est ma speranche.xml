@@ -86,7 +86,7 @@
                     cc. <locus>28v-29r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-8): <hi rend="italic">fr(ater) a fru</hi>(?)
                 </witness>
                 <witness xml:id="Trém">
-                    <ref type="siglum" target="#">Trém</ref>
+                    <ref type="siglum" target="#Trém">Trém</ref>
                     c. <locus>2r</locus> (<hi rend="italic">perduto</hi>): l’<hi rend="italic">incipit Dame sans per</hi> è citato nell’indice seguito dal numero di carta (XVIII), che non si è conservata.
                 </witness>
             </listWit>

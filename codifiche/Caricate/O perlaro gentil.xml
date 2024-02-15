@@ -278,13 +278,13 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#Sapegno1952">
-                Sapegno 1952, p. 513
+                Sapegno 1952, p. 513;
             </bibl>
             <bibl corresp="#Corsi1969">
-                Corsi 1969, pp. 1015-6
+                Corsi 1969, pp. 1015-6;
             </bibl>
             <bibl corresp="#Corsi1970">
-                Corsi 1970, pp. 11-2
+                Corsi 1970, pp. 11-2.
             </bibl>
          </listBibl>
          <!--listBibl type="bibliography">

@@ -103,12 +103,12 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#Apel-Rosenberg1971">
-                    Apel-Rosenberg 1971, p. XXVIII.
+                    Apel-Rosenberg 1971, p. <hi rend="small-caps">xxviii</hi>.
                 </bibl>
             </listBibl>
             <div type="commentary">
                 <note target="#l1">
-                    <num>1</num>
+                    <num>1.</num>
                     <hi rend="italic">püens</hi>: participio presente di <hi rend="italic">puir</hi>.
                     <hi rend="italic">envenimee</hi>: participio passato di <hi rend="italic">envenimer</hi> ‘avvelenare’ (con esempi in <hi rend="italic">DMF</hi>, s.v. <hi rend="italic">envenimer</hi> § B proprio con riferimento alla lingua).
                 </note>

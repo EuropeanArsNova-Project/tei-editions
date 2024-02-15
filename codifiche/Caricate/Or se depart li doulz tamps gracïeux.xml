@@ -106,7 +106,7 @@
         <back>
             <listWit>
                 <witness xml:id="Ld3">
-                    <ref type="siglum" target="#">Ld3</ref>
+                    <ref type="siglum" target="#Ld3">Ld3</ref>
                     cc. <locus>8v-9r</locus>, <abbr xml:id="Ld3T">T</abbr> (vv. 1-4): <hi rend="italic">martin(us) (fa)brj</hi>. La rubrica è espressa in parte mediante un rebus facente riferimento alla solmisazione: la nota musicale “fa”, seguita da <hi rend="italic">brj</hi>, forma il nome «Fabri». Porzioni del testo risultano illeggibili a causa di macchie e rasure sulla superficie di scrittura, oltre che della rifilatura del manoscritto sul margine esterno.
                 </witness>
             </listWit>
@@ -151,7 +151,7 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#Apel-Rosenberg1971">
-                    Apel-Rosenberg 1970, p. LI.
+                    Apel-Rosenberg 1970, p. <hi rend="small-caps">LI</hi>.
                 </bibl>
             </listBibl>
             <!--div type="commentary">

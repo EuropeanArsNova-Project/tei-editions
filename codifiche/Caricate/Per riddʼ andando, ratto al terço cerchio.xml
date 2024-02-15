@@ -111,8 +111,8 @@
 
 
             <listBibl type="editions">
-                <bibl corresp="#Corsi1959"> Corsi 1959, p. 80</bibl>
-                <bibl corresp="#Corsi1970"> Corsi 1970, pp. 19-20</bibl>
+                <bibl corresp="#Corsi1959"> Corsi 1959, p. 80;</bibl>
+                <bibl corresp="#Corsi1970"> Corsi 1970, pp. 19-20.</bibl>
 
             </listBibl>
 
@@ -124,10 +124,10 @@
 
 
             <div type="commentary">
-                <p>Il poeta, coinvolto in una danza, si ritrova quasi inconsapevolmente e guidato
+                <note>Il poeta, coinvolto in una danza, si ritrova quasi inconsapevolmente e guidato
                     da un <hi rend="italic">çentil pensiero</hi>, sotto un pero. Qui riflette sulla brevità del ciclo di
                     vita dei frutti e degli esseri umani: chi agisce virtuosamente è come il frutto
-                    che più si tiene attaccato allʼalbero (restando così in vita).</p>
+                    che più si tiene attaccato allʼalbero (restando così in vita).</note>
                 
                 <note target="#l1">
                     <num>1.</num>

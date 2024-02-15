@@ -104,7 +104,7 @@
       <back>
         <listWit>
             <witness xml:id="MoA">
-               <!--<ref target="X">-->MoA<!--</ref>-->
+               <ref type="siglum" target="#MoA">MoA</ref>
                c. <locus>39r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-4), <abbr xml:id="MoAT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-14): <hi rend="italic">frater bartholinus</hi>
             </witness>
             <witness xml:id="Lu">
@@ -359,7 +359,7 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#LiGotti1950">
-                    Li Gotti, p. 115.
+                    Li Gotti, p. 115;
                 </bibl>
                 <bibl corresp="#Corsi1970">
                     Corsi 1970, p. 252.
@@ -371,7 +371,7 @@
                     <hi rend="italic">c’à</hi>: ‘chi ha’.
                 </note>
                 <note target="#l14">
-                    <num>14</num>
+                    <num>14.</num>
                     <hi rend="italic">inico</hi>: ‘iniquo’.
                 </note>
             </div>

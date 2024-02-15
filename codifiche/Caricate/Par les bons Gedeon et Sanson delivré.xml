@@ -110,7 +110,7 @@
                     c. <locus>45v</locus>, <abbr xml:id="ChC">C</abbr> (vv. 1-7)
                 </witness>
                 <witness xml:id="To">
-                    <ref type="siglum" target="#">To</ref>
+                    <ref type="siglum" target="#To">To</ref>
                     c. <locus>5v</locus>, <abbr xml:id="ToC">C</abbr> (vv. 1-7)
                 </witness>
             </listWit>
@@ -257,7 +257,7 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#Apel-Rosenberg1970">
-                    Apel-Rosenberg 1970, pp. XLIV-XLV.
+                    Apel-Rosenberg 1970, pp. <hi rend="small-caps">XLIV-XLV</hi>;
                 </bibl>
                 <bibl corresp="#Vivarelli2005">
                   Vivarelli 2005, pp. 89-90.
@@ -265,7 +265,7 @@
             </listBibl>
             <div type="commentary">
                 <note target="#l2">
-                    <num>2</num>
+                    <num>2.</num>
                     <hi rend="italic">servitù</hi>: è voce dell’italiano, cfr. il raro a. fr. <hi rend="italic">serveté</hi>, registrato in Tobler-Lommatsch, IX, p. 563.
                 </note>
                 <note target="#l7">
@@ -273,7 +273,7 @@
                     <hi rend="italic">souverayn pape</hi>: la variante di To <hi rend="italic">sonbray antipape</hi> ‘oscuro antipapa’ (-<hi rend="italic">ay</hi> è ipercorrettismo grafico per -<hi rend="italic">e</hi>) è da mettere in relazione con l’obbedienza pisano-bolognese propria dell’ambiente d’origine del manoscritto (Vivarelli 2005, p. 90).
                 </note>
                 <note target="#l11">
-                    <num>11</num>
+                    <num>11.</num>
                     <hi rend="italic">verai</hi>: forma consueta nell’a. fr., necessaria per il metro. L’inserimento di una vocale nel nesso consonantico chiuso da una liquida è del resto tendenza fonetica propria del piccardo non sconosciuta ad altri dialetti (cfr. Gossen 1976, § 44, p. 103, e § 74, pp. 131-132).
                 </note>
             </div>

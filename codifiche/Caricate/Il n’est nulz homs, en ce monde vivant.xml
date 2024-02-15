@@ -178,16 +178,16 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#Apel-Rosenberg1970">
-                    Apel-Rosenberg 1970, p. LXIV.
+                    Apel-Rosenberg 1970, p. <hi rend="small-caps">lxiv</hi>.
                 </bibl>
             </listBibl>
             <div type="commentary">
                 <note target="#l1 #l2 #l3 #l4">
-                    <num>1-4</num>
+                    <num>1-4.</num>
                     Si costruisca: «En ce monde vivant, il n’est nulz homs, ce m’est avis, fait tant subtilz de pris, qui peut considerer, apercevant, la grant dolour qu’il me faut endurer».
                 </note>
                 <note target="#l11">
-                    <num>11</num>
+                    <num>11.</num>
                     L'integrazione di <hi rend="italic">fait</hi> è già in Apel-Rosenberg 1970.
                 </note>
             </div>

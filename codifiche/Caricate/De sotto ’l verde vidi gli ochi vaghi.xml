@@ -88,7 +88,7 @@
                     c. <locus>51r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-3 e 7), <abbr xml:id="FpT">T</abbr> (vv. 1-3 e 7), <hi rend="italic">resid</hi>. (vv. 4-6 e 8)
                 </witness>
                 <witness xml:id="Rs">
-                    <ref target="#Rs">Rs</ref> 
+                    <ref type="siglum" target="#Rs">Rs</ref> 
                     c. <locus>1r</locus>, <abbr xml:id="RsC">C</abbr> (vv. 1-3 e 7), <abbr xml:id="RsT">T</abbr> (vv. 1-3 e 7), <hi rend="italic">resid</hi>. (vv. 4-6 e 8)
                 </witness>
             </listWit>
@@ -213,7 +213,7 @@
             </listBibl>
             <div type="commentary">
                 <note target="#l2">
-                    <num>2</num>
+                    <num>2.</num>
                     <hi rend="italic">mi</hi>: pronome mediale ( <hi rend="italic">mi mirava con disio</hi> ‘guardavo con desiderio’).
                 </note>
             </div>

@@ -86,11 +86,11 @@
                 </witness>
                 
                 <witness xml:id="Bov">
-                    <ref type="siglum" target="#">Bov</ref> cc <locus>4v-5r</locus>, <abbr xml:id="BovC">C</abbr> (vv. 1-8)                    
+                    <ref type="siglum" target="#Bov">Bov</ref> cc <locus>4v-5r</locus>, <abbr xml:id="BovC">C</abbr> (vv. 1-8)                    
                 </witness>
                 
                 <witness xml:id="P11">
-                    <ref type="siglum" target="#">P11</ref> cc <locus>153r</locus>, <abbr xml:id="P11C">C</abbr> (vv. 1-8)                    
+                    <ref type="siglum" target="#P11">P11</ref> cc <locus>153r</locus>, <abbr xml:id="P11C">C</abbr> (vv. 1-8)                    
                 </witness>
             </listWit>
 
@@ -338,7 +338,7 @@
 
 
             <listBibl type="editions">
-                <bibl corresp="#Apel-Rosenberg1970">Apel-Rosenberg 1970, p. LXXI- LXXII.</bibl>
+                <bibl corresp="#Apel-Rosenberg1970">Apel-Rosenberg 1970, p. <hi rend="small-caps">LXXI- LXXII</hi>.</bibl>
             </listBibl>
 
 

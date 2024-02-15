@@ -136,7 +136,7 @@
             </listApp>
             <div type="metricalScheme">
                 <p>Madrigale 10ʼa 10ʼb 10ʼb, 10ʼc 10ʼd 10ʼd; 10ʼe.</p>
-                <p><hi rend="italic">Capovilla</hi> XLVII.</p>
+                <p><hi rend="italic">Capovilla</hi> <hi rend="small-caps">xlvii</hi>.</p>
                 <p>Rima ricca ai vv. 2 : 3.</p>
                 <p>Punti sottoscritti: v. 1 (<hi rend="italic">prato</hi>) Fp; v. 2 (<hi rend="italic">cantando</hi>) Fp<hi rend="super">C</hi>; v. 3 (<hi rend="italic">donne</hi>) Fp.</p>
             </div>
@@ -150,7 +150,7 @@
             </listBibl>
             <div type="commentary">
                 <note target="#l2">
-                    <num>2</num>
+                    <num>2.</num>
                     <hi rend="italic">tresca</hi> : si tratta di una danza concitata, come documentato dal <hi rend="italic">TLIO</hi>, s.v. §1.
                 </note>
             </div>

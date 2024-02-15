@@ -212,7 +212,7 @@
                 Madrigale 10’a 10’b 10’b, 10’a 10’c 10’c; 10’d 10’d.
             </p>
             <p>
-                <hi rend="italic">Capovilla</hi> <hi rend="majuscule">XXX</hi>, ma classificato sotto XLII in base all’edizione Corsi 1970.
+                <hi rend="italic">Capovilla</hi> <hi rend="small-caps">xxx</hi>, ma classificato sotto XLII in base all’edizione Corsi 1970.
             </p>
          </div>
          <listBibl type="editions">
@@ -232,7 +232,7 @@
          </listBibl-->
          <div type="commentary">
             <note target="#l2">
-               <num>2</num>
+               <num>2.</num>
                <p><hi rend="italic">lento artenne</hi>: ‘rallentò’. </p>
             </note>
             <note target="#l5">

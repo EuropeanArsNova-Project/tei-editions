@@ -111,15 +111,15 @@
                 cc. <locus>27v-28r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-6 e 7-9)): c. 28r: <hi rend="italic">j[...] cascia</hi>
             </witness>
             <witness xml:id="Fc">
-                <ref type="siglum" target="#">Fc</ref>
+                <ref type="siglum" target="#Fc">Fc</ref>
                 c. <locus>2v</locus>, <abbr xml:id="FcC">C</abbr> (vv. 1-3 e 7-8)
             </witness>
             <witness xml:id="Ol">
-                <ref type="siglum" target="#">Ol</ref>
+                <ref type="siglum" target="#Ol">Ol</ref>
                 c. <locus>1v</locus> (vv. 1-3 e 10-11)
             </witness>
             <witness xml:id="Mg3">
-                <ref type="siglum" target="#">Mg3</ref>
+                <ref type="siglum" target="#Mg3">Mg3</ref>
                 c. <locus>47v</locus> (vv. 1-3 e 10-11)
             </witness>
          </listWit>
@@ -323,7 +323,7 @@
                 Madrigale 10’a 10’b 10’b, 10’c 10’d 10’d, 10’e 10’f 10’f, 10’g 10’g.
             </p>
             <p>
-                <hi rend="italic">Capovilla</hi> <hi rend="small-caps">LIII</hi>.
+                <hi rend="italic">Capovilla</hi> <hi rend="small-caps">liii</hi>.
             </p>
          </div>
          <listBibl type="editions">
@@ -343,11 +343,11 @@
          </listBibl-->
         <div type="commentary">
             <note target="#l1">
-                <num>1</num>
+                <num>1.</num>
                 <p><hi rend="italic">bella stella</hi>: il pianeta Venere, descritto quando esce da dietro il monte, quindi nel momento prossimo al mattino in cui si alza e si rende visibile. Si noti la perifrasi astronomica non dissimile a quella accolta nel madrigale <hi rend="italic">Quando la stella pressʼ alʼalba spira</hi>. </p>
             </note>
             <note target="#l2">
-                <num>2</num>
+                <num>2.</num>
                 <p> <hi rend="italic">nella mente mia</hi>: <hi rend="italic">iunctura</hi> già in posizione di rima nei sonetti danteschi <hi rend="italic">Era venuta nella mente mia e Due donne in cima della mente mia</hi>. </p>
             </note>
             <note target="#l4">

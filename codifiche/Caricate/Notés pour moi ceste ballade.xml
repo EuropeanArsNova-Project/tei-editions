@@ -105,11 +105,11 @@
 
          <listBibl type="editions">
             <bibl corresp="#Bertoni1917">
-               Bertoni 1917, p. 32
+               Bertoni 1917, p. 32;
             </bibl>
 
             <bibl corresp="#Apel-Rosenberg1970">
-               Apel-Rosenberg 1970, p. XLVI
+               Apel-Rosenberg 1970, p. <hi rend="small-caps">XLVI</hi>;
             </bibl>
 
             <bibl corresp="#Vivarelli2005">

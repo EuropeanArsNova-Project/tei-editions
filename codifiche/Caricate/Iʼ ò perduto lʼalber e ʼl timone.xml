@@ -197,7 +197,7 @@
 
             <div type="metricalScheme">
                 <p>Madrigale 10ʼa 10ʼb 10ʼb, 10ʼc 10ʼd 10ʼd; 10ʼe 10ʼe.</p>
-                <p><hi rend="italic">Capovilla</hi>  XLVIII.</p>
+                <p><hi rend="italic">Capovilla</hi> <hi rend="small-caps">xlviii</hi>.</p>
                 <p>Rima inclusiva ai vv. 2 : 3. </p>
                 <p>Punti sottoscritti: v. 8 (<hi rend="italic">mai</hi>) Sq<hi rend="super">C</hi>.</p>
             </div>
@@ -205,7 +205,7 @@
 
             <listBibl type="editions">
                 <bibl corresp="#Corsi1969">Corsi 1969, p. 1040;</bibl>
-                <bibl corresp="#Giorgetti2019-2020">Giorgetti 2019-2020, pp. 90-3;</bibl>
+                <bibl corresp="#Giorgetti2019-2020">Giorgetti 2019-2020, pp. 90-3.</bibl>
             </listBibl>
 
 

@@ -130,7 +130,7 @@
                <locus>c. 35r</locus>, <abbr xml:id="ChC">C</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-21): <hi rend="italic">matheus de s(an)c(t)o johanne</hi>         
             </witness>
             <witness xml:id="MoA">
-               <!--ref-->MoA</ref>
+               <ref type="siglum" target="#MoA">MoA</ref>
                <locus>c. 15v</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-7)
             </witness>
          </listWit>
@@ -248,7 +248,7 @@
          </div>
          <listBibl type="editions">
             <bibl corresp="#Apel-Rosenberg1970">
-               Apel-Rosenberg 1970, p. <hi rend="small-caps">lxii</hi>;
+               Apel-Rosenberg 1970, p. <hi rend="small-caps">LXII</hi>;
             </bibl>
             <bibl corresp="#Greene1981">
                Greene 1981, p. 133.

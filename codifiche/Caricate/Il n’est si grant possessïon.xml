@@ -176,7 +176,7 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#Apel-Rosenberg1971">
-                    Apel-Rosenberg 1971, p. XXVII.
+                    Apel-Rosenberg 1971, p. <hi rend="small-caps">xxvii</hi>.
                 </bibl>
             </listBibl>
             <div type="commentary">
@@ -185,11 +185,11 @@
                     <hi rend="italic">despendre</hi>: cfr. 3. <hi rend="italic">DMF dépendre</hi><hi rend="super">3</hi>.
                 </note>
                 <note target="#l19">
-                    <num>19</num>
+                    <num>19.</num>
                     Per ristabilire le due sillabe mancanti inserisco l’avverbio <hi rend="italic">aussi</hi> (ma potrebbe esser stato omesso <hi rend="italic">meme</hi>), che non cambia il senso del passo. 
                 </note>
                 <note target="#l22">
-                    <num>22</num>
+                    <num>22.</num>
                     La massima, che ha avvio al v. 21, sembra voler sostenere che il valore si prova sia in tempo di pace sia in tempo di guerra. Per questo, come già nell’ed. del <hi rend="italic">CMM</hi>, correggo <hi rend="italic">o plait</hi> con <hi rend="italic">ou pais</hi>.
                 </note>
             </div>

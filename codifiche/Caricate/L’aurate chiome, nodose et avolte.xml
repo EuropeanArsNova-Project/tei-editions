@@ -226,8 +226,8 @@
                     Corsi 1970, p. 261.
                 </bibl>
             </listBibl>
-            <div type="commentary">
-            </div>
+            <!--div type="commentary">
+            </div-->
             <listBibl type="editionsBibliography">
                 <bibl xml:id="LiGotti1950">
                 N. Pirrotta-E. Li Gotti, <hi rend="italic">Il Codice di Lucca: II. Testi letterari</hi>, «Musica Disciplina», 4 (1950), pp. 111-152.

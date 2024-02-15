@@ -178,12 +178,12 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#Apel-Rosenberg1971">
-                    Apel-Rosenberg 1971, p. LVII.
+                    Apel-Rosenberg 1971, p. <hi rend="small-caps">lvii</hi>.
                 </bibl>
             </listBibl>
             <div type="commentary">
                 <note target="#l1 #l2 #l3 #l4 #l5 #l6 #l7 #l8 #l9 #l10 #l11 #l12 #l13 #l14">
-                    <num>1-14</num>
+                    <num>1-14.</num>
                     ‘Il più grande dono che la natura ha fatto all’uomo consiste in ciò per cui, dopo aver ricevuto il linguaggio, si stabilirono in lui il senno e la misura. E per questo, quando non ci si cura di accumulare una profonda conoscenza, si trascinano verso il fondo (si causa la rovina di) tutte le persone di valore; io invece ne ho fervente desiderio. Quando qualcuno pensa, ingannandosi, di essere più di quanto sia in realtà (lett. verosimile), non c’è mai grande speranza di avere buona fama: tra le persone di valore può esserci speranza (solo) se ci si conquista in modo adeguato un’onorevole reputazione’.
                 </note>
                 <note target="#l9">
@@ -195,7 +195,7 @@
                     <hi rend="italic">fuméa</hi>: per <hi rend="italic">fumée</hi> ‘pensiero fumoso, ingannevole, illusorio’, cfr. il <hi rend="italic">rondeau</hi> di Solage <hi rend="italic">Fumeux fume par fumée</hi>.
                 </note>
                 <note target="#l11">
-                    <num>11</num>
+                    <num>11.</num>
                     <hi rend="italic">apparanche</hi>: ‘verosimiglianza’. Cfr. DMF s. v <hi rend="italic">apparence</hi>, § B.2 «Vraisemblance, probabilité, possibilité».
                 </note>
             </div>

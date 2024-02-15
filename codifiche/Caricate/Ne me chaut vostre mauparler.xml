@@ -96,7 +96,7 @@
                 
                     <listWit>
                         <witness xml:id="Ln7">
-                            <ref type="siglum" target="#">Ln7</ref> c. 20r-v, vv. 1-20: <hi rend="italic">bergerete chantee</hi>
+                            <ref type="siglum" target="#Ln7">Ln7</ref> c. 20r-v, vv. 1-20: <hi rend="italic">bergerete chantee</hi>
                         </witness>
                         
                         <witness xml:id="MoA">
@@ -330,7 +330,7 @@
             
             
             <listBibl type="editions">
-                <bibl corresp="#ApelRosenberg1970"> Apel-Rosenberg 1970, p. LIX.</bibl>
+                <bibl corresp="#ApelRosenberg1970"> Apel-Rosenberg 1970, p. <hi rend="small-caps">LIX</hi>.</bibl>
             </listBibl>
             
             

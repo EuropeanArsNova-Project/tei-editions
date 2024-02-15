@@ -129,7 +129,7 @@
                <locus>c. 48v</locus> (vv. 1-10)
             </witness>
             <witness xml:id="D1">
-               <ref type="siglum" target="#D1">D1</ref>
+               <!-- ref target=""-->D1<!-- /ref -->
                <locus>c. 15v</locus>(vv. 1-5, trascritti due volte nella prima copia D1<hi rend="super">A</hi> D1<hi rend="super">B</hi>
                , e una volta nella seconda D1<hi rend="super">C</hi>, vv. 6-10 trascritti una volta nella prima copia D1<hi rend="super">A</hi>
                e una volta nella seconda D1<hi rend="super">C</hi>; cfr. Calvia 2020b):

@@ -79,7 +79,7 @@
                 </witness>
                 
                 <witness xml:id="Mg3">
-                    <ref type="siglum" target="#">Mg3</ref>cc. <locus>49v-50r</locus>: <hi rend="italic">Madrigale</hi>
+                    <ref type="siglum" target="#Mg3">Mg3</ref>cc. <locus>49v-50r</locus>: <hi rend="italic">Madrigale</hi>
                 </witness>
                 
                 <witness xml:id="T">

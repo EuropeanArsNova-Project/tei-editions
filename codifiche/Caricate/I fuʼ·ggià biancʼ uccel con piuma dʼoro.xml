@@ -92,7 +92,7 @@
                 </witness>
                 
                 <witness xml:id="C5">
-                    <ref type="siglum" target="#">C5</ref> c. 135r: <hi rend="italic">madriale tonato</hi>
+                    <ref type="siglum" target="#C5">C5</ref> c. 135r: <hi rend="italic">madriale tonato</hi>
                 </witness>
                 
                 
@@ -271,7 +271,7 @@
 
             <div type="metricalScheme">
                 <p>Madrigale 10ʼa 10b 10b, 10ʼc 10ʼd 10ʼd; 10e 10e.</p>
-                <p><hi rend="italic">Capovilla</hi> XLVIII.</p>
+                <p><hi rend="italic">Capovilla</hi> <hi rend="small-caps">xlviii</hi>.</p>
                 <p>Rima ricca ai vv. 2 : 3.</p>
             </div>
 

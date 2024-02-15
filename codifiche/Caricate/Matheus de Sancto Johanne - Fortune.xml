@@ -86,7 +86,7 @@
                <locus>c. 59v</locus>, <abbr xml:id="ChC">C</abbr> (vv. 1-2), <hi rend="italic">resid.</hi> (vv. 3-8): <hi rend="italic">m(atheus) de s(an)c(t)o joh(anne)</hi>         
             </witness>
             <witness xml:id="Iv">
-               <!-- ref target="" -->Iv<!-- /ref -->
+               <ref type="siglum" target="#Iv">Iv</ref>
                <locus>c. 21r</locus>, <abbr xml:id="IvC">C</abbr> (vv. 1-2), <hi rend="italic">resid.</hi> (vv. 3-8)
             </witness>
          </listWit>

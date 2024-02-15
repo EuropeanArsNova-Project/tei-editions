@@ -147,10 +147,10 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#Pirrotta1960">
-                    Pirrotta 1960, p. XI.
+                    Pirrotta 1960, p. <hi rend="small-caps">XI</hi>;
                 </bibl>
                 <bibl corresp="#Corsi1970">
-                    Corsi 1970, p. 262.
+                    Corsi 1970, p. 262;
                 </bibl>
                 <bibl corresp="#Fantini2021">
                     Fantini 2021, pp. 387-90.
@@ -158,7 +158,7 @@
             </listBibl>
             <div type="commentary">
                 <note target="#l2">
-                    <num>2</num>
+                    <num>2.</num>
                     <hi rend="italic">a altru’</hi>: l’integrazione, già nell’ed. Fantini e necessaria alla sintassi, presuppone un errore per aplografia.
                 </note>
                 <note target="#l5">

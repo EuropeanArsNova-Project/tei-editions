@@ -84,7 +84,7 @@
         <back>
             <listWit>
                 <witness xml:id="Rs">
-                    <ref target="#Rs">Rs</ref> 
+                    <ref type="siglum" target="#Rs">Rs</ref> 
                     c. <locus>1v</locus>, <abbr xml:id="RsC">C</abbr> (vv. 1-3 e 7), <abbr xml:id="RsT">T</abbr> (vv. 1-3 e 7), <hi rend="italic">resid</hi>. (vv. 4-6 e 8)
                 </witness>
             </listWit>
@@ -112,7 +112,7 @@
             </listApp>
             <div type="metricalScheme">
                 <p>Madrigale 10’a 6’b 10’a, 10’b 6’a 10’b; 10’c 10’c. </p>
-                <p><hi rend="italic">Capovilla</hi> IV<hi rend="super">1</hi>.</p>
+                <p><hi rend="italic">Capovilla</hi> <hi rend="small-caps">iv</hi><hi rend="super">1</hi>.</p>
                 <p>Rima ricca ai vv. 3 : 4.</p>
             </div>
             <listBibl type="editions">
@@ -137,7 +137,7 @@
             </listBibl>
             <div type="commentary">
                 <note target="#l2">
-                    <num>2</num>
+                    <num>2.</num>
                     <hi rend="italic">dicenta e difliblata</hi>: ‘senza cintura e fibbia’.
                 </note>
                 <note target="#l3">

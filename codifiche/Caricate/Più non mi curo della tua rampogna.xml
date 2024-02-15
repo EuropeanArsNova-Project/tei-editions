@@ -92,7 +92,7 @@
                 </witness>
                 
                 <witness xml:id="O1">
-                    <ref type="siglum" target="#">O1</ref>
+                    <ref type="siglum" target="#O1">O1</ref>
                     c. 1v, <abbr xml:id="O1C">C</abbr> (vv. 1-3: testo illeggibile)
                 </witness>
                 
@@ -102,7 +102,7 @@
                 </witness>
                 
                 <witness xml:id="Ve1">
-                    <ref type="siglum" target="#">Ve1</ref>
+                    <ref type="siglum" target="#Ve1">Ve1</ref>
                     c. 2v: il frammento ad oggi risulta disperso. 
                 </witness>
                 
@@ -303,8 +303,8 @@
 
             <listBibl type="editions">
 
-                <bibl corresp="#LiGotti1944a"> Li Gotti 1944a, p. 379</bibl>
-                <bibl corresp="#Corsi1970"> Corsi 1970, p. 20</bibl>
+                <bibl corresp="#LiGotti1944a"> Li Gotti 1944a, p. 379;</bibl>
+                <bibl corresp="#Corsi1970"> Corsi 1970, p. 20.</bibl>
 
             </listBibl>
 

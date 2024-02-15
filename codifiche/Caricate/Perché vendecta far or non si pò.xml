@@ -88,7 +88,7 @@
       <back>
          <listWit>            
             <witness xml:id="Pit">
-               <ref type="siglum" target="#"> Pit<!--/ref -->
+               <ref type="siglum" target="#Pit">Pit</ref>
                c. 83r. <abbr xml:id="PitC">C</abbr> (vv. 1-4),  <abbr xml:id="PitT">T</abbr> (vv. 1-4), <hi rend="italic"> resid.</hi> (vv. 5-8): <hi rend="italic">do(n) paolo</hi>               
             </witness>
          </listWit>
@@ -116,7 +116,7 @@
 
          <listBibl type="editions">
             <bibl corresp="#LiGotti1952">
-               Li Gotti 1952, p. 601
+               Li Gotti 1952, p. 601;
             </bibl>
 
             <bibl corresp="#Corsi1970">

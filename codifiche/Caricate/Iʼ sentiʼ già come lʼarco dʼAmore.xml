@@ -277,7 +277,7 @@
             </listApp>
             <div type="metricalScheme">
                 <p>Madrigale 10ʼa (4ʼa)10ʼb (4ʼb)10ʼa, 10ʼc (4ʼc)10ʼd (2ʼd)10ʼc, 10ʼe 10ʼe.</p>
-                <p><hi rend="italic">Capovilla</hi> XIX.</p>
+                <p><hi rend="italic">Capovilla</hi> <hi rend="small-caps">xix</hi>.</p>
             </div>
             <listBibl type="editions">
                 <bibl corresp="#Corsi1970">
@@ -286,7 +286,7 @@
             </listBibl>
             <div type="commentary">
                 <note target="#l2">
-                    <num>2</num>
+                    <num>2.</num>
                     <hi rend="italic">diserra</hi>: ʻscoccaʼ, per cui vedi <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">disserrare</hi><hi rend="super">1</hi> § 4.
                 </note>
                 <note target="#l3">

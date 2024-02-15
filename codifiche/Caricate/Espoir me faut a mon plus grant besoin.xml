@@ -290,7 +290,7 @@
                 </witness>
                 
                 <witness xml:id="Trém">
-                    <ref type="siglum" target="#">Trém</ref> c. 26v-27r (perduto)
+                    <ref type="siglum" target="#Trém">Trém</ref> c. 26v-27r (perduto)
                 </witness>
                 
                 <witness xml:id="Str">

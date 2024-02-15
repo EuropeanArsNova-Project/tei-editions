@@ -221,7 +221,7 @@
         </listWit>
             
         <listBibl type="editions">
-            <bibl corresp="#ApelRosenberg1970"> Apel-Rosenberg 1970, pp. LX-LXI.</bibl>
+            <bibl corresp="#ApelRosenberg1970"> Apel-Rosenberg 1970, pp. <hi rend="small-caps">LX-LXI</hi>.</bibl>
         </listBibl>
         
         <listBibl type="editionsBibliography">

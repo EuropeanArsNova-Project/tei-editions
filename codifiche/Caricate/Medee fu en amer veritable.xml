@@ -260,7 +260,7 @@
             </div>
             <listBibl type="editions">
                 <bibl corresp="#Apel-Rosenberg1971">
-                    Apel-Rosenberg 1971, pp. XXX-XXXI;
+                    Apel-Rosenberg 1971, pp. <hi rend="small-caps">XXX-XXXI</hi>;
                 </bibl>
                 <bibl corresp="#Greene1981">
                     Greene 1981, pp. 74-6.
@@ -276,15 +276,15 @@
                     Inserisco <hi rend="italic">si</hi> per riportare il verso alla misura sillabica necessaria, sul modello del v. 19, dove ricorre analogo sintagma in punta di verso.
                 </note>
                 <note target="#l15">
-                    <num>15</num>
+                    <num>15.</num>
                     <hi rend="italic">ne... jour ne demi</hi>: l’espressione vale ‘jamais’ ed è riportata in <hi rend="italic">DMF</hi>, s.v. <hi rend="italic">demi</hi> § B.
                 </note>
                 <note target="#l19">
-                    <num>19</num>
+                    <num>19.</num>
                     <hi rend="italic">eüt cuer</hi>: in Ch si legge <hi rend="italic">et</hi> (con nota tironiana) <hi rend="italic">ut leen</hi>, lezione a cui non trovo un senso. Ipotizzo che la causa risieda in una serie di errori di lettura, piuttosto comuni nel codice. Diversamente Greene 1981 stampava «eut l’oeil», lezione passata parzialmente a McDonald 1996 «cut (sic) l’oeil» con traduzione ‘had so amiable an eye’. Non escludo che <hi rend="italic">oeil</hi> possa essere la lezione originaria, con fraintendimento paleografico che ha generato <hi rend="italic">leen</hi>. Il rischio però è una sovrainterpretazione del contesto, che McDonald commenta «The designation of Briseyda and her roving eye as <hi rend="italic">aimable</hi> resonates tellingly with the praise the narrator offers his lady in the second stanza». Un intervento sul verso è necessario, ma forse sarà più neutra l’immagine del <hi rend="italic">cuer si amable</hi> di Briseide, piuttosto che dell’<hi rend="italic">oeil</hi>.
                 </note>
                 <note target="#l20">
-                    <num>20</num>
+                    <num>20.</num>
                     In Ch si legge distintamente solo <hi rend="italic">sa uie l</hi> a cui segue del testo illeggibile (corrispondente a rigore di schema a tre sillabe) e forse almeno le due lettere <hi rend="italic">oy</hi>. Il verso ha dato problemi a tutti gli editori del testo: Apel-Rosenberg 1971 stampano «Que sa vie (longtemps elle ?) garda», Greene 1981 lors que s’ame l’oyauté mains garda; McDonald «Que sa vie loyauté mains garda» (con traduzione ‘that she maintained little loyalty throughout her life’ e con <hi rend="italic">mains</hi> ‘meno’, assente nel ms.). Nel ms. leggo *<hi rend="italic">n garda</hi>, da cui la lezione <hi rend="italic">engarda</hi> a testo, ed intervengo ad inserire l'avverbio <hi rend="italic">loyaument</hi>.
                 </note>
             </div>

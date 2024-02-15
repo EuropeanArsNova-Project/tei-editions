@@ -275,11 +275,11 @@
 
             <listBibl type="editions">
 
-                <bibl corresp="#LiGotti1944a"> Li Gotti 1944a, p. 382;</bibl>
+                <bibl corresp="#LiGotti1944a">Li Gotti 1944a, p. 382;</bibl>
 
-                <bibl corresp="#LiGotti1948"> Li Gotti 1948, p. 51;</bibl>
+                <bibl corresp="#LiGotti1948">Li Gotti 1948, p. 51;</bibl>
 
-                <bibl corresp="#Corsi1970"> Corsi 1970, pp. 37-8.</bibl>
+                <bibl corresp="#Corsi1970">Corsi 1970, pp. 37-8.</bibl>
 
             </listBibl>
 
@@ -291,7 +291,7 @@
 
 
             <div type="commentary">
-                <p>Il madrigale, encomiastico, è percorso dallʼacrostico LVCHINUS, con riferimento a Luchino Visconti; al v. 7 si coglie il <hi rend="italic">senhal</hi> È SÌ BELLA, che allude a Isabella Fieschi, moglie di Luchino, sua stella-guida.</p>
+                <note>Il madrigale, encomiastico, è percorso dallʼacrostico LVCHINUS, con riferimento a Luchino Visconti; al v. 7 si coglie il <hi rend="italic">senhal</hi> È SÌ BELLA, che allude a Isabella Fieschi, moglie di Luchino, sua stella-guida.</note>
 
                 <note target="#l6">
                     <num>6.</num>

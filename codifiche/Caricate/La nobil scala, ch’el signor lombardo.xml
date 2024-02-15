@@ -168,11 +168,11 @@
             </listApp>
             <div type="metricalScheme">
                 <p>Madrigale 10’a 10’b 10’a, […]; 10’m 10’m.</p>
-                <p><hi rend="italic">Capovilla</hi> XXIII.</p>
+                <p><hi rend="italic">Capovilla</hi> <hi rend="small-caps">xxiii</hi>.</p>
             </div>
             <listBibl type="editions">
                 <bibl corresp="#Pirrotta1960">
-                    Pirrotta 1960, p. XI;
+                    Pirrotta 1960, p. <hi rend="small-caps">xi</hi>;
                 </bibl>
                 <bibl corresp="#Wilkins1964">
                     Wilkins 1964, p. 185;
@@ -186,7 +186,7 @@
             </listBibl>
             <div type="commentary">
                 <note target="#l1">
-                    <num>1</num>
+                    <num>1.</num>
                     Si fa riferimento alla signoria scaligera (<hi rend="italic">nobil scala</hi>).
                 </note>
                 <note target="#l7">

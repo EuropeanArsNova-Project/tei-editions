@@ -84,7 +84,7 @@
                 </witness>
                 
                 <witness xml:id="Ln7">
-                    <ref type="siglum" target="#">Ln7</ref> c. 3v (vv. 1-12)                    
+                    <ref type="siglum" target="#Ln7">Ln7</ref> c. 3v (vv. 1-12)                    
                 </witness>
             </listWit>
 
@@ -238,7 +238,7 @@
 
             <listBibl type="editions">
                 <bibl corresp="#Bertoni1917"> Bertoni 1917, p. 39;</bibl>
-                <bibl corresp="#Apel-Rosenberg1970"> Apel-Rosenberg 1970, p. LVI.</bibl>
+                <bibl corresp="#Apel-Rosenberg1970"> Apel-Rosenberg 1970, p. <hi rend="small-caps">lvi</hi>.</bibl>
             </listBibl>
 
 
@@ -250,7 +250,7 @@
 
             <div type="commentary">
                 <note target="#l1">
-                    <num>1</num>
+                    <num>1.</num>
                     <p><hi rend="italic">sperance</hi>: forma italianizzante ampiamente documentata nei testi franco-italiani (cfr. RIALFrI). La copia del manoscritto e con grande probabilità anche la composizione del testo sono localizzabili in Italia (l’intonatore è di sicura origine genovese, cfr. Günther-Plumley 2001).</p>
                 </note>
                 

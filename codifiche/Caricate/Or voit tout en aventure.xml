@@ -154,7 +154,7 @@
 
 
             <listBibl type="editions">
-                <bibl corresp="#Apel-Rosenberg1970">Apel-Rosenberg 1970, p. LIV;</bibl>
+                <bibl corresp="#Apel-Rosenberg1970">Apel-Rosenberg 1970, p. <hi rend="small-caps">LIV</hi>;</bibl>
                 <bibl corresp="#Günther1963a">Günther 1963a, p. 107;</bibl>
                 <bibl corresp="#Plumley-Stone2009">Plumley-Stone 2009, p. 167.</bibl>
             </listBibl>
@@ -178,17 +178,17 @@
                 </note>
                 
                 <note target="#l13">
-                    <num>13</num>
+                    <num>13.</num>
                     <p><hi rend="italic"> par</hi>: ‘per effetto di, a causa dell’azione di’; <hi rend="italic">le contrafayt</hi>: l’apposizione qualifica Marchetto come ‘il mal fatto’, o più precisamente, secondo il contesto, ‘colui che è mal fatto nelle sue realizzazioni’, o ‘che è una cattiva imitazione di un buon compositore’. È possibile che la forma <hi rend="italic">contrafayt</hi> in luogo di <hi rend="italic">contrafayt</hi> costituisca un riferimento scherzoso al genere del contrafactum.</p>
                 </note>
                 
                 <note target="#l18">
-                    <num>18</num>
+                    <num>18.</num>
                     <p><hi rend="italic">ausuir</hi>: cf. DMF s.v. <hi rend="italic">assuivre</hi> ‘seguire’.</p>
                 </note>
                 
                 <note target="#l20">
-                    <num>20</num>
+                    <num>20.</num>
                     <p><hi rend="italic">varïeus</hi>: ‘cangiante, vivace, incostante’, perché costretto a seguire le figure artificiose e innaturali della notazione musicale secondo il nuovo stile.</p>
                 </note>
             </div>

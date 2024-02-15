@@ -114,11 +114,11 @@
 
          <listBibl type="editions">
             
-            <bibl corresp="#Mischiati1966"> Mischiati 1966, p. 73</bibl>
+            <bibl corresp="#Mischiati1966">Mischiati 1966, p. 73;</bibl>
             
-            <bibl corresp="#Pirrotta1992"> Pirrotta 1992, p. 36 </bibl>
+            <bibl corresp="#Pirrotta1992">Pirrotta 1992, p. 36;</bibl>
 
-            <bibl corresp="#Sucato2003"> Sucato 2003, p. 85 </bibl>
+            <bibl corresp="#Sucato2003">Sucato 2003, p. 85.</bibl>
          </listBibl>
 
 
