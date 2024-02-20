@@ -260,7 +260,7 @@
 
             <listBibl type="editions">
 
-                <bibl corresp="#ApelRosenberg1970"> Apel-Rosenberg 1970, p. LXIV;</bibl>
+                <bibl corresp="#ApelRosenberg1970"> Apel-Rosenberg 1970, p. <hi rend="small-caps">lxiv</hi>;</bibl>
                 <bibl corresp="#Vivarelli2005">Vivarelli 2005, pp. 90-1.</bibl>
 
             </listBibl>

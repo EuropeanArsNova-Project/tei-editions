@@ -126,7 +126,7 @@
             </listApp>
             <div type="metricalScheme">
                 <p>Madrigale 10’a 10’b 10’b, 10’c 10’d 10’d; 10’e 10’e.</p>
-                <p><hi rend="italic">Capovilla</hi> XLVIII.</p>
+                <p><hi rend="italic">Capovilla</hi> <hi rend="small-caps">xlviii</hi>.</p>
                 <p>Rima inclusiva ai vv. 5 : 6, 7 : 8.</p>
             </div>
             <listBibl type="editions">
@@ -152,7 +152,7 @@
                     <hi rend="italic">cale</hi>: ‘scenda’.
                 </note>
                 <note target="#l7 #l8">
-                    <num>7-8</num>
+                    <num>7-8.</num>
                     <hi rend="italic">cale</hi>: <hi rend="italic">ale</hi>’. Dovute a ipercorrettismo le forme  <hi rend="italic">calle</hi> e  <hi rend="italic">alle</hi>.
                 </note>
                 <note target="#l10">

@@ -105,7 +105,7 @@
             </witness>
 
             <witness xml:id="Lw">
-               <ref type="siglum" target="#">Lw</ref>
+               <ref type="siglum" target="#Lw">Lw</ref>
                c. ar, <abbr xml:id="LwC">C</abbr> (vv. 1-6), quasi del tutto illeggibile            
             </witness>
          </listWit>

@@ -100,7 +100,7 @@
                c. <locus>50v</locus>, <abbr xml:id="PitT">T</abbr> (vv. 1-9), <hi rend="italic">resid.</hi> (vv. 10-12): <hi rend="italic">p(aulus) a(bbas)</hi>
             </witness>
             <witness xml:id="Lw">
-                <ref type="siglum" target="#">Lw</ref>
+                <ref type="siglum" target="#Lw">Lw</ref>
                 cc. <locus>by-cr</locus>, <abbr xml:id="LwC">C</abbr> (vv. 1-6), <abbr xml:id="LwT">T</abbr> (vv. 1-6)
             </witness>
          </listWit>

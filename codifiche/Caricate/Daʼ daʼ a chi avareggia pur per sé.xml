@@ -82,7 +82,7 @@
       <back>
          <listWit>
             <witness xml:id="Red">
-                <ref type="siglum" target="#R">Red</ref>
+                <ref type="siglum" target="#Red">Red</ref>
                 c. <locus>110v</locus>: <hi rend="italic">madriale del detto</hi>
             </witness>
             <witness xml:id="T">
@@ -94,11 +94,11 @@
                 cc. <locus>50v-51r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">magister laurentius | de florentia</hi>
             </witness>
             <witness xml:id="LA1">
-                <ref type="siglum" target="#">LA1</ref>
+                <ref type="siglum" target="#LA1">LA1</ref>
                 c. <locus>267v</locus>
             </witness>
             <witness xml:id="LA2">
-                <ref type="siglum" target="#">LA2</ref>
+                <ref type="siglum" target="#LA2">LA2</ref>
                 c. <locus>100v</locus>; il primo terzetto del brano è trascritto anche a c. <locus>127v</locus> (<abbr xml:id="LA21">1</abbr>).
             </witness>
          </listWit>
@@ -283,7 +283,7 @@
                 Madrigale 10a 10ʼb 10ʼb, 10a 10ʼc 10ʼc; 10ʼd 10ʼd.
             </p>
             <p>
-                <hi rend="italic">Capovilla</hi> <hi rend="small-caps">XXX</hi>.
+                <hi rend="italic">Capovilla</hi> <hi rend="small-caps">xxx</hi>.
             </p>
          </div>
          <listBibl type="editions">
@@ -330,7 +330,7 @@
                 <p>Verso proverbiale, che lett. significa ʻche (lʼavaro) ha il piede nellʼacqua e il becco nel panìcoʼ, cioè ha sempre di che cavarsela, perché non gli manca niente. ▪ <hi rend="italic">panico</hi>: erba simile al miglio (Pasquinucci 2007, p. 167).</p>
             </note>
             <note target="#l7 #8">
-                <num>7-8</num>
+                <num>7-8.</num>
                 <p>ʻPensa bene che tardi ricapita lʼoccasione per chi scende di risalire: è un colpo di fortuna per colui a cui toccaʼ.</p>
             </note>
             <note target="#l7">

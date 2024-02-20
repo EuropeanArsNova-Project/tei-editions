@@ -75,11 +75,11 @@
         <back>
             <listWit>
                 <witness xml:id="A">
-                    <ref type="siglum" target="#">A</ref>c. 9r: <hi rend="italic">madriale di francho detto p(er) altrui </hi> (marginalia: <hi rend="italic">XIIIIa intonata </hi> | <hi rend="italic">magister donatus p(re)sb(it)e(r) de caschia sonu(m) dedit)</hi>.
+                    <ref type="siglum" target="#A">A</ref>c. 9r: <hi rend="italic">madriale di francho detto p(er) altrui </hi> (marginalia: <hi rend="italic">XIIIIa intonata </hi> | <hi rend="italic">magister donatus p(re)sb(it)e(r) de caschia sonu(m) dedit)</hi>.
                 </witness>
                 
                 <witness xml:id="Mp4">
-                    <ref type="siglum" target="#">Mp4</ref> cc. <locus>150v-151r</locus>                    
+                    <ref type="siglum" target="#Mp4">Mp4</ref> cc. <locus>150v-151r</locus>                    
                 </witness>
                 
                 <witness xml:id="Rc2">
@@ -91,7 +91,7 @@
                 </witness>
                 
                 <witness xml:id="C3">
-                    <ref type="siglum" target="#">C3</ref> c. 26v: <hi rend="italic">madriale .15.</hi>                    
+                    <ref type="siglum" target="#C3">C3</ref> c. 26v: <hi rend="italic">madriale .15.</hi>                    
                 </witness>
                 
                 <witness xml:id="C6">
@@ -267,7 +267,7 @@
 
             <div type="metricalScheme">
                 <p>Madrigale 10ʼa 10ʼb 10ʼb, 10ʼc 10ʼd 10ʼd; 10ʼe 10ʼe.</p>
-                <p><hi rend="italic">Capovilla </hi> XLVIII.</p>
+                <p><hi rend="italic">Capovilla </hi> <hi rend="small-caps">xlviii</hi>.</p>
             </div>
 
 

@@ -89,7 +89,7 @@
                cc. <locus>81v-82r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-4), <abbr xml:id="PitT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">do(n) paolo</hi>
             </witness>
             <witness xml:id="Lw">
-               <ref type="siglum" target="#">Lw</ref>
+               <ref type="siglum" target="#Lw">Lw</ref>
                c. <locus>dv</locus>, <abbr xml:id="LwC">C</abbr> illeggibile
                <!-- Attenzione con i copia e incolla -->
             </witness>
