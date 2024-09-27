@@ -1,2 +1,2 @@
-# tei-editions
-TEI-encoded digital editions of the poetic corpus studied within the European Ars Nova Project
+# ANT Poetic Corpus
+TEI-encoded digital editions of the poetic corpus of the ArsNova Database.
