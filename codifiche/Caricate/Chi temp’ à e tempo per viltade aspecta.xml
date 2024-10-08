@@ -263,20 +263,6 @@
                             ‘e per molto tempo si cerca di ottenere quello che Fortuna concede in un momento’.
                         </note>
                     </div>
-                    <listBibl type="editionsBibliography">
-                        <bibl xml:id="Frati1915">
-                            <!--Riferimento bibliografico-->
-                        </bibl>
-                        <bibl xml:id="Sapegno1952">
-                            Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952.
-                        </bibl>
-                        <bibl xml:id="Corsi1970">
-                            Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
-                        </bibl>
-                        <bibl xml:id="Marcon2021">
-                            <hi rend="italic">Nuova edizione commentata delle </hi>Rime<hi rend="italic"> di Matteo Griffoni</hi>, a cura di G. Marcon, Ravenna, Pozzi, 2021.
-                        </bibl>
-                    </listBibl>
                 </back>
             </text>
             <text type="secondaryText">

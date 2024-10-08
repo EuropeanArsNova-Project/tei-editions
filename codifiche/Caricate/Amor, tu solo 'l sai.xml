@@ -204,34 +204,6 @@
                Corsi 1970, p. 275.
             </bibl> 
          </listBibl> 
-
-
-         <!--<listBibl type="bibliography"> 
-            <bibl corresp="#"> </bibl> 
-         </listBibl> --> 
-
-
-         <!--<div type="commentary"> 
-            <note target="# #"> 
-               <num></num> 
-               <hi rend="italic"> </hi> 
-            </note> 
-         </div> --> 
-
-
-         <listBibl type="editionsBibliography"> 
-            <bibl xml:id="LiGotti1952"> 
-               E. Li Gotti, <hi rend="italic">Paolo tenorista, fiorentino "extra moenia"</hi>, in <hi rend="italic"> Estudios dedicados a Menéndez Pidal</hi>, tomo III, Madrid, C.S.I.C., 1952, pp. 577-606.
-            </bibl> 
-
-            <bibl xml:id="Pirrotta1961"> 
-               N. Pirrotta, <hi rend="italic">Paolo Tenorista in a New Fragment of the Italian Ars Nova. A Facsimile Edition with an Introduction</hi>, Palm Springs, Gottlieb, 1961.
-            </bibl> 
-            
-            <bibl xml:id="Corsi1970"> 
-               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
-            </bibl> 
-         </listBibl> 
       </back> 
    </text> 
 </TEI> 

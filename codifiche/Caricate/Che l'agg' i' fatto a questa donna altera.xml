@@ -180,26 +180,6 @@
                Corsi 1970, p. 286.
             </bibl> 
          </listBibl> 
-
-
-         <!--<listBibl type="bibliography"> 
-            <bibl corresp="#"> </bibl> 
-         </listBibl> --> 
-
-
-         <!--<div type="commentary"> 
-            <note target="# #"> 
-               <num></num> 
-               <hi rend="italic"> </hi> 
-            </note> 
-         </div> --> 
-
-
-         <listBibl type="editionsBibliography"> 
-            <bibl xml:id="Corsi1970"> 
-               Giuseppe Corsi, <hi rend="italic"> Poesie musicali del Trecento</hi> , Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
-            </bibl> 
-         </listBibl> 
       </back> 
    </text> 
 </TEI> 

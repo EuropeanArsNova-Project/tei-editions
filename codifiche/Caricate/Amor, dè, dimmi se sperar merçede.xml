@@ -7,7 +7,7 @@
       <fileDesc>
          <titleStmt>
             <title>Amor, dè, dimmi se sperar merçede</title>
-            <author><ref target="http://www.mirabileweb.it/author-rom/francesco-landini-author/ARSNOVA_229830">Francesco Landini</ref></author>
+            <author>Francesco Landini</author>
             <respStmt>
                <resp>Digital scholarly edition created within the </resp>
                <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
@@ -168,9 +168,6 @@
          </listBibl>
          <div type="commentary">
          </div>
-         <listBibl type="editionsBibliography">
-            <bibl xml:id="Pirrotta1961">N. Pirrotta, <hi rend="italic">Paolo Tenorista in a New Fragment of the Italian Ars Nova. A Facsimile Edition with an Introduction</hi>, Palm Springs, Gottlieb, 1961.</bibl>
-         </listBibl>
       </back>
    </text>
 </TEI>

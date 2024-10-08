@@ -121,7 +121,7 @@
 
             <listBibl type="editions">
                 <bibl corresp="#Greene1989">Greene 1989, p. 36;</bibl>
-                <bibl corresp="#Gómez-Muntané1982">Gómez Muntané 1982, p. 69.</bibl>
+                <bibl corresp="#Gómez1982">Gómez 1982, p. 69.</bibl>
             </listBibl>
 
 
@@ -138,13 +138,6 @@
                 </note>
             </div>
 
-
-            <listBibl type="editionsBibliography">
-                <bibl xml:id="Greene1989">Gordon Greene, <hi rend="italic">French Secular Music. Rondeaux and Miscellaneous Pieces</hi>, Monaco, Éditions de l’Oiseau-Lyre, 1989 (Polyphonic Music of the Fourteenth Century, XXII).</bibl>
-                <bibl xml:id="Gómez-Muntané1982">
-                    Maria Gómez Muntané, <hi rend="italic">El Manuscrito 823 de Montserrat (Biblioteca del Monasterio)</hi>, «Musica Disciplina» 36 (1982), pp. 39-93.
-                </bibl>
-            </listBibl>
         </back>
     </text>
 </TEI>

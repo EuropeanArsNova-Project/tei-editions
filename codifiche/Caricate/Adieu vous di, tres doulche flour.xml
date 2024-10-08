@@ -152,13 +152,7 @@
                 </listApp>
                 
             </listApp>
-
-
-
-            <!--<listApp type="formal">
-               
-            </listApp>-->
-            
+           
 
 
             <div type="metricalScheme">
@@ -171,21 +165,6 @@
                 <bibl corresp="#Greene1989">Greene 1989, pp. 37-38.</bibl>
             </listBibl>
 
-
-            <!--<listBibl type="bibliography">
-            <bibl corresp="#">
-            </bibl>
-            </listBibl>-->
-
-
-            <!--<div type="commentary">
-               
-            </div>-->
-
-
-            <listBibl type="editionsBibliography">
-                <bibl xml:id="Greene1989">Gordon Greene, <hi rend="italic">French Secular Music. Rondeaux and Miscellaneous Pieces</hi>, Monaco, Éditions de l’Oiseau-Lyre, 1989 (Polyphonic Music of the Fourteenth Century, XXII).</bibl>
-            </listBibl>
         </back>
     </text>
 </TEI>

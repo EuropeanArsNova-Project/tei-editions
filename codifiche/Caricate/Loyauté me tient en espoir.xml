@@ -120,26 +120,7 @@
 
 
             <listBibl type="editions">
-                <bibl corresp="#ApelRosenberg1970">Apel-Rosenberg 1970, p. <hi rend="small-caps">lii</hi>.</bibl>
-            </listBibl>
-
-
-            <!--<listBibl type="bibliography">
-            <bibl corresp="#">
-            </bibl>
-            </listBibl>-->
-
-
-            <!--<div type="commentary">
-                <note target="#">
-                    <num></num>
-                    <p></p>
-                </note>
-            </div>-->
-
-
-            <listBibl type="editionsBibliography">
-                <bibl xml:id="ApelRosenberg1970"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1).</bibl>
+                <bibl corresp="#Apel-Rosenberg1970">Apel-Rosenberg 1970, p. <hi rend="small-caps">lii</hi>.</bibl>
             </listBibl>
         </back>
     </text>

@@ -303,17 +303,6 @@
             </note>
             
          </div>
-
-
-         <listBibl type="editionsBibliography">
-            <bibl xml:id="Apel-Rosenberg1970">
-               <hi rend="italic">French Secular Compositions of the Fourteenth Century, </hi>I. <hi rend="italic">Ascribed Compositions</hi>, ed. by W. Apel. Edition of the literary texts by S. N. Rosenberg., Roma, AIM, 1970 (CMM, 53/1).
-            </bibl>
-
-            <bibl xml:id="Vivarelli2005">
-               Carla Vivarelli, <hi rend="italic">Le composizioni francesi di Filippotto e Antonello da Caserta tràdite nel Codice Estense a.M.5.24</hi>, Pisa, ETS, 2005 («Diverse voci... 6»).
-            </bibl>
-         </listBibl>
       </back>
    </text>
 </TEI>

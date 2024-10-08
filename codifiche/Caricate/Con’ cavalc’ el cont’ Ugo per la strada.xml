@@ -215,21 +215,6 @@
             </note>
          </div>
 
-
-         <listBibl type="editionsBibliography">
-
-            <bibl xml:id="Mischiati1966">
-               O. Mischiati, <hi rend="italic">Uno sconosciuto frammento appartenente al codice Vaticano Rossi 215</hi>, «Rivista italiana di musicologia», 1 (1966), pp. 68-76.
-            </bibl>
-
-            <bibl xml:id="Pirrotta1992">
-               N. Pirrotta, <hi rend="italic">Il codice Rossi 215 della Biblioteca Apostolica Vaticana. Con i frammenti della fondazione Opera pia don Giuseppe Greggiati di Ostiglia</hi>, Lucca, LIM, 1992.
-            </bibl>
-
-            <bibl xml:id="Sucato2003">
-               Tiziana Sucato, <hi rend="italic">Il codice rossiano 215. Madrigali, ballate, una caccia, un rotondello</hi>, Pisa, ETS, 2003 («Diverse voci...» 1).
-            </bibl>
-         </listBibl>
       </back>
    </text>
 </TEI>

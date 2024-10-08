@@ -116,27 +116,10 @@
 
             <listBibl type="editions">
 
-                <bibl corresp="#ApelRosenberg1972"> Apel-Rosenberg 1972, p. XXXI.</bibl>
+                <bibl corresp="#Apel-Rosenberg1972"> Apel-Rosenberg 1972, p. XXXI.</bibl>
 
             </listBibl>
 
-
-            <!--<listBibl type="bibliography">
-            <bibl corresp="#">
-            </bibl>
-         </listBibl>-->
-
-
-            <!--<div type="commentary">
-                
-            </div>-->
-
-
-            <listBibl type="editionsBibliography">
-                
-                <bibl xml:id="ApelRosenberg1972"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. III, Anonymous Virelais, Rondeaux, Chansons, Canons</hi>, ed. by W. Apel, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1972 (CMM, 53/3).</bibl>
-
-            </listBibl>
         </back>
     </text>
 </TEI>

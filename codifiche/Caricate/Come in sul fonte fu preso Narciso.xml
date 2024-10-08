@@ -403,20 +403,6 @@
                         <p><hi rend="italic">qual fu</hi>: ʻcome accaddeʼ.</p>
                     </note>
                  </div>
-            <listBibl type="editionsBibliography">
-                <bibl xml:id="Massèra1914">
-                    Giovanni Boccaccio, <hi rend="italic">La caccia di Diana e le Rime</hi>, Avvertenza e note di Aldo Francesco Massèra, Torino, Unione tipografico-editrice torinese, 1914
-                </bibl>
-                <bibl xml:id="Branca1939">
-                    Giovanni Boccaccio, <hi rend="italic">Le Rime, L'Amorosa visione, La caccia di Diana</hi>, a cura di Vittore Branca, Bari, Laterza, 1939
-                </bibl>
-                <bibl xml:id="Leporatti2013">
-                    Giovanni Boccaccio, <hi rend="italic">Rime</hi>, ed. a cura di Roberto Leporatti, Firenze, Edizioni del Galluzzo per la Fondazione Ezio Franceschini, 2013
-                </bibl>
-                <bibl xml:id="Fantini2015-2016">
-                    <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016
-                </bibl>
-            </listBibl>
         </back>
     </text>
 </TEI>

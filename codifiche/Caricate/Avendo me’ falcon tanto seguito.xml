@@ -127,14 +127,6 @@
             </listBibl>
             <!--div type="commentary">
             </div-->
-            <listBibl type="editionsBibliography">
-                <bibl xml:id="Wilkins1964">
-                    N. Wilkins, <hi rend="italic">A critical edition of the French and Italian texts and music contained in the Codex Reina</hi>, PhD Thesis, University of Nottingham, 1964
-                </bibl>
-                <bibl xml:id="Fantini2021">
-                    S. M. Fantini, <hi rend="italic"> Il codice F-PN6771 (Reina): contenuto, struttura, generi</hi>, tesi di dottorato, Università di Siena, 2021
-                </bibl>
-            </listBibl>
         </back>
     </text>
 </TEI>

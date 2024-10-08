@@ -164,7 +164,7 @@
 
 
             <listBibl type="editions">
-                <bibl corresp="#ApelRosenberg1971"> Apel-Rosenberg 1971, p. <hi rend="small-caps">XXXII</hi>.</bibl>
+                <bibl corresp="#Apel-Rosenberg1971"> Apel-Rosenberg 1971, p. <hi rend="small-caps">XXXII</hi>.</bibl>
             </listBibl>
 
 
@@ -205,11 +205,6 @@
                     <p><hi rend="italic">or te remort</hi>: ‘ora provi rimorso’.</p>
                 </note>
             </div>
-
-
-            <listBibl type="editionsBibliography">
-                <bibl xml:id="ApelRosenberg1971"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. II, Anonymous Ballades</hi>, ed. by W. Apel, edition of the Literary Texts by S. N. Rosenberg, Rome, American Institute of Musicology, 1971 (CMM, 53/2)</bibl>
-            </listBibl>
         </back>
     </text>
 </TEI>

@@ -7,7 +7,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Come da lupo pecorella presa</title>
-                <author><ref target="https://www.mirabileweb.it/author/niccol%C3%B2-soldanieri-author/230008">Niccolò Soldanieri</ref></author>
+                <author>Niccolò Soldanieri</author>
                 <respStmt>
                     <resp>Digital scholarly edition created within the ERC</resp>
                     <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
@@ -247,13 +247,6 @@
                 <bibl corresp="#Corsi1969">Corsi 1969, p. 741;</bibl>
                 <bibl corresp="#Pasquinucci2007">Pasquinucci 2007, pp. 165-6;</bibl>
                 <bibl corresp="#Giorgetti2019-2020">Giorgetti 2019-2020, pp. 101-4.</bibl>
-            </listBibl>
-
-
-            <listBibl type="editionsBibliography">
-                <bibl xml:id="Corsi1969">G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969</bibl>
-                <bibl xml:id="Pasquinucci2007">Enrico Pasquinucci, <hi rend="italic">La poesia musicale di Niccolò Soldanieri</hi>, in «Studi di filologia italiana», 65 (2007), pp. 65-193</bibl>
-                <bibl xml:id="Giorgetti2019-2020">Elisa Giorgetti, <hi rend="italic">Edizione critica commentata dei testi intonati da Donato da Cascia</hi>, tesi di Laurea Magistrale, Università di Firenze, 2019-2020</bibl>
             </listBibl>
         </back>
     </text>

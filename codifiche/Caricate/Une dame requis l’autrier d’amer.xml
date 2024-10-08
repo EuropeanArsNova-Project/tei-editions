@@ -94,24 +94,9 @@
 
             <listBibl type="editions">
                 <bibl corresp="#Bertoni1917">Bertoni 1917, p. 31;</bibl>
-                <bibl corresp="#ApelRosenberg1970">Apel-Rosenberg 1970, p. LVI.</bibl>
+                <bibl corresp="#Apel-Rosenberg1970">Apel-Rosenberg 1970, p. LVI.</bibl>
             </listBibl>
 
-
-            <!--<listBibl type="bibliography">
-            <bibl corresp="#">
-            </bibl>
-            </listBibl>-->
-
-
-            <!--<div type="commentary"> 
-            </div>-->
-
-
-            <listBibl type="editionsBibliography">
-                <bibl xml:id="Bertoni1917"> Giulio Bertoni, <hi rend="italic">Poesie musicali francesi nel cod. Estense Lat. n. 568</hi>, in «Archivium Romanicum», 1 (1917), pp. 21-57.</bibl>
-                <bibl xml:id="ApelRosenberg1970"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1).</bibl>
-            </listBibl>
         </back>
     </text>
 </TEI>
