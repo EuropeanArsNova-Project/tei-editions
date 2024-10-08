@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Donne, eʼ fu credenza dʼuna donna</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Maria Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+        <!-- <front>
+            <div>
+            </div>
+        </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1">
+                Donne, eʼ fu credenza dʼuna donna
+            </l>
+            <l xml:id="l2">
+                con falsi modi suoi far tanto <anchor xml:id="l2a1"/>chʼio<anchor xml:id="l2a2"/>
+            </l>
+            <l xml:id="l3">
+                suo fussi; <anchor xml:id="l3a1"/>iʼ me nʼavidi<anchor xml:id="l3a2"/> e son pur mio.
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l4">
+                <anchor xml:id="l4a4"/>Co<anchor xml:id="l4a5"/> gli <anchor xml:id="l4a6"/>occhi<anchor xml:id="l4a7"/> agli occhi <anchor xml:id="l4a1"/>e con<anchor xml:id="l4a2"/> parlar<anchor xml:id="l4a3"/> coperto
+            </l>
+            <l xml:id="l5" n="5">
+                <anchor xml:id="l5a1"/>mostrava<anchor xml:id="l5a2"/> a me di me che <anchor xml:id="l5a3"/>fosse<anchor xml:id="l5a4"/> presa,
+            </l>
+            <l xml:id="l6">
+                <anchor xml:id="l6a1"/>di<anchor xml:id="l6a2"/> chʼio servia costei; e quando merto
+            </l>
+            <l xml:id="l7">
+                <anchor xml:id="l7a1"/>volli<anchor xml:id="l7a2"/> in <anchor xml:id="l7a6"/>segreto <anchor xml:id="l7a3"/>misesi <anchor xml:id="l7a4"/>a<anchor xml:id="l7a5"/> difesa.
+            </l>
+            <l xml:id="l8">
+                Ondʼ io partito son <anchor xml:id="l8a1"/>dalla<anchor xml:id="l8a2"/> contesa
+            </l>
+            <l xml:id="l9">
+                e <anchor xml:id="l9a1"/>fuggo<anchor xml:id="l9a2"/>, avendo a me me, tal <anchor xml:id="l9a3"/>disio<anchor xml:id="l9a4"/>.
+            </l>
+            <l xml:id="l10" n="10">
+                <anchor xml:id="l10a1"/>E <anchor xml:id="l10a2"/>lascio<anchor xml:id="l10a5"/> lei <anchor xml:id="l10a3"/>con<anchor xml:id="l10a4"/> pensier falso e rio.
+            </l>
+        </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="Red">
+                <ref type="siglum" target="#Red">Red</ref>
+                c. <locus>112r</locus>: <hi rend="italic">ballata del detto</hi>
+            </witness>
+            <witness xml:id="Sq">
+                <ref type="siglum" target="#Sq">Sq</ref>
+                c. <locus>51r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-5): <hi rend="italic">magister laurentius | de florentia</hi>
+            </witness>
+            <witness xml:id="Mgl3">
+                <ref type="siglum" target="#Mgl3">Mgl3</ref>
+                c. <locus>50v</locus>: <hi rend="italic">ballata</hi>
+            </witness>
+            <witness xml:id="C1">
+                <ref type="siglum" target="#C1">C1</ref>
+                c. <locus>455v</locus>
+            </witness>
+            <witness xml:id="Rc1">
+                <ref type="siglum" target="#Rc1">Rc1</ref>
+                c. <locus>58v</locus>: <hi rend="italic">ballata di niccolaio soldanieri di firenze</hi>
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+                <head>4</head>
+                <app from="#l4a1" to="#l4a2">
+                    <lem>e con</lem>
+                    <rdg wit="#Mgl3"><gap reason="illegible" rend="ill."/></rdg>
+                    <rdg wit="#C1">col</rdg>
+                </app>
+                <app from="#l4a2" to="#l4a3">
+                    <lem>parlar</lem>
+                    <rdg wit="#Red">parlare <witDetail wit="#Red"><hi rend="italic">(+1)</hi></witDetail></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>6</head>
+                <app from="#l6a1" to="#l6a2">
+                    <lem>di</lem>
+                    <rdg wit="#C1">si</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>7</head>
+                <app from="#l7a1" to="#l7a2">
+                    <lem>volli</lem>
+                    <rdg wit="#Rc1">volle</rdg>
+                </app>
+                <app from="#l7a3" to="#l7a4">
+                    <lem>misesi</lem>
+                    <rdg wit="#C1">si misse </rdg>
+                </app>
+                <app from="#l7a4" to="#l7a5">
+                    <lem>a</lem>
+                    <rdg wit="#Mgl3"/>
+                    <rdg wit="#C1">in </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>10</head>
+                <app from="#l10a1" to="#l10a2">
+                    <lem>E</lem>
+                    <rdg wit="#C1">chio </rdg>
+                </app>
+                <app from="#l10a3" to="#l10a3">
+                    <lem>con</lem>
+                    <rdg wit="#Mgl3 #Rc1">col </rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+                <head>2</head>
+                <app from="#l2a1" to="#l2a2">
+                    <lem>chʼio</lem>
+                    <rdg wit="#Mgl3">che io</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>3</head>
+                <app from="#l3a1" to="#l3a2">
+                    <lem>iʼ me nʼavidi</lem>
+                    <rdg wit="#Mgl3">io mi navidi</rdg>
+                    <rdg wit="#C1">i me navvidi</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>4</head>
+                <app from="#l4a4" to="#l4a5">
+                    <lem>co</lem>
+                    <rdg wit="#C1">con</rdg>
+                </app>
+                <app from="#l4a6" to="#l4a7">
+                    <lem>occhi</lem>
+                    <rdg wit="#Sq">ochi </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>5</head>
+                <app from="#l5a1" to="#l5a2">
+                    <lem>mostrava</lem>
+                    <rdg wit="#Sq">mostrav</rdg>
+                </app>
+                <app from="#l5a3" to="#l5a4">
+                    <lem>fosse</lem>
+                    <rdg wit="#C1">fusse </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>7</head>
+                <app from="#l7a6" to="#l7a3">
+                    <lem>segreto</lem>
+                    <rdg wit="#C1">secreto </rdg>
+                </app>
+                <app from="#l7a3" to="#l7a4">
+                    <lem>misesi</lem>
+                    <rdg wit="#Mgl3">misese</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>8</head>
+                <app from="#l8a1" to="#l8a2">
+                    <lem>dalla</lem>
+                    <rdg wit="#C1">da la</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>9</head>
+                <app from="#l9a1" to="#l9a2">
+                    <lem>fuggo</lem>
+                    <rdg wit="#Mgl3 #Rc1">fugho</rdg>
+                </app>
+                <app from="#l9a3" to="#l9a4">
+                    <lem>disio</lem>
+                    <rdg wit="#Mgl3">desio</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>10</head>
+                <app from="#l10a1" to="#l10a5">
+                    <lem>e lascio</lem>
+                    <rdg wit="#Rc1">e llascio</rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+                Ballata mezzana 10ʼy 10ʼz 10ʼz; 10ʼa 10ʼb, 10ʼa 10ʼb; 10ʼb 10ʼz 10ʼz.
+            </p>
+            <p>
+                <hi rend="italic">Pagnotta</hi> 115 : 22.
+            </p>
+ 
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1969">
+                Corsi 1969, p. 752;
+            </bibl>
+            <bibl corresp="#Pasquinucci2007">
+                Pasquinucci 2007, pp. 127-8;
+            </bibl>
+            <bibl corresp="#Fantini2015-2016">
+                Fantini 2015-2016, pp. 131-3.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+         <div type="commentary">
+            <note target="#l9">
+               <num>9.</num>
+               <p><hi rend="italic">avendo a me me</hi>: lett. ʻavendo per me stesso meʼ, cioè mantenendo il possesso di me stessoʼ. Il gioco attorno al pronome <hi rend="italic">me</hi>, tra poliptoto e <hi rend="italic">variatio</hi>, percorre tutto il testo.</p>
+            </note>
+         </div>
+      </back>
+   </text>
+</TEI>

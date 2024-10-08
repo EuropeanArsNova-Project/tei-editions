@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pour la doulour, l’annoy, le grief martire / Qui dolente n’aura veu en sa vie</title>
+            <respStmt>
+               <resp>Digital scholarly editon created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Alice Colantuoni</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Davide Checchi</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>    
+      </front-->
+      <group>
+         <text>
+            <body>
+               <head>Pour la doulour, l’annoy, le grief martire</head>
+               <lg>
+                  <l xml:id="t1l1">
+                     Pour la doulour, l’annoy, le grief martire
+                  </l>
+                  <l xml:id="t1l2">
+                     et le tourment que j’ay pour mon amy,
+                  </l>
+                  <l xml:id="t1l3">
+                     suy celle quy n’ay bon jour ne demy
+                  </l>
+                  <l xml:id="t1l4">
+                     quant ne le voy, que ainsy me martire.
+                  </l>
+                  <l xml:id="t1l5" n="5">
+                     Joye me fuit, tristesse si me tire,
+                  </l>
+                  <l xml:id="t1l6">
+                     flambe art et bruit le cuer et corps de my
+                  </l>
+                  <l xml:id="t1l7">
+                     <hi rend="italic">
+                        pour <supplied xml:id="t1l7s1" corresp="#t1l8s1">[la doulour, l’annoy, le grief martire</supplied>
+                     </hi>
+                  </l>
+                  <l xml:id="t1l8">
+                     <hi rend="italic">
+                        <supplied xml:id="t1l8s1">et le tourment que j’ay pour mon amy]</supplied>.
+                     </hi>.
+                  </l>
+                  <l xml:id="t1l9">
+                     <supplied reason="illegible">[... -ire]</supplied>
+                  </l>
+                  <l xml:id="t1l10" n="10">
+                     <supplied reason="illegible">[... -y]</supplied>
+                  </l>
+                  <l xml:id="t1l11">
+                     <supplied reason="illegible">[... -y]</supplied>
+                  </l>
+                  <l xml:id="t1l12">
+                     <supplied reason="illegible">[... -ire]</supplied>
+                  </l>
+                  <l xml:id="t1l13">
+                     <hi rend="italic">
+                        <supplied xml:id="t1l13s1" corresp="#t1l14s1 #t1l15s1 #t1l16s1">[Pour la doulour, l’annoy, le grief martire</supplied>
+                     </hi>
+                  </l>
+                  <l xml:id="t1l14">
+                     <hi rend="italic">
+                        <supplied xml:id="t1l14s1">et le tourment que j’ay pour mon amy,</supplied>
+                     </hi>
+                  </l>
+                  <l xml:id="t1l15" n="15">
+                     <hi rend="italic">
+                        <supplied xml:id="t1l15s1">suy celle quy n’ay bon jour ne demy</supplied>
+                     </hi>
+                  </l>
+                  <l xml:id="t1l16">
+                     <hi rend="italic">
+                        <supplied xml:id="t1l16s1">quant ne le voy, que ainsy me martire.]</supplied>
+                     </hi>
+                  </l>            
+               </lg>
+            </body>
+            <back>
+               <div type="metricalScheme">
+                  <p>
+                     <hi rend="italic">Rondeau</hi> 10’A 10B 10B 10’A; 10’a 10b, 10’A 10B; [10’A 10B 10B 10’A].
+                  </p>
+                  <p>
+                     Rima equivoca ai vv. 1: 4; rima franta ai vv. 3 : 6; rima inclusiva ai vv. 1 : 4 : 5.
+                  </p>
+               </div>
+               <div type="commentary">
+                  <note target="#t1l4">
+                     <num>4.</num>
+                     <hi rend="italic">luy</hi>:
+                     ‘parlare di, raccontare’, cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">endire</hi>.
+                  </note>
+                  <note target="#t1l6">
+                     <num>4.</num>
+                     <hi rend="italic">andire</hi>:
+                     riferito a <hi rend="italic">mon cuer</hi> (v. 3).
+                  </note>
+               </div>
+            </back>
+         </text>
+         <text>
+            <body>
+               <head>Qui dolente n’aura veu en sa vie</head>
+               <lg>
+                  <l xml:id="l1">
+                     Qui dolente n’aura veu en sa vie
+                  </l>
+                  <l xml:id="l2">
+                     viengne vëoir moy, qui suy sans confort
+                  </l>
+                  <l xml:id="l3">
+                     en desespoir, plainne de desconfort,
+                  </l>
+                  <l xml:id="l4">
+                     dont il convient que briefment je desvie.
+                  </l>
+                  <l xml:id="l5" n="5">
+                     Car il n’est jeu n’esbat dont j’oye envie
+                  </l>
+                  <l xml:id="l6">
+                     ne nul plaisir fors plaindre a grant effort:
+                  </l>
+                  <l xml:id="l7">
+                     <hi rend="italic">
+                        qui dolente
+                        <supplied xml:id="s1l7" corresp="#s1l8">[n’aura veu en sa vie</supplied>
+                     </hi>
+                  </l>
+                  <l xml:id="l8">
+                     <hi rend="italic"><supplied xml:id="s1l8">viengne vëoir moy, qui suy sans confort]</supplied>.</hi>
+                  </l>
+                  <l xml:id="l9">
+                     <supplied reason="illegible">[... -ie]</supplied>
+                  </l>
+                  <l xml:id="l10" n="10">
+                     <supplied reason="illegible">[... -ort]</supplied>
+                  </l>
+                  <l xml:id="l11">
+                     <supplied reason="illegible">[... -ort]</supplied>
+                  </l>
+                  <l xml:id="l12">
+                     <supplied reason="illegible">[... -ie]</supplied>
+                  </l>
+                  <l xml:id="l13">
+                     <hi rend="italic">
+                        <supplied corresp="#s1l14 #s1l15 #s1l16">[Qui dolente n’aura veu en sa vie</supplied>
+                     </hi>
+                  </l>
+                  <l xml:id="l14">
+                     <hi rend="italic"><supplied xml:id="s1l14">viengne vëoir moy, qui suy sans confort</supplied></hi>
+                  </l>
+                  <l xml:id="l15" n="15">
+                     <hi rend="italic"><supplied xml:id="s1l15">en desespoir, plainne de desconfort,</supplied></hi>
+                  </l>
+                  <l xml:id="l16">
+                     <hi rend="italic"><supplied xml:id="s1l16">dont il convient que briefment je desvie.]</supplied>.</hi>
+                  </l>            
+               </lg>
+            </body>
+            <back>               
+               <div type="metricalScheme">
+                  <p>
+                     <hi rend="italic">Rondeau</hi> 10’A 10B 10B [10’A]; 10’a 10b, 10’A 10B; 10’a 10b 10b 10’a; 10’A 10B 10B [10’A].10’A 10B 10B 10’A; 10’a 10b, 10’A 10B; [10’A 10B 10B 10’A].
+                  </p>
+                  <p>
+                     Rima inclusiva e derivativa ai vv. 1 : 4, 2 : 3; rima inclusiva ai vv. 1 : 4 : 5.
+                  </p>
+               </div>
+               <div type="commentary">
+                  <note target="#l4">
+                     <num>4.</num>
+                     <hi rend="italic">desvie</hi>:
+                     ‘muoia’, cf. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">dévier2</hi>.
+                  </note>
+               </div>
+            </back>
+         </text>
+      </group>      
+      <back>
+         <listWit>            
+            <witness xml:id="Ox2">
+               <ref type="siglum" target="#Ox2">Ox2</ref> 
+               <locus>c. 84v</locus>, <abbr xml:id="Ox2C1">C1</abbr> (<hi rend="italic">Pour la doulour, l’annoy, le grief martire</hi> vv. 1-4);
+               <abbr xml:id="Ox2C2">C2</abbr> (<hi rend="italic">Qui dolente n’aura veu en sa vie</hi> vv. 1-4),
+               <hi rend="italic">resid.</hi> (<hi rend="italic">Pour la doulour</hi> vv. 5-8; <hi rend="italic">Qui dolente n’aura</hi> vv. 5-8):
+               <hi rend="italic">joha(n)nes cesaris</hi>         
+            </witness>
+         </listWit>         
+         <listBibl type="editions">
+            <bibl corresp="#Reaney1955">Reaney 1955, p. <hi rend="small-caps">ii</hi>.</bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

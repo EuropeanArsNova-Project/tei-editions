@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dame sans per, en qui est ma speranche</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Vittoria Brancato</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+            <div>
+                <p>
+                </p>
+            </div>         
+        </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    Dame sans per, en qui est ma speranche, 
+                </l>
+                <l xml:id="l2">
+                    mon doulç penser et tretout mon playsir,
+                </l>
+                <l xml:id="l3">
+                    de qui je sui et seray sans doubtanche,
+                </l>
+                <l xml:id="l4">
+                    tant <anchor xml:id="l4a1"/>c<supplied>[om]</supplied><anchor xml:id="l4a2"/> vivray vous vouldray obeïr,
+                </l>
+                <l xml:id="l5" n="5">
+                    et desour toutes honourer et cherir,
+                </l>
+                <l xml:id="l6">
+                    comant celui quʼ<anchor xml:id="l6a1"/>Amours<anchor xml:id="l6a2"/> a mis en voie
+                </l>
+                <l xml:id="l7">
+                    de vous, tous jours <anchor xml:id="l7a1"/>tres<anchor xml:id="l7a2"/> loyaumant servir,
+                </l>
+                <l xml:id="l8">
+                    <hi rend="italic">comant quʼil soit et quʼavenir mʼen doye.</hi>
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="MoA">
+                    <ref type="siglum" target="#MoA">MoA</ref>
+                    cc. <locus>28v-29r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-8): <hi rend="italic">fr(ater) a fru</hi>(?)
+                </witness>
+                <witness xml:id="Trém">
+                    <ref type="siglum" target="#Trém">Trém</ref>
+                    c. <locus>2r</locus> (<hi rend="italic">perduto</hi>): l’<hi rend="italic">incipit Dame sans per</hi> è citato nell’indice seguito dal numero di carta (XVIII), che non si è conservata.
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>com</lem>
+                        <rdg wit="#MoA">cu</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>amours</lem>
+                        <rdg wit="#MoA">amo<add place="inline">urs</add><witDetail wit="#MoA"><hi rend="italic">aggiunto in interlinea</hi></witDetail></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>tres</lem>
+                        <rdg wit="#MoA">tre<add place="inline">s</add><witDetail wit="#MoA"><hi rend="italic">in interlinea</hi></witDetail></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p><hi rend="italic">Ballade</hi> 10ʼa 10b, 10ʼa 10b; 10b 10ʼc 10b 10ʼC.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Apel-Rosenberg1971">
+                    Apel-Rosenberg 1971, p. <hi rend="small-caps">xxiii</hi>.
+                </bibl>
+            </listBibl>
+            <div type="commentary">
+                <note target="#l5">
+                    <num>5.</num>
+                    Dittologia sinonimica di verbi che vale ʻonorareʼ.
+                </note>
+                <note target="#l6 #l7 #l8">
+                    <num>6-8.</num>
+                    Da intendere con verbo <hi rend="italic">vouldray</hi> sottinteso (v. 4).
+                </note>
+                <note target="#l6 #l7">
+                    <num>6-7.</num>
+                    <hi rend="italic">celui... vous</hi>: ʻcome uno che Amore ha condotto verso di voiʼ, cioè ha indirizzato a voi (nel servizio amoroso). Cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">voie</hi> § 4 D, per cui si veda il costrutto <hi rend="italic">mettre quelqu’un à la voie de</hi> ʻcondurre qualcuno aʼ, ʻindirizzareʼ.
+                </note>
+                <note target="#l8">
+                    <num>8.</num>
+                    ʻComunque sia e qualunque cosa debba accadermiʼ.
+                </note>
+            </div>
+        </back>
+    </text>
+</TEI>

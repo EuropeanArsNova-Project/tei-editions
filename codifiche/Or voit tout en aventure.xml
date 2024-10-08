@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Or voit tout en aventure</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <front> 
+         <div> 
+            <p>
+                Con evidente ironia, la <hi rend="italic">ballade</hi> contrappone lo stile compositivo di Philippe de Vitry a quello di Marchetto, definito imperfetto e innaturale, che l’autore stesso ha seguito nel componimento (cfr. Stone 2018 e Tanay 2010, pp. 167 ss).
+            </p> 
+         </div>         
+      </front>
+        <body>
+            <lg>
+                <l xml:id="l1">Or voit tout en aventure,</l>
+                <l xml:id="l2">puis qu’<anchor xml:id="l2a1"/><supplied reason="illegible">[a]</supplied>insi<anchor xml:id="l2a2"/> me covient fayre </l>
+                <l xml:id="l3">a la novelle figure,</l>
+                <l xml:id="l4">qui doyt a chascun desplayre,</l>
+                <l xml:id="l5" n="5">que c’est trestout en contraire</l>
+                <l xml:id="l6">de <anchor xml:id="l6a1"/>bo<supplied reason="illegible">[n]</supplied><anchor xml:id="l6a2"/> art, qui est parfayt:</l>
+                <l xml:id="l7"><hi rend="italic">certes, se n’est pas bien fayt.</hi></l>
+            </lg>
+            <lg>
+                <l xml:id="l8">Nos faysoms contre nature</l>
+                <l xml:id="l9">de ce qu’es ben fayt, deffayre:</l>
+                <l xml:id="l10" n="10"><anchor xml:id="l10a1"/>Philipe<anchor xml:id="l10a2"/>, que mais ne dure,</l>
+                <l xml:id="l11">nos dona boin exemplaire;</l>
+                <l xml:id="l12">nos laisons tous ses afayres</l>
+                <l xml:id="l13">par Marquet le contrafayt:</l>
+                <l xml:id="l14">certes, <supplied reason="illegible">[se n’est pas bien fayt]</supplied>.</l>
+            </lg>
+            
+            <lg>
+                <l xml:id="l15" n="15"> L’art de Marquet n’a mesure,</l>
+                <l xml:id="l16">n’onques riens ne <anchor xml:id="l16a1"/>sa<supplied reason="illegible">[u]</supplied>t<anchor xml:id="l16a2"/> parfayre.</l>
+                <l xml:id="l17">C’est trop <anchor xml:id="l17a1"/>gra<supplied reason="illegible">[n]</supplied>t<anchor xml:id="l17a2"/> outrecuidure</l>
+                <l xml:id="l18">d’ausuir et de portrayre</l>
+                <l xml:id="l19">ces figures et tout traire</l>
+                <l xml:id="l20" n="20">l’oull varïeus de bon trayt:</l>
+                <l xml:id="l21"><hi rend="italic">certes, se n’est pas bien fayt.</hi></l>
+            </lg>
+            
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Ch">
+                    <ref type="siglum" target="#Ch">Ch</ref> c. 25v, <abbr xml:id="ChC">C</abbr> (vv. 1-7), <hi rend="italic"> resid.</hi> (vv. 8-21): <hi rend="italic">guido</hi>                    
+                </witness>
+            </listWit>
+
+
+            <!--<listApp type="substantial">
+               
+            </listApp>-->
+
+            <listApp type="formal">                
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>ainsi</lem>
+                        <rdg wit="#Ch">insi</rdg>
+                    </app>                        
+                </listApp>
+                                
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>bon</lem>
+                        <rdg wit="#Ch">bou</rdg>
+                    </app> 
+                </listApp>
+                                
+                <listApp>
+                    <head>10</head>
+                    <app from="#l10a1" to="#l10a2">
+                        <lem>Philipe</lem>
+                        <rdg wit="#Ch">que philipe</rdg> 
+                    </app>
+                </listApp>
+                                
+                <listApp>
+                    <head>16</head>
+                    <app from="#l16a1" to="#l16a2">
+                        <lem>saut</lem>
+                        <rdg wit="#Ch">sant</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>17</head>
+                    <app from="#l17a1" to="#l17a2">
+                        <lem>grant</lem>
+                        <rdg wit="#Ch">grat</rdg>
+                    </app>
+                </listApp>
+                
+                
+                
+            </listApp>
+            
+
+
+            <div type="metricalScheme">
+                <p><hi rend="italic"> Ballade</hi> 7’a 7’b, 7’a 7’b; 7’b 7c 7C.</p>
+                <p>Rima ricca ai vv. 1: 8, 6 : 7 : 14 : 21; rima derivativa ai vv. 2 : 9 : 16, 13 : 14, 18 : 19; rima inclusiva ai vv. 2 : 12; 10 : 17.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Apel-Rosenberg1970">Apel-Rosenberg 1970, p. <hi rend="small-caps">LIV</hi>;</bibl>
+                <bibl corresp="#Günther1963a">Günther 1963a, p. 107;</bibl>
+                <bibl corresp="#Plumley-Stone2009">Plumley-Stone 2009, p. 167.</bibl>
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+            </listBibl>-->
+
+
+            <div type="commentary">
+                <note target="#l3">
+                    <num>3.</num>
+                    <p><hi rend="italic">novelle figure</hi>: «new note shapes [...] not codified in the Ars Nova system, that caused a proportional change in the minim», cf. Stone 2018, p. 1127.</p>
+                </note>
+                
+                <note target="#l10">
+                    <num>10.</num>
+                    <p><hi rend="italic">que</hi>: in funzione di soggetto (cfr. Buridant 2019, § 523 e Marchello-Nizia 2005, pp. 205-206).</p>
+                </note>
+                
+                <note target="#l13">
+                    <num>13.</num>
+                    <p><hi rend="italic"> par</hi>: ‘per effetto di, a causa dell’azione di’; <hi rend="italic">le contrafayt</hi>: l’apposizione qualifica Marchetto come ‘il mal fatto’, o più precisamente, secondo il contesto, ‘colui che è mal fatto nelle sue realizzazioni’, o ‘che è una cattiva imitazione di un buon compositore’. È possibile che la forma <hi rend="italic">contrafayt</hi> in luogo di <hi rend="italic">contrafayt</hi> costituisca un riferimento scherzoso al genere del contrafactum.</p>
+                </note>
+                
+                <note target="#l18">
+                    <num>18.</num>
+                    <p><hi rend="italic">ausuir</hi>: cf. DMF s.v. <hi rend="italic">assuivre</hi> ‘seguire’.</p>
+                </note>
+                
+                <note target="#l20">
+                    <num>20.</num>
+                    <p><hi rend="italic">varïeus</hi>: ‘cangiante, vivace, incostante’, perché costretto a seguire le figure artificiose e innaturali della notazione musicale secondo il nuovo stile.</p>
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Apel-Rosenberg1970"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1).</bibl>
+                <bibl xml:id="Günther1963a">Ursula Günther, <hi rend="italic">Das Ende der ars nova</hi>, in «Die Musikforschung» 16-2 (1963), pp. 105-120.</bibl>
+                <bibl xml:id="Plumley-Stone2009">Yolanda Plumley - Anne Stone, <hi rend="italic">A late Medieval Songbook and its Context. New Perspectives on the Chantilly Codex (Bibliothèque du Château de Chantilly, Ms. 564)</hi>, Turnhout, Brepols, 2009.</bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

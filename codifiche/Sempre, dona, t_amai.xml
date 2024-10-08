@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Senpre, dona, t’amai de pura voglia</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Maria Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+      <!-- <front>
+         <div>
+            <p>
+            </p>
+         </div>
+      </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1">
+                <anchor xml:id="l1a1"/>Senpre<anchor xml:id="l1a2"/>, <anchor xml:id="l1a3"/>dona<anchor xml:id="l1a4"/>, t’amai <anchor xml:id="l1a5"/>de<anchor xml:id="l1a6"/> pura <anchor xml:id="l1a7"/>voglia<anchor xml:id="l1a8"/>
+            </l>
+            <l xml:id="l2">
+                e tu <anchor xml:id="l2a3"/>me <anchor xml:id="l2a4"/>da’<anchor xml:id="l2a5"/> per premio <anchor xml:id="l2a1"/>pena e<anchor xml:id="l2a2"/> noglia<anchor xml:id="l2a6"/>.
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l3">
+                <anchor xml:id="l3a1"/>L’ <anchor xml:id="l3a3"/>onor<supplied reason="illegible">[e]</supplied><anchor xml:id="l3a4"/> to <anchor xml:id="l3a2"/> sopra me <anchor xml:id="l3a5"/>stesso amava<anchor xml:id="l3a6"/>
+            </l>
+            <l xml:id="l4">
+                <anchor xml:id="l4a1"/>e<anchor xml:id="l4a2"/> amo e fermo son <anchor xml:id="l4a3"/>senpre<anchor xml:id="l4a4"/> d’amare,
+            </l>
+            <l xml:id="l5" n="5">
+                <anchor xml:id="l5a1"/>vederte<anchor xml:id="l5a2"/> sopra ogn’altra  <anchor xml:id="l5a3"/>aprisiare<anchor xml:id="l5a4"/>
+            </l>
+            <l xml:id="l6">
+                era mio bene e <anchor xml:id="l6a3"/>ço <anchor xml:id="l6a1"/>desi<supplied reason="illegible">[de]</supplied>rava<anchor xml:id="l6a2"/>,
+            </l>
+            <l xml:id="l7">
+                <anchor xml:id="l7a1"/>ma<anchor xml:id="l7a2"/> el bel viso <anchor xml:id="l7a3"/>to<anchor xml:id="l7a4"/>, <anchor xml:id="l7a5"/>che m’alegrava<anchor xml:id="l7a6"/>,
+            </l>
+            <l xml:id="l8">
+                <anchor xml:id="l8a5"/>me fa’ <anchor xml:id="l8a1"/>lu<supplied reason="illegible">[n]</supplied>tan<anchor xml:id="l8a2"/>, <anchor xml:id="l8a3"/>onde<anchor xml:id="l8a4"/> moro <anchor xml:id="l8a6"/>de <anchor xml:id="l8a7"/>doglia<anchor xml:id="l8a8"/>.
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l9">
+                Se <anchor xml:id="l9a3"/>va’ <anchor xml:id="l9a4"/>fra <anchor xml:id="l9a5"/>mile<anchor xml:id="l9a6"/> amanti <anchor xml:id="l9a1"/>recercando<anchor xml:id="l9a2"/>,
+            </l>
+            <l xml:id="l10" n="10">
+                <anchor xml:id="l10a1"/>che ardeno in i<anchor xml:id="l10a2"/> ochi <anchor xml:id="l10a3"/>de toa<anchor xml:id="l10a4"/> luce altera,
+            </l>
+            <l xml:id="l11">
+                <anchor xml:id="l11a3"/>nesun<anchor xml:id="l11a4"/> con <anchor xml:id="l11a1"/>fé <anchor xml:id="l11a2"/>difese<anchor xml:id="l11a5"/> tanto intera
+            </l>
+            <l xml:id="l12">
+                <anchor xml:id="l12a1"/>ma’ <anchor xml:id="l12a2"/>to <anchor xml:id="l12a3"/> valore, men <anchor xml:id="l12a4"/>di sé<anchor xml:id="l12a5"/> curando.
+            </l>
+            <l xml:id="l13">
+                <anchor xml:id="l13a1"/>Donca<anchor xml:id="l13a2"/>, perché <anchor xml:id="l13a3"/>da ti me tien<anchor xml:id="l13a4"/> in bando,
+            </l>
+            <l xml:id="l14">
+                <anchor xml:id="l14a1"/>per cui morire <anchor xml:id="l14a3"/>me seria<anchor xml:id="l14a4"/> gran zoglia<anchor xml:id="l14a2"/>?
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l15" n="15">
+                Ben rimembrava a me la greve sorte
+            </l>
+            <l xml:id="l16">
+                di molti franchi amanti e di gran fede,
+            </l>
+            <l xml:id="l17">
+                a’ quali done engrate per mercede
+            </l>
+            <l xml:id="l18">
+                donò presone, esilio e ancor morte.
+            </l>
+            <l xml:id="l19">
+                M<supplied reason="illegible">[a]</supplied> al vero <anchor xml:id="l19a1"/>amor<anchor xml:id="l19a2"/> l’amante tiense forte,
+            </l>
+            <l xml:id="l20" n="20">
+                ch’ogni paura dal suo petto spoglia.
+            </l>
+        </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="R">
+                <ref type="siglum" target="#R">R</ref>
+                c. <locus>15v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-4), <abbr xml:id="RT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-20)
+            </witness>
+            <witness xml:id="Lu">
+                <ref type="siglum" target="#Lu">Lu</ref>
+                cc. <locus>5v [XXXv]-6r [XXXIr]</locus>, <abbr xml:id="LuC">C</abbr> (vv. 1-4), <abbr xml:id="LuT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-14): <hi rend="italic">fr(atr)is bartholini de padua</hi>
+            </witness>
+            <witness xml:id="Sq">
+                <ref type="siglum" target="#Sq">Sq</ref>
+                c. <locus>112v</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-14): <hi rend="italic">magister frater bartolinus de padua</hi>
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+                <head>2</head>
+                <app from="#l2a1" to="#l2a2">
+                   <lem>pena e</lem>
+                   <rdg>penen <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>3</head>
+                <app from="#l3a1" to="#l3a2">
+                    <lem>L’onore to</lem>
+                    <rdg type="indifferentVariant" wit="#Sq">lo tuo honor</rdg>
+                </app>
+                <app from="#l3a3" to="#l3a4">
+                    <lem>onore</lem>
+                    <rdg wit="#R #Lu">onor </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>5</head>
+                <app from="#l5a1" to="#l5a2">
+                    <lem>vederte</lem>
+                    <rdg wit="#Sq">derte</rdg>
+                </app>
+                <app from="#l5a3" to="#l5a4">
+                    <lem>aprisiare</lem>
+                    <rdg wit="#Sq #Lu">pregiare</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>6</head>
+                <app from="#l6a1" to="#l6a2">
+                    <lem>desiderava</lem>
+                    <rdg wit="#R">desirava</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>7</head>
+                <app from="#l7a1" to="#l7a2">
+                    <lem>ma</lem>
+                    <rdg wit="#Lu">e tu</rdg>
+                    <rdg wit="#Sq">mal</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>8</head>
+                <app from="#l8a1" to="#l8a2">
+                    <lem>luntan</lem>
+                    <rdg wit="#R">lutan</rdg>
+                </app>
+                <app from="#l8a3" to="#l8a4">
+                    <lem>onde</lem>
+                    <rdg wit="#Lu">ondio </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>9</head>
+                <app from="#l9a1" to="#l9a2">
+                    <lem>recercando</lem>
+                    <rdg wit="#Sq">riguardando </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>10</head>
+                <app from="#l10a1" to="#l10a2">
+                    <lem>che ardeno in i</lem>
+                    <rdg wit="#Sq">cardono negli</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>11</head>
+                <app from="#l11a1" to="#l11a2">
+                    <lem>fé</lem>
+                    <rdg wit="#R #Sq">te</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>14</head>
+                <app from="#l14a1" to="#l14a2">
+                    <lem>per cui morire me seria gran zoglia</lem>
+                    <rdg type="indifferentVariant" wit="#Sq">per cui morir mi sarie gratia et gioia</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>19</head>
+                <app from="#l19a1" to="#l19a2">
+                    <lem>amor</lem>
+                    <rdg wit="#R">amore </rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+                <head>1</head>
+                <app from="#l1a1" to="#l1a2">
+                    <lem>senpre</lem>
+                    <rdg wit="#Lu">sempre</rdg>
+                </app>
+                <app from="#l1a3" to="#l1a4">
+                    <lem>dona</lem>
+                    <rdg wit="#Lu">donna</rdg>
+                </app>
+                <app from="#l1a5" to="#l1a6">
+                    <lem>de</lem>
+                    <rdg wit="#Sq">di</rdg>
+                </app>
+                <app from="#l1a7" to="#l1a8">
+                    <lem>voglia</lem>
+                    <rdg wit="#Sq">voia</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>2</head>
+                <app from="#l2a3" to="#l2a4">
+                    <lem>me</lem>
+                    <rdg wit="#Sq">mi</rdg>
+                </app>
+                <app from="#l2a4" to="#l2a5">
+                    <lem>da’</lem>
+                    <rdg wit="#Lu">day <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+                <app from="#l2a1" to="#l2a6">
+                    <lem>pena e noglia</lem>
+                    <rdg wit="#Sq">pene noia</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>3</head>
+                <app from="#l3a5" to="#l3a6">
+                    <lem>stesso amava</lem>
+                    <rdg>stessamava <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>4</head>
+                <app from="#l4a1" to="#l4a2">
+                    <lem>e</lem>
+                    <rdg wit="#Sq">et <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+                <app from="#l4a3" to="#l4a4">
+                    <lem>senpre</lem>
+                    <rdg wit="#Lu">sempre</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>5</head>
+                <app from="#l5a1" to="#l5a2">
+                    <lem>vederte</lem>
+                    <rdg wit="#Lu">vederti</rdg>
+                </app>
+                <app from="#l5a3" to="#l5a4">
+                    <lem>aprisiare</lem>
+                    <rdg wit="#Lu">apresiare </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>6</head>
+                <app from="#l6a3" to="#l6a1">
+                    <lem>ço</lem>
+                    <rdg wit="#Lu">çio</rdg>
+                    <rdg wit="#Sq">cio</rdg>
+                </app>
+                <app from="#l6a1" to="#l6a2">
+                    <lem>desiderava</lem>
+                    <rdg wit="#Sq">disiderava</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>7</head>
+                <app from="#l7a3" to="#l7a4">
+                    <lem>to</lem>
+                    <rdg wit="#Sq">tuo</rdg>
+                </app>
+                <app from="#l7a5" to="#l7a6">
+                    <lem>che m’alegrava</lem>
+                    <rdg wit="#Sq">chemmallegrava </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>8</head>
+                <app from="#l8a5" to="#l8a2">
+                    <lem>me fa’ luntan</lem>
+                    <rdg wit="#Lu">mi fay lontano</rdg>
+                </app>
+                <app from="#l8a1" to="#l8a2">
+                    <lem>luntan</lem>
+                    <rdg wit="#Sq">lontano</rdg>
+                </app>
+                <app from="#l8a3" to="#l8a4">
+                    <lem>de</lem>
+                    <rdg wit="#Sq">di</rdg>
+                </app>
+                <app from="#l8a5" to="#l8a6">
+                    <lem>doglia</lem>
+                    <rdg wit="#Sq">doia</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>9</head>
+                <app from="#l9a3" to="#l9a4">
+                    <lem>va’</lem>
+                    <rdg wit="#Lu #Sq">vay</rdg>
+                </app>
+                <app from="#l9a4" to="#l9a5">
+                    <lem>fra</lem>
+                    <rdg wit="#Lu">tra</rdg>
+                </app>
+                <app from="#l9a5" to="#l9a6">
+                    <lem>mile</lem>
+                    <rdg wit="#Lu #Sq">mille</rdg>
+                </app>
+                <app from="#l9a1" to="#l9a2">
+                    <lem>recercando</lem>
+                    <rdg wit="#Lu">ricercando</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>10</head>
+                <app from="#l10a1" to="#l10a2">
+                    <lem>che ardeno in i</lem>
+                    <rdg wit="#Lu">charden in gli</rdg>
+                </app>
+                <app from="#l10a3" to="#l10a4">
+                    <lem>de toa</lem>
+                    <rdg wit="#Sq">di tuo</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>11</head>
+                <app from="#l11a3" to="#l11a4">
+                    <lem>nesun</lem>
+                    <rdg wit="#Sq">nessun</rdg>
+                </app>
+                <app from="#l11a2" to="#l11a5">
+                    <lem>difese</lem>
+                    <rdg wit="#Lu">diffese</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>12</head>
+                <app from="#l12a1" to="#l12a2">
+                    <lem>ma’</lem>
+                    <rdg wit="#Lu">may</rdg>
+                </app>
+                <app from="#l12a2" to="#l12a3">
+                    <lem>to</lem>
+                    <rdg wit="#Sq">tuo</rdg>
+                </app>
+                <app from="#l12a4" to="#l12a5">
+                    <lem>di sé</lem>
+                    <rdg wit="#Lu">dessi</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>13</head>
+                <app from="#l13a1" to="#l13a2">
+                    <lem>Donca</lem>
+                    <rdg wit="#Lu">donqua</rdg>
+                    <rdg wit="#Sq">dunque</rdg>
+                </app>
+                <app from="#l13a3" to="#l13a4">
+                    <lem>da ti me tien</lem>
+                    <rdg wit="#Lu">da te me teni</rdg>
+                    <rdg wit="#Sq">datte mi tieni</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>14</head>
+                <app from="#l14a3" to="#l14a4">
+                    <lem>me seria</lem>
+                    <rdg wit="#Sq">mi sarie</rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+                Ballata minore 10’z 10’z; 10’a 10’b, 10’b 10’a; 10’a 10’z. 
+            </p>
+            <p>
+                <hi rend="italic">Pagnotta</hi> 154 : 6.
+            </p>
+            <p>
+                Rima ricca ai vv. 6 : 7, 10 : 11.
+            </p>
+            <p>
+                Punti sottoscritti: v. 1 (<hi rend="italic">amai</hi>) Sq<hi rend="super">T</hi>; v. 2 (<hi rend="italic">pena</hi>) Lu; v. 3 (<hi rend="italic">stesso</hi>) Lu; v. 4 (<hi rend="italic">amo</hi>) Lu; v. 9 (<hi rend="italic">mille</hi>) Lu, (<hi rend="italic">vai</hi>) Sq.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Pirrotta-LiGotti1950">
+                Pirrotta-Li Gotti 1950, p. 116;
+            </bibl>
+            <bibl corresp="#Corsi1970">
+                Corsi 1970, pp. 256-7.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+        <div type="commentary">
+            <note target="#l3">
+                <num>3.</num>
+                <p><hi rend="italic">onore</hi>: si è preferito integrare la vocale finale per garantire la regolare cesura <hi rend="italic">a minori</hi>, propria peraltro della versione di Sq.</p>
+            </note>
+            <note target="#l6">
+                <num>6.</num>
+                <p><hi rend="italic">desiderava</hi>: a testo la variante di Lu e Sq, che evita una dura dialefe.</p>
+            </note>
+            <note target="#l19">
+                <num>19.</num>
+                <p><hi rend="italic">ma al</hi>: l’integrazione della vocale non è indispensabile, ma è richiesta per una maggior chiarezza del testo.</p>
+            </note>
+            <note target="#l8">
+                <num>8.</num>
+                <p><hi rend="italic">açutare</hi>: ‘aiutare’.</p>
+            </note>
+            <note target="#l10">
+                <num>10.</num>
+                <p>Si accoglie la congettura già in Pirrotta-Li Gotti.</p>
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Pirrotta-LiGotti1950">
+                N. Pirrotta-E. Li Gotti, <hi rend="italic">Il Codice di Lucca: II. Testi letterari</hi>, «Musica Disciplina», 4 (1950), pp. 111-152.
+            </bibl>
+            <bibl xml:id="Corsi1970">
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

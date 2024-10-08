@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Amor mi fa cantar ala francesca</title>
+            <!--<author><ref target="X"></ref></author>-->
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                  project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Maria Sofia Lannutti</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Elvira Mercatanti</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1"> Amor mi fa cantar ala francesca, </l>
+         </lg>
+         <lg>
+            <l xml:id="l2"> Amor mi fa cantar ala francesca </l>
+            <l xml:id="l3"> ché quella donna che me fa languire</l>
+            <l xml:id="l4"> temo che non verebe <supplied reason="illegible"><anchor xml:id="l4a1"/>[a]<anchor xml:id="l4a2"/></supplied> la mia tresca.</l>
+         </lg>
+         <lg>
+            <l xml:id="l5" n="5"> A lei sum fermo celar el mio core </l>
+            <l xml:id="l6"> e consumarmi inançi per so amore, </l>
+            <l xml:id="l7"> ch’almen morò per cosa çentilesca. </l>
+         </lg>
+         <lg>
+            <l xml:id="l8"> Done, di vero dir ve posso tanto, </l>
+            <l xml:id="l9"> che questa donna, per cui piango e canto, </l>
+            <l xml:id="l10" n="10"> è come rosa in spin, morbida e fresca. </l>
+         </lg>
+
+      </body>
+
+
+
+      <back>
+         <listWit>
+            <witness xml:id="Rs">
+               <ref type="siglum" target="#Rs">Rs</ref>  
+               c. 18v, <abbr xml:id="RsC">C</abbr> (vv. 1-2), <hi rend="italic">resid.</hi> (vv. 3-10)</witness>
+         </listWit>
+
+
+         <listApp type="substantial">
+            <listApp>
+               <head>4</head>
+               <app from="#l4a1" to="#l4a2">
+                  <lem>a</lem>
+                  <rdg wit="#Rs"/>
+               </app>
+            </listApp>
+         </listApp>
+
+
+
+         <!--<listApp type="formal">
+                   
+         </listApp> -->
+
+
+         <div type="metricalScheme">
+            <p>Ballata piccola 10’z; 10’a, 10’a; 10’z. </p>
+            <p><hi rend="italic"> Pagnotta </hi> 49 : 7. </p>
+            <p>Rima ricca ai vv. 4 : 10.</p>
+         </div>
+
+
+         <listBibl type="editions">
+            
+            <bibl corresp="#LiGotti1944"> Li Gotti 1944, p. 132;</bibl>
+            
+            <bibl corresp="#Sesini1943-1950"> Sesini 1943-1950, p. 228;</bibl>
+            
+            <bibl corresp="#Corsi1970"> Corsi 1970, p. 342-3;</bibl>
+
+            <bibl corresp="#Pirrotta1992"> Pirrotta 1992, p. 32-3;</bibl>
+
+            <bibl corresp="#Sucato2003"> Sucato 2003, p. 80.</bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

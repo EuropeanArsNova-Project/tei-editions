@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Donna, l’altrui mirar che fate porge</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Alice Colantuoni</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+            <div>
+                <p>
+                </p>
+            </div>         
+        </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    Donna, l’altrui mirar che fate porge
+                </l>
+                <l xml:id="l2">
+                    agli ochi <anchor xml:id="l2a1"/>mie<anchor xml:id="l2a2"/> di <anchor xml:id="l2a3"/>lacrimar<anchor xml:id="l2a4"/> tal voglia,
+                </l>
+                <l xml:id="l3">               
+                    ch’i’ chero morte per più dolce doglia.
+                </l>
+            </lg>
+            <lg>
+                <l xml:id="l4">
+                    <anchor xml:id="l4a1"/>Io<anchor xml:id="l4a2"/> solëa talor sentir per <anchor xml:id="l4a3"/>voi<anchor xml:id="l4a4"/>
+                </l>
+                <l xml:id="l5" n="5">
+                    grato riposo et pace
+                </l>
+                <l xml:id="l6">
+                    quando <anchor xml:id="l6a1"/>con<anchor xml:id="l6a2"/> gli ochi gli ochi vi mirava.
+                </l>
+                <l xml:id="l7">
+                    Ora m’<anchor xml:id="l7a1"/>è<anchor xml:id="l7a2"/>∙<anchor xml:id="l7a3"/>ttolto<anchor xml:id="l7a4"/>, omé, <anchor xml:id="l7a5"/>amor<anchor xml:id="l7a6"/> di cui?
+                </l>
+                <l xml:id="l8">
+                    Da tal che <anchor xml:id="l8a1"/>fie<anchor xml:id="l8a2"/> seguace 
+                </l>
+                <l xml:id="l9">
+                    di fede no: <anchor xml:id="l9a1"/>do<supplied>[v’or]</supplied><anchor xml:id="l9a2"/> sto fermo et stava.
+                </l>
+                <l xml:id="l10" n="10">
+                    Merçé, donna, <anchor xml:id="l10a1"/>merçé<anchor xml:id="l10a2"/>; ch’<anchor xml:id="l10a3"/>i’<anchor xml:id="l10a4"/> non pensava
+                </l>
+                <l xml:id="l11">
+                    <anchor xml:id="l11a1"/>perder<anchor xml:id="l11a2"/> lo stato <anchor xml:id="l11a3"/>c’or da me si spoglia<anchor xml:id="l11a4"/>
+                </l>
+                <l xml:id="l12">
+                    per <anchor xml:id="l12a1"/>servar<anchor xml:id="l12a2"/> <anchor xml:id="l12a3"/>honestà<anchor xml:id="l12a4"/> più c’altri soglia.
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="Sq">
+                    <ref type="siglum" target="#Sq">Sq</ref>
+                    c. <locus>31v</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-6), <hi rend="italic">resid.</hi> (vv. 7-12): <hi rend="italic">magister s(er) ghirardellus de florentia</hi>
+                </witness>
+                <witness xml:id="Mar">
+                    <ref type="siglum" target="#Mar">Mar</ref>
+                    cc. <locus>54v-55r</locus>
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>è</lem>
+                        <rdg wit="#Sq">a</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>9</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>dov’or</lem>
+                      <rdgGrp>
+                          <rdg wit="#Sq">dor uo</rdg>
+                          <rdg type="indifferentVariant" wit="#Mar">dovio</rdg>
+                      </rdgGrp>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>11</head>
+                    <app from="#l11a1" to="#l11a2">
+                        <lem>perder</lem>
+                        <rdg wit="#Mar">ghuardar</rdg>
+                    </app>
+                    <app from="#l11a3" to="#l11a4">
+                        <lem>c’or da me si spoglia</lem>
+                        <rdg wit="#Mar">chore damore chi spogla</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>mie</lem>
+                        <rdg wit="#Mar">miei</rdg>
+                    </app>
+                    <app from="#l2a3" to="#l2a4">
+                        <lem>lacrimar</lem>
+                        <rdg wit="#Mar">lagrimar</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>io</lem>
+                        <rdg wit="#Mar">i</rdg>
+                    </app>
+                    <app from="#l4a3" to="#l4a4">
+                        <lem>voi</lem>
+                        <rdg wit="#Sq">voị</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>con</lem>
+                        <rdg wit="#Mar">cho</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a3" to="#l7a4">
+                        <lem>ttolto</lem>
+                        <rdg wit="#Mar">tolto</rdg>
+                    </app>
+                    <app from="#l7a5" to="#l7a6">
+                        <lem>amor</lem>
+                        <rdg wit="#Mar">amore</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem>fie</lem>
+                        <rdg wit="#Mar">fia</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>10</head>
+                    <app from="#l10a1" to="#l10a2">
+                        <lem>merçe</lem>
+                        <rdg wit="#Mar">merze</rdg>
+                    </app>
+                    <app from="#l10a3" to="#l10a4">
+                        <lem>i’</lem>
+                        <rdg wit="#Mar">io</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>12</head>
+                    <app from="#l12a1" to="#l12a2">
+                        <lem>servar</lem>
+                        <rdg wit="#Mar">servare</rdg>
+                    </app>
+                    <app from="#l12a3" to="#l12a4">
+                        <lem>honestà</lem>
+                        <rdg wit="#Mar">onestà</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p>Ballata mezzana 10’z 10’y 10’y; 10’a 6’b 10’c, 10’a 6’b 10’c, 10’c 10’y 10’y.</p>
+                <p><hi rend="italic">Pagnotta</hi> 223 : 19.</p>
+                <p>Rima siciliana ai vv. 4 e 7.</p>
+                <p>Punto sottoscritto al v. 4: <hi rend="italic">voi</hi> Sq.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Corsi1970">
+                    Corsi 1970, pp. 64-5.
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

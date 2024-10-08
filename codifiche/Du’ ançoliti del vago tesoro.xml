@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Du’ ançoliti del vago tesoro</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Vittoria Brancato</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+            <div>
+                <p>
+                </p>
+            </div>         
+        </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    <anchor xml:id="l1a1"/><supplied>[D]</supplied>u’ <anchor xml:id="l1a2"/> ançoliti del vago tesoro 
+                </l>
+                <l xml:id="l2">
+                    vidi fra bel ciel bianco 
+                </l>
+                <l xml:id="l3">
+                    scoprirme ’l sol del desïoso branco, 
+                </l>
+                <l xml:id="l4">
+                    fra gli qual ragi, con sagite d’oro 
+                </l>
+                <l xml:id="l5" n="5">
+                    et arco in man, Amore 
+                </l>
+                <l xml:id="l6">
+                    conubi en l’atto de quanto valore,
+                </l>
+                <l xml:id="l7">
+                    de ch’io, devoto, tua figura adoro: 
+                </l>
+                <l xml:id="l8">
+                    ond’ aisì ch’el me trase 
+                </l>
+                <l xml:id="l9">
+                    soa sita d’oro, con fronde qual nasse, 
+                </l>
+            </lg>
+            <lg>
+                <l xml:id="l10">
+                    <anchor xml:id="l10a3"/>piagòmi <anchor xml:id="l10a4"/>  <anchor xml:id="l10a1"/>lo<supplied>[c]</supplied>o <anchor xml:id="l10a2"/> e sanòm’ el a stonde:
+                </l>
+                <l xml:id="l11">
+                    vertù d’Amor dai so’ mai no s’asconde.
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="R">
+                    <ref type="siglum" target="#R">R</ref>
+                    c. <locus>35v-36r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="RT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid. (vv. 4-9)</hi>
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>Du’</lem>
+                        <rdg wit="#R">u</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>10</head>
+                    <app from="#l10a1" to="#l10a2">
+                        <lem>loco</lem>
+                        <rdg wit="#R">loto</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>10</head>
+                    <app from="#l10a3" to="#l10a4">
+                        <lem>Piagòmi</lem>
+                        <rdg>piagome <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p>Madrigale: 10’a 6’b 10’b, 10’a 6’c 10’c, 10’a 6’d 10’d; 10’e 10’e.</p>
+                <p><hi rend="italic">Capovilla</hi>, <hi rend="small-caps">xxxviii</hi><hi rend="super">1</hi>.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Pirrotta1960">
+                    Pirrotta 1960, p. <hi rend="small-caps">xi</hi>;
+                </bibl>
+                <bibl corresp="#Corsi1970">
+                    Corsi 1970, p. 333;
+                </bibl>
+                <bibl corresp="#Fantini2021">
+                    Fantini 2021, pp. 378-81.
+                </bibl>
+            </listBibl>
+            <div type="commentary">
+                <note target="#l1">
+                    <num>1.</num>
+                    <hi rend="italic">vago tesoro</hi>: Amore.
+                </note>
+                <note target="#l3">
+                    <num>3.</num>
+                    <hi rend="italic">scoprirme</hi>: ‘mostrarmi’.
+                </note>
+                <note target="#l7 #l8 #l9 #l10">
+                    <num>7-10.</num>
+                    ‘Da quel momento, con devozione, adoro la tua figura: non appena la sua saetta d’oro mi catturò, (Amore) in quel momento mi ferì con fionde come fossero nasse e subito mi risanò’.
+                </note>
+                <note target="#l8">
+                    <num>8.</num>
+                    <hi rend="italic">aisì ch[e]</hi>: <hi rend="italic">aisì</hi> è gallicismo, cfr. <hi rend="italic">DMF</hi>, s.v. <hi rend="italic">ainsi</hi>, II A. <hi rend="italic">ainsi que</hi>: «Pendant que, au moment où; tandis que».
+                </note>
+                <note target="#l9">
+                    <num>9.</num>
+                    <hi rend="italic">fronde</hi>: ‘fionde’ per rotacismo.
+                </note>
+                <note target="#l10">
+                    <num>10.</num>
+                    <hi rend="italic">a stonde</hi>: ‘in breve tempo’. 
+                </note>
+            </div>
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Pirrotta1960">
+                    Nino Pirrotta, <hi rend="italic">The Music of Fourteenth Century Italy II. Maestro Piero; Codex Vatican Rossi 215; Anonymous Madrigals and Cacce from Other Manuscripts</hi>, Amsterdam, American Institute of Musicology, 1960 (CMM, 8/2).</bibl>
+                <bibl xml:id="Corsi1970">
+                    Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+                </bibl>
+                <bibl xml:id="Fantini2021">
+                    S. M. Fantini, <hi rend="italic"> Il codice F-PN6771 (Reina): contenuto, struttura, generi</hi>, tesi di dottorato, Università di Siena, 2021.
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

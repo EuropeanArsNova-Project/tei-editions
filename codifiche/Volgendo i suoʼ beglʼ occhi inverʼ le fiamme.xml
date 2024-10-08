@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Volgendo i suoʼ beglʼ occhi inverʼ le fiamme</title>
+                <author>Franco Sacchetti</author>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Vittoria Brancato</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>           
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front>
+         <div>
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"></hi>)
+            </p>
+         </div>        
+      </front>-->
+        <body>
+            <lg>
+                <l xml:id="l1">Volgendo i <anchor xml:id="l1a1"/>suoʼ<anchor xml:id="l1a2"/> <anchor xml:id="l1a3"/>beglʼ<anchor xml:id="l1a4"/> occhi inverʼ le fiamme,</l>
+                <l xml:id="l2">le quali una <anchor xml:id="l2a3"/>colomba<anchor xml:id="l2a4"/> <anchor xml:id="l2a5"/>avea<anchor xml:id="l2a6"/> <anchor xml:id="l2a1"/>ac<supplied reason="illegible">[cese]</supplied><anchor xml:id="l2a2"/>,</l>
+                <l xml:id="l3">vidi colei da cui amor <anchor xml:id="l3a1"/>discese<anchor xml:id="l3a2"/>.</l>
+                <l xml:id="l4"><anchor xml:id="l4a3"/>Poʼ<anchor xml:id="l4a4"/> che fu volta alquanto, <anchor xml:id="l4a1"/>vide<anchor xml:id="l4a2"/> serpi</l>
+                <l xml:id="l5" n="5">che un <anchor xml:id="l5a1"/>mostrava<anchor xml:id="l5a2"/> et ella <anchor xml:id="l5a3"/>a<anchor xml:id="l5a4"/> quelle corse, </l>
+                <l xml:id="l6">col più bel riso che <anchor xml:id="l6a1"/>maʼ<anchor xml:id="l6a2"/> viso porse.</l>
+            </lg>
+            <lg>
+                <l xml:id="l7"><anchor xml:id="l7a1"/>Maʼ<anchor xml:id="l7a2"/> non mi <anchor xml:id="l7a3"/>piacquon<anchor xml:id="l7a4"/> serpi altro <anchor xml:id="l7a5"/>chʼ<anchor xml:id="l7a6"/><anchor xml:id="l7a7"/>alora<anchor xml:id="l7a8"/>,</l>
+                <l xml:id="l8">bontà <anchor xml:id="l8a1"/>deglʼ<anchor xml:id="l8a2"/>occhi <anchor xml:id="l8a3"/>ovʼ<anchor xml:id="l8a4"/> Amor sʼ<anchor xml:id="l8a5"/>inamora<anchor xml:id="l8a6"/>!</l>                
+            </lg>
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="A">
+                    <ref type="siglum" target="#A">A</ref>c. 14v: <hi rend="italic">madriale di francho detto</hi> (marginalia: <hi rend="italic">magi(ster) donatus de cascya sonu(m) dedit</hi>).
+                </witness>
+                
+                <witness xml:id="C3">
+                    <ref type="siglum" target="#C3">C3</ref> cc. <locus>42v-43r</locus>: madriale di francho d. 21.                    
+                </witness>
+                
+                <witness xml:id="Mp4">
+                    <ref type="siglum" target="#Mp4">Mp4</ref> cc. <locus>151v-152r</locus>                    
+                </witness>
+                
+                <witness xml:id="Pl3">
+                    <ref type="siglum" target="#Pl3">Pl3</ref> c. 111r
+                </witness>
+                
+                <witness xml:id="Pat">
+                    <ref type="siglum" target="#Pat">Pat</ref> c. 26r                    
+                </witness>
+         
+                <witness xml:id="P3">
+                    <ref type="siglum" target="#P3">P3</ref>cc. <locus>112v-113r</locus>
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">              
+               <listApp>
+                   <head>2</head>
+                   <app from="#l2a1" to="#l2a2">
+                       <lem>accese</lem>
+                       <rdg wit="#A">ac<gap reason="illegible" rend="l.m."/></rdg>
+                   </app>
+               </listApp>
+                
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>vide</lem>
+                        <rdg wit="#Mp4 #Pat #P3">vivi </rdg>
+                    </app>
+                </listApp>
+            </listApp>
+
+
+
+           <listApp type="formal">
+               <listApp>
+                   <head>1</head>
+                   <app from="#l1a1" to="#l1a2">
+                       <lem>suoʼ</lem>
+                       <rdg wit="#P3">suoi</rdg>
+                   </app>
+                   
+                   <app from="#l1a3" to="#l1a4">
+                       <lem>beglʼ</lem>
+                       <rdg wit="#Mp4 #Pl3 #Pat">begli</rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>2</head>
+                   <app from="#l2a3" to="#l2a4">
+                       <lem>colomba</lem>
+                       <rdg wit="#P3">columba</rdg>
+                   </app>
+                   
+                   <app from="#l2a5" to="#l2a6">
+                       <lem>avea</lem>
+                       <rdg wit="#Mp4">haveva</rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>3</head>
+                   <app from="#l3a1" to="#l3a2">
+                       <lem>discese</lem>
+                       <rdg wit="#Pat">discesse</rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>4</head>
+                   <app from="#l4a3" to="#l4a4">
+                       <lem>Poʼ</lem>
+                       <rdg wit="#Mp4 #P13 #Pat #P3">Poi</rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>5</head>
+                   <app from="#l5a1" to="#l5a2">
+                       <lem>mostrava</lem>
+                       <rdg wit="#P3">mostav<del>a</del> <hi rend="italic">con espunzione</hi></rdg>
+                   </app>
+                   
+                   <app from="#l5a3" to="#l5a4">
+                       <lem>a</lem>
+                       <rdg wit="#Mp4 #Pat #P3">ad</rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>6</head>
+                   <app from="#l6a1" to="#l6a2">
+                       <lem>maʼ</lem>
+                       <rdg wit="#Mp4 #Pl3 #Pat #P3">mai</rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>7</head>
+                   <app from="#l7a1" to="#l7a2">
+                       <lem>Maʼ</lem>
+                       <rdg wit="#Mp4 #Pl3 #Pat #P3">Mai</rdg>
+                   </app>
+                   
+                   <app from="#l7a3" to="#l7a4">
+                       <lem>piacquon</lem>
+                       <rdg wit="#Mp4">piacquen</rdg>
+                   </app>
+                   
+                   <app from="#l7a5" to="#l7a6">
+                       <lem>chʼ</lem>
+                       <rdg wit="#P3">che</rdg>
+                   </app>
+                   
+                   <app from="#l7a7" to="#l7a8">
+                       <lem>alora</lem>
+                       <rdg wit="#C3 #Pat #P3">allora</rdg>
+                       <rdg wit="#Mp4 #Pl3">allhora</rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>8</head>
+                   <app from="#l8a1" to="#l8a2">
+                       <lem>deglʼ</lem>
+                       <rdg wit="#C3 #Pl3 #Pat #P3">degli</rdg>
+                   </app>
+                   
+                   <app from="#l8a3" to="#l8a4">
+                       <lem>ovʼ</lem>
+                       <rdg wit="#Mp4 #Pl3 #Pat #P3">ove</rdg>
+                   </app>
+                   
+                   <app from="#l8a5" to="#l8a6">
+                       <lem>inamora</lem>
+                       <rdg wit="#C3">innamora</rdg>
+                   </app>
+               </listApp>
+           </listApp>
+            
+
+
+            <div type="metricalScheme">
+                <p>Madrigale 10ʼa 10ʼb 10ʼb, 10ʼc 10ʼd 10ʼd; 10ʼe 10ʼe. </p>
+                <p><hi rend="italic">Capovilla</hi> XLVIII.</p>
+                <p>Punti sottoscritti: v. 1 (<hi rend="italic">suoi</hi>) P3; v. 3 (<hi rend="italic">colei</hi>) P3; v. 4 (<hi rend="italic">volta</hi>) P3; v. 5 (<hi rend="italic">ella</hi>) P3; v. 7 (<hi rend="italic">che</hi>) P3; v. 8 (<hi rend="italic">ove</hi>) P3.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Chiari1936">Chiari 1936, p. 84;</bibl>
+                <bibl corresp="#Ageno1990">Ageno 1990, p. 106;</bibl>
+                <bibl corresp="#Puccini2007">Puccini 2007, pp. 161-2;</bibl>
+                <bibl corresp="#Giorgetti2019-2020">Giorgetti 2019-2020, pp. 118-21.</bibl>
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+                
+            </listBibl>-->
+
+
+            <div type="commentary">
+               <note target="#l2">
+                   <num>2.</num>
+                   <p>A causa di uno strappo nella carta risultano cadute le due sillabe conclusive di <hi rend="italic">accese</hi>, lezione che si ricostruisce grazie alle altre testimonianze del brano.</p>
+               </note>
+                
+                <note target="#l8">
+                    <num>8.</num>
+                    <p><hi rend="italic">bontà deglʼocchi</hi>: ʻgrazie agli occhiʼ, con locuzione documentata in <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">bontà</hi> § 8.</p>
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Chiari1936">Franco Sacchetti, <hi rend="italic">Il libro delle rime</hi>, a cura di Alberto Chiari, Bari, Laterza, 1936</bibl>
+                <bibl xml:id="Ageno1990">Franco Sacchetti, <hi rend="italic">Il libro delle rime</hi>, a cura di Franca Brambilla Ageno, Firenze, Olschki, 1990</bibl>
+                <bibl xml:id="Puccini2007">Franco Sacchetti, <hi rend="italic">Il libro delle Rime con le lettere. La Battaglia delle belle donne</hi>, a cura di Davide Puccini, Torino, UTET, 2007.</bibl>
+                <bibl xml:id="Giorgetti2019-2020">Elisa Giorgetti, <hi rend="italic">Edizione critica commentata dei testi intonati da Donato da Cascia</hi>, tesi di Laurea Magistrale, Università di Firenze, 2019-2020</bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mon seul voloir, ma souverayne joye / Certes, m’amour, c’est ma vye et ma joye</title>
+            <respStmt>
+               <resp>Digital scholarly editon created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Alice Colantuoni</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Davide Checchi</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>    
+      </front-->
+      <group>
+         <text>
+            <body>
+               <head>Mon seul voloir, ma souverayne joye</head>
+               <lg>
+                  <l xml:id="t1l1">
+                     Mon seul voloir, ma <anchor xml:id="t1l1a1"/>souverayne<anchor xml:id="t1l1a2"/> joye,
+                  </l>
+                  <l xml:id="t1l2">
+                     <anchor xml:id="t1l2a1"/>tout<anchor xml:id="t1l2a2"/> le plaisir que j’ay de vous me vient,
+                  </l>
+                  <l xml:id="t1l3">
+                     pour quoy mon cuer si tres joyeux se tient 
+                  </l>
+                  <l xml:id="t1l4">
+                     <anchor xml:id="t1l4a1"/>qu’andire une autre <anchor xml:id="t1l4a3"/>j<supplied>[amais]</supplied><anchor xml:id="t1l4a4"/> ne vodroye.<anchor xml:id="t1l4a2"/>
+                  </l>
+                  <l xml:id="t1l5" n="5">
+                     N’est ce rayson? Si, est. Ou que je soye,
+                  </l>
+                  <l xml:id="t1l6">
+                     cuer doulx, de vous sans sejour luy souvient,
+                  </l>
+                  <l xml:id="t1l7">
+                     <hi rend="italic">
+                        mon seul voloir, <supplied xml:id="t1l7s1" corresp="#t1l8s1">[ma souverayne joye.</supplied>
+                     </hi>
+                  </l>
+                  <l xml:id="t1l8">
+                     <hi rend="italic">
+                        <supplied xml:id="t1l8s1">Tout le plaisir que j’ay de vous me vient]</supplied>,
+                     </hi>.
+                  </l>
+                  <l xml:id="t1l9">
+                     dont vo beauté par valour si l’esjoye,
+                  </l>
+                  <l xml:id="t1l10" n="10">
+                     vo doulx parler de confort le soustient;
+                  </l>
+                  <l xml:id="t1l11">
+                     dont vous mercy, non pas comme a par tient
+                  </l>
+                  <l xml:id="t1l12">
+                     mais humblement, <anchor xml:id="t1l12a1"/>car<anchor xml:id="t1l12a2"/> mieux je ne saroye,
+                  </l>
+                  <l xml:id="t1l13">
+                     <hi rend="italic">
+                        mon seul
+                        <supplied xml:id="t1l13s1" corresp="#t1l14s1 #t1l15s1 #t1l16s1">[voloir, ma souverayne joye,</supplied>
+                     </hi>
+                  </l>
+                  <l xml:id="t1l14">
+                     <hi rend="italic">
+                        <supplied xml:id="t1l14s1">tout le plaisir que j’ay de vous me vient,</supplied>
+                     </hi>
+                  </l>
+                  <l xml:id="t1l15" n="15">
+                     <hi rend="italic">
+                        <supplied xml:id="t1l15s1">pour quoy mon cuer si tres joyeux se tient</supplied>
+                     </hi>
+                  </l>
+                  <l xml:id="t1l16">
+                     <hi rend="italic">
+                        <supplied xml:id="t1l16s1">qu’andire une autre jamais ne vodroye]</supplied>.
+                     </hi>
+                  </l>            
+               </lg>
+            </body>
+            <back>
+               <listApp type="substantial">
+                  <listApp>
+                     <head>1</head>
+                     <app from="#t1l1a1" to="#t1l1a2">
+                        <lem>souverayne</lem>
+                        <rdg wit="#Pz">souraine</rdg>
+                     </app>
+                  </listApp>
+                  <listApp>
+                     <head>4</head>
+                     <app from="#t1l4a1" to="#t1l4a2">
+                        <rdg wit="Pz">que dire auuray certez nelle provoye</rdg>
+                     </app>
+                     <app from="#t1l4a3" to="#t1l4a4">
+                        <lem>jamais</lem>
+                        <rdg wit="Ox2">je</rdg>
+                     </app>
+                  </listApp>
+                  <listApp>
+                     <head>12</head>
+                     <app from="#t1l12a1" to="#t1l12a2">
+                        <lem>car</lem>
+                        <rdg wit="Ox2">est <unclear><hi rend="italic">(?)</hi></unclear> car</rdg>
+                     </app>
+                  </listApp>
+               </listApp>
+               <listApp type="formal">
+                  <listApp>
+                     <head>2</head>
+                     <app from="#t1l2a1" to="t1l2a2">
+                        <lem>tout</lem>
+                        <rdg wit="#Pz">tut</rdg>
+                     </app>
+                  </listApp>
+               </listApp>
+               <div type="metricalScheme">
+                  <p>
+                     <hi rend="italic">Rondeau</hi> 10’A 10B 10B 10’A; 10’a 10b, 10’A 10B; 10’a 10b 10b 10’a; 10’A 10B 10B 10’A.
+                  </p>
+                  <p>
+                     Rima inclusiva e derivativa ai vv. 6 : 8, 7 : 9 e 10 : 11.
+                  </p>
+               </div>
+               <div type="commentary">
+                  <note target="#t1l4">
+                     <num>4.</num>
+                     <hi rend="italic">luy</hi>:
+                     ‘parlare di, raccontare’, cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">endire</hi>.
+                  </note>
+                  <note target="#t1l6">
+                     <num>4.</num>
+                     <hi rend="italic">andire</hi>:
+                     riferito a <hi rend="italic">mon cuer</hi> (v. 3).
+                  </note>
+               </div>
+            </back>
+         </text>
+         <text>
+            <body>
+               <head>Certes, m’amour, c’est ma vye et ma joye</head>
+               <lg>
+                  <l xml:id="l1">
+                     Certes, m’amour, c’est ma vye et ma joye
+                  </l>
+                  <l xml:id="l2">
+                     que quant j’esay ton doulx <anchor xml:id="l2a1"/>cuer<anchor xml:id="l2a2"/> en playsir,
+                  </l>
+                  <l xml:id="l3">
+                     que je desir veïr sans departir,
+                  </l>
+                  <l xml:id="l4">
+                     <anchor xml:id="l4a1"/><supplied reason="illegible">[... -oye]</supplied>.<anchor xml:id="l4a2"/>
+                  </l>
+                  <l xml:id="l5" n="5">
+                     N’en ce monde autre avoir je ne vodroye	
+                  </l>
+                  <l xml:id="l6">
+                     fors seulement toy complaire et cherir;
+                  </l>
+                  <l xml:id="l7">
+                     <hi rend="italic">
+                        certes,
+                        <supplied xml:id="s1l7" corresp="#s1l8">[m’amour, c’est ma vie et ma joye</supplied>
+                     </hi>
+                  </l>
+                  <l xml:id="l8">
+                     <hi rend="italic"><supplied xml:id="s1l8">que quant j’esay ton doulx <anchor xml:id="l8a1"/>cuer<anchor xml:id="l8a2"/> en playsir]</supplied>.</hi>
+                  </l>
+                  <l xml:id="l9">
+                     Par ce parti mon <anchor xml:id="l9a1"/>cuer<anchor xml:id="l9a2"/> m’amour t’ottroye
+                  </l>
+                  <l xml:id="l10" n="10">
+                     sans le changier jamais ne retollir.
+                  </l>
+                  <l xml:id="l11">
+                     Tu es mon bien, mon loyaul souvenir,
+                  </l>
+                  <l xml:id="l12">
+                     pour ce te pry qu’aynssy de moy te voye.
+                  </l>
+                  <l xml:id="l13">
+                     <hi rend="italic">Certes, m’amour, c’est ma vie et ma joye</hi>
+                  </l>
+                  <l xml:id="l14">
+                     <hi rend="italic"><supplied xml:id="s1l14" corresp="#s1l15">[que quant j’esay ton doulx cuer en playsir</supplied></hi>
+                  </l>
+                  <l xml:id="l15" n="15">
+                     <hi rend="italic"><supplied xml:id="s1l15">que je desir veïr sans departir]</supplied></hi>
+                  </l>
+                  <l xml:id="l16">
+                     <hi rend="italic"><supplied reason="illegible">[... -oye]</supplied>.</hi>
+                  </l>            
+               </lg>
+            </body>
+            <back>
+               <listApp type="substantial">
+                  <listApp>
+                     <head>2</head>
+                     <app from="#l2a1" to="#l2a2">
+                        <lem>cuer</lem>
+                        <rdg wit="#Ox2"><witDetail wit="#Ox2"><hi rend="italic">abbreviato con disegno a forma di cuore</hi></witDetail></rdg>
+                     </app>
+                  </listApp>
+                  <listApp>
+                     <head>4</head>
+                     <app from="l4a1" to="l4a2">
+                        <rdg wit="Ox2"/>
+                     </app>
+                  </listApp>
+                  <listApp>
+                     <head>8</head>
+                     <app from="#l8a1" to="#l8a2">
+                        <lem>cuer</lem>
+                        <rdg wit="#Ox2"><witDetail wit="#Ox2"><hi rend="italic">abbreviato con disegno a forma di cuore</hi></witDetail></rdg>
+                     </app>
+                  </listApp>
+                  <listApp>
+                     <head>9</head>
+                     <app from="#l9a1" to="#l9a2">
+                        <lem>cuer</lem>
+                        <rdg wit="#Ox2"><witDetail wit="#Ox2"><hi rend="italic">abbreviato con disegno a forma di cuore</hi></witDetail></rdg>
+                     </app>
+                  </listApp>
+               </listApp>
+               <div type="metricalScheme">
+                  <p>
+                     <hi rend="italic">Rondeau</hi> 10’A 10B 10B [10’A]; 10’a 10b, 10’A 10B; 10’a 10b 10b 10’a; 10’A 10B 10B [10’A].
+                  </p>
+               </div>
+               <div type="commentary">
+                  <note target="#l2">
+                     <num>2.</num>
+                     <hi rend="italic">esay</hi>:
+                     il v. <hi rend="italic">esayer</hi> andrà inteso nel senso di ‘fare esperienza di (qualcosa), vivere (qualcosa)’, cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">essayer</hi>.
+                  </note>
+                  <note target="#l12">
+                     <num>12.</num>
+                     <hi rend="italic">de moy te voye</hi>:
+                     ‘che tu rifletta su di me’; cf. la costruzione <hi rend="italic">voir de (qqn/qqc)</hi>: ‘riflettere su’, <hi rend="italic">DMF</hi> s.v. <hi rend="italic">voir1</hi>.
+                  </note>
+               </div>
+            </back>
+         </text>
+      </group>      
+      <back>
+         <listWit>            
+            <witness xml:id="Ox2">
+               <ref type="siglum" target="#Ox2">Ox2</ref> 
+               <locus>c. 122r</locus>, <abbr xml:id="Ox2C1">C1</abbr> (<hi rend="italic">Mon seul voloir, ma souverayne joye</hi> vv. 1-4);
+               <abbr xml:id="Ox2C2">C2</abbr> (<hi rend="italic">Certes, m’amour, c’est ma vye et ma joye</hi> vv. 1-4),
+               <hi rend="italic">resid.</hi> (<hi rend="italic">Mon seul voloir, ma souverayne joye</hi> vv. 5-16; <hi rend="italic">Certes, m’amour, c’est ma vye et ma joye</hi> vv. 5-16):
+               <hi rend="italic">cesaris</hi>         
+            </witness>
+            <witness xml:id="Pz">
+               <ref type="siglum" target="#Pz">Pz</ref> 
+               <locus>c. 3r</locus>,
+               <abbr xml:id="PzC1">C1</abbr> (<hi rend="italic">Mon seul voloir, ma souverayne joye</hi> vv. 1-4)
+            </witness>
+         </listWit>         
+         <listBibl type="editions">
+            <bibl corresp="#Stainer-Stainer1898">
+               Stainer-Stainer 1898, p. 96;
+            </bibl>
+            <bibl corresp="#Reaney1955">Reaney 1955, p. <hi rend="small-caps">iii</hi>.</bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

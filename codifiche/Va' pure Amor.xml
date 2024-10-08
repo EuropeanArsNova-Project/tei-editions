@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Va’ pure Amor, e colle reti tue</title>
+            <editor>Davide Checchi</editor>
+            <respStmt>
+               <resp>Digital scholarly editon created within the </resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Davide Checchi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoding by</resp>
+               <name>Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <p>
+            Il verso 10 presenta un probabile errore d’archetipo (purtroppo Man è illeggibile), mentre al verso 7 Fp e Pit sono insolitamente congiunti in errore contro Sq e SL (l’errore ha però debole valore separativo, essendo facilmente emendabile).
+         </p>
+      </front>
+      <body>
+         <lg>
+            <l xml:id="l1">
+                Va’ <anchor xml:id="l1a1"/>pure<anchor xml:id="l1a2"/> Amor, e <anchor xml:id="l1a3"/>colle<anchor xml:id="l1a4"/> reti tue
+            </l>
+            <l xml:id="l2">
+                piglia <anchor xml:id="l2a1"/>chiunche<anchor xml:id="l2a3"/> tu<anchor xml:id="l2a2"/> vuoi,
+            </l>
+            <l xml:id="l3">
+               <anchor xml:id="l3a1"/>ch’i son disciolto dagl’<anchor xml:id="l3a3"/>inganni<anchor xml:id="l3a4"/> tuoi.<anchor xml:id="l3a2"/>
+            </l>
+         </lg>
+         <lg>      
+            <l xml:id="l4">
+                <anchor xml:id="l4a3"/>Viveromi<anchor xml:id="l4a4"/> nel mar <anchor xml:id="l4a5"/>con<anchor xml:id="l4a6"/> <anchor xml:id="l4a1"/>liberta<supplied>[d]</supplied>e<anchor xml:id="l4a2"/>,
+            </l>
+            <l xml:id="l5" n="5">
+               <anchor xml:id="l5a1"/>com’ è d’altr’ animal’, <anchor xml:id="l5a3"/>con dolce<anchor xml:id="l5a4"/> pace,<anchor xml:id="l5a2"/>
+            </l>
+            <l xml:id="l6">
+                <anchor xml:id="l6a3"/>né <anchor xml:id="l6a4"/>potra’<anchor xml:id="l6a5"/> <anchor xml:id="l6a6"/>ma’<anchor xml:id="l6a7"/> con tuo <anchor xml:id="l6a1"/>sagacitade<anchor xml:id="l6a2"/>
+            </l>
+            <l xml:id="l7">
+                pigliarmi, <anchor xml:id="l7a1"/>po’<anchor xml:id="l7a2"/> ch’<anchor xml:id="l7a3"/>i’<anchor xml:id="l7a4"/> conosco <anchor xml:id="l7a5"/>il<anchor xml:id="l7a6"/> rapace
+            </l>
+            <l xml:id="l8">
+                tuo pelago, le reti <anchor xml:id="l8a1"/>e<anchor xml:id="l8a2"/>·<anchor xml:id="l8a3"/>lla<anchor xml:id="l8a4"/> fallace 
+            </l>
+            <l xml:id="l9">
+                esca, <anchor xml:id="l9a3"/>ché<anchor xml:id="l9a4"/>, <anchor xml:id="l9a5"/>come<anchor xml:id="l9a6"/> <anchor xml:id="l9a1"/>suoi<anchor xml:id="l9a2"/>,
+            </l>
+            <l xml:id="l10" n="10">
+                <anchor xml:id="l10a1"/><supplied>[e]</supplied>ssalt’<anchor xml:id="l10a2"/> <anchor xml:id="l10a4"/>i<anchor xml:id="l10a5"/> tuo’ aversi et <anchor xml:id="l10a6"/>abass’ i<anchor xml:id="l10a7"/> tuoi<anchor xml:id="l10a3"/>.
+            </l>
+         </lg>
+      </body>      
+      <back>
+         
+         <listWit> 
+            <witness xml:id="Fp">
+               <ref type="siglum" target="#Fp">Fp</ref>
+               <locus>c. 9r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-5), <abbr xml:id="FpT">T</abbr> (vv. 1-5), <hi rend="italic">resid.</hi> (vv. 6-10): <hi rend="italic">m(agister) fr(anciscus)</hi>
+            </witness>
+            <witness xml:id="Sq">
+               <ref type="siglum" target="#Sq">Sq</ref>
+               <locus>c. 171r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-5), <abbr xml:id="SqT">T</abbr> (vv. 1-5), <hi rend="italic">resid.</hi> (vv. 6-10): <hi rend="italic">magister franciscus cecus horghanista de florentia</hi>
+            </witness>
+            <witness xml:id="Pit">
+               <ref type="siglum" target="#Pit">Pit</ref>
+               <locus>c. 70r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-5), <abbr xml:id="PitT">T</abbr> (vv. 1-5), <hi rend="italic">resid.</hi> (vv. 6-10): <hi rend="italic">fra(n)c(iscus)</hi>
+            </witness>
+            <witness xml:id="SL">
+               <ref type="siglum" target="#SL">SL</ref>
+               <locus>c. 103r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-5), <abbr xml:id="SLT">T</abbr> (vv. 1-5), <hi rend="italic">resid.</hi> (vv. 6-10). La rubrica è illeggibile.
+            </witness>
+            <witness xml:id="Man">               
+               <ref type="siglum" target="#Man">Man</ref>
+               <locus>c. 47r</locus>, <abbr xml:id="ManC">C</abbr> (vv. 1-5), <abbr xml:id="ManT">T</abbr> (vv. 1-5), <hi rend="italic">resid.</hi> (vv. 6-10): <hi rend="italic">francisci ceci de florentia</hi>
+            </witness>
+         </listWit>
+         
+         <listApp type="substantial">
+            <listApp>
+               <head>2</head>
+               <app from="#l2a1" to="#l2a2">
+                  <lem>chiunche tu</lem>
+                  <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#SLT">SL<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>3</head>
+               <app from="#l3a1" to="#l3a2">
+                  <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#SLC">SL<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app from="#l3a3" to="#l3a4">
+                  <lem>inganni</lem>
+                  <rdg>ingan <wit><ref target="#SLT">SL<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>4</head>
+               <app from="#l4a1" to="#l4a2">
+                  <lem>libertade</lem>
+                  <rdg>libertate
+                     <wit><ref type="siglum" target="#Fp">Fp</ref></wit>
+                     <wit><ref target="#Sq">Sq</ref></wit>
+                     <wit><ref target="#PitC">Pit<hi rend="super">C</hi></ref></wit>
+                     <wit><ref target="#SLC">SL<hi rend="super">C</hi></ref></wit>
+                     <wit><ref target="#ManC">Man<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg>llibertate
+                     <wit><ref target="#PitT">Pit<hi rend="super">T</hi></ref></wit>
+                     <wit><ref target="#SLT">SL<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>5</head>
+               <app from="#l5a1" to="#l5a2">
+                  <rdg><gap reason="illegible" rend="ill."/>
+                     <wit><ref target="#ManC">Man<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app from="#l5a3" to="#l5a4">
+                  <lem>con <hi rend="italic">dolc</hi>e</lem>
+                  <rdg wit="#Fp">conduce</rdg>
+                  <rdg><gap reason="illegible" rend="ill."/>
+                     <wit><ref target="#SLT">SL<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>6-10</head>
+               <app from="#l6a3" to="#l10a3">
+                  <rdg wit="#Man"><gap reason="illegible" rend="ill."/></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>6</head>
+               <app from="#l6a1" to="#l6a2">
+                  <lem>sagacitade</lem>
+                  <rdg wit="#Sq #Pit #SL">sagacitate</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>7</head>
+               <app from="#l7a1" to="#l7a2">
+                  <lem>po’</lem>
+                  <rdg wit="#Fp #Pit"/>
+                  <rdg wit="#SL">p<gap reason="illegible" rend="*" unit="chars" quantity="1"/></rdg>
+               </app>
+               <app from="#l7a3" to="#l7a4">
+                  <lem>il</lem>
+                  <rdg wit="#Fp #Pit">in</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>9</head>
+               <app from="#l9a1" to="#l9a2">
+                  <lem>s<hi rend="italic">uoi</hi></lem>
+                  <rdg wit="#Sq">sui</rdg>
+                  <rdg wit="#SL"><gap reason="illegible" rend="ill."/></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>10</head>
+               <app from="#l10a1" to="#l10a2">
+                  <lem>essalt’ i</lem>
+                  <rdg wit="#Fp">assalt</rdg>
+                  <rdg wit="#Sq">assalti</rdg>
+                  <rdg wit="#Pit">axalti</rdg>
+                  <rdg wit="#SL"><gap reason="illegible" rend="*" unit="chars" quantity="1"/>ssalti</rdg>
+               </app>
+            </listApp>
+         </listApp>
+         
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>pure</lem>
+                  <rdg wit="#Man">pur</rdg>
+               </app>
+               <app from="#l1a3" to="#l1a4">
+                  <lem>colle</lem>
+                  <rdg>con le
+                     <wit><ref target="#ManC">Man<hi rend="super">C</hi></ref></wit>
+                     <wit><ref target="#ManT">Man<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>2</head>
+               <app from="#l2a1" to="#l2a3">
+                  <lem>chiunche</lem>
+                  <rdg>chiunque <wit><ref target="#FpT">Fp<hi rend="italic">T</hi></ref></wit></rdg>
+                  <rdg>cunque
+                     <wit><ref target="#Sq">Sq</ref></wit>
+                     <wit><ref target="#PitC">Pit<hi rend="super">C</hi></ref></wit>
+                     <wit><ref target="#SLC">SL<hi rend="super">C</hi></ref></wit>
+                     <wit><ref target="#Man">Man</ref></wit></rdg>
+                  <rdg>chiunqu<add>e</add>
+                     <wit><ref target="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>4</head>
+               <app from="#l4a3" to="#l4a4">
+                  <lem>Viveromi e</lem>
+                  <rdg wit="#Sq #SL #Man">ui uerom mi</rdg>
+               </app>
+               <app from="#l4a5" to="#l4a6">
+                  <lem>con</lem>
+                  <rdg>co
+                     <wit><ref target="#FpT">Fp<hi rend="italic">T</hi></ref></wit>
+                     <wit><ref target="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+             <listApp>
+                 <head>6</head>
+                 <app from="#l6a4" to="#l6a5">
+                     <lem>potra’</lem>
+                     <rdg wit="#Pit">potrai</rdg>
+                 </app>
+                 <app from="#l6a6" to="#l6a7">
+                     <lem>ma’</lem>
+                     <rdg wit="#Sq #Pit #SL">mai</rdg>
+                 </app>
+             </listApp>
+            <listApp>
+               <head>7</head>
+               <app from="#l7a1" to="#l7a2">
+                  <lem>i’</lem>
+                  <rdg wit="#SL">io</rdg>
+               </app>
+            </listApp>            
+            <listApp>
+               <head>8</head>
+               <app from="#l8a1" to="#l8a2">
+                  <lem>e</lem>
+                  <rdg wit="#Sq #Pit #SL">et</rdg>
+               </app>
+               <app from="#l8a3" to="#l8a4">
+                  <lem>lla</lem>
+                  <rdg wit="#Sq #Pit #SL">la</rdg>
+               </app>
+            </listApp>            
+            <listApp>
+               <head>9</head>
+               <app from="#l9a3" to="#l9a4">
+                  <lem>ché</lem>
+                  <rdg wit="#Fp">che <del>suoi</del></rdg>
+               </app>
+               <app from="#l9a5" to="#l9a6">
+                  <lem>come</lem>
+                  <rdg wit="#Pit">ccome</rdg>
+               </app>
+            </listApp>           
+            <listApp>
+               <head>10</head>
+               <app from="#l10a4" to="#l10a5">
+                  <lem>i</lem>
+                  <rdg wit="#Sq #Pit #SL">e</rdg>
+               </app>
+               <app from="#l10a6" to="#l10a7">
+                  <lem>abass’ i</lem>
+                  <rdg wit="#Sq #Pit #SL">abassi e</rdg>
+               </app>
+            </listApp>
+         </listApp>
+         
+         <div type="metricalScheme">
+            <p>
+               Ballata mezzana 10’y 6’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 6’b 10’z.
+            </p>
+            <p>
+               <hi rend="italic">Pagnotta</hi> 115 : 83.
+            </p>
+            <p>
+               Rima identica (<hi rend="italic">mot-refrain</hi>) ai vv. 3 : 10.
+            </p>
+         </div>
+         
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+               Corsi 1970, p. 224.
+            </bibl>
+         </listBibl>
+         
+         <div type="commentary">
+            <note target="#l10">
+               <num>10.</num>
+               L’emendamento, richiesto dal senso, è già in Corsi.
+            </note>
+         </div>
+         
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1970">
+               <hi rend="italic">Poesie musicali del Trecento</hi>, a cura di G. Corsi, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

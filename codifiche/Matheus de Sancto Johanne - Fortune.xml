@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Fortune faulce, parverse</title>
+            <respStmt>
+               <resp>Digital scholarly editon created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Alice Colantuoni</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Davide Checchi</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>    
+      </front-->
+      <body>
+         <lg>
+            <l xml:id="l1">
+               Fortune <anchor xml:id="l1a1"/>faulce<anchor xml:id="l1a2"/>, <anchor xml:id="l1a3"/>parverse<anchor xml:id="l1a4"/>,
+            </l>
+            <l xml:id="l2">
+               versé m’as en grant martire!  
+            </l>
+            <l xml:id="l3">
+               <anchor xml:id="l3a1"/>Taire<anchor xml:id="l3a2"/> si m’est trop adverse,  
+            </l>
+            <l xml:id="l4">
+               <hi rend="italic">fortune faulce, perverse,</hi>   
+            </l>
+            <l xml:id="l5" n="5">
+               tu me fiers a <anchor xml:id="l5a1"/>la<anchor xml:id="l5a2"/> traverse,
+            </l>
+            <l xml:id="l6">
+               <anchor xml:id="l6a1"/>traversement<anchor xml:id="l6a2"/>, si puis dire:
+            </l>
+            <l xml:id="l7">
+               <hi rend="italic">
+                  Fortune, fause, perverse,
+               </hi>               
+            </l>
+            <l xml:id="l8">
+               <hi rend="italic">
+                  versé m’as en grant martire!
+               </hi>               
+            </l>
+         </lg>
+      </body>
+      <back>
+         <listWit>            
+            <witness xml:id="Ch">
+               <ref type="siglum" target="#Ch">Ch</ref>
+               <locus>c. 59v</locus>, <abbr xml:id="ChC">C</abbr> (vv. 1-2), <hi rend="italic">resid.</hi> (vv. 3-8): <hi rend="italic">m(atheus) de s(an)c(t)o joh(anne)</hi>         
+            </witness>
+            <witness xml:id="Iv">
+               <ref type="siglum" target="#Iv">Iv</ref>
+               <locus>c. 21r</locus>, <abbr xml:id="IvC">C</abbr> (vv. 1-2), <hi rend="italic">resid.</hi> (vv. 3-8)
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+               <head>5</head>
+               <app from="#l5a1" to="#l5a2">
+                  <lem>la</lem>
+                  <rdg wit="#Iv">le</rdg>
+               </app>
+            </listApp>
+         </listApp>   
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>faulce</lem>
+                  <rdg wit="#Iv">fause</rdg>
+               </app>
+               <app from="#l1a3" to="#l1a4">
+                  <lem>parverse</lem>
+                  <rdg wit="#Iv">perverse</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>3</head>
+               <app from="#l3a1" to="#l3a2">
+                  <lem>taire</lem>
+                  <rdg wit="#Iv">teire</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>6</head>
+               <app from="#l6a1" to="#l6a2">
+                  <lem>traversement</lem>
+                  <rdg wit="#Iv">traversemant</rdg>
+               </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+               <hi rend="italic">Rondeau</hi> 8A 8B; 8a, 8A; 8a 8b; 8A 8B. 
+            </p>
+            <p>
+               Rima ricca ai vv. 1 : 3 : 5.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Apel-Rosenberg1970">
+               Apel-Rosenberg 1970, pp. <hi rend="small-caps">lxii-lxiii</hi>;
+            </bibl>
+            <bibl corresp="#Greene1982">
+               Greene 1982, p. 167.
+            </bibl>
+         </listBibl>
+         <div type="commentary">
+            <note target="#l5">
+               <num>5.</num>
+               <hi rend="italic">a la traverse</hi>:
+               loc. avv., ‘di traverso, trasversalmente, ’, cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">traverse1</hi>.
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Apel-Rosenberg1970">
+               Willi Apel, <hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, edition of the literary texts by S. N. Rosenberg., Rome, American Institute of Musicology, 1970 (CMM, 53/1).
+            </bibl>
+            <bibl xml:id="Greene1982">
+               Gordon Greene, <hi rend="italic">French Secular Music. Ballades and Canons</hi>, Monaco, Éditions de l’Oiseau-Lyre, 1982 (Polyphonic Music of the Fourteenth Century, XX).   
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

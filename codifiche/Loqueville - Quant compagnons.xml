@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quant compaignons s’en vont juer</title>
+            <respStmt>
+               <resp>Digital scholarly editon created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Alice Colantuoni</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Davide Checchi</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>    
+      </front-->
+      <body>
+         <lg>
+            <l xml:id="l1">
+               Quant compaignons s’en vont jüer
+            </l>
+            <l xml:id="l2">
+               cha et la en pluser païs,
+            </l>
+            <l xml:id="l3">
+               il n’ont point toudis a·ssouper
+            </l>
+            <l xml:id="l4">
+               cras connins ne capons rostis
+            </l>
+            <l xml:id="l5" n="5">
+               fors le terme qu’il ont argent,
+            </l>
+            <l xml:id="l6">
+               car ausi tost certainement
+            </l>
+            <l xml:id="l7">
+               qu’uns compains pert d’argent le <anchor xml:id="l7a1"/>pois<anchor xml:id="l7a2"/>,
+            </l>
+            <l xml:id="l8">
+               il fine assés petitement
+            </l>
+            <l xml:id="l9">
+               <hi rend="italic">d’avoir deux ses apres ses p<supplied>[o]</supplied>is.</hi>
+            </l>
+         </lg>
+      </body>
+      <back>
+         <listWit>            
+            <witness xml:id="Ox2">
+               <ref type="siglum" target="#Ox2">Ox2</ref> 
+               <locus>c. 90r</locus>, <abbr xml:id="Ox2C">C</abbr> (vv. 1-4): <hi rend="italic">r(ichard) loqueville</hi>
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+               <head>7</head>
+               <app from="#l7a1" to="#l7a2">
+                  <lem>pois</lem>
+                  <rdg wit="#Ox2">pais</rdg>
+               </app>           
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+               <hi rend="italic">Ballade</hi> 8a 8b, 8a 8b; 8c 8c 8d 8c 8D.
+            </p>
+            <p>
+               Rima equivoca ai vv. 7 : 9.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Reaney1966">Reaney 1966, p. <hi rend="small-caps">xxv</hi>.</bibl>
+         </listBibl>
+         <div type="commentary">
+            <note target="#l9">
+               <num>9.</num>
+               <hi rend="italic">ses</hi>:
+               probabile grafia per <hi rend="italic">ceze</hi>, ‘cecio’, cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">cèze</hi>.
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Reaney1966">
+               .
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Par vous m’estuet languir et soupirer / Soyés par moy, mon amy gracieux</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name> 
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    
+    
+    <text>
+        <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        
+      <group>
+        
+        <text>
+            <!--<front></front>-->
+            <body>
+                <lg>
+                    <l xml:id="l1"> Par vous m’estuet languir et soupirer,</l>
+                    <l xml:id="l2"> douce dame <anchor xml:id="l2a1"/>jo<supplied reason="illegible">[li]</supplied>e<anchor xml:id="l2a2"/>, et nuit et jour,</l>
+                    <l xml:id="l3"> sans joye avoir, sans confort, sans retour</l>
+                    <l xml:id="l4"> et sans nul bien, en <anchor xml:id="l4a1"/>desespo<supplied reason="illegible">[i]</supplied>r<anchor xml:id="l4a2"/> finer.</l>
+                </lg>
+                <lg>
+                    <l xml:id="l5" n="5"> Las, de Fortune assés m’en doy plourer,</l>
+                    <l xml:id="l6"> car j’ay perdue de toutes flours la flour.</l>
+                    <l xml:id="l7"> <hi rend="italic">Par vous <supplied xml:id="suppl1" reason="illegible">[m’estuet languir et soupirer,</supplied></hi></l>
+                    <l xml:id="l8"> <hi rend="italic"> <supplied xml:id="suppl2" corresp="#suppl1" reason="illegible">douce dame jolie, et nuit et jour,]</supplied></hi></l>
+                    <l xml:id="l9"> et si ne <anchor xml:id="l9a1"/>sçay<anchor xml:id="l9a2"/> coment puisse retrer</l>
+                    <l xml:id="l10" n="10"> jamais mon povre cuer de la dolour,</l>
+                    <l xml:id="l11"> que a mort <anchor xml:id="l11a1"/>procha<supplied reason="illegible">[yn]</supplied>e<anchor xml:id="l11a2"/> mayne pour l’amour</l>
+                    <l xml:id="l12"> de la belle, que tieng et di sans per.</l>           
+                    <l xml:id="l13"> <hi rend="italic"> Par vous m’estoet languir <supplied xml:id="suppl3" reason="illegible">[et soupirer,</supplied></hi></l>
+                    <l xml:id="l14"> <hi rend="italic"> <supplied xml:id="suppl4" corresp="#suppl3" reason="illegible">douce dame jolie, et nuit et jour,</supplied></hi></l>
+                    <l xml:id="l15" n="15"> <hi rend="italic"><supplied xml:id="suppl5" corresp="#suppl3" reason="illegible">sans joye avoir, sans confort, sans retour,</supplied></hi> </l>
+                    <l xml:id="l16"> <hi rend="italic"> <supplied xml:id="suppl6" corresp="#suppl3" reason="illegible">et sans nul bien en desespour finer.]</supplied></hi></l>
+                </lg>
+            </body>
+    
+    
+            <back>
+    
+                <listApp type="substantial">
+                    <listApp>
+                        <head>2</head>
+                        <app from="#l2a1" to="#l2a2">
+                            <lem>jolie</lem>
+                            <rdg wit="#MoA"> ioe</rdg>
+                        </app>
+                    </listApp>
+                    
+                    <listApp>
+                        <head>4</head>
+                        <app from="#l4a1" to="#l4a2">
+                            <lem>desespoir</lem>
+                            <rdg wit="#MoA"> desespour</rdg>
+                        </app>
+                    </listApp>
+                    
+                    <listApp>
+                        <head>11</head>
+                        <app from="#l11a1" to="#l11a2">
+                            <lem>prochayne</lem>
+                            <rdg wit="#MoA"> prochain le</rdg>
+                        </app>
+                    </listApp>
+                </listApp>
+                
+                
+                
+                <listApp type="formal">
+                    <listApp>
+                        <head>9</head>
+                        <app from="#l9a1" to="#l9a2">
+                            <lem>sçay</lem>
+                            <rdg wit="#MoA"> scay</rdg>
+                        </app>
+                    </listApp>
+                </listApp>
+                
+    
+    
+                <div type="metricalScheme">
+                    <p><hi rend="italic">Rondeau</hi>: 10A 10B 10B 10A; 10a 10b, 10A 10B; 10a 10b 10b 10a; 10A 10B 10B 10A; 10A 10’B 10’B 10A; 10a 10’b, 10A 10’B; 10a 10’b 10’b 10a; 10A 10’B 10’B 10A.</p>
+                    <p>Rima ricca ai vv. 1 : 5; 6 : 10; 7 : 9; 21 : 28.</p>
+                </div>
+                
+                
+            </back>
+        </text>
+          
+        <text>
+            <!--<front></front>-->
+            <body>
+                <lg>
+                    <l xml:id="l1s"> Soyés par moy, mon amy gracïeux,</l>
+                    <l xml:id="l2s"> hors de tormant, je t’en pri et supplie,</l>
+                    <l xml:id="l3s"> car sans fauser je suis ta doulx amie,</l>
+                    <l xml:id="l4s"> et t’ameray de vray cuer et joyeux.</l>
+                </lg>
+                
+                <lg>
+                    <l xml:id="l5s" n="5"> Ne sas tu ben que maintes amoreux</l>
+                    <l xml:id="l6s"> Fortune tint en doloreuse vie?</l>
+                    <l xml:id="l7s"> <hi rend="italic"> Soyés par moy, mon amy gracïeux,</hi></l>
+                    <l xml:id="l8s"> <hi rend="italic"> <supplied reason="illegible">[hors de tormant, je t’en pri et supplie]</supplied>.</hi></l>
+                    <l xml:id="l9s"> Ton mal me tient au cuer duel angosieux,</l>
+                    <l xml:id="l10s" n="10"> si que ne puis avoir ma ciere lie,</l>
+                    <l xml:id="l11s"> mes en Amours de la pitié me fie,</l>
+                    <l xml:id="l12s"> qu’en brief d’amer par luy serons heureux.</l>
+                    <l xml:id="l13s"> <hi rend="italic"> Soyés par moy, mon amy <supplied xml:id="suppl7" reason="illegible">[gracïeus,</supplied></hi> </l>
+                    <l xml:id="l14s"><hi rend="italic"> <supplied xml:id="suppl8" corresp="#suppl7" reason="illegible">hors de tormant, je t’en pri et supplie,</supplied></hi> </l>
+                    <l xml:id="l15s" n="15"> <hi rend="italic"> <supplied xml:id="suppl9" corresp="#suppl7" reason="illegible">car sans fauser je suis ta doulx amie,</supplied></hi></l>
+                    <l xml:id="l16s"> <hi rend="italic"> <supplied xml:id="suppl10" corresp="#suppl7" reason="illegible">et t’ameray de vray cuer et joyeux.]</supplied></hi></l>
+                </lg>
+                
+            </body>
+            
+            <back>
+                             
+                
+                <!--<listApp type="substantial">
+                </listApp>-->
+                
+                
+                <!--<listApp type="formal">
+                </listApp>-->             
+                
+                
+                <div type="metricalScheme">
+                    <p><hi rend="italic">Rondeau</hi>10A 10’B 10’B 10A; 10a 10’b, 10A 10’B; 10a 10’b 10’b 10a; 10A 10’B 10’B 10A.</p>
+                    <p>Rima ricca ai vv. 5 : 12.</p>
+                </div>
+                             
+                
+                
+                <!--<listBibl type="bibliography">
+                  <bibl corresp="#">
+                  </bibl>
+               </listBibl>-->
+                
+                
+                <div type="commentary">
+                    <note target="#l5">
+                        <num>5.</num>
+                        <p><hi rend="italic">sas… ben</hi>: italianismi per <hi rend="italic">ses</hi> ‘sai’ e <hi rend="italic">bien</hi>.</p>
+                    </note>
+                    
+                    <note target="#l11">
+                        <num>11.</num>
+                        <p>Costruisci: <hi rend="italic">mes en la pitié de Amours me fie.</hi></p>
+                    </note>
+                    
+                    <note target="#l12">
+                        <num>12.</num>
+                        <p>‘in breve tempo grazie a lui saremo felici nell’amarci’.</p>
+                    </note>
+                </div>
+                    
+            </back>
+            
+        </text>
+      </group>
+        
+        
+    <back>
+        <listWit>
+            <witness xml:id="MoA">
+                <ref type="siglum" target="#MoA">MoA</ref> c. 10r, <abbr xml:id="MoAC">C</abbr> (<hi rend="italic">Par vous m’estuet </hi>vv. 1-4), <abbr xml:id="MoACt">Ct</abbr> (<hi rend="italic">Soyés par moy vv. 1-4</hi>), <hi rend="italic">resid.</hi> (<hi rend="italic">Par vous m’estuet</hi> vv. 5-16, <hi rend="italic">Soyés par moy</hi> vv. 5-16): <hi rend="italic">idem</hi> [c. 9v: <hi rend="italic">m(attheus) de p(er)usio</hi>]
+            </witness>
+        </listWit>
+            
+        <listBibl type="editions">
+            <bibl corresp="#Apel-Rosenberg1970">
+                Apel-Rosenberg 1970, pp. <hi rend="small-caps">LX-LXI</hi>.</bibl>
+        </listBibl>
+    </back>
+      
+    </text>
+    
+</TEI>

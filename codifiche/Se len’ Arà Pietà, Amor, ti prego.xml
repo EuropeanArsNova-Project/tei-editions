@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Se LEN’ Arà Pietà, Amor, ti prego</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt> 
+               <resp>Edited by</resp> 
+               <name>Maria Sofia Lannutti</name> 
+            </respStmt> 
+            <respStmt> 
+               <resp>Revised by</resp> 
+               <name>Luca Gatti</name> 
+            </respStmt> 
+            <respStmt> 
+               <resp>TEI-encoded by</resp> 
+               <name>Elvira Mercatanti</name> 
+            </respStmt> 
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> --> 
+
+      <body>
+         <lg>
+            <l xml:id="l1">
+               <anchor xml:id="l1a1"/>Se<anchor xml:id="l1a2"/> <name type="senhal" rend="small-caps">LEN’</name> Arà Pietà, Amor, ti prego
+            </l>
+            <l xml:id="l2">
+               di <anchor xml:id="l2a1"/><supplied reason="illegible">[mi]</supplied>o<anchor xml:id="l2a2"/> felice stato,
+            </l>
+            <l xml:id="l3">
+               se non si ferì ’l suo cor sì ’ndurato.
+            </l>
+         </lg>
+
+         <lg>
+            <l xml:id="l4">
+               Tu sai, Amor, con quanta libertà
+            </l>
+            <l xml:id="l5" n="5">
+               seguita l’ò, serrato in tuo <anchor xml:id="l5a1"/>caten<supplied reason="illegible">[a]</supplied><anchor xml:id="l5a2"/>,
+            </l>
+            <l xml:id="l6">
+               et ella <anchor xml:id="l6a1"/>pur<anchor xml:id="l6a2"/> rifuge aver pietà,
+            </l>
+            <l xml:id="l7">
+               né cura te, ma di dureça è piena.
+            </l>
+            <l xml:id="l8">
+               S’ella porgesse una sol picciol <name type="senhal" rend="small-caps">LENA</name>
+            </l>
+            <l xml:id="l9">
+               al mi’ cor sì ’nfiammato
+            </l>
+            <l xml:id="l10" n="10">
+               più c’altri mi terre’ viver beato.
+            </l>
+         </lg>
+      </body>
+
+
+      <back>
+         <listWit>            
+            <witness xml:id="Pit">
+               <ref type="siglum" target="#Pit">Pit</ref>
+               cc. <locus>129v-130r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-5), <hi rend="italic">resid.</hi> (vv. 6-10): <hi rend="italic">d(ominus) p(aulus)</hi> (eraso)
+            </witness>
+         </listWit>
+
+
+         <listApp type="substantial">
+            <listApp>
+               <head>2</head>
+               <app from="#l2a1" to="#l2a2">
+                  <lem>mio</lem>
+                  <rdg wit="#Pit"> suo</rdg>
+               </app>
+            </listApp>
+
+
+            <listApp>
+               <head>5</head>
+               <app from="#l5a1" to="#l5a2">
+                  <lem>catena</lem>
+                  <rdg> catene<wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+               </app>         
+            </listApp>
+
+            <listApp>
+               <head>6</head>
+               <app from="#l6a1" to="#l6a2">
+                  <lem>pur</lem>
+                  <rdg wit="#Pit"> pure</rdg>
+               </app>            
+            </listApp>
+         </listApp>
+
+
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>Se</lem>
+                  <rdg> se se<wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+         </listApp>
+
+
+         <div type="metricalScheme">
+            <p>Ballata mezzana 10’y 6’z 10’z; 10a 10’b, 10a 10’b; 10’b 6’z 10’z. </p>
+            <p><hi rend="italic">Pagnotta </hi> 115 : 82.</p>
+            <p>Rima ricca ai vv. 4 : 6.</p>
+            <p>Punti sottoscritti: v. 6 (<hi rend="italic">pure</hi>) Pit.</p>
+         </div>
+
+
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+               Corsi 1970, p. 287.
+            </bibl>
+         </listBibl>
+
+
+          <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl>-->
+
+
+         <div type="commentary">
+            <note target="#l1 #l3">
+               <num>1-3.</num>
+               <p>‘Se Pietà avrà lena, Amore, ti prego di provvedere alla mia felicità, visto che il suo cuore così indurito non si è ferito’.</p>
+            </note>
+
+            <note target="#l1">
+               <num>1.</num>
+               <p><hi rend="italic"> Lena</hi>: per il <hi rend="italic"> senhal</hi>, cfr. le ballate <hi rend="italic"> LENA, virtù et speranza ogni cor duro</hi>; <hi rend="italic"> Se partir mi convien dal tuo bel viso</hi>; <hi rend="italic"> Dè, dolçe Morte, cavami di pena</hi>. </p>
+            </note>
+
+            <note target="l2">
+               <num>2.</num>
+               <p><hi rend="italic"> mio</hi>: l’emendamento, necessario per il senso, corregge un errore polare e d’anticipo (vedi <hi rend="italic"> suo</hi> al suo v.3).</p>
+            </note>
+
+         </div>
+
+
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1970">
+               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

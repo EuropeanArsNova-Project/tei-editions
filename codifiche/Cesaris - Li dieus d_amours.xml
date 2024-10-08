@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Li dieus d’amours, sires de vrais amans</title>
+            <respStmt>
+               <resp>Digital scholarly editon created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Alice Colantuoni</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Davide Checchi</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>    
+      </front-->
+      <body>
+         <lg>
+            <l xml:id="l1">
+               Li dieus d’amours, sires de vrais amans
+            </l>
+            <l xml:id="l2">
+               a fait e dit qu’a luy <anchor xml:id="l2a1"/>vieg<supplied>[n]</supplied>ent<anchor xml:id="l2a2"/> parler
+            </l>
+            <l xml:id="l3">
+               tout chil qui li vuellent estre servans
+            </l>
+            <l xml:id="l4">
+               et que bonne amor <supplied reason="illegible">[...]</supplied><anchor xml:id="l4a1"/>mer<anchor xml:id="l4a2"/>.
+            </l>
+            <l xml:id="l5" n="5">
+               Car il <anchor xml:id="l5a1"/><supplied>[v]</supplied>oit<anchor xml:id="l5a2"/> bien <anchor xml:id="l5a3"/>qu’on<anchor xml:id="l5a4"/> en vuelt abuser	
+            </l>
+            <l xml:id="l6">
+               et qu’en amours n’a riens que traïson,
+            </l>
+            <l xml:id="l7">
+               <hi rend="italic">si en fera tres grant correcïon.</hi>
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l8">
+               Ceste nouvelle est venue <anchor xml:id="l8a1"/>av<supplied>[i]</supplied>sans<anchor xml:id="l8a2"/>
+            </l>
+            <l xml:id="l9">
+               main et mainte qui ne font que <anchor xml:id="l9a1"/>trambl<supplied>[er]</supplied><anchor xml:id="l9a2"/>
+            </l>
+            <l xml:id="l10" n="10">
+               de peur qu’il ont, et crient: «Las, dolans!
+            </l>
+            <l xml:id="l11">
+               Coment poray ce jugement passer?».
+            </l>
+            <l xml:id="l12">
+               Mais ne leur vault ne gemir ne plourer:
+            </l>
+            <l xml:id="l13">
+               dez maulz sera faite inquisicïon,
+            </l>
+            <l xml:id="l14">
+               <anchor xml:id="l14a1"/><hi rend="italic"><supplied>[s]</supplied>i<anchor xml:id="l14a2"/>
+               <anchor xml:id="l14a3"/><supplied>[e]</supplied>n f<supplied>[e]</supplied>ra<anchor xml:id="l14a4"/> tres grant curreccïon</hi>
+            </l>
+            <l xml:id="l15" n="15">
+               S’a fet savoir a tous les bienvolans
+            </l>
+            <l xml:id="l16">
+               que traytours, <anchor xml:id="l16a1"/>o<supplied>[u]</supplied><anchor xml:id="l16a2"/> <anchor xml:id="l16a3"/>qu’o<supplied>[n]</supplied><anchor xml:id="l16a4"/> les puet trouver,
+            </l>
+            <l xml:id="l17">
+               <anchor xml:id="l17a1"/><supplied>[s]</supplied>oyent<anchor xml:id="l17a2"/> tenus <anchor xml:id="l17a3"/><supplied>[e]</supplied>n<anchor xml:id="l17a4"/> las de <anchor xml:id="l17a5"/>f<supplied>[e]</supplied>r<anchor xml:id="l17a6"/> cloans,
+            </l>
+            <l xml:id="l18">
+               desques jamais ne se <anchor xml:id="l18a1"/>pu<supplied>[i]</supplied>ss<supplied>[e]</supplied>nt<anchor xml:id="l18a2"/> oster:
+            </l>
+            <l xml:id="l19">
+               la les f<supplied>[e]</supplied>ra de male mort fine<supplied>[r]</supplied>
+            </l>
+            <l xml:id="l20" n="20">
+               et leur faulz tours metre a destruccïon,
+            </l>
+            <l xml:id="l21">
+               <hi rend="italic">si en fera tres grant correcïon.</hi>
+            </l>
+         </lg>
+      </body>
+      <back>
+         <listWit>            
+            <witness xml:id="Ch">
+               <ref type="siglum" target="#Ch">Ch</ref>
+               c. <locus>46v</locus>, <abbr xml:id="ChC">C</abbr> (vv. 14-21): <hi rend="italic">tenor joh(ann)es cesaris</hi>         
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+               <head>2</head>
+               <app from="#l2a1" to="#l2a2">
+                  <lem>viegnent</lem>
+                  <rdg wit="#Ch">vienfuent</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>4</head>
+               <app from="#l4a1" to="#l4a2">
+                  <lem>mer</lem>
+                  <rdg wit="#Ch">
+                     <witDetail wit="#Ch"><hi rend="italic">preceduto da spazio lasciato in bianco</hi></witDetail>
+                  </rdg>                  
+               </app>
+            </listApp>
+            <listApp>
+               <head>5</head>
+               <app from="#l5a1" to="#l5a2">
+                  <lem>voit</lem>
+                  <rdg wit="#Ch">doit</rdg>
+               </app>
+               <app from="#l5a3" to="#l5a4">
+                  <lem>qu’on</lem>
+                  <rdg wit="#Ch">que on</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>8</head>
+               <app from="#l8a1" to="#l8a2">
+                  <lem>avisans</lem>
+                  <rdg wit="#Ch">ausans</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>9</head>
+               <app from="#l9a1" to="#l9a2">
+                  <lem>trambler</lem>
+                  <rdg wit="#Ch">trambla</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>14</head>
+               <app from="#l14a1" to="#l14a2">
+                  <lem>si</lem>
+                  <rdg wit="#Ch">di</rdg>
+               </app>
+               <app from="#l14a3" to="#l14a4">
+                  <lem>en fera</lem>
+                  <rdg wit="#Ch">on fora</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>16</head>
+               <app from="#l16a1" to="#l16a2">
+                  <lem>ou</lem>
+                  <rdg wit="#Ch">on</rdg>
+               </app>
+               <app from="#l16a3" to="#l16a4">
+                  <lem>qu'on</lem>
+                  <rdg wit="#Ch">que oiz</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>17</head>
+               <app from="#l17a1" to="#l17a2">
+                  <lem>soyent</lem>
+                  <rdg wit="#Ch">doyent</rdg>
+               </app>
+               <app from="#l17a3" to="#l17a4">
+                  <lem>en</lem>
+                  <rdg wit="#Ch">on</rdg>
+               </app>
+               <app from="#l17a5" to="#l17a6">
+                  <lem>fer</lem>
+                  <rdg wit="#Ch">for</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>18</head>
+               <app from="#l18a1" to="#l18a2">
+                  <lem>puissent</lem>
+                  <rdg wit="#Ch">puessont</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>19</head>
+               <app from="#l19a1" to="#l19a2">
+                  <lem>fera</lem>
+                  <rdg wit="#Ch">fora</rdg>
+               </app>
+               <app from="#l19a3" to="#l19a4">
+                  <lem>finer</lem>
+                  <rdg wit="#Ch">fine</rdg>
+               </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+               <hi rend="italic">Ballade</hi> 10a 10b, 10a 10b; 10b 10c 10C.
+            </p>
+            <p>
+               Rima ricca ai vv. 2 : 9, 7 : 13 : 20 : 21, 10 : 15.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Reaney1955">Reaney 1955, p. <hi rend="small-caps">iv</hi>;</bibl>
+            <bibl corresp="#Apel-Rosenberg1971">
+               Apel-Rosenberg 1971, pp. <hi rend="small-caps">xxix-xxx</hi>;
+            </bibl>
+            <bibl corresp="#Greene1982">
+               Greene 1982, p. 77.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl-->
+         <div type="commentary">
+            <note target="#l8">
+               <num>8.</num>
+               <hi rend="italic">avisans</hi>:
+               l’integrazione di <hi rend="italic">i</hi> è già in Apel-Rosenberg.
+            </note>
+            <note target="#l17">
+               <num>17.</num>
+               <hi rend="italic">en las</hi>: ‘imprigionati’, letteralmente ‘in lacci’, cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">lacs</hi>.
+               ▪ <hi rend="italic">cloant</hi>: agg. riferito a <hi rend="italic">fer</hi>: ‘che chiude’; cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">cloant</hi>. 
+            </note>
+            <note target="#l20">
+               <num>20.</num>
+               <hi rend="italic">faulz tours</hi>:
+               ‘inganno’, cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">tour3</hi>.
+            </note>
+         </div>
+      </back>
+   </text>
+</TEI>

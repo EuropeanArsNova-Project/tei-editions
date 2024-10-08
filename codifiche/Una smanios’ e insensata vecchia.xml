@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Una smanios’ e insensata vecchia</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the </resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Maria Sofia Lannutti</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Carla Congiu</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>
+         <div>
+            <p>
+           </p>
+         </div>         
+      </front-->
+      <body>
+        <lg>
+            <l xml:id="l1">
+		    <anchor xml:id="l1a1"/>Una<anchor xml:id="l1a2"/> <anchor xml:id="l1a3"/>smanios’ e<anchor xml:id="l1a4"/> insensata <anchor xml:id="l1a5"/>vecchia<anchor xml:id="l1a6"/>
+	    </l>
+            <l xml:id="l2">
+		    <anchor xml:id="l2a3"/>à<anchor xml:id="l2a4"/> <anchor xml:id="l2a5"/>tolt’ in<anchor xml:id="l2a6"/> caccia <anchor xml:id="l2a1"/>’l<anchor xml:id="l2a2"/> mie gentil amore,
+	    </l>
+            <l xml:id="l3">
+		    con ira invidïos’ e con <anchor xml:id="l3a1"/>furore<anchor xml:id="l3a2"/>.
+	    </l>
+            <l xml:id="l4">
+		    Essa nel viso d’un vechio <anchor xml:id="l4a1"/>si<anchor xml:id="l4a2"/> spechia,
+	    </l>
+            <l xml:id="l5" n="5">
+		<anchor xml:id="l5a3"/>faccendo per <anchor xml:id="l5a1"/>piace<supplied>[r]</supplied>gli<anchor xml:id="l5a2"/> astuta guarda,
+	    </l>
+            <l xml:id="l6">
+		    così quel malvissuto s’ingagliarda.<anchor xml:id="l6a1"/>
+	    </l>
+        </lg>
+        <lg>
+            <l xml:id="l7">
+		    Per guardar la mie donna àn facto <anchor xml:id="l7a1"/>lega<anchor xml:id="l7a2"/>
+	    </l>
+            <l xml:id="l8">
+		    el <anchor xml:id="l8a3"/>vechio<anchor xml:id="l8a4"/> ’mpront’ e l’<anchor xml:id="l8a1"/>arabbiata strega<anchor xml:id="l8a2"/>.
+	    </l>
+        </lg>
+       </body>
+      <back>
+         <listWit>
+            <witness xml:id="Pit">
+               <ref type="siglum" target="#Pit">Pit</ref>
+               cc. <locus>48v-49r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="PitT">T</abbr> (vv. 1-3 e 7)<hi rend="italic">resid</hi>. (vv. 4-6)
+            </witness>
+            <witness xml:id="SL">
+               <ref type="siglum" target="#SL">SL</ref>
+               cc. <locus>102v-103r [CXXXIVv-CXXXVr]</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 7)<hi rend="italic">resid</hi>. (vv. 4-6): <hi rend="italic">p(aulus) abbas</hi>
+            </witness>
+            </listWit>
+           <listApp type="substantial">
+            <listApp>
+                 <head>2</head>
+                 <app from="#l2a1" to="#l2a2">
+                    <lem>’l</lem>
+                    <rdg wit="#SL"><unclear reason="illegible" rend="(?)">le</unclear></rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>3</head>
+                 <app from="#l3a1" to="#l3a2">
+                    <lem>furore</lem>
+                    <rdg wit="#SL"><gap reason="illegible" rend="ill."/></rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>4</head>
+                 <app from="#l4a1" to="#l4a2">
+                    <lem>si</lem>
+                    <rdg wit="#SL"></rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>5</head>
+                 <app from="#l5a1" to="#l5a2">
+                    <lem>piacergli</lem>
+                    <rdg wit="#Pit">piacegli</rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>5-6</head>
+                 <app from="#l5a3" to="#l6a1">
+                    <lem>faccendo per piace[r]gli astuta guarda,
+                    così quel malvissuto s’ingagliarda.</lem>
+                    <rdg wit="#SL"><gap reason="illegible" rend="ill."/></rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>7</head>
+                 <app from="#l7a1" to="#l7a2">
+                    <lem>lega</lem>
+                    <rdg><unclear reason="illegible" rend="(?)">lego</unclear></rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>8</head>
+                 <app from="#l8a1" to="#l8a2">
+                    <lem>arabbiata strega</lem>
+                    <rdg>arrabiata stre<gap reason="illegible" unit="chars" quantity="2" rend="**"/><wit><ref target="#SLC">SL<hi rend="super">C</hi></ref></wit></rdg>
+                 </app>
+               </listApp>
+            </listApp>
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>Una</lem>
+                  <rdg>u u na <wit><ref target="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+               <app from="#l1a3" to="#l1a4">
+                  <lem>smanios’ e</lem>
+                  <rdg>smaniosa et <wit><ref target="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+               <app from="#l1a5" to="#l1a6">
+                  <lem>vecchia</lem>
+                  <rdg>vechia <wit><ref target="#SLC">SL<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>2</head>
+               <app from="#l2a3" to="#l2a4">
+                  <lem>à</lem>
+                  <rdg>a a <wit><ref target="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app from="#l2a5" to="#l2a6">
+                  <lem>tolt’ in</lem>
+                  <rdg>tolto in <wit><ref target="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>8</head>
+               <app from="#l8a3" to="#l8a4">
+                  <lem>vechio</lem>
+		  <rdgGrp>     
+                  	<rdg>vechio vechio <wit><ref target="#PitC #SL">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                  	<rdg>vechio vechi <wit><ref target="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+		  </rdgGrp>
+               </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>Madrigale 10’a 10’b 10’b, 10’a 10’c 10’c; 10’d 10’d.</p> 
+            <p><hi rend="italic">Capovilla</hi> XXX.</p>
+            </div>
+         <listBibl type="editions">
+            <bibl corresp="#LiGotti1952">
+               Li Gotti 1952, p. 604;
+            </bibl>
+            <bibl corresp="#Sapegno1952">
+               Sapegno 1952, p. 518;
+            </bibl>
+            <bibl corresp="#Corsi1969">
+               Corsi 1969, p. 1047;
+            </bibl>
+            <bibl corresp="#Corsi1970">
+               Corsi 1970, p. 340-1.
+            </bibl>
+         </listBibl>
+         <div type="commentary">
+            <note target="#l1">
+               <num>1.</num>
+               <hi rend="italic">tolt’ in caccia</hi>: ‘ha braccato’.
+            </note>
+            <note target="#l6">
+               <num>6.</num>
+               <hi rend="italic">s’ingagliarda</hi>: ‘diventa baldanzoso’, cfr. <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">ingagliardare</hi>. 
+            </note>
+            <note target="#l8">
+               <num>8.</num>
+               <hi rend="italic">impront’</hi>: ‘molesto’, cfr. <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">impronto</hi>, § 2.1.
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="LiGotti1952">
+               E. Li Gotti, <hi rend="italic">Paolo tenorista, fiorentino "extra moenia"</hi>, in <hi rend="italic">Estudios dedicados a Menéndez Pidal</hi>, tomo III, Madrid, C.S.I.C., 1952, pp. 577-606
+            </bibl>
+            <bibl xml:id="Sapegno1952">
+               Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952
+            </bibl>
+            <bibl xml:id="Corsi1969">
+               G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
+            </bibl>
+            <bibl xml:id="Corsi1970">
+               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

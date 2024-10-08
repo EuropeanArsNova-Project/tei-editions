@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Perché languir mi fai</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Luca Gatti</name> 
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Davide Checchi</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoding by</resp>
+                    <name>Chiara Martignano</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    Perché languir mi <anchor xml:id="l1a1"/>fai<anchor xml:id="l1a2"/>,
+                </l>
+                <l xml:id="l2">
+                    donna, ch’i’ son pur tuo come tu·ssai?
+                </l>
+            </lg>
+            <lg>
+                <l xml:id="l3">
+                    <anchor xml:id="l3a1"/>I’ vengo<anchor xml:id="l3a2"/> al tuo cospetto
+                </l>
+                <l xml:id="l4">
+                    però ch’Amor al suo voler mi mena
+                </l>
+                <l xml:id="l5" n="5">
+                    <supplied reason="illegible">[...]</supplied>
+                </l>
+                <l xml:id="l6">
+                    <supplied reason="illegible">[...]</supplied>
+                </l>
+                <l xml:id="l7">
+                    <supplied reason="illegible">[...]</supplied>
+                </l>
+                <l xml:id="l8">
+                    <supplied reason="illegible">[... -ai]</supplied>
+                </l>
+            </lg>
+            
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Sq">
+                    <ref type="siglum" target="#Sq">Sq</ref> c. 188r, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4): <hi rend="italic">magister frater andreas horghanista de florentia</hi>
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">               
+               <listApp>
+                   <head>3</head>
+                   <app from="#l3a1" to="#l3a2">
+                       <lem>I’ vengo</lem>
+                       <rdg>i ven i venggiol
+                           <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                       <rdg>i ven in veghal
+                            <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+
+
+
+            <listApp type="formal">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>fai</lem>
+                        <rdg>fay y
+                            <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            
+
+            <div type="commentary">
+                <note target="#l3">
+                    <num>3.</num>
+                    <hi rend="italic">vengo</hi>:
+                    nel <hi rend="italic">tenor</hi> il <hi rend="italic">titulus</hi> cade indebitamente sul pronome personale invece che sulla forma verbale piena. La lezione buona si ricaverà, dunque, dal confronto della forma attestata nel <hi rend="italic">cantus</hi>, pur con ritocco ortografico.
+                </note>
+            </div>
+
+            <div type="metricalScheme">
+                <p>
+                    Ballata piccola 6’z 10’z; 6’a 10’b, [6’? 10’?; 6’? 10’z]. La trascrizione della ballata è interrotta alla seconda mutazione: il frammento è censito <hi rend="italic">sine numero</hi> in <hi rend="italic">Pagnotta</hi>.
+                </p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Corsi1970">Corsi 1970, p. 308.</bibl>   
+            </listBibl>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Corsi1970">
+                    <hi rend="italic">Poesie musicali del Trecento</hi>, a cura di G. Corsi, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

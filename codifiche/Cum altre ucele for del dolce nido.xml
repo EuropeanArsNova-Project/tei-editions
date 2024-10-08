@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Cum altre ucele for del dolce nido</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+         <div>
+            <p>
+           </p>
+         </div>         
+      </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    <anchor xml:id="l1a1"/>Cum altre ucele for del dolce nido,<anchor xml:id="l1a2"/>
+                </l>
+                <l xml:id="l2">
+                    <anchor xml:id="l2a1"/>d’amor<anchor xml:id="l2a2"/> cantando, <anchor xml:id="l2a3"/>vidi<anchor xml:id="l2a4"/> una calandra
+                </l>
+                <l xml:id="l3">
+                    uscir acesa come salamandra.
+                </l>
+                <l xml:id="l4">
+                    Tanto mi piaque il bel cantar di lei
+                </l>
+                <l xml:id="l5" n="5">
+                    l’ale batendo pur volando ad alto,
+                </l>
+                <l xml:id="l6">
+                    ch’Amor si mosse cum pietoso arsalto,
+                </l>
+            </lg>
+            <lg>  
+                <l xml:id="l7">
+                    ver mi dicendo: «Pur speta che <anchor xml:id="l7a1"/>cale<anchor xml:id="l7a2"/>,
+                </l>
+                <l xml:id="l8">
+                    che a l’umbra ti farò star de soe <anchor xml:id="l8a1"/>ale<anchor xml:id="l8a2"/>».
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="Rs">
+                    <ref type="siglum" target="#Rs">Rs</ref>
+                    cc. <locus>20v-21r</locus>, <abbr xml:id="RsC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="RsT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid</hi>. (vv. 4-6)
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>Cum altre ucele for del dolce nido</lem>
+                        <rdg wit="#Rs"><hi rend="italic">rip.</hi></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>d’amor</lem>
+                        <rdg>damor damor <wit><ref target="#RsC">Rs<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                    <app from="#l2a3" to="#l2a4">
+                        <lem>vidi</lem>
+                        <rdg wit="#Rs">vidi vidi cantando cantando vidi</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>cale</lem>
+                        <rdg wit="#Rs">calle</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>8</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>ale</lem>
+                        <rdg wit="#Rs">alle</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p>Madrigale 10’a 10’b 10’b, 10’c 10’d 10’d; 10’e 10’e.</p>
+                <p><hi rend="italic">Capovilla</hi> <hi rend="small-caps">xlviii</hi>.</p>
+                <p>Rima inclusiva ai vv. 5 : 6, 7 : 8.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#LiGotti1944">
+                    Li Gotti 1944, p. 135;
+                </bibl>
+                <bibl corresp="#Sesini1943-1950">
+                    Sesini 1943-1950, pp. 230-1;
+                </bibl>
+                <bibl corresp="#Corsi1970">
+                    Corsi 1970, pp. 329-30;
+                </bibl>
+                <bibl corresp="#Pirrotta1992">
+                    Pirrotta 1992, p. 34;
+                </bibl>
+                <bibl corresp="#Sucato2003">
+                    Sucato 2003, p. 82.
+                </bibl>
+            </listBibl>
+            <div type="commentary">
+                <note target="#l7">
+                    <num>7.</num>
+                    <hi rend="italic">cale</hi>: ‘scenda’.
+                </note>
+                <note target="#l7 #l8">
+                    <num>7-8.</num>
+                    <hi rend="italic">cale</hi>: <hi rend="italic">ale</hi>’. Dovute a ipercorrettismo le forme  <hi rend="italic">calle</hi> e  <hi rend="italic">alle</hi>.
+                </note>
+                <note target="#l10">
+                    <num>10.</num>
+                    Conclusione di segno opposto rispetto a <hi rend="italic">Quando i oselli canta</hi>, che precede <hi rend="italic">Seguendo un me’ sparver</hi> in Rs.
+                </note>
+            </div>
+        </back>
+    </text>
+</TEI>
+
+

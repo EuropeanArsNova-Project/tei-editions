@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ben posson pianger gli ochi e star dolente</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Maria Sofia Lannutti</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Elvira Mercatanti</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+      
+   </teiHeader>
+   <text>
+      <!--<front>
+         <div>
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"></hi>)
+           </p>
+         </div>         
+      </front>-->
+      <body>
+         <lg>
+            <l xml:id="l1">
+               <anchor xml:id="l1a1"/>Ben posson pianger li ochi e star dolente<anchor xml:id="l1a2"/>
+            </l>
+            <l xml:id="l2">
+               <supplied reason="illegible">[...]</supplied>
+            </l>
+            <l xml:id="l3">
+               <supplied reason="illegible">[...]</supplied>ta <anchor xml:id="l3a1"/>mente<anchor xml:id="l3a2"/>.
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l4">
+               <anchor xml:id="l4a1"/>Ricoglie in sé questa per cu<anchor xml:id="l4a2"/>’ <supplied reason="illegible">[...]</supplied><anchor xml:id="l4a3"/>co<anchor xml:id="l4a4"/>
+            </l>
+            <l xml:id="l5" n="5">
+               tutte suo forç’ a essermi crudele
+            </l>
+            <l xml:id="l6">
+               <supplied reason="illegible">[...]</supplied>
+            </l>
+            <l xml:id="l7">
+               <supplied reason="illegible">[...]</supplied>
+            </l>
+            <l xml:id="l8">
+               <supplied reason="illegible">[...]</supplied>
+            </l>
+            <l xml:id="l9">
+               <supplied reason="illegible">[...]</supplied>
+            </l>
+            <l xml:id="l10" n="10">
+               <supplied reason="illegible">[...]</supplied>
+            </l>
+         </lg>
+         
+      </body>
+      <back>
+         <listWit>            
+            <witness xml:id="Cil">
+               <ref type="siglum" target="#Cil">Cil</ref> 
+               c. 97r, <abbr xml:id="CilC">C</abbr> (vv.1-5), <abbr xml:id="CicT">T</abbr> (vv.1-4): <hi rend="italic">d(ominus) p(aulus)</hi>. Il testo è frammentario: per lacuna meccanica, del <hi rend="italic">cantus</hi> si leggono il v. 5 e, parzialmente, i vv. 1 e 3-4; del <hi rend="italic">tenor</hi>, invece, rimangono il v. 1, con parti dei vv. 3-4.
+            </witness>
+         </listWit>
+
+         <listApp type="substantial">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>Ben posson pianger li ochi</lem>
+                  <rdg><gap reason="illegible" rend="per l.m."/><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+
+            <listApp>
+               <head>3</head>
+               <app from="#l3a1" to="#l3a2">
+                  <lem>mente</lem>
+                  <rdg>te<gap reason="illegible" rend="per l.m."/><wit><ref corresp="#CilT">Cil<hi rend="super">T</hi></ref></wit></rdg>
+               </app>             
+            </listApp>
+
+            <listApp>
+               <head>4</head>
+               <app from="#l4a1" to="#l4a2">
+                  <lem>Ri coglieinse questa per cu</lem>
+                  <rdg><gap reason="illegible" rend="per l.m."/><wit><ref corresp="#CilT">Cil<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+
+               <app from="#l4a3" to="#l4a4">
+                  <lem>co</lem>
+                  <rdg><gap reason="illegible" rend="per l.m."/><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+         </listApp>
+
+
+         <!--<listApp type="formal">   
+         </listApp>-->
+
+
+         <div type="metricalScheme">
+            <p>Ballata mezzana 10’z […] 10’z; 10’a 10’b, 10’? 10’?; 10’? […] 10’z.</p>               
+         </div>
+
+
+         <listBibl type="editions">
+            <bibl corresp="#Brumana-Ciliberti1986">
+               Brumana-Ciliberti 1986, pp. 26-7.
+            </bibl>            
+         </listBibl>
+
+
+         <!--<listBibl type="bibliography"> 
+            <bibl corresp="#"> </bibl> 
+         </listBibl> --> 
+
+         <div type="commentary">
+            <note target="#l5">
+               <num>5.</num>
+               <p>Emendamento possibile, suggerito in nota da Brumana-Ciliberti (1986), è <hi rend="italic">per cu’ sta in foco</hi>.</p>
+            </note>
+         </div>
+      </back>
+   </text>
+</TEI>

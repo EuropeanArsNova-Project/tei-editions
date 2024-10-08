@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Belle, bone, jeune et jente</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1">Belle, bone, jeune et jente,</l>
+                <l xml:id="l2">non <anchor xml:id="l2a1"/>pareille<anchor xml:id="l2a2"/> de doulçour,</l>
+                <l xml:id="l3"><anchor xml:id="l3a1"/>vueillié<supplied reason="illegible">[z]</supplied><anchor xml:id="l3a2"/> oïr ma clamour</l>
+                <l xml:id="l4">que nuit et jour vous presente.</l>
+            </lg>
+            <lg>
+                <l xml:id="l5" n="5">Et vueilliéz sans longe atente</l>
+                <l xml:id="l6"><anchor xml:id="l6a1"/>fer<supplied reason="illegible">[e]</supplied><anchor xml:id="l6a2"/> cesser ma dolour,</l>
+                <l xml:id="l7"><anchor xml:id="l7a1"/><hi rend="italic">belle, bone<anchor xml:id="l7a2"/> <supplied xml:id="suppl1" reason="illegible">[jeune et jente</supplied></hi></l>
+                <l xml:id="l8"><hi rend="italic"> <supplied xml:id="suppl2" corresp="#suppl1" reason="illegible">non pareille de doulçour]</supplied></hi></l>
+                <l xml:id="l9"><supplied reason="illegible">[... -ente]</supplied></l>
+                <l xml:id="l10" n="10"><supplied reason="illegible">[... -our]</supplied></l>
+                <l xml:id="l11"><supplied reason="illegible">[... -our]</supplied></l>
+                <l xml:id="l12"><supplied reason="illegible">[... -ente]</supplied></l>
+                <l xml:id="l13"><hi rend="italic"><supplied xml:id="suppl3" reason="illegible">[Belle, bone, jeune et jente,</supplied></hi></l>
+                <l xml:id="l14"><hi rend="italic"><supplied xml:id="suppl4" corresp="#suppl3" reason="illegible">non pareille de doulçour,</supplied></hi></l>
+                <l xml:id="l15" n="5"><hi rend="italic"><supplied xml:id="suppl5" corresp="#suppl3" reason="illegible">vueilliéz oïr ma clamour</supplied></hi></l>
+                <l xml:id="l16"><hi rend="italic"><supplied xml:id="suppl6" corresp="#suppl3" reason="illegible">que nuit et jour vous presente.]</supplied></hi></l>
+            </lg>
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Pz">
+                    <ref type="siglum" target="#Pz">Pz</ref>  c. 17r, <abbr xml:id="PzC">C</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-7)
+                </witness>
+            </listWit>
+
+
+            <!--<listApp type="substantial">               
+               
+            </listApp>-->
+
+
+
+            <listApp type="formal">
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>pareille</lem>
+                        <rdg wit="#Pz">pa<gap reason="illegible" unit="chars" quantity="1" rend="*"/>le</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>vueilliéz</lem>
+                        <rdg wit="#Pz">vueilliens</rdg> 
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>fere</lem>
+                        <rdg wit="#Pz">fer</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>belle, bone</lem>
+                        <rdg wit="#Pz">belle et bonne</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            
+
+
+            <div type="metricalScheme">
+                <p><hi rend="italic">Rondeau</hi> 7’A 7B 7B 7’A; 7’a 7b, [7’A 7B; 7’a 7b 7b 7’a; 7’A 7B 7B 7’A]. </p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Greene1989">Greene 1989, p. 44.</bibl>
+            </listBibl>
+>
+        </back>
+    </text>
+</TEI>

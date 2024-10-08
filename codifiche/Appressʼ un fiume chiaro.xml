@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Appressʼ un fiume chiaro</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <front>
+         <div>
+            <p>
+                Al v. 5 «bellʼ e çentilʼ, e amorosa tanto» si individua un possibile errore congiuntivo tra Lo e Gr1 in <hi rend="italic">bella ed amorosa tanto</hi>, ipometro (-2) per lʼomissione di un elemento nel trittico di aggettivi che, seppur con varianti, è accolto in Fp e Sq. Ammissibile ed equivalente per metro e senso la lezione di Sq con la coppia sinonimica <hi rend="italic">bella</hi>, <hi rend="italic">leggiadra</hi>. Labile invece la prova di accordo in errore tra Sq e Fp al v. 7 <hi rend="italic">fa</hi> contro <hi rend="italic">fé</hi> Lo Gr1 (ma vedi le <hi rend="italic">Note al testo</hi>).  
+           </p>
+         </div>         
+      </front>
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    <anchor xml:id="l1a1"/><anchor xml:id="l1a2"/>Appressʼ<anchor xml:id="l1a3"/> <anchor xml:id="l1a4"/>un<anchor xml:id="l1a5"/> fiume <anchor xml:id="l1a6"/>chiaro<anchor xml:id="l1a7"/>,
+                </l>
+                <l xml:id="l2">
+                    donnʼ e donçelle <anchor xml:id="l2a2"/>ballavan<anchor xml:id="l2a3"/> dʼintorno<anchor xml:id="l2a1"/>
+                </l>
+                <l xml:id="l3">
+                    ad <anchor xml:id="l3a3"/>un<anchor xml:id="l3a4"/> perlaro <anchor xml:id="l3a5"/>di<anchor xml:id="l3a6"/> <anchor xml:id="l3a7"/>beʼ<anchor xml:id="l3a8"/> <anchor xml:id="l3a9"/>fiorʼ<anchor xml:id="l3a10"/> <anchor xml:id="l3a1"/>adorno<anchor xml:id="l3a2"/>.
+                </l>
+                <l xml:id="l4">
+                    <anchor xml:id="l4a1"/>Fra<anchor xml:id="l4a2"/> queste <anchor xml:id="l4a3"/>una<anchor xml:id="l4a4"/> ne <anchor xml:id="l4a5"/>vidi<anchor xml:id="l4a6"/>
+                </l>
+                <l xml:id="l5" n="5">
+                    <anchor xml:id="l5a1"/>bellʼ e çentilʼ, e amorosa tanto<anchor xml:id="l5a2"/>
+                </l>
+                <l xml:id="l6">
+                    che ʼl cor <anchor xml:id="l6a3"/>mi<anchor xml:id="l6a4"/> <anchor xml:id="l6a1"/>tolse<anchor xml:id="l6a2"/> <anchor xml:id="l6a7"/>con<anchor xml:id="l68"/> <anchor xml:id="l6a5"/>soave<anchor xml:id="l6a6"/> canto.
+                </l>
+            </lg>
+            <lg>   
+                <l xml:id="l7">
+                    <name type="senhal" rend="small-caps">Anna</name>morar <anchor xml:id="l7a7"/>mi<anchor xml:id="l7a8"/> <anchor xml:id="l7a1"/>fé<anchor xml:id="l7a2"/> <anchor xml:id="l7a3"/>ʼl suo visʼ<anchor xml:id="l7a4"/> <anchor xml:id="l7a5"/>umano<anchor xml:id="l7a6"/>,
+                </l>
+                <l xml:id="l8">
+                    el <anchor xml:id="l8a5"/>dolce<anchor xml:id="l8a6"/> <anchor xml:id="l8a1"/>guardo<anchor xml:id="l8a2"/> e la <anchor xml:id="l8a3"/>pulita<anchor xml:id="l8a4"/> mano.
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="Fp">
+                    <ref type="siglum" target="#Fp">Fp</ref>
+                    c. <locus>50v</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid.</hi> (vv. 4-6): <hi rend="italic">m(agister) g(iovanni) de flor(entia)</hi>
+                </witness>
+                <witness xml:id="Sq">
+                    <ref type="siglum" target="#Sq">Sq</ref>
+                    cc. <locus>5v-6r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid.</hi> (vv. 4-6), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">m(agister) iovannes de florentia</hi>
+                </witness>
+                <witness xml:id="Lo">
+                    <ref type="siglum" target="#Lo">Lo</ref>
+                    cc. <locus>5v-6r</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="LoT">T</abbr> (vv. 1-3 e 7-8),  <hi rend="italic">resid.</hi> (vv. 4-6)
+                </witness>
+                <witness xml:id="Gr1">
+                    <ref type="siglum" target="#Gr1">Gr1</ref>
+                    c. <locus>4v</locus>, <abbr xml:id="Gr1C">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="Gr1T">T</abbr> (vv. 1-3 e 7-8),  <hi rend="italic">resid.</hi> (vv. 4-6)
+                </witness>
+                <witness xml:id="Rc9">
+                    <ref type="siglum" target="#Rc9">Rc9</ref>
+                    c. <locus>62r</locus>: il brano è citato come <hi rend="italic">cantasi come</hi> per la lauda <hi rend="italic">Apresso al volto chiaro</hi>.
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>1-2</head>
+                    <app from="#l1a1" to="#l2a1">
+                        <lem>Appressʼ un fiume chiaro,
+                            donnʼ e donçelle ballavan dʼintorno
+                        </lem>
+                        <rdg wit="#Gr1"><gap reason="illegible" rend="ill."/></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a2" to="#l2a3">
+                        <lem>ballavan</lem>
+                        <rdg wit="Lo">ballava</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>adorno</lem>
+                        <rdg>adordo <wit><ref target="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a1" to="#l5a2">
+                        <lem>bellʼ e çentilʼ, e amorosa tanto</lem>
+                        <rdgGrp>
+                            <rdg type="indifferentVariant" wit="#Sq">bella leggiadra e amorosa tanto</rdg>
+                            <rdg wit="#Lo #Gr1">bella ed amorosa tanto</rdg>
+                        </rdgGrp>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>tolse</lem>
+                        <rdg wit="#Lo">et <hi rend="italic">add.</hi></rdg>
+                    </app>
+                    <app from="#l6a3" to="#l6a4">
+                        <lem>con</lem>
+                        <rdg wit="#Sq">col suo</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>fé</lem>
+                        <rdg wit="#Fp #Sq">fa</rdg>
+                    </app>
+                    <app from="#l7a3" to="#l7a4">
+                        <lem>ʼl suo visʼ</lem>
+                        <rdgGrp>
+                            <rdg wit="#Fp">tuo vis</rdg>
+                            <rdg wit="#Gr1">l so viso <wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                            <rdg>l so visso <wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                        </rdgGrp>
+                    </app>
+                    <app from="#l7a5" to="#l7a6">
+                        <lem>umano</lem>
+                        <rdg>u mo no <wit><ref target="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem>guardo</lem>
+                        <rdg wit="#Sq">sguardo</rdg>
+                    </app>
+                    <app from="#l8a3" to="#l8a4">
+                        <lem>pulita</lem>
+                        <rdg><gap reason="illegible" rend="ill."/><wit><ref target="#Gr1C">Gr1<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a2" to="#l1a3">
+                        <lem>Appressʼ</lem>
+                        <rdgGrp>
+                            <rdg wit="#Lo">apres</rdg>
+                            <rdg>apress <wit><ref target="#Gr1T">Gr1<hi rend="super">T</hi></ref></wit></rdg>
+                        </rdgGrp>
+                    </app>
+                    <app from="#l1a4" to="#l1a5">
+                        <lem>un</lem>
+                        <rdg wit="#Sq">um <wit><ref target="#Gr1T">Gr1<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    <app from="#l1a6" to="#l1a7">
+                        <lem>chiaro</lem>
+                        <rdg>chia a a a ro <wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a3" to="#l3a4">
+                        <lem>un</lem>
+                        <rdg wit="#Lo">um <wit><ref target="#FpT">Fp<hi rend="super">T</hi></ref></wit><wit><ref target="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                    <app from="#l3a5" to="#l3a6">
+                        <lem>di</lem>
+                        <rdg wit="#Lo">de</rdg>
+                    </app>
+                    <app from="#l3a7" to="#l3a8">
+                        <lem>beʼ</lem>
+                        <rdg>bei <wit><ref target="#Gr1T">Gr1<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    <app from="#l3a9" to="#l3a10">
+                        <lem>fior’</lem>
+                        <rdgGrp>
+                            <rdg wit="#Sq">fiori</rdg>
+                            <rdg>fiuri <wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                            <rdg>fi/u/ri <wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                        </rdgGrp>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>Fra</lem>
+                        <rdg wit="#Sq #Lo #Gr1">tra</rdg>
+                    </app>
+                    <app from="#l4a3" to="#l4a4">
+                        <lem>una</lem>
+                        <rdg wit="#Lo">unna</rdg>
+                    </app>
+                    <app from="#l4a5" to="#l4a6">
+                        <lem>vidi</lem>
+                        <rdg wit="#Lo">viddi</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a5" to="#l6a6">
+                        <lem>mi</lem>
+                        <rdg wit="#Lo #Gr1">me</rdg>
+                    </app>
+                    <app from="#l6a7" to="#l6a8">
+                        <lem>con</lem>
+                        <rdg wit="#Gr1">cum</rdg>
+                    </app>
+                    <app from="#l6a7" to="#l6a8">
+                        <lem>soave</lem>
+                        <rdg wit="#Gr1">suave</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a7" to="#l7a8">
+                        <lem>mi</lem>
+                        <rdg wit="#Gr1">me</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a5" to="#l8a6">
+                        <lem>dolce</lem>
+                        <rdg wit="#Sq #Gr1">dolçe</rdg>
+                    </app>
+                    <app from="#l8a7" to="#l8a8">
+                        <lem>pulita</lem>
+                        <rdg wit="#Lo">pollita <wit><ref target="#Gr1T">Gr1<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p>Madrigale 6ʼa 10ʼb 10ʼb, 6ʼc 10ʼd 10ʼd; 10ʼe 10ʼe.</p>
+                <p><hi rend="italic">Capovilla</hi> XLVIII<hi rend="super">4</hi>;</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Sapegno1952">
+                    Sapegno 1952, p. 512;
+                </bibl>
+                <bibl corresp="#Corsi1969">
+                    Corsi 1969, p. 1011;
+                </bibl>
+                <bibl corresp="#Corsi1970">
+                    Corsi 1970, pp. 11-12.
+                </bibl>
+            </listBibl>
+            <div type="commentary">
+                <note target="#l5">
+                    <num>5.</num>
+                    Entrambe le coppie di aggettivi <hi rend="italic">bella gentile</hi> (Fp) e <hi rend="italic">bella leggiadra</hi> (Sq) sono diffuse nella poesia tra Due- e Trecento (anche nel repertorio arsnovistico), e parimenti valide nel contesto. Prediligo la lezione del ms. adottato per la veste grafico-formale del testo, Fp. Erronea, invece, la lezione di Lo Gr1 <hi rend="italic">bella ed amorosa tanto</hi>: il verso è ipometro per l’omissione di uno degli aggettivi che compongono un trittico in Fp e Sq.
+                </note>
+                <note target="#l7">
+                    <num>7.</num>
+                    <hi rend="italic">fé</hi>: è lezione di Lo Gr1, col passato remoto preferibile rispetto al presente <hi rend="italic">fa</hi> di Fp e Sq, perché tutto il testo evoca unʼesperienza passata (cfr. ballavan, vidi, tolse). ▪ <hi rend="italic">ʼl suo visʼ</hi>: in corrispondenza del sintagma Fp ha lʼerroneo <hi rend="italic">tuo visʼ</hi>, con agg. possessivo incongruo e senza articolo, necessario però per avere corrispondenza con <hi rend="italic">el dolce guardo e la pulita mano</hi>.
+                </note>
+                <note target="#l8">
+                    <num>8.</num>
+                    <hi rend="italic">pulita</hi>: francesismo ʻleggiadra, eleganteʼ; lʼattributo è riferito alla mano della donna anche in Fazio degli Uberti.
+                </note>
+            </div>
+        </back>
+    </text>
+</TEI>

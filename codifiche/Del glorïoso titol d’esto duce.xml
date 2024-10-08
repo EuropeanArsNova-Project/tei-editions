@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Del glorïoso titol d’esto duce</title>
+            <!--<author><ref target="X"></ref></author>-->
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt> 
+               <resp>Edited by</resp> 
+               <name>Maria Sofia Lannutti</name> 
+            </respStmt> 
+            <respStmt> 
+               <resp>Revised by</resp> 
+               <name>Luca Gatti</name> 
+            </respStmt> 
+            <respStmt> 
+               <resp>TEI-encoded by</resp> 
+               <name>Elvira Mercatanti</name> 
+            </respStmt> 
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> --> 
+      <body>
+         <lg>
+            <l xml:id="l1">
+               <anchor xml:id="l1a3"/>Del<anchor xml:id="l1a4"/> glorïoso <anchor xml:id="l1a1"/>titol<anchor xml:id="l1a2"/> d’esto duce
+            </l>
+            <l xml:id="l2">
+               <anchor xml:id="l2a1"/>çascun<anchor xml:id="l2a2"/> fa <anchor xml:id="l2a3"/>fest’<anchor xml:id="l2a4"/> omai, ch’à in <anchor xml:id="l2a5"/>sì<anchor xml:id="l2a6"/> vertute,
+            </l>
+            <l xml:id="l3">
+               <anchor xml:id="l3a1"/>che<anchor xml:id="l3a4"/> novo re si nasce per salute
+            </l>
+            <l xml:id="l4">
+               de quella donna che zà estese l’ale
+            </l>
+            <l xml:id="l5" n="5">
+               e possedette ciò che ’l sol riguarda,	
+            </l>
+            <l xml:id="l6">
+               ch’à ver un sposo e stasi lenta e tarda.
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l7">
+               <anchor xml:id="l7a1"/>Ma<anchor xml:id="l7a2"/> questo è quel che per virtù celeste
+            </l>
+            <l xml:id="l8">
+               fia novo Augusto cum triunfi e feste,
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l9">
+               e ça monarc’ à un sceptro d’or, sì ’l chiama,            
+            </l>
+            <l xml:id="l10" n="10">
+               perch’ el dilati l’italica fama.	
+            </l>
+         </lg>
+      </body>
+
+
+
+      <back>
+         <listWit>            
+            <witness xml:id="Lu">
+               <ref type="siglum" target="#Lu">Lu</ref>
+               cc. <locus>22v-23v [LXVIv-LXVIIv]</locus>, <abbr xml:id="LuC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="LuT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid.</hi> (vv. 4-6 e 9-10): <hi rend="italic">antonellus marot de caserta</hi>
+            </witness>
+         </listWit>
+
+
+         <listApp type="substantial">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>titol</lem>
+                  <rdg wit="#Lu">titolo</rdg>
+               </app>   
+            </listApp>
+
+            <listApp>
+               <head>2</head>
+               <app from="#l2a1" to="#l2a2">
+                  <lem>çascun</lem>
+                  <rdg wit="#Lu">ça zaschuz</rdg>
+               </app>          
+
+               <app from="#l2a3" to="#l2a4">
+                  <lem>fest’</lem>
+                  <rdg>festa <wit><ref corresp="#LuC">Lu<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg>festi <wit><ref corresp="#LuT">Lu<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+
+               <app from="#l2a5" to="#l2a6">
+                  <lem>sì</lem>
+                  <rdg>se<wit><ref corresp="#LuT">Lu<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+         </listApp>
+
+
+
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a3" to="#l1a4">
+                  <lem>Del</lem>
+                  <rdg wit="#Lu">del del</rdg>
+               </app>
+            </listApp>
+
+            <listApp>
+               <head>3</head>
+               <app from="#l3a1" to="#l3a2">
+                  <lem>che</lem>
+                  <rdg wit="#Lu">che che</rdg>
+               </app>
+            </listApp>
+
+            <listApp>
+               <head>7</head>
+               <app from="#l7a1" to="#l7a2">
+                  <lem>Ma</lem>
+                  <rdg wit="#Lu">ma ma</rdg>
+               </app>
+            </listApp>
+         </listApp>
+
+
+         <div type="metricalScheme">
+            <p>Madrigale con doppio ritornello 10’a 10’b 10’b, 10’c 10’d 10’d; 10’e 10’e; 10’f 10’f.</p>
+            <p><hi rend="italic">Capovilla</hi> <hi rend="small-caps">xlix</hi>.</p>
+            <p>Punti sottoscritti: v. 1 (<hi rend="italic">titolo</hi>) Lu; v. 2 (<hi rend="italic">festi</hi>) Lu; v. 6 (<hi rend="italic">sposo</hi>) Lu; v. 7 (<hi rend="italic">questo</hi>) Lu; v. 8 (<hi rend="italic">novo</hi>), (<hi rend="italic">triumfi</hi>) Lu.</p>
+         </div>
+
+
+         <listBibl type="editions">
+            <bibl corresp="#Pirrotta-LiGotti1950"> 
+               Pirrotta-Li Gotti, pp. 128-9.
+            </bibl>
+         </listBibl>
+
+
+         <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl>-->
+
+
+         <div type="commentary">
+            <note target="#l3">
+               <num>3.</num>
+               <p><hi rend="italic">per salute</hi>: ‘per (la) salvezza (di tutti)’.</p>
+            </note>
+
+            <note target="#l4 #l6">
+               <num>4-6.</num>
+               <p>È possibile che si debba stabilire una corrispondenza tra la donna con le ali e l’aquila e che si voglia sottolineare il legame con l’impero del personaggio celebrato (<hi rend="italic">ver un sposo</hi> ‘uno sposo fedele’ dell’aquila). La dittologia <hi rend="italic">lenta e tarda</hi> prepara la congiunzione avversativa <hi rend="italic">Ma</hi> che apre il primo ritornello.</p>
+            </note>
+
+            <note target="#l5">
+               <num>5.</num>
+               <p><hi rend="italic">ciò che ’l sol riguarda</hi>: ‘ciò che è illuminato dal sole’.</p>
+            </note>
+            
+            <note target="#l9 #l10">
+               <num>9-10.</num>
+               <p>‘e ha già da monarca uno scettro d’oro, così (la donna, cioè l’aquila) lo chiama, perché accresca la fama dell’Italia’.</p>
+            </note>
+         </div>
+      </back>
+   </text>
+</TEI>

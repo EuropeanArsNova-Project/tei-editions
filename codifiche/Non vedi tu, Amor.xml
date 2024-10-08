@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Non vedi tu, Amor, che me, tuo servo</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Maria Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+      <!-- <front>
+         <div>
+            <p>
+            </p>
+         </div>
+      </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1">
+                Non vedi tu, <anchor xml:id="l1a1"/>Amor<anchor xml:id="l1a2"/>, <anchor xml:id="l1a3"/>che me<anchor xml:id="l1a4"/>, tuo servo,
+            </l>
+            <l xml:id="l2">
+                tu <anchor xml:id="l2a1"/>ài<anchor xml:id="l2a2"/> condotto a·ttale,
+            </l>
+            <l xml:id="l3">
+                che di vita <anchor xml:id="l3a1"/>o<anchor xml:id="l3a2"/> di morte <anchor xml:id="l3a3"/>non<anchor xml:id="l3a4"/> mi cale?
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l4">
+                Tu <anchor xml:id="l4a1"/>sai<anchor xml:id="l4a2"/> chʼiʼ tengo ascoso <anchor xml:id="l4a3"/>ʼl<anchor xml:id="l4a4"/> mio pensiero
+            </l>
+            <l xml:id="l5" n="5">
+                et <anchor xml:id="l5a1"/>lʼaltruʼ onestà<anchor xml:id="l5a2"/> già non <anchor xml:id="l5a3"/>offendo<anchor xml:id="l5a4"/>,
+            </l>
+            <l xml:id="l6">
+                et tu pur mi tormenti, <anchor xml:id="l6a1"/>et questʼ è vero<anchor xml:id="l6a2"/>:
+            </l>
+            <l xml:id="l7">
+                <anchor xml:id="l7a1"/>chʼora sospecto, ora disio contendo<anchor xml:id="l7a2"/>.
+            </l>
+            <l xml:id="l8">
+                Dè piacciati, signor, che me vegendo 
+            </l>
+            <l xml:id="l9">
+                ardere in foco tale,
+            </l>
+            <l xml:id="l10" n="10">
+                <anchor xml:id="l10a3"/>pietà<anchor xml:id="l10a4"/> ti mova, cʼaltro non mi <anchor xml:id="l10a1"/>vale<anchor xml:id="l10a2"/>.
+            </l>
+         </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="Sq">
+               <ref type="siglum" target="#Sq">Sq</ref>
+               c. <locus>47v</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-10) : <hi rend="italic">magister laurentius | de florentia</hi>
+            </witness>
+            <witness xml:id="Mar">
+                <ref type="siglum" target="#Mar">Mar</ref>
+                c. <locus>53v</locus>: <hi rend="italic">s(er) lorenço</hi>
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+                <head>1</head>
+                <app from="#l1a1" to="#l1a2">
+                    <lem>Amor</lem>
+                    <rdg wit="Sq">amore <witDetail wit="#Sq"><hi rend="italic">(+1)</hi></witDetail> </rdg>
+                </app>
+                <app from="#l1a3" to="#l1a4">
+                    <lem>che me</lem>
+                    <rdg wit="Mar">chome </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>3</head>
+                <app from="#l3a1" to="#l3a2">
+                    <lem>o</lem>
+                    <rdg wit="Mar">e </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>6</head>
+                <app from="#l6a1" to="#l6a2">
+                    <lem>et questʼ è vero</lem>
+                   <rdg wit="Mar"> tanta ltero </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>7</head>
+                <app from="#l7a1" to="#l7a2">
+                    <lem>chʼora sospecto, ora disio contendo</lem>
+                    <rdg wit="Mar">con sospetto con disio chontendo </rdg>
+                </app>
+            </listApp>
+            <listApp>
+               <head>10</head>
+               <app from="#l10a1" to="#l10a2">
+                  <lem>vale</lem>
+                  <rdg wit="Mar">chale </rdg>
+               </app>
+            </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+                <head>2</head>
+                <app from="#l2a1" to="#l2a2">
+                    <lem>ài</lem>
+                    <rdg wit="Mar">a </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>3</head>
+                <app from="#l3a3" to="#l3a4">
+                    <lem>non</lem>
+                    <rdg wit="Mar">no</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>4</head>
+                <app from="#l4a1" to="#l4a2">
+                   <lem>sai</lem>
+                   <rdg wit="Mar">ssai </rdg>
+                </app>
+                <app from="#l4a3" to="#l4a4">
+                    <lem>ʼl</lem>
+                    <rdg wit="Mar">il </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>5</head>
+                <app from="#l5a1" to="#l5a2">
+                    <lem>altruʼ onestà</lem>
+                    <rdg wit="Mar">altru aonesta </rdg>
+                </app>
+                <app from="#l5a3" to="#l5a4">
+                    <lem>offendo</lem>
+                    <rdg wit="Mar">ofendo </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>10</head>
+                <app from="#l10a3" to="#l10a4">
+                   <lem>pietà</lem>
+                   <rdg wit="Mar">piata </rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+                Ballata mezzana 10ʼy 6ʼz 10ʼz; 10ʼa 10ʼb, 10ʼa 10ʼb; 10ʼb 6ʼz 10ʼz.
+            </p>
+            <p>
+                <hi rend="italic">Pagnotta</hi> 115 : 78.
+            </p>
+            <p>
+                Rima equivoca ai vv. 2 : 9.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+                Corsi 1970, pp. 77-8;
+            </bibl>
+            <bibl corresp="#Fantini2015-2016">
+                Fantini 2015-2016, pp. 98-100.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+         <!-- <div type="commentary">
+            <note target="#">
+               <num></num>
+               <p></p>
+            </note>
+         </div> -->
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1970">
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+            </bibl>
+            <bibl xml:id="Fantini2015-2016">
+                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

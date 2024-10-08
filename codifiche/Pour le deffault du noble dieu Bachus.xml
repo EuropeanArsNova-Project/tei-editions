@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Pour le deffault du noble dieu Bachus</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name> 
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1"> Pour le deffault du noble dieu Bachus,</l>
+                <l xml:id="l2"> sont compaignons moult souvent vergoingneux,</l>
+            </lg>
+            <lg>
+                <l xml:id="l3"> car Napeas, qui <anchor xml:id="l3a1"/>go<supplied reason="illegible">[u]</supplied>verne<anchor xml:id="l3a2"/> amoureux,</l>
+                <l xml:id="l4"> malgré <anchor xml:id="l4a1"/>son<anchor xml:id="l4a2"/> cuer <anchor xml:id="l4a3"/>fa<supplied reason="illegible">[i]</supplied>t<anchor xml:id="l4a4"/> venir a refus.</l>
+                <l xml:id="l5" n="5"> Prier convient le bel Ymeneüs</l>
+                <l xml:id="l6"> que l’amender vueille de bien en mieulx</l>
+                <l xml:id="l7"> <hi rend="italic"> pour <supplied xml:id="suppl1" reason="illegible">[le deffault du noble dieu Bachus</supplied></hi></l>
+                <l xml:id="l8"> <hi rend="italic"> <supplied xml:id="suppl2" corresp="#suppl1" reason="illegible">sont compaignons moult souvent vergoingneux].</supplied></hi></l>
+            </lg>
+
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Ox2">
+                    <ref type="siglum" target="#Ox2">Ox2</ref>  c. 108v, <abbr xml:id="Ox2C">C</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">baude cordier </hi>
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>gouverne</lem>
+                        <rdg wit="#Ox2"> gonuerne </rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>son</lem>
+                        <rdg wit="#Ox2"> sons</rdg>
+                    </app>
+                    
+                    <app from="#l4a3" to="#l4a4">
+                        <lem>fait</lem>
+                        <rdg wit="#Ox2"> faut</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+
+
+
+            <!--<listApp type="formal">
+                
+            </listApp>-->
+
+
+            <div type="metricalScheme">
+                <p><hi rend="italic">Rondeau</hi> 10A 10B; 10b 10a; 10a 10b; 10A 10B. Si noti che il primo verso del <hi rend="italic">refrain</hi> non è ripetuto in seconda posizione nella strofe; in prima posizione, diversamente, si ha rima b.</p>
+                <p>Rima identica ai vv. 1 : 6, 2 : 8.</p>
+            </div>
+
+
+            <listBibl type="editions">                
+                <bibl corresp="#Reaney1955"> Reaney 1955, p. <hi rend="small-caps">I</hi>.</bibl>
+            </listBibl>
+            
+            
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl>-->
+            
+            
+            <div type="commentary">
+               <note target="#l1 #l8">
+                   <num>1-8.</num>
+                   <p>‘Per colpa del nobile dio Bacco, gli amanti sono molto spesso disonorati, visto che costringe suo malgrado al rifiuto Napea, che decide le sorti degli innamorati. È opportuno pregare il bell’Imeneo che voglia correggere (passando) di bene in meglio (il fatto che) per colpa del nobile dio Bacco gli amanti sono molto spesso disonorati’. </p>
+               </note>
+                
+                <note target="#l4">
+                    <num>4.</num>
+                    <p><hi rend="italic"> Napeas</hi>: ninfa abitatrice die boschi, che esigeva fedeltà nelle relazioni d’amore. </p>
+                </note>
+                
+                <note target="#l5">
+                    <num>5.</num>
+                    <p><hi rend="italic"> Ymeneüs</hi>: si fa riferimento al mito di Imeneo, secondo alcune versioni figlio di Dioniso (<hi rend="italic">Bacchus</hi>) e di Afrodite, giovane bellissimo, che libera alcune fanciulle ateniesi rapite dai pirati, e tra loro la sua amata, guadagnandosi il diritto di sposarla.</p>
+                </note>
+            </div>
+            
+            
+            <listBibl type="editionsBibliography">
+                
+                <bibl xml:id="Reaney1955"><hi rend="italic">Early Fifteenth-Century Music, I. Baude Cordier, Johannis Cesaris, Johannis
+                    Carmen, Johannis Tapissier</hi>, ed. by G. Reaney, Roma, AIM, 1955 (CMM, 11/1)</bibl>
+                
+            </listBibl>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Miracolosa tuo sembianç’ apare</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the </resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Maria Sofia Lannutti</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Carla Congiu</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>
+         <div>
+            <p>
+           </p>
+         </div>         
+      </front-->
+      <body>
+        <lg>
+            <l xml:id="l1">
+		      Miracolosa <anchor xml:id="l1a1"/>tuo<anchor xml:id="l1a2"/> <anchor xml:id="l1a3"/>sembianç’<anchor xml:id="l1a4"/> apare,
+	        </l>
+            <l xml:id="l2">
+		      né trovo <anchor xml:id="l2a3"/>cosa a·llei<anchor xml:id="l2a4"/> <anchor xml:id="l2a1"/>da<anchor xml:id="l2a2"/> <anchor xml:id="l2a5"/>comparare<anchor xml:id="l2a6"/>,
+	        </l>
+        </lg>
+        <lg>
+            <l xml:id="l3">
+		      <anchor xml:id="l3a1"/>onde mosso mi sono<anchor xml:id="l3a2"/> a·ddir per rima
+	        </l>
+            <l xml:id="l4">
+		      <anchor xml:id="l4a3"/>ballata<anchor xml:id="l4a4"/> in <anchor xml:id="l4a1"/>form’ a<anchor xml:id="l4a2"/> novo sentimento,
+	        </l>
+            <l xml:id="l5" n="5">
+              considerando per qual <anchor xml:id="l5a1"/>virtù in<anchor xml:id="l5a2"/> prima
+	        </l>
+            <l xml:id="l6">
+		      Amor t’à <anchor xml:id="l6a1"/>messo<anchor xml:id="l6a2"/> in tanto piacimento,
+	        </l>
+            <l xml:id="l7">
+		      che <anchor xml:id="l7a3"/>qualunque<anchor xml:id="l7a4"/> <anchor xml:id="l7a1"/>a·tte<anchor xml:id="l7a2"/> mira par contento
+	        </l>
+            <l xml:id="l8">
+		      sol <anchor xml:id="l8a1"/>di vederti<anchor xml:id="l8a2"/> e non d’altro pensare.
+	        </l>
+        </lg>
+        <lg>
+            <l xml:id="l9">
+		      Pur vegio donne in grado di biltate
+	        </l>
+            <l xml:id="l10" n="10">
+		      per vera prova avançar <anchor xml:id="l10a1"/>in<anchor xml:id="l10a2"/> persona,
+	        </l>
+            <l xml:id="l11">
+		      ma·lla tuo vista è di tal qualitate
+	        </l>
+            <l xml:id="l12">
+		      che sopra quelle ognor pregio ti dona.
+	        </l>
+            <l xml:id="l13">
+		      <anchor xml:id="l13a1"/>Maravigliando<anchor xml:id="l13a2"/> allor di te ragiona:
+	        </l>
+            <l xml:id="l14">
+		      «Costei per certo à in sé <anchor xml:id="l14a1"/>divino<anchor xml:id="l14a2"/> affare».
+	        </l>
+        </lg>
+        <lg>
+            <l xml:id="l15" n="15">
+		      Miracol, dunque, è ben in parte ch’io
+	        </l>
+            <l xml:id="l16">
+		      veder non posso per qua·ragion sia
+	        </l>
+            <l xml:id="l17">
+		      che magior cosa et belleça ’l cor mio
+	        </l>
+            <l xml:id="l18">
+		      vincer non pò che sol tuo legiadria,
+	        </l>
+            <l xml:id="l19">
+		      se non ch’io penso che angelica sia
+	        </l>
+            <l xml:id="l20" n="20">
+		      gratia, che·ssolo in <anchor xml:id="l20a1"/>te<anchor xml:id="l20a2"/> si vuol mostrare.
+	        </l>
+        </lg>
+       </body>
+      <back>
+         <listWit>
+            <witness xml:id="Sq">
+               <ref type="siglum" target="#Sq">Sq</ref>
+               c. <locus>111v</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-6), <hi rend="italic">resid</hi>. (vv. 5-20): <hi rend="italic">magister frater bartolinus de padua</hi>
+            </witness>
+            <witness xml:id="R">
+               <ref type="siglum" target="#R">R</ref>
+               c. <locus>45r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-4), <abbr xml:id="RT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8)
+            </witness>
+          </listWit>
+           <listApp type="substantial">
+               <listApp>
+                 <head>2</head>
+                 <app from="#l2a1" to="#l2a2">
+                  <lem>da</lem>
+                  <rdg><wit><ref target="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>4</head>
+                 <app from="#l4a1" to="#l4a2">
+                  <lem>form’ a</lem>
+                  <rdg>forma in <wit><ref target="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>5</head>
+                 <app from="#l5a1" to="#l5a2">
+                  <lem>virtù in</lem>
+                  <rdg wit="#R">vertute en</rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>7</head>
+                 <app from="#l7a1" to="#l7a2">
+                  <lem>a·tte</lem>
+                  <rdg wit="#R">te</rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>8</head>
+                 <app from="#l8a1" to="#l8a2">
+                  <lem>di vederti</lem>
+                  <rdg wit="#R">de vedere</rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>10</head>
+                 <app from="#l10a1" to="#l10a2">
+                  <lem>in</lem>
+                  <rdg wit="#Sq"></rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>13</head>
+                 <app from="#l13a1" to="#l13a2">
+                  <lem>maravigliando</lem>
+                  <rdg wit="#Sq">maraviglaindosi</rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>14</head>
+                 <app from="#l14a1" to="#l14a2">
+                  <lem>divino</lem>
+                  <rdg wit="#Sq">diuno</rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>10</head>
+                 <app from="#l10a1" to="#l10a2">
+                  <lem>te</lem>
+                  <rdg wit="#Sq"></rdg>
+                 </app>
+               </listApp>
+           </listApp>
+         <listApp type="formal">
+            <listApp>
+                 <head>1</head>
+                 <app from="#l1a1" to="#l1a2">
+                  <lem>tuo</lem>
+                  <rdg wit="#Sq">toa</rdg>
+                 </app>
+                 <app from="#l1a3" to="#l1a4">
+                  <lem>sembianç’</lem>
+                  <rdg wit="#R">sembiança</rdg>
+                 </app>
+            </listApp>
+            <listApp>
+                 <head>2</head>
+                 <app from="#l2a3" to="#l2a4">
+                  <lem>cosa a·llei</lem>
+                  <rdg wit="#R">cosa ley</rdg>
+                 </app>
+                 <app from="#l2a5" to="#l2a6">
+                  <lem>comparare</lem>
+                  <rdg>conparare <wit><ref target="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
+                 </app>
+            </listApp>
+            <listApp>
+                 <head>3</head>
+                 <app from="#l3a1" to="#l3a2">
+                  <lem>onde mosso mi sono</lem>
+                  <rdg wit="#R">unde
+                    <app type="subvariants">
+                        <lem>moso</lem>
+                        <rdg>mosso <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
+                     </app>
+                     me son</rdg>
+                 </app>
+            </listApp>
+            <listApp>
+                 <head>4</head>
+                 <app from="#l4a3" to="#l4a4">
+                  <lem>ballata</lem>
+                  <rdg wit="#R">balata</rdg>
+                 </app>
+            </listApp>
+            <listApp>
+                 <head>7</head>
+                 <app from="#l7a3" to="#l7a4">
+                  <lem>qualunque</lem>
+                  <rdg wit="#R">qualunche</rdg>
+                 </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>Ballata minore 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z.</p> 
+            <p><hi rend="italic">Pagnotta</hi> 111 : 147.</p>
+            <p>Rima identica ai vv. 16 : 19.</p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+               Corsi 1970, p. 249-50.
+            </bibl>
+         </listBibl>
+         <div type="commentary">
+            <note target="#l4">
+               <num>4.</num>
+               ‘una ballata come forma (data) a un nuovo sentimento’: <hi rend="italic">forma</hi> in relazione al <hi rend="italic">sentimento</hi> che rappresenta la materia.
+            </note>
+            <note target="#l9 #l10">
+               <num>9-10.</num>
+               L’integrazione della preposizione <hi rend="italic">in</hi> è necessaria per il senso: ‘è pur vero che vedo donne eccellere per la loro indubbia bellezza fisica’.
+            </note>
+            <note target="#l11">
+               <num>11.</num>
+               <hi rend="italic">vista</hi>: ‘aspetto’.
+            </note>
+            <note target="#l13">
+               <num>13.</num>
+               Il soggetto è <hi rend="italic">qualunque</hi> al v. 7.
+            </note>
+            <note target="#l15">
+               <num>15.</num>
+               <hi rend="italic">in parte ch’io</hi>: ‘tale che io’.
+            </note>
+            <note target="#l20">
+               <num>20.</num>
+               L’integrazione è già in Corsi 1970.
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1970">
+               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

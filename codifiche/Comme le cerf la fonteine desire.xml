@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Comme le cerf la fonteine desire</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Vittoria Brancato</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+            <div>
+                <p>
+                </p>
+            </div>         
+        </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    Comme le cerf la <anchor xml:id="l1a1"/>fonte<supplied>[i]</supplied>ne<anchor xml:id="l1a2"/> desire,
+                </l>
+                <l xml:id="l2">
+                    qui des chiens ha lonc temps esté suïs,
+                </l>
+                <l xml:id="l3">
+                    mon povre cuer a la <anchor xml:id="l3a1"/>fonte<supplied>[ine]</supplied><anchor xml:id="l3a2"/> tire
+                </l>
+                <l xml:id="l4">
+                    de vo grace, dame, que m’<anchor xml:id="l4a1"/>avés<anchor xml:id="l4a2"/> mis
+                </l>
+                <l xml:id="l5" n="5">
+                    en tel estat que sui comme ravis.
+                </l>
+                <l xml:id="l6">
+                    Ne lonc temps ne <anchor xml:id="l6a1"/>puis<anchor xml:id="l6a2"/> durer:
+                </l>
+                <l xml:id="l7">
+                    se mon las <anchor xml:id="l7a1"/>cuer<anchor xml:id="l7a2"/> ne dagniés conforter,
+                </l>
+                <l xml:id="l8">
+                    briefment moray pour <anchor xml:id="l8a1"/>vous<anchor xml:id="l8a2"/>, en qui j’ay <anchor xml:id="l8a3"/>mis<anchor xml:id="l8a4"/>
+                </l>
+                <l xml:id="l9">
+                    <hi rend="italic">cuer, cors, pooir, volenté et avis.</hi>
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="R">
+                    <ref type="siglum" target="#R">R</ref>
+                    c. <locus>73v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-9)
+                </witness>
+                <witness xml:id="Trém">
+                    <ref type="siglum" target="#Trém">Trém</ref>
+                    c. <locus>Ir</locus> (<hi rend="italic">perduto</hi>): l’<hi rend="italic">incipit Com(m)e le cerf</hi> è citato nell’indice seguito dal numero di carta (XLV), che non si è conservata.
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>fonteine</lem>
+                        <rdg wit="#R">fontenme</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>fonteine tire</lem>
+                        <rdg wit="#R">fontementi ti re</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>aves</lem>
+                        <rdg wit="#R">ave<add place="above">s</add></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>puis</lem>
+                        <rdg wit="#R">pui<add place="above">s</add></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>cuer</lem>
+                        <rdg wit="#R">cue<add place="above">r</add></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem>vous</lem>
+                        <rdg wit="#R">vou<add place="above">s</add></rdg>
+                    </app>
+                    <app from="#8a3" to="#l8a4">
+                        <lem>mis</lem>
+                        <rdg wit="#R">mi<add place="above">s</add></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p><hi rend="italic">Ballade</hi> 10’a 10b, 10’a 10b; 10b 7c 10c 10b 10B.</p>
+                <p>Rima identica ai vv. 4 : 9; rima ricca ai vv. 5 : 9.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Apel-Rosenberg1971">
+                    Apel-Rosenberg 1971, p. XXIII.
+                </bibl>
+            </listBibl>
+            <div type="commentary">
+                <note target="#l1">
+                    <num>1.</num>
+                    <hi rend="italic">fonteine</hi>: intervengo sulla lezione <hi rend="italic">fontenme</hi> del copista, per via di un errore di letture commesso anche al v. 3.
+                </note>
+                <note target="#l2">
+                    <num>2.</num>
+                    <hi rend="italic">suïs</hi>: ‘seguito’, part. pass. di <hi rend="italic">suivre</hi>.
+                </note>
+                <note target="#l3">
+                    <num>3.</num>
+                    <hi rend="italic">fonteine</hi>: : l’intervento si è reso necessario per correggere una lezione altrimenti insensata <hi rend="italic">fontementi ti re</hi> (con fraintendimento <hi rend="italic">in > m</hi> e dittografia <hi rend="italic">ti tire</hi>).
+                </note>
+                <note target="#l5">
+                    <num>5.</num>
+                    <hi rend="italic">ravis</hi>: cfr. <hi rend="italic">DMF</hi>, s. v. <hi rend="italic">ravi</hi>.
+                </note>
+            </div>
+        </back>
+    </text>
+</TEI>

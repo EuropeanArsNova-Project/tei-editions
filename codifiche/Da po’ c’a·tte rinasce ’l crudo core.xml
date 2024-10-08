@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Da po' c'a ·tte rinasce 'l crudo core</title>
+            <editor>Davide Checchi</editor>
+            <respStmt>
+               <resp>Digital scholarly editon created within the </resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Davide Checchi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoding by</resp>
+               <name>Matteo Salaroli</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>
+         <div>
+            <p>
+            </p>
+         </div>         
+      </front-->
+      <body>
+         <lg>
+            <l xml:id="l1">Da <anchor xml:id="l1a3"/>po’<anchor xml:id="l1a4"/> c’a ·tte rinasce ’l <anchor xml:id="l1a1"/>crudo<anchor xml:id="l1a2"/> core,</l>
+            <l xml:id="l2">palido tremo tutto di paura,</l>
+            <l xml:id="l3">et temo che mie morte non sie scura.</l>
+         </lg>
+         <lg>
+            <l xml:id="l4">Mostral’, Amor, comesto tenpo vola,</l>
+            <l xml:id="l5" n="5">e’ dì son <anchor xml:id="l5a1"/>presti<anchor xml:id="l5a2"/> a ·ffornir la giornata;</l>
+            <l xml:id="l6">mostral’ ancor ch’ell’è nel mondo sola</l>
+            <l xml:id="l7">di virtù, di belleça acconpagnata.</l>
+            <l xml:id="l8">Forse suo crudeltà, che à lasciata</l>
+            <l xml:id="l9">l’alma tanto <anchor xml:id="l9a1"/>ondegiar<anchor xml:id="l9a2"/> che ·lle’ si fura,</l>
+            <l xml:id="l10" n="10">piatosa fia, <anchor xml:id="l10a1"/>e<anchor xml:id="l10a2"/> arà del servo cura.</l>
+         </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="Sq">
+               <ref type="siglum" target="#Sq">Sq</ref>
+               <locus>c. 151r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-5), <abbr xml:id="SqT">T</abbr> (vv. 1-7), <hi rend="italic">resid</hi>. (vv. 8-10): <hi rend="italic">magister franciscus cecus horghanista de florentia</hi>
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>crudo</lem>
+                  <rdg>duro <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+               </listApp>
+            <listApp>
+               <head>9</head>
+               <app from="#l9a1" to="#l9a2">
+                  <lem>ondegiar</lem>
+                  <rdg wit="#Sq">ondegiare</rdg>
+               </app>
+               </listApp>
+            <listApp>
+               <head>10</head>
+               <app from="#l10a1" to="#l10a2">
+                  <lem>e</lem>
+                  <rdg wit="#Sq">et</rdg>
+               </app>
+            </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a3" to="#l1a4">
+                  <lem>po’</lem>
+                  <rdg>ppo <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>5</head>
+               <app from="#l5a1" to="#l5a2">
+                  <lem>presti</lem>
+                  <rdg>prest <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>            
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+               Ballata mezzana 10’y 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z 10’z.
+            </p>
+            <p>
+               <hi rend="italic">Pagnotta</hi> 115 : 26. 
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">Corsi 1970, p. 150</bibl>
+         </listBibl>
+         <div type="commentary">
+            <note target="#l5">
+               <num>5.</num>
+               Si intenda ‘i dì sono veloci a portare a compimento la giornata’, ovvero ‘i giorni trascorrono velocemente’.
+            </note>
+            <note target="#l8 #l9 #l10">
+               <num>8-10.</num>
+               ‘Forse la sua crudeltà, che ha lasciato l’anima [dell’amante] tanto vacillare che lei [cioè l’anima] si nasconde, sarà pietosa’, oppure
+               <hi rend="italic">che·lle si fura</hi> ‘che [l’anima] le [all’amata] si nasconde’; per l’anima dell’amante che si nasconde cfr.
+               <hi rend="italic">Altera luce</hi> (ed. ArsNova), vv. 4-5 «Mentre che dentr’ al mie cor si nasconde, / l’alma da·tte gianmai non si diparte»;
+               per <hi rend="italic">furare</hi> ‘appartarsi, nascondersi’ cfr. <hi rend="italic">TLIO</hi> s.v., § 5.2. Corsi stampa «Fors’è suo crudeltà che ha lasciata / l’alma tanto ondegiar, che le si fura. / Piatosa fia e arà del servo cura».
+            </note>
+            <note target="#l10">             
+               <num>10.</num>
+               L’intonazione al cantus e la sintassi suggeriscono la seguente scansione del verso: <hi rend="italic">fia, ˇ e ˆ arà</hi>, nonostante la congiunzione sia abbreviata con una nota tironiana.
+            </note>
+         </div>
+      </back>
+   </text>
+</TEI>

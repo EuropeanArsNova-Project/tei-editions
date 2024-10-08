@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Adieu vous di, tres doulche flour</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1">Adieu vous di, tres doulche flour,</l>
+                <l xml:id="l2">car <anchor xml:id="l2a1"/><supplied reason="illegible">[je ne puis]</supplied><anchor xml:id="l2a2"/> plus demorer,</l>
+                <l xml:id="l3">si m’en convient des yeulz <anchor xml:id="l3a1"/>plo<supplied reason="illegible">[rer]</supplied><anchor xml:id="l3a2"/></l>
+                <l xml:id="l4"><anchor xml:id="l4a1"/><supplied reason="illegible">[tant]</supplied><anchor xml:id="l4a2"/> que li cuers est <anchor xml:id="l4a3"/><supplied reason="illegible">[en]</supplied><anchor xml:id="l4a4"/> languour.</l>
+                <l xml:id="l5" n="5">Plus ne m’est boin faire demour;</l>
+                <l xml:id="l6">Diex voelle mesdisans <anchor xml:id="l6a1"/><supplied reason="illegible">[blasmer]</supplied><anchor xml:id="l6a2"/>!</l>
+                <l xml:id="l7"><hi rend="italic">Adieu vous <supplied xml:id="suppl1" reason="illegible">[di, tres doulche flour,</supplied></hi></l>
+                <l xml:id="l8"><hi rend="italic"> <supplied xml:id="suppl2" corresp="#suppl1" reason="illegible">car je ne puis plus demorer]</supplied>.</hi></l>
+                <l xml:id="l9">Si fault men corps <anchor xml:id="l9a1"/>mectr<supplied reason="illegible">[e]</supplied><anchor xml:id="l9a2"/> au retour</l>
+                <l xml:id="l10" n="10">et men coer lassier devorer:</l>
+                <l xml:id="l11"><anchor xml:id="l11a1"/><supplied reason="illegible">[por]</supplied><anchor xml:id="l11a2"/> vostre amour, biele a vis cler,</l>
+                <l xml:id="l12">souviegne vous de <anchor xml:id="l12a1"/><supplied reason="illegible">[ma do]</supplied>lour<anchor xml:id="l12a2"/>!</l>
+                <l xml:id="l13"><hi rend="italic">Adieu vous di, tres doulche flour, </hi></l>
+                <l xml:id="l14"><hi rend="italic"><supplied xml:id="suppl3" reason="illegible">[car je ne puis plus demorer,</supplied> </hi></l>
+                <l xml:id="l15" n="15"><hi rend="italic"> <supplied xml:id="suppl4" corresp="#suppl3" reason="illegible">si m’en convient des yeulz plorer</supplied></hi></l>
+                <l xml:id="l16"><hi rend="italic"> <supplied xml:id="suppl5" corresp="#suppl3" reason="illegible">tant que li cuers est en languour.]</supplied></hi></l>
+                
+            </lg>
+
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Ld3">
+                    <ref type="siglum" target="#Ld3">Ld3</ref> c. 6v, <abbr xml:id="Ld3C">C</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-16)
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">               
+               
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>je ne puis</lem>
+                        <rdg wit="#Ld3"><gap reason="illegible" rend="ill."/></rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>plo<hi rend="italic">rer</hi></lem>
+                        <rdg wit="#Ld3"><gap reason="illegible" rend="ill."/></rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>tant</lem>
+                        <rdg wit="#Ld3"><gap reason="illegible" rend="ill."/></rdg>
+                    </app>
+                    
+                    <app from="#l4a3" to="#l4a4">
+                        <lem>en</lem>
+                        <rdg wit="#Ld3"/> 
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>blasmer</lem>
+                        <rdg wit="#Ld3"/> 
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>9</head>
+                    <app from="#l9a1" to="#l9a2">
+                        <lem>mectre</lem>
+                        <rdg wit="#Ld3"><unclear reason="illegible" rend="?">mec<hi rend="italic">tra</hi></unclear> (con a <hi rend="italic">soprascritta</hi>)</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>11</head>
+                    <app from="#l11a1" to="#l11a2">
+                        <lem>por</lem>
+                        <rdg wit="#Ld3"><gap reason="illegible" rend="ill."/></rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>12</head>
+                    <app from="#l12a1" to="#l12a2">
+                        <lem><hi rend="italic">ma do</hi>lour</lem>
+                        <rdg wit="#Ld3"><gap reason="illegible" rend="ill."/></rdg>
+                    </app>
+                </listApp>
+                
+            </listApp>
+           
+
+
+            <div type="metricalScheme">
+                <p><hi rend="italic">Rondeau</hi> 8A 8B 8B 8A; 8a 8b, 8A 8B; 8a 8b 8b 8a; 8A 8B 8B 8A.</p>
+                <p>Rima ricca ai vv. 1 : 12, 2 : 3 : 10.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Greene1989">Greene 1989, pp. 37-38.</bibl>
+            </listBibl>
+
+        </back>
+    </text>
+</TEI>

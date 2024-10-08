@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Al’alba una maitina solo andava</title>
+            <!--<author><ref target="X"></ref></author>-->
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                  project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Maria Sofia Lannutti</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Elvira Mercatanti</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p/>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1"> Al’alba una maitina solo andava</l>
+            <l xml:id="l2"> nel tempo della dolce primavera;</l>
+            <l xml:id="l3"> pasturela <anchor xml:id="l3a1"/>trovai che sola<anchor xml:id="l3a2"/> <anchor xml:id="l3a3"/>sta <supplied reason="illegible">[va]<anchor xml:id="l3a4"/></supplied>.</l>
+            <l xml:id="l4"> <supplied reason="illegible">[…]</supplied></l>
+            <l xml:id="l5" n="5"> <supplied reason="illegible">[…]</supplied></l>
+            <l xml:id="l6"> <supplied reason="illegible">[…]</supplied></l>
+         </lg>
+         <lg>
+            <l xml:id="l7"> Ela <anchor xml:id="l7a3"/>rispose<anchor xml:id="l7a4"/> e disse: «<anchor xml:id="l7a1"/>I’ ò nom Çiliola<anchor xml:id="l7a2"/>,</l>
+            <l xml:id="l8"> <anchor xml:id="l8a1"/>me’ pare Uberto, <anchor xml:id="l8a5"/>mia<anchor xml:id="l8a6"/> mare<anchor xml:id="l8a2"/> <anchor xml:id="l8a3"/>Vïola<anchor xml:id="l8a4"/>».</l>
+         </lg>
+         
+      </body>
+
+
+
+      <back>
+         <listWit>
+            <witness xml:id="Rs">
+               <ref type="siglum" target="#Rs">Rs</ref> 
+               c. 32r, <abbr xml:id="RsC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="RsT">T</abbr> (vv. 1-3 e 7-8)</witness>
+         </listWit>
+
+
+         <listApp type="substantial">
+            <listApp>
+               <head>3</head>
+               <app from="#l3a1" to="#l3a2">
+                  <lem>trovai che sola </lem>
+                  <rdg><gap reason="illegible" rend="ill."/> <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+               
+               <app from="#l3a3" to="#l3a4">
+                  <lem>stava</lem>
+                  <rdg> sta<gap reason="illegible" unit="chars" quantity="2" rend="**"/> <wit><ref corresp="#RsC">Rs<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg> <gap reason="illegible" unit="chars" quantity="3" rend="***"/>va <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            
+            <listApp>
+               <head>7</head>
+               <app from="#l7a1" to="#l7a2">
+                  <lem>I’ ò nom Çiliola</lem>
+                  <rdg> <gap reason="illegible" rend="ill."/> <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>
+               </app>               
+            </listApp>
+            
+            <listApp>
+               <head>8</head>
+               <app from="#l8a1" to="#l8a2">
+                  <lem>me’ pare Uberto, mia mare</lem>
+                  <rdg> <gap reason="illegible" rend="ill."/> <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>                  
+               </app>
+               
+               <app from="#l8a3" to="#l8a4">
+                  <lem>Vïola</lem>
+                  <rdg> <gap reason="illegible" rend="ill. per l.m."/> <wit><ref corresp="#RsC">Rs<hi rend="super">C</hi></ref></wit></rdg>
+               </app>               
+            </listApp>
+               
+               
+         </listApp> 
+
+
+         <listApp type="formal">
+            <listApp>
+               <head>7</head>
+               <app from="#l7a3" to="#l7a4">
+                  <lem>rispose</lem>
+                  <rdg> respose <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>
+               </app>               
+            </listApp>
+            
+            <listApp>
+               <head>8</head>
+               <app from="#l8a5" to="#l8a6">
+                  <lem>mia</lem>
+                  <rdg> me <wit><ref corresp="#RsT">Rs<hi rend="super">T</hi></ref></wit></rdg>                  
+               </app>
+               
+            </listApp>
+         </listApp> 
+
+
+         <div type="metricalScheme">
+            <p>Madrigale 10’a 10’b 10’a, [10’? 10’? 10’?]; 10’m 10’m.</p>
+         </div>
+
+
+         <listBibl type="editions">
+            <bibl corresp="Mischiati1966"> Mischiati 1966, p. 75;</bibl>
+            
+            <bibl corresp="#Pirrotta1992"> Pirrotta 1992, p. 37;</bibl>
+
+            <bibl corresp="#Sucato2003"> Sucato 2003, p. 89.</bibl>
+         </listBibl>
+
+
+         <div type="commentary">
+            <note target="#l8">
+               <num>8.</num>
+               <p>Interpretazione alternativa in Sucato 2003: «m’è pare Uberto, mia mar’è Vïola».</p>
+            </note>
+         </div>
+      </back>
+   </text>
+</TEI>

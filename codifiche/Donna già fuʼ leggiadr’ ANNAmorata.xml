@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Donna già fuʼ leggiadr’ ANNAmorata</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+         <div>
+            <p>
+           </p>
+         </div>         
+      </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    Donna già <anchor xml:id="l1a3"/>fuʼ<anchor xml:id="l1a4"/> <anchor xml:id="l1a1"/>leggiadr’ <name type="senhal" rend="small-caps">anna</name>morata<anchor xml:id="l1a2"/>
+                </l>
+                <l xml:id="l2">
+                    faccendʼ al servo <anchor xml:id="l2a1"/>mio<anchor xml:id="l2a2"/> <anchor xml:id="l2a3"/>dolce<anchor xml:id="l2a4"/> sembiante,
+                </l>
+                <l xml:id="l3">
+                    or <anchor xml:id="l3a1"/>sono ʼn<anchor xml:id="l3a2"/> biscia orribil tramutata
+                </l>
+                <l xml:id="l4">
+                    sol per uccider questo falso amante.
+                </l>
+                <l xml:id="l5" n="5">
+                    Non so come ʼl suo cor <anchor xml:id="l5a1"/>mai<anchor xml:id="l5a2"/> lo <anchor xml:id="l5a3"/>sofferse<anchor xml:id="l5a4"/>
+                </l>
+                <l xml:id="l6">
+                    <anchor xml:id="l6a3"/>cʼa<anchor xml:id="l6a4"/> dirmi villania <anchor xml:id="l6a1"/>se discoperse<anchor xml:id="l6a2"/>.
+                </l>
+            </lg>
+            <lg>   
+                <l xml:id="l7">
+                    <anchor xml:id="l7a1"/>Comʼ io<anchor xml:id="l7a2"/> di tormentarlo <anchor xml:id="l7a3"/>sia ben<anchor xml:id="l7a4"/> saçia,
+                </l>
+                <l xml:id="l8">
+                    tornerò donna <anchor xml:id="l8a1"/><supplied>[et]</supplied><anchor xml:id="l8a2"/> <anchor xml:id="l8a3"/>renderolli<anchor xml:id="l8a4"/> graçia.
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="Fp">
+                    <ref type="siglum" target="#Fp">Fp</ref>
+                    cc. <locus>56v-57r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-8), <abbr xml:id="FpT">T</abbr> (vv. 1-8): <hi rend="italic">m(agister) giova(nni)</hi>
+                </witness>
+                <witness xml:id="Sq">
+                    <ref type="siglum" target="#Sq">Sq</ref>
+                    cc. <locus>4v-5r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-8), <abbr xml:id="SqT">T</abbr> (vv. 1-8): <hi rend="italic">m(agister) iovannes de florentia</hi>
+                </witness>
+                <witness xml:id="SL">
+                    <ref type="siglum" target="#SL">SL</ref>
+                    cc. <locus>30v-31r</locus> (<hi rend="italic">cantus</hi> e <hi rend="italic">tenor</hi> sono illeggibili)
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>leggiadrʼ annamorata</lem>
+                        <rdg type="indifferentVariant" wit="#Sq"><hi rend="bold">gentile innamorata</hi></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>se discoperse</lem>
+                        <rdg>si scoperse <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>Comʼ io</lem>
+                        <rdg wit="#Sq">come</rdg>
+                    </app>
+                    <app from="#l7a3" to="#l7a4">
+                        <lem>sia ben</lem>
+                        <rdg wit="#Sq">sarò</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem>et</lem>
+                        <rdg wit="#Fp"></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a3" to="#l1a4">
+                        <lem>fuʼ</lem>
+                        <rdg>fuy <wit><ref target="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>mio</lem>
+                        <rdg wit="#Sq">mie</rdg>
+                    </app>
+                    <app from="#l2a3" to="#l2a4">
+                        <lem>dolce</lem>
+                        <rdg wit="#Sq">dolçe</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>sono ʼn</lem>
+                        <rdg wit="#Sq">son in</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a1" to="#l5a2">
+                        <lem>mai</lem>
+                        <rdg wit="#Sq">maʼ<wit><ref target="#FpT">Fp<hi rend="super">T</hi></ref></wit> </rdg>
+                    </app>
+                    <app from="#l5a3" to="#l5a4">
+                        <lem>sofferse</lem>
+                        <rdg wit="#Sq">soferse</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a3" to="#l6a4">
+                        <lem>cʼa</lem>
+                        <rdg wit="#Fp">ca ca <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>se discoperse</lem>
+                        <rdg>si discoperrse<wit><ref target="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a3" to="#l8a4">
+                        <lem>renderolli</lem>
+                        <rdg wit="#Sq">renderogli</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p>Madrigale 10ʼa 10ʼb 10ʼa, 10ʼb 10ʼc 10ʼc; 10ʼd 10ʼd.</p>
+                <p><hi rend="italic">Capovilla</hi> <hi rend="small-caps">xiii</hi>.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Sapegno1952">
+                    Sapegno 1952, p. 514;
+                </bibl>
+                <bibl corresp="#Corsi1969">
+                    Corsi 1969, p. 1012;
+                </bibl>
+                <bibl corresp="#Corsi1970">
+                    Corsi 1970, p. 11.
+                </bibl>
+            </listBibl>
+            <div type="commentary">
+                <note target="#l1">
+                    <num>1.</num>
+                    La lezione di Fp <hi rend="italic">leggiadr’ annamorata</hi> permette di leggere in <hi rend="italic">incipit</hi> il possibile <hi rend="italic">senhal</hi> ANNA, ricorrente in diversi brani intonati da Jacopo da Bologna e da Giovanni da Firenze. Lʼalternanza tra i due aggettivi <hi rend="italic">gentile</hi> e <hi rend="italic">leggiadra</hi>, nella tradizione, si registra anche nel madrigale di Giovanni <hi rend="italic">Appressʼ un fiume chiaro</hi>, dove al v. 5 <hi rend="italic">bellʼ e çentilʼ, e amorosa tanto</hi> (Fp) si oppone a <hi rend="italic">bella, leggiadra e amorosa tanto</hi> (Sq).
+                </note>
+                <note target="#l6">
+                    <num>6.</num>
+                    <hi rend="italic">se discoperse</hi>: ‘si mostrò’ (<hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">discoprire</hi>, § 1.4).
+                </note>
+            </div>
+        </back>
+    </text>
+</TEI>
+

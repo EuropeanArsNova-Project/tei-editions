@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Da tanto disonesto et reo fervore</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Maria Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+      <!-- <front>
+         <div>
+            <p>
+            </p>
+         </div>
+      </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1">
+                Da tanto disonesto et reo fervore
+            </l>
+            <l xml:id="l2">
+                <anchor xml:id="l2a1"/>fermo son di partire,<anchor xml:id="l2a2"/>
+            </l>
+            <l xml:id="l3">
+                <anchor xml:id="l3a1"/>ché non può più sofrire<anchor xml:id="l3a2"/>
+            </l>
+            <l xml:id="l4">
+                <anchor xml:id="l4a1"/>l’anima, et stare<anchor xml:id="l4a2"/> in te, <anchor xml:id="l4a3"/>lascivo<anchor xml:id="l4a4"/> <anchor xml:id="l4a5"/>amore<anchor xml:id="l4a6"/>.
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l5" n="5">
+                <anchor xml:id="l5a1"/>E’ mi ricorda a’ rischi, che·tt’amai,<anchor xml:id="l5a2"/>
+            </l>
+            <l xml:id="l6">
+                menato, <anchor xml:id="l6a1"/>e a’ casi<anchor xml:id="l6a2"/>, et gli angosciosi <anchor xml:id="l6a3"/>affanni<anchor xml:id="l6a4"/>
+            </l>
+            <l xml:id="l7">
+                <supplied reason="illegible">[...]</supplied>
+            </l>
+            <l xml:id="l8">
+               <supplied reason="illegible">[...]</supplied>
+            </l>
+            <l xml:id="l9">
+               <supplied reason="illegible">[...]</supplied>
+            </l>
+            <l xml:id="l10" n="10">
+               <supplied reason="illegible">[...]</supplied>
+            </l>
+            <l xml:id="l11">
+               <supplied reason="illegible">[...]</supplied> granda fanmi,
+            </l>
+            <l xml:id="l12">
+                né·sso veder come me ne <anchor xml:id="l12a1"/>canpa<supplied reason="illegible">[re]</supplied><anchor xml:id="l12a2"/>.
+            </l>
+         </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="Cil">
+               <ref type="siglum" target="#Cil">Cil</ref> 
+               cc. <locus>96v-97r</locus>, <abbr xml:id="CilC">C</abbr> (vv. 1-6), <abbr xml:id="CilT">T</abbr> (vv. 1-6), <hi rend="italic">resid.</hi> (vv. 7-12): <hi rend="italic">d(ominus) p(aulus)</hi>
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+               <head>2</head>
+               <app from="#l2a1" to="#l2a2">
+                  <lem>fermo son di partire</lem>
+                  <rdg><witDetail wit="CilC"><hi rend="italic">lac., leggibile solo</hi> fer </witDetail><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg> 
+               </app>
+            </listApp>
+            <listApp>
+                <head>3</head>
+                <app from="#l3a1" to="#l3a2">
+                   <lem>ché non può più sofrire</lem>
+                   <rdg><gap reason="illegible" rend="lac."/><wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>4</head>
+               <app from="#l4a5" to="#l4a6">
+                    <lem>amore</lem>
+                    <rdg>amo <gap reason="illegible" rend="per l.m."/> <wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+             </listApp>
+             <listApp>
+                 <head>5</head>
+                <app from="#l5a1" to="#l5a2">
+                   <lem>E’ mi ricorda a’ rischi, che·tt’amai,</lem>
+                   <rdg><witDetail wit="CilC"><hi rend="italic">lac., leggibile solo</hi> che tu may</witDetail> <wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
+                 </app>
+             </listApp>
+             <listApp>
+                <head>6</head>
+                <app from="#l6a1" to="#l6a2">
+                   <lem>e a’ casi</lem>
+                   <rdg>e casi <wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+                <app from="#l6a3" to="#l6a4">
+                    <lem>affanni</lem>
+                    <rdg>afan <gap reason="illegible" rend="per l.m."/> <wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+             </listApp>
+             <listApp>
+                    <head>12</head>
+                    <app from="#l12a1" to="#l12a2">
+                       <lem>canpare</lem>
+                       <rdg>canpa</rdg>
+                    </app>
+             </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+               <head>4</head>
+               <app from="#l4a1" to="#l4a2">
+                  <lem>l’anima et stare</lem>
+                  <rdg>la nimestare <wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app from="#l4a3" to="#l4a4">
+                  <lem>lascivo</lem>
+                  <rdg>lasciv <wit><ref corresp="#CilC">Cil<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+               Ballata grande 10’z 6’y 6’y 10’z; 10’a 10’b, [10’? 10’?; 10’m 6’m 6’m 10’z]. Rima imperfetta ai vv. 4 : 12.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Brumana-Ciliberti1986">
+                Brumana-Ciliberti 1986, p. 27.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+         <div type="commentary">
+            <note target="#l5 #l6">
+               <num>5-6.</num>
+               <p>Costruisci: <hi rend="italic">E’ mi ricorda che·tt’amai menato a’ rischi e a’ casi, et gli angosciosi affanni.</hi></p>
+            </note>
+         </div>
+      </back>
+   </text>
+</TEI>

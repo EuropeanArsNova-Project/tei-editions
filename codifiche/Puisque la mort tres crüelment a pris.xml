@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Puisque la mort tres crüelment a pris </title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name> 
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1"> Puisque la mort tres crüelment a pris</l>
+                <l xml:id="l2"> le noble corps gracieux, doulz, atrayant </l>
+                <l xml:id="l3"> pour faulx constraint d’aspre fortune, a tort,</l>
+                <l xml:id="l4"> gemir devons, helas, trestous amis,</l>
+                <l xml:id="l5" n="5"> et sans demy doulouser tristement,</l>
+                <l xml:id="l6"> com gens banis de l’amoreux deport,</l>
+                <l xml:id="l7"> car partie est la belle en qui confort</l>
+                <l xml:id="l8"> gissoit d’amans, pour finement amer</l>
+                <l xml:id="l9"> la plus plaisant, la plus gent et jolie.</l>
+                <l xml:id="l10" n="10"> <hi rend="italic">Nulz la porroit entierement <anchor xml:id="l10a1"/>retrer<supplied reason="illegible">[e]</supplied><anchor xml:id="l10a2"/>!</hi></l>
+                <l xml:id="l11"> <hi rend="italic"> En jugier l’arme a glorïose vie,</hi></l>
+                <l xml:id="l12"> hé, douche Dame, hé Diex, soyés d’acort!</l>
+            </lg>
+            
+            <lg>
+                <l xml:id="l13"> Plourés, amans, la grant beauté de pris,</l>
+                <l xml:id="l14"> plourés du mond le soloil reluissant</l>
+                <l xml:id="l15" n="15"> plourés la flour de <anchor xml:id="l15a1"/>tou<supplied reason="illegible">[t]</supplied>es<anchor xml:id="l15a2"/> dames mort,</l>
+                <l xml:id="l16">l’accolir gay, la colour du cler vis,</l>
+                <l xml:id="l17"> son poli chief, sa bouchette rïant,</l>
+                <l xml:id="l18"> ses beaux regars, son doulz parler accort.</l>
+                <l xml:id="l19"> Ha, fiere ville, en qui pitié se dort!</l>
+                <l xml:id="l20" n="20"> Bien dois tel perte durement plourer,</l>
+                <l xml:id="l21">quant perdue as la haultayne compagnie.</l>
+                <l xml:id="l22"> <hi rend="italic"> Nulz la porroit <supplied xml:id="suppl1" reason="illegible">[entierement retrere!</supplied></hi></l>
+                <l xml:id="l23"> <hi rend="italic"> <supplied xml:id="suppl2" corresp="#suppl1" reason="illegible">En jugier l’arme a gloriose vie,</supplied></hi></l>
+                <l xml:id="l24"> <hi rend="italic"> <supplied xml:id="suppl3" corresp="#suppl1" reason="illegible">hé, douche Dame, hé Diex, soyés d’acort!]</supplied></hi></l>
+            </lg>
+            
+            <lg>
+                <l xml:id="l25" n="25">  Hemi, Amours, ton hault valoreux pris, </l>
+                <l xml:id="l26"> ta renomee, tes <anchor xml:id="l26a1"/>lous<anchor xml:id="l26a2"/>, ta force grant</l>
+                <l xml:id="l27"> mayne a la mort, la mort qu’a tous cuers mort.</l>
+                <l xml:id="l28"> Soupire toi, car, selonc mon avis,</l>
+                <l xml:id="l29"> sans fin sur tous estre en <anchor xml:id="l29a1"/>doi<supplied reason="illegible">[s]</supplied><anchor xml:id="l29a2"/> languissant,</l>
+                <l xml:id="l30" n="30">ploureux, dolant, chetis par desconfort.</l>
+                <l xml:id="l31">Orrible, amere mort, or te remort</l>
+                <l xml:id="l32">se pour fierté de tel dame tuer</l>
+                <l xml:id="l33"> seras au siecle ades, traitre, maudie!</l>
+                <l xml:id="l34"> <hi rend="italic"> Nulz la porroit entierement <supplied xml:id="suppl4" reason="illegible">[retrere!</supplied></hi></l>
+                <l xml:id="l35" n="35"><hi rend="italic"><supplied xml:id="suppl5" corresp="#suppl4" reason="illegible">En jugier l’arme a gloriose vie,</supplied></hi></l>
+                <l xml:id="l36"><hi rend="italic"><supplied xml:id="suppl6" corresp="#suppl4" reason="illegible">hé, douche Dame, hé Diex, soyés d’acort!]</supplied></hi></l>
+                
+            </lg>
+            
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="MoA">
+                    <ref type="siglum" target="#MoA">MoA</ref> cc. <locus>7v-8r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-12), <hi rend="italic">resid.</hi> (vv. 13-35): [c. 1r: <hi rend="italic">m(attheus) de p(er)usio</hi>]
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">
+                <listApp>
+                    <head>10</head>
+                    <app from="#l10a1" to="#l10a2">
+                        <lem>retrere</lem>
+                        <rdg wit="#MoA">retrer</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>15</head>
+                    <app from="#l15a1" to="#l15a2">
+                        <lem>toutes</lem>
+                        <rdg wit="#MoA"> tous les </rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>26</head>
+                    <app from="#l26a1" to="#l26a2">
+                        <lem>lous</lem>
+                        <rdg wit="#MoA"> loues </rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>29</head>
+                    <app from="#l29a1" to="#l29a2">
+                        <lem>dois</lem>
+                        <rdg wit="#MoA"> doit</rdg>
+                    </app>
+                </listApp>
+               
+            </listApp>
+
+
+
+            <!--<listApp type="formal">
+               
+            </listApp>-->
+            
+
+
+            <div type="metricalScheme">
+                <p><hi rend="italic">Ballade</hi> 10a 10b 10c, 10a 10b 10c; 10c 10d 10’e 10’F 10’E 10C.</p>
+                <p>Rima equivoca ai vv. 1 : 13, 12 : 18, 15 : 27; rima derivativa ai vv. 7 : 30; rima identica ai vv. 12 : 25; rima inclusiva ai 27 : 31.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Apel-Rosenberg1971"> Apel-Rosenberg 1971, p. <hi rend="small-caps">XXXII</hi>.</bibl>
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+                <bibl corresp="#">
+                </bibl>
+            </listBibl>-->
+
+
+            <div type="commentary">
+                <note target="#l8">
+                    <num>8.</num>
+                    <p><hi rend="italic">gissoit</hi>: ‘era insito’.</p>
+                </note>
+                
+                <note target="#l11 #l12">
+                    <num>11-12.</num>
+                    <p>‘Nel giudicare l’anima degna della vita eterna, dolce Signora, Dio, siate concordi!’. Il senso suggerisce di interpretare il vocativo douche Dame come riferito alla Vergine.</p>
+                </note>
+                
+                <note target="#l15">
+                    <num>15.</num>
+                    <p>L’emendamento è già in Apel-Rosenberg.</p>
+                </note>
+                
+                <note target="#l26">
+                    <num>26.</num>
+                    <p><hi rend="italic">lous</hi>: ‘qualità’.</p>
+                </note>
+                
+                <note target="#l27">
+                    <num>27.</num>
+                    <p><hi rend="italic">tous cuers mort</hi>: ‘tormenta tutti i cuori’.</p>
+                </note>
+                
+                <note target="#l31">
+                    <num>31.</num>
+                    <p><hi rend="italic">or te remort</hi>: ‘ora provi rimorso’.</p>
+                </note>
+            </div>
+        </back>
+    </text>
+</TEI>

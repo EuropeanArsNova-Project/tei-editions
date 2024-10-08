@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Helas! Merci, merci, pour Dieu, merci!</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+            <div>
+                <p>
+                </p>
+            </div>         
+        </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    Helas! Merci, merci, pour Dieu, merci!
+                </l>
+                <l xml:id="l2">
+                    Merci, pour Dieu, merci, <anchor xml:id="l2a1"/>dame<anchor xml:id="l2a2"/> d’onour!
+                </l>
+                <l xml:id="l3">
+                    Merci du mal, merci de la langour,
+                </l>
+                <l xml:id="l4">
+                    merci des plours, merci <anchor xml:id="l4a1"/>des griés sousy<anchor xml:id="l4a2"/>!
+                </l>    
+            </lg>
+            <lg> 
+                <l xml:id="l5" n="5">
+                    Merci du las, merci du serf chaiti,
+                </l>
+                <l xml:id="l6">
+                    qui muert de mort en disant sans sejour:
+                </l>
+                <l xml:id="l7">
+                    <hi rend="italic">Helas! Merci, <supplied xml:id="suppl1">[merci, pour Dieu, merci!</supplied></hi>
+                </l>
+                <l xml:id="l8">
+                    <hi rend="italic"><supplied xml:id="suppl2">Merci, pour Dieu, merci, dame d’onour!]</supplied></hi>
+                </l>
+                <l xml:id="l9">
+                    Aymi doulant, <anchor xml:id="l9a1"/>destruis! Coment<anchor xml:id="l9a2"/> mar vi
+                </l>
+                <l xml:id="l10" n="10">
+                    de toutes flors la precïeuse flour!
+                </l>
+                <l xml:id="l11">
+                    Flour <anchor xml:id="l11a1"/>fleurant<supplied>[e]</supplied><anchor xml:id="l11a2"/>, de si très noble odour,
+                </l>
+                <l xml:id="l12">
+                    qu’en odourant languis et muir et cri:
+                </l>
+                <l xml:id="l13">
+                    <hi rend="italic">«Helas! Merci, <supplied xml:id="suppl3">[merci, pour Dieu, merci!</supplied></hi>
+                </l>
+                <l xml:id="l14">
+                    <hi rend="italic"><supplied xml:id="suppl4">Merci, pour Dieu, merci, dame d’onour!</supplied></hi>
+                </l>
+                <l xml:id="l15" n="15">
+                    <hi rend="italic"><supplied xml:id="suppl5">Merci du mal, merci de la langour,</supplied></hi>
+                </l>
+                <l xml:id="l16">
+                    <hi rend="italic"><supplied xml:id="suppl6">merci des plours, merci des griés sousy!».]</supplied></hi>
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="MoA">
+                    <ref type="siglum" target="#MoA">MoA</ref>
+                    cc. <locus>39v-40r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-4), <hi rend="italic">resid. </hi>(vv. 5-16): <hi rend="italic">de p(er)usio</hi>
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>11</head>
+                    <app from="#l11a1" to="#l11a2">
+                        <lem>fleurante</lem>
+                        <rdg wit="#MoA">fleurant</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>dame</lem>
+                        <rdg wit="#MoA">dame dame</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>des griés sousy</lem>
+                        <rdg wit="#MoA">des gries sousy des gries sousy</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>9</head>
+                    <app from="#l9a1" to="#l9a2">
+                        <lem>destruis, coment</lem>
+                        <rdg wit="#MoA"><witDetail wit="#MoA"><hi rend="italic">trascritto nel residuum dalla stessa mano dopo il refrain finale abbreviato</hi></witDetail></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p><hi rend="italic">Rondeau</hi> 10A 10B 10B 10A; 10a 10b, 10A 10B; 10a 10b 10b 10a; 10A 10B 10B 10A.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Apel-Rosenberg1970">
+                    Apel-Rosenberg 1970, p. <hi rend="small-caps">lx</hi>.
+                </bibl>
+            </listBibl>
+            <!--div type="commentary">
+            </div-->
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Apel-Rosenberg1970">
+                    <hi rend="italic">French Secular Compositions of the Fourteenth Century, </hi>I. <hi rend="italic">Ascribed Compositions</hi>, ed. by W. Apel. Edition of the literary texts by S. N. Rosenberg., Roma, AIM, 1970 (CMM, 53/1).
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

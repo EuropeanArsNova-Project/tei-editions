@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Come da lupo pecorella presa</title>
+                <author>Niccolò Soldanieri</author>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Vittoria Brancato</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>           
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front>
+         <div>
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"></hi>)
+            </p>
+         </div>        
+      </front>-->
+        <body>
+            <lg>
+                <l xml:id="l1">Come da <anchor xml:id="l1a1"/>lupo<anchor xml:id="l1a2"/> pecorella presa</l>
+                <l xml:id="l2"><anchor xml:id="l2a1"/>ispande<anchor xml:id="l2a2"/> <anchor xml:id="l2a5"/>il «bè»<anchor xml:id="l2a6"/> <anchor xml:id="l2a3"/>in<anchor xml:id="l2a4"/> voce di dolore</l>
+                <l xml:id="l3"><anchor xml:id="l3a1"/>perchʼ<anchor xml:id="l3a2"/> <anchor xml:id="l3a3"/>allo<anchor xml:id="l3a4"/> scampo suo <anchor xml:id="l3a5"/>tragga il<anchor xml:id="l3a6"/> pastore,</l>
+                <l xml:id="l4">simil <anchor xml:id="l4a1"/>piatà<anchor xml:id="l4a2"/> dʼuna chʼiʼ <anchor xml:id="l4a3"/>presa avea<anchor xml:id="l4a4"/>,</l>
+                <l xml:id="l5" n="5">la <anchor xml:id="l5a1"/>quale<anchor xml:id="l5a2"/> <anchor xml:id="l5a3"/>«omè»<anchor xml:id="l5a4"/> dicea con alti guai, </l>
+                <l xml:id="l6">mi fé <anchor xml:id="l6a1"/>lasciarla<anchor xml:id="l6a2"/>, <anchor xml:id="l6a3"/>ondʼ io<anchor xml:id="l6a4"/> non <anchor xml:id="l6a5"/>poso<anchor xml:id="l6a6"/> mai.</l>
+            </lg>
+            <lg>
+                <l xml:id="l7">E <anchor xml:id="l7a1"/>quel<anchor xml:id="l7a2"/> che di tal <anchor xml:id="l7a3"/>fatto<anchor xml:id="l7a4"/> più mi scorna </l>
+                <l xml:id="l8">è chʼio <anchor xml:id="l8a1"/><anchor xml:id="l8a5"/>raspetto<anchor xml:id="l8a6"/><anchor xml:id="l8a2"/> <anchor xml:id="l8a3"/>il<anchor xml:id="l8a4"/> caso e <anchor xml:id="l8a7"/>queʼ<anchor xml:id="l8a8"/> non torna. </l>                
+            </lg>
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Red">
+                    <ref type="siglum" target="#Red">Red</ref> c. 110v: <hi rend="italic">Madriale del detto </hi> [Niccolò Soldanieri]
+                </witness>
+                
+                <witness xml:id="Mg3">
+                    <ref type="siglum" target="#Mg3">Mg3</ref>cc. <locus>49v-50r</locus>: <hi rend="italic">Madrigale</hi>
+                </witness>
+                
+                <witness xml:id="T">
+                    <ref type="siglum" target="#T">T</ref> c. 89r
+                </witness>
+                
+                <witness xml:id="Sq">
+                    <ref type="siglum" target="#Sq">Sq</ref>cc. <locus>77v-78r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid.</hi> (vv. 4-6): <hi rend="italic">m(agister) donatus de florentia</hi>
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">              
+               <listApp>
+                   <head>2</head>
+                   <app from="#l2a1" to="#l2a2">
+                       <lem>ispande</lem>
+                       <rdg wit="#Mg3 #T #Red">spande <hi rend="italic">(-1)</hi></rdg>
+                   </app>
+                   
+                   <app from="#l2a3" to="#l2a4">
+                       <lem>in</lem>
+                       <rdg type="indifferentVariant">con <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                   </app>
+               </listApp>
+                
+               <listApp>
+                   <head>6</head>
+                   <app from="#l6a1" to="l6a2">
+                       <lem>lasciarla</lem>
+                       <rdg wit="#Sq">lasciar</rdg>
+                   </app>
+                   
+                   <app from="#l6a3" to="#l6a4">
+                       <lem>ondʼ io</lem>
+                       <rdg wit="#T">ondo</rdg>
+                   </app>
+                   
+                   <app from="#l6a5" to="#l6a6">
+                       <lem>poso</lem>
+                       <rdg wit="#T">posa <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                   </app>
+               </listApp>
+                
+               <listApp>
+                   <head>7</head>
+                   <app from="#l7a1" to="#l7a2">
+                       <lem>quel</lem>
+                       <rdg wit="#T">quello</rdg>
+                   </app>
+               </listApp>
+                
+               <listApp>
+                   <head>8</head>
+                   <app from="#l8a1" to="#l8a2">
+                       <lem>raspetto</lem>
+                       <rdg wit="#T">spetto</rdg>
+                   </app>
+                   
+                   <app from="#l8a3" to="#l8a4">
+                       <lem>il</lem>
+                       <rdg wit="#Sq"/>
+                   </app>
+               </listApp>
+            </listApp>
+                
+                
+
+           <listApp type="formal">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>lupo</lem>
+                        <rdg>llupo <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+               
+               <listApp>
+                   <head>2</head>
+                   <app from="#l2a5" to="#l2a6">
+                       <lem>il «bè»</lem>
+                       <rdg wit="#Sq">l be</rdg>
+                       <rdg wit="#Mg3"><del>il suo</del> il be <hi rend="italic">con cassatura</hi></rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>3</head>
+                   <app from="#l3a1" to="#l3a2">
+                       <lem>perchʼ</lem>
+                       <rdg wit="#T">perche</rdg>
+                   </app>
+                   
+                   <app from="#l3a3" to="#l3a4">
+                       <lem>allo</lem>
+                       <rdg>alo <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                   </app>
+                   
+                   <app from="#l3a5" to="#l3a6">
+                       <lem>tragga il</lem>
+                       <rdg wit="#Sq">traga l</rdg>
+                       <rdg wit="#Mg3">tragha il</rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>4</head>
+                   <app from="#l4a1" to="#l4a2">
+                       <lem>piatà</lem>
+                       <rdg wit="#Sq #Mg3 #T">pietà</rdg>
+                   </app>
+                   
+                   <app from="#l4a3" to="#l4a4">
+                       <lem>presa avea</lem>
+                       <rdg wit="#Sq">pres avea </rdg>
+                       <rdg wit="#T #Mg3">preso avea</rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>5</head>
+                   <app from="#l5a1" to="#l5a2">
+                       <lem>quale</lem>
+                       <rdg wit="#Mg3 #T">qual</rdg>
+                   </app>
+                   
+                   <app from="#l5a3" to="#l5a4">
+                       <lem>omè</lem>
+                       <rdg wit="#Mg3"><del>ho</del> ome <hi rend="italic">con cassatura</hi></rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>7</head>
+                   <app from="#l7a3" to="#l7a4">
+                       <lem>fatto</lem>
+                       <rdg wit="#T">facto</rdg>
+                   </app>
+               </listApp>
+               
+               <listApp>
+                   <head>8</head>
+                   <app from="#l8a5" to="#l8a6">
+                       <lem>raspetto</lem>
+                       <rdg wit="#Mg3">ras<del>t</del><add place="above">p</add>etto</rdg>
+                       <rdg>raspeto <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                   </app>
+                   
+                   <app from="#l8a7" to="#l8a8">
+                       <lem>queʼ</lem>
+                       <rdg wit="#Mg3">quel</rdg>
+                   </app>
+               </listApp>
+           </listApp>
+            
+
+
+            <div type="metricalScheme">
+                <p>Madrigale 10ʼa 10ʼb 10ʼb, 10ʼc 10ʼd 10ʼd; 10ʼe 10ʼe.</p>
+                <p><hi rend="italic">Capovilla</hi> XLVIII.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Corsi1969">Corsi 1969, p. 741;</bibl>
+                <bibl corresp="#Pasquinucci2007">Pasquinucci 2007, pp. 165-6;</bibl>
+                <bibl corresp="#Giorgetti2019-2020">Giorgetti 2019-2020, pp. 101-4.</bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

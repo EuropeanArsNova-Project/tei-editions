@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tres nouble dame souveraine</title>
+            <!--<author><ref target="X"></ref></author>-->
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt> 
+               <resp>Edited by</resp> 
+               <name>Maria Sofia Lannutti</name> 
+            </respStmt> 
+            <respStmt> 
+               <resp>Revised by</resp> 
+               <name>Luca Gatti</name> 
+            </respStmt> 
+            <respStmt> 
+               <resp>TEI-encoded by</resp> 
+               <name>Elvira Mercatanti</name> 
+            </respStmt> 
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> --> 
+      <body>
+         <lg>
+            <l xml:id="l1">
+               <anchor xml:id="l1a1"/>Tres<anchor xml:id="l1a2"/> nouble dame souveraine,
+            </l>
+            <l xml:id="l2">
+               je vous supli tres unblement:
+            </l>
+            <l xml:id="l3">
+               prenés en gre tout en present
+            </l>
+            <l xml:id="l4">
+               un petit don par bon estraine.
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l5" n="5">
+               <anchor xml:id="l5a1"/>Une<anchor xml:id="l5a2"/> canson de <anchor xml:id="l5a3"/>v <supplied reason="illegible">[i]</supplied>r <supplied reason="illegible">[el]</supplied>ai<anchor xml:id="l5a4"/>,	
+            </l>
+            <l xml:id="l6">
+               <anchor xml:id="l6a1"/>fait <supplied reason="illegible">[e]</supplied><anchor xml:id="l6a2"/> pour vous, belle honouree,
+            </l>
+            <l xml:id="l7">
+               pour voustre amour <anchor xml:id="l7a1"/> <supplied reason="illegible">[je]</supplied><anchor xml:id="l7a2"/> canterai,
+            </l>
+            <l xml:id="l8">
+               si vous supli qu’il vous agree,
+            </l>
+            <l xml:id="l9">
+               car onques de nature humaine
+            </l>
+            <l xml:id="l10" n="10">
+               amé ne fu certainement		
+            </l>
+            <l xml:id="l11">
+               sans panser <anchor xml:id="l11a1"/>nul<anchor xml:id="l11a2"/> outragement
+            </l>
+            <l xml:id="l12">
+               et amerai, soiés certaine!
+            </l>
+         </lg>
+      </body>
+
+
+
+      <back>
+         <listWit>            
+            <witness xml:id="MoA">
+               <ref type="siglum" target="#MoA">MoA</ref>
+               c. 29v, <abbr xml:id="MoAC">C</abbr> (vv.1-8), <hi rend="italic">resid.</hi> (vv. 9-12):<hi rend="italic"> anthonello</hi>
+            </witness>
+         </listWit>
+
+
+         <listApp type="substantial">
+            <listApp>
+               <head>5</head>
+               <app from="#l5a1" to="#l5a2">
+                  <lem>Une</lem>
+                  <rdg wit="#MoA">cest une </rdg>
+               </app>
+               
+               <app from="#l5a3" to="#l5a4">
+                  <lem>virelai</lem>
+                  <rdg wit="#MoA">vrai</rdg>
+               </app>
+            </listApp>
+
+            <listApp>
+               <head>6</head>
+               <app from="#l6a1" to="#l6a2">
+                  <lem>faite</lem>
+                  <rdg wit="#MoA">fait</rdg>
+               </app>
+            </listApp>
+
+
+            <listApp>
+               <head>7</head>
+               <app from="#l7a1" to="#l7a2">
+                  <lem>je</lem>
+                  <rdg wit="#MoA"/>
+               </app>
+            </listApp>
+
+
+             <listApp>
+               <head>11</head>
+               <app from="#l11a1" to="#l11a2">
+                  <lem>nul</lem>
+                  <rdg wit="#MoA">nulz</rdg>
+               </app>
+            </listApp>
+         </listApp>
+
+            
+
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>Tres</lem>
+                  <rdg wit="#MoA">tres tres</rdg>
+               </app>
+            </listApp>
+         </listApp>
+              
+
+         <div type="metricalScheme">
+            <p><hi rend="italic"> Virelai</hi> 8’a 8b 8b 8’a; 8c 8’d, 8c 8’d; 8’a 8b 8b 8’a.</p>
+            <p>Rima ricca ai vv. 1 : 4, 6 : 8, 2: 10 : 11.</p>
+         </div>
+
+
+         <listBibl type="editions">
+            <bibl corresp="#Bertoni1917">
+               Bertoni 1917, p. 40;
+            </bibl>
+
+            <bibl corresp="#Apel-Rosenberg1970">
+               Apel-Rosenberg 1970, p. XLVI;
+            </bibl>
+
+            <bibl corresp="#Vivarelli2005">
+               Vivarelli 2005, pp. 95-7.
+            </bibl>
+         </listBibl>
+
+
+         <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl>-->
+
+
+         <div type="commentary">
+            <note target="#l4">
+               <num>4.</num>
+               <p><hi rend="italic">par bon estraine </hi>: ‘di buon augurio’ (cfr. DMF, s. v. <hi rend="italic">étrenne</hi>, 1b). </p>
+            </note>
+
+            <note target="#l5">
+               <num>5.</num>
+               <p><hi rend="italic">virelai</hi>: l’emendamento è già in Vivarelli 2005.</p>
+            </note>
+
+            <note target="#l11">
+               <num>11.</num>
+               <p><hi rend="italic">sans panser nul outragement</hi>: ‘senza pensieri oltraggiosi’, può essere riferito sia a <hi rend="italic">amé ne fu certainement</hi> sia a <hi rend="italic">et amerai</hi> in costruzione <hi rend="italic">apò koinoù</hi> ▪ <hi rend="italic">nul</hi>: è attributo di <hi rend="italic">outragement</hi>, per cui la <hi rend="italic">-z</hi> flessiva della lezione del ms. (dovuta a ipercorrettismo?) è qui incongrua ed è stata eliminata. È improbabile che <hi rend="italic">nulz</hi> si riferisca alla <hi rend="italic">dame</hi> (<hi rend="italic">nulz de nature humaine</hi>), come si interpreta in Vivarelli 2005. </p>
+            </note>
+         </div>
+
+
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Bertoni1917">
+               Giulio Bertoni, <hi rend="italic">Poesie musicali francesi nel cod. Estense Lat. n. 568</hi>, «Archivium Romanicum» 1 (1917), pp. 21-57.
+            </bibl>
+
+            <bibl xml:id="Apel-Rosenberg1970">
+               <hi rend="italic">French Secular Compositions of the Fourteenth Century, </hi>I. <hi rend="italic">Ascribed Compositions</hi>, ed. by W. Apel. Edition of the literary texts by S. N. Rosenberg., Roma, AIM, 1970 (CMM, 53/1)
+            </bibl>
+
+            <bibl xml:id="Vivarelli2005">
+               Carla Vivarelli, <hi rend="italic">Le composizioni francesi di Filippotto e Antonello da Caserta tràdite nel Codice Estense a.M.5.24</hi>, Pisa, ETS, 2005 («Diverse voci... 6»)   
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

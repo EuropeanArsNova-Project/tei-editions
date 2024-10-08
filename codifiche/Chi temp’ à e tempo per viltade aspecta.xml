@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Chi temp’ à e tempo per viltade aspecta</title>
+            <author><!--<ref target="X">-->Matteo Griffoni<!--</ref>--></author>
+            <respStmt>
+               <resp>Digital scholarly edition created within the </resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Maria Sofia Lannutti</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Carla Congiu</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+        <group>
+            <text>
+                <!--front>
+                    <div>
+                        <p>
+                        </p>
+                    </div>         
+                </front-->
+                <body>
+                    <lg>
+                        <l xml:id="l1">
+                            Chi <anchor xml:id="l1a1"/>temp’ à <anchor xml:id="l1a3"/>e<anchor xml:id="l1a4"/> tempo per viltade<anchor xml:id="l1a2"/> <anchor xml:id="l1a5"/>aspecta<anchor xml:id="l1a6"/>,
+	                    </l>
+                        <l xml:id="l2">
+                            <anchor xml:id="l2a1"/>se<anchor xml:id="l2a2"/> <anchor xml:id="l2a3"/>quel el perde<anchor xml:id="l2a4"/>, <anchor xml:id="l2a5"/>no·l<anchor xml:id="l2a6"/> <anchor xml:id="l2a7"/>raquista<anchor xml:id="l2a8"/> <anchor xml:id="l2a9"/>in<anchor xml:id="l2a10"/> <anchor xml:id="l2a11"/>fretta<anchor xml:id="l2a12"/>.
+	                    </l>
+                    </lg>
+                    <lg>
+                        <l xml:id="l3">
+                            Però chi dé far <anchor xml:id="l3a1"/>façça<anchor xml:id="l3a2"/>,
+	                    </l>
+                        <l xml:id="l4">
+                            <anchor xml:id="l4a1"/>perch’ al<anchor xml:id="l4a2"/> ben far non <anchor xml:id="l4a3"/>richede<anchor xml:id="l4a4"/> dimora,
+	                    </l>
+                        <l xml:id="l5" n="5">
+                            e gran tempo se caçça   
+	                    </l>
+                        <l xml:id="l6">
+                            quel che fortuna concede in un’ora. 
+	                    </l>
+                        <l xml:id="l7">
+                            Finché ventura <anchor xml:id="l7a1"/>vol<anchor xml:id="l7a2"/>, <anchor xml:id="l7a3"/>donqua<anchor xml:id="l7a4"/>, lavora,
+	                    </l>
+                        <l xml:id="l8">
+                            ché ’l tempo <anchor xml:id="l8a1"/>vola<anchor xml:id="l8a2"/> quanto una <anchor xml:id="l8a3"/>saietta<anchor xml:id="l8a4"/>.
+	                    </l>
+                    </lg>
+                </body>
+                <back>
+                    <listWit>
+                        <witness xml:id="Bo10">
+                            <!--<ref target="X">-->Bo10<!--</ref>-->
+                            c. <locus>1r</locus> (autografo di Matteo Griffoni)
+                        </witness>
+                        <witness xml:id="PS">
+                            <!--<ref target="X">-->PS<!--</ref>-->
+                            c. <locus>13r</locus>: [c. 12v: <hi rend="italic">aliquot ballate mathei de griffonibus civis bononie</hi>]
+                        </witness>
+                        <witness xml:id="R">
+                            <ref type="siglum" target="#R">R</ref>
+                            c. <locus>16r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-4), <abbr xml:id="RT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 6-8)
+                        </witness>
+                        <witness xml:id="Sq">
+                            <ref type="siglum" target="#Sq">Sq</ref>
+                            c. <locus>112r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 6-8): <hi rend="italic">magister frater bartolinus de padua</hi>
+                        </witness>
+                    </listWit>
+                    <listApp type="substantial">
+                        <listApp>
+                            <head>1</head>
+                            <app from="#l1a1" to="#l1a2">
+                                <lem>temp’ à e tempo per viltade</lem>
+                                <rdg wit="#R #Sq">tempo a e per vilta tempo</rdg>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>2</head>
+                            <app from="#l2a1" to="#l2a2">
+                                <lem>se</lem>
+                                <rdg wit="#R">sel</rdg>
+                            </app>
+                            <app from="#l2a3" to="#l2a4">
+                                <lem>quel el perde</lem>
+                                <rdg wit="#R #Sq">perde quel</rdg>
+                            </app>
+                            <app from="#l2a5" to="#l2a6">
+                                <lem>no·1</lem>
+                                <rdg wit="#Sq">non</rdg>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>4</head>
+                            <app from="#l4a1" to="#l4a2">
+                                <lem>perch’ al</lem>
+                                <rdgGrp>
+                                    <rdg wit="#PS">per cha</rdg>
+                                    <rdg wit="#R #Sq">perche</rdg>
+                                </rdgGrp>
+                            </app>
+                            <app from="#l4a3" to="#l4a4">
+                                <lem>richede</lem>
+                                <rdg>ricede <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>8</head>
+                            <app from="#l8a1" to="#l8a2">
+                                <lem>vola</lem>
+                                <rdg wit="#PS #R #Sq">passa</rdg>
+                            </app>
+                            <app from="#l8a3" to="#l8a4">
+                                <lem>saietta</lem>
+                                <rdg wit="#R">sagitta</rdg>
+                            </app>
+                        </listApp>
+                    </listApp>
+                    <listApp type="formal">
+                        <listApp>
+                            <head>1</head>
+                            <app from="#l1a3" to="#l1a4">
+                                <lem>e</lem>
+                                <rdg wit="#Sq">et</rdg>
+                            </app>
+                            <app from="#l1a5" to="#l1a6">
+                                <lem>aspecta</lem>
+                                <rdg wit="#R">aspetta <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                            </app>
+                        </listApp>    
+                        <listApp>
+                            <head>2</head>
+                            <app from="#l2a7" to="#l2a8">
+                                <lem>raquista</lem>
+                                <rdg wit="#R">requista</rdg>
+                            </app>
+                            <app from="#l2a9" to="#l2a10">
+                                <lem>in</lem>
+                                <rdg>en <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
+                            </app>
+                            <app from="#l2a11" to="#l2a12">
+                                <lem>fretta</lem>
+                                <rdg wit="#PS">freta</rdg>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>3</head>
+                            <app from="#l3a1" to="#l3a2">
+                                <lem>façça</lem>
+                                <rdgGrp>
+                                    <rdg wit="#PS #R">faça</rdg>
+                                    <rdg wit="#Sq">faccia</rdg>
+                                </rdgGrp>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>4</head>
+                            <app from="#l4a3" to="#l4a4">
+                                <lem>richede</lem>
+                                <rdgGrp>
+                                    <rdg>rechiede <wit><ref target="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
+                                    <rdg wit="#Sq">richiede</rdg>
+                                </rdgGrp>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>5</head>
+                            <app from="#l5a1" to="#l5a2">
+                                <lem>e</lem>
+                                <rdg wit="#Sq">et</rdg>
+                            </app>
+                            <app from="#l5a3" to="#l5a4">
+                                <lem>se</lem>
+                                <rdg wit="#Sq">si</rdg>
+                            </app>
+                            <app from="#l5a5" to="#l5a6">
+                                <lem>caçça</lem>
+                                <rdgGrp>
+                                    <rdg wit="#PS #R">chaça</rdg>
+                                    <rdg wit="#Sq">caccia</rdg>
+                                </rdgGrp>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>7</head>
+                            <app from="#l7a1" to="#l7a2">
+                                <lem>vol</lem>
+                                <rdg wit="#R #Sq">vuol</rdg>
+                            </app>
+                            <app from="#l7a3" to="#l7a4">
+                                <lem>donqua</lem>
+                                <rdgGrp>
+                                    <rdg wit="#PS #R">doncha</rdg>
+                                    <rdg wit="#Sq">dunque</rdg>
+                                </rdgGrp>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>8</head>
+                            <app from="#l8a3" to="#l8a4">
+                                <lem>saietta</lem>
+                                <rdg wit="#Sq">saetta</rdg>
+                            </app>
+                        </listApp>
+                    </listApp>
+                    <div type="metricalScheme">
+                        <p>Ballata minore 10’z 10’z; 6’a 10’b, 6’a 10’b; 10’b 10’z.</p>
+                        <p><hi rend="italic">Pagnotta</hi> 111 : 205.</p> 
+                    </div>
+                    <listBibl type="editions">
+                        <bibl corresp="#Frati1915">
+                            Frati 1915, p. 85;
+                        </bibl>
+                        <bibl corresp="#Sapegno 1952">
+                            Sapegno 1952, p. 491;
+                        </bibl>
+                        <bibl corresp="#Corsi1970">
+                            Corsi 1970, pp. XCVIII-XCIX;
+                        </bibl>
+                        <bibl corresp="#Marcon2021">
+                            Marcon 2021, p. 95.
+                        </bibl>
+                    </listBibl>
+                    <div type="commentary">
+                        <note target="#l5 #l6">
+                            <num>5-6</num>
+                            ‘e per molto tempo si cerca di ottenere quello che Fortuna concede in un momento’.
+                        </note>
+                    </div>
+                </back>
+            </text>
+            <text type="secondaryText">
+                <!--front>
+                </front-->
+                <body>
+                    <head><hi rend="italic">Edizione ristretta alla tradizione musicale</hi> (Sq)</head>
+                    <lg>
+                        <l>
+                            Chi tempo à et per viltà tempo aspecta, 
+                        </l>
+                        <l>
+                            se ’l perde, quel non racquista in fretta. 
+                        </l>
+                    </lg>
+                    <lg>
+                        <l>
+                            Però chi dé far faccia, 
+                        </l>
+                        <l>
+                            perché ben far non richiede dimora,
+                        </l>
+                        <l>
+                            et gran tempo si caccia
+                        </l>
+                        <l>
+                            quel che fortuna concede in un’ ora.
+                        </l>
+                        <l>
+                            Fin che ventura vuol, dunque, lavora,
+                        </l>
+                        <l>
+                            ché ’l tempo passa quanto una saetta.
+                        </l>
+                    </lg>
+                </body>
+                <!--back>
+                </back-->
+            </text>
+        </group>
+    </text>
+</TEI>

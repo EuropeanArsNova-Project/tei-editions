@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Se par plour ou par dueil mener / Se par plour ou par dueil mener</title>
+            <respStmt>
+               <resp>Digital scholarly editon created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Alice Colantuoni</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Davide Checchi</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>    
+      </front-->
+      <group>
+         <text>
+            <body>
+               <head>Se par plour ou par dueil mener / peusse morir</head>
+               <lg>
+                  <l xml:id="t1l1">
+                     Se par plour ou par dueil mener
+                  </l>
+                  <l xml:id="t1l2">
+                     peusse morir, voir je moroye,
+                  </l>
+                  <l xml:id="t1l3">
+                     en moy si n’est solas ne joye
+                  </l>
+                  <l xml:id="t1l4">
+                     quant voy mon amy en aler.
+                  </l>
+                  <l xml:id="t1l5" n="5">
+                     Tristes sui de tout mon penser,
+                  </l>
+                  <l xml:id="t1l6">
+                     car de parfait <anchor xml:id="t1l6a1"/>cuer<anchor xml:id="t1l6a2"/> je l’amoye;
+                  </l>
+                  <l xml:id="t1l7">
+                     <hi rend="italic">
+                        se par <supplied xml:id="t1l7s1" corresp="#t1l8s1">[plour ou par dueil mener</supplied>
+                     </hi>
+                  </l>
+                  <l xml:id="t1l8">
+                     <hi rend="italic">
+                        <supplied xml:id="t1l8s1">peusse morir, voir je moroye]</supplied>.
+                     </hi>
+                  </l>
+                  <l xml:id="t1l9">
+                     Cy ne me plet, tout m’est amer,
+                  </l>
+                  <l xml:id="t1l10" n="10">
+                     deport trouver je ne saroye
+                  </l>
+                  <l xml:id="t1l11">
+                     et confort trop loins je queroye
+                  </l>
+                  <l xml:id="t1l12">
+                     ains que je la peüse trouver:
+                  </l>
+                  <l xml:id="t1l13">
+                     <hi rend="italic">
+                        se par plour
+                        <supplied xml:id="t1l13s1" corresp="#t1l14s1 #t1l15s1 #t1l16s1">[ou par dueil mener</supplied>
+                     </hi>
+                  </l>
+                  <l xml:id="t1l14">
+                     <supplied xml:id="t1l14s1">peusse morir, voir je moroye,</supplied>
+                  </l>
+                  <l xml:id="t1l15" n="15">
+                     <hi rend="italic">
+                        <supplied xml:id="t1l15s1">en moy si n’est solas ne joye	</supplied>
+                     </hi>
+                  </l>
+                  <l xml:id="t1l16">
+                     <hi rend="italic">
+                        <supplied xml:id="t1l16s1">quant voy mon amy en aler]</supplied>.
+                     </hi>
+                  </l>            
+               </lg>
+            </body>
+            <back>
+               <listApp type="substantial">
+                  <listApp>
+                     <head>6</head>
+                     <app from="#t1l6a1" to="#t1l6a2">
+                        <lem>cuer</lem>
+                        <rdg wit="#Ox2"><witDetail wit="#Ox2"><hi rend="italic">abbreviato con disegno a forma di cuore</hi></witDetail></rdg>
+                     </app>
+                  </listApp>
+               </listApp>
+               <div type="metricalScheme">
+                  <p>
+                     <hi rend="italic">Rondeau</hi> 8A 8’B 8’B 8A; 8a 8’b, 8A 8’B; 8a 8’b 8’b 8a; 8A 8’B 8’B 8A.
+                  </p>
+                  <p>
+                     Rima ricca ai vv. 2 : 10 : 11.
+                  </p>
+               </div>
+               <div type="commentary">
+                  <note target="#t1l4">
+                     <num>4.</num>
+                     <hi rend="italic">luy</hi>:
+                     ‘parlare di, raccontare’, cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">endire</hi>.
+                  </note>
+                  <note target="#t1l6">
+                     <num>4.</num>
+                     <hi rend="italic">andire</hi>:
+                     riferito a <hi rend="italic">mon cuer</hi> (v. 3).
+                  </note>
+               </div>
+            </back>
+         </text>
+         <text>
+            <body>
+               <head>Se par plour ou par dueil mener / peuse mon</head>
+               <lg>
+                  <l xml:id="l1">
+                     Se par plour ou par dueil mener 
+                  </l>
+                  <l xml:id="l2">
+                     peuse mon dous amy rayvoir,
+                  </l>
+                  <l xml:id="l3">
+                     je <anchor xml:id="l3a1"/>[plo]roye<anchor xml:id="l3a2"/>, car tout pour voir
+                  </l>
+                  <l xml:id="l4">
+                     mon cuer ne fait que regretter.
+                  </l>
+                  <l xml:id="l5" n="5">
+                     En tout le monde n’a son per	,
+                  </l>
+                  <l xml:id="l6">
+                     mais je seroye en doulx espoir
+                  </l>
+                  <l xml:id="l7">
+                     <hi rend="italic">
+                        se par plour 
+                        <supplied xml:id="s1l7" corresp="#s1l8">[ou par dueil mener</supplied>
+                     </hi>
+                  </l>
+                  <l xml:id="l8">
+                     <hi rend="italic"><supplied xml:id="s1l8">peuse mon dous amy rayvoir]</supplied>:</hi>
+                  </l>
+                  <l xml:id="l9">
+                     son noble atour, son doulx parler,
+                  </l>
+                  <l xml:id="l10" n="10">
+                     qui tant plaisant fait a vëoir
+                  </l>
+                  <l xml:id="l11">
+                     que ja ne vodroye doloir.
+                  </l>
+                  <l xml:id="l12">
+                     Pour dolour que peusse endurer,
+                  </l>
+                  <l xml:id="l13">
+                     <hi rend="italic">
+                        se par plour
+                        <supplied corresp="#s1l14 #s1l15 #s1l16">[ou par dueil mener</supplied>
+                     </hi>
+                  </l>
+                  <l xml:id="l14">
+                     <hi rend="italic"><supplied xml:id="s1l14">peuse mon dous amy rayvoir</supplied></hi>
+                  </l>
+                  <l xml:id="l15" n="15">
+                     <hi rend="italic"><supplied xml:id="s1l15">je ploroye, car tout pour voir</supplied></hi>
+                  </l>
+                  <l xml:id="l16">
+                     <hi rend="italic"><supplied xml:id="s1l16">mon cuer ne fait que regretter]</supplied>.</hi>
+                  </l>            
+               </lg>
+            </body>
+            <back>
+               <listApp type="substantial">
+                  <listApp>
+                     <head>3</head>
+                     <app from="#l3a1" to="#l3a2">
+                        <lem>ploroye</lem>
+                        <rdg wit="#Ox2">roye</rdg>
+                     </app>
+                  </listApp>
+               </listApp>
+               <div type="metricalScheme">
+                  <p>
+                     <hi rend="italic">Rondeau</hi> 8A 8B 8B 8A; 8a 8b, 8A 8B; 8a 8b 8b 8a; 8A 8B 8B 8A.
+                  </p>
+                  <p>
+                     Rima inclusiva e derivativa ai vv. 2 : 3.
+                  </p>
+               </div>
+               <div type="commentary">
+                  <note target="#l2">
+                     <num>2.</num>
+                     <hi rend="italic">esay</hi>:
+                     il v. <hi rend="italic">esayer</hi> andrà inteso nel senso di ‘fare esperienza di (qualcosa), vivere (qualcosa)’, cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">essayer</hi>.
+                  </note>
+                  <note target="#l12">
+                     <num>12.</num>
+                     <hi rend="italic">de moy te voye</hi>:
+                     ‘che tu rifletta su di me’; cf. la costruzione <hi rend="italic">voir de (qqn/qqc)</hi>: ‘riflettere su’, <hi rend="italic">DMF</hi> s.v. <hi rend="italic">voir1</hi>.
+                  </note>
+               </div>
+            </back>
+         </text>
+      </group>      
+      <back>
+         <listWit>            
+            <witness xml:id="Ox2">
+               <ref type="siglum" target="#Ox2">Ox2</ref> 
+               <locus>c. 110r</locus>, <abbr xml:id="Ox2C1">C1</abbr> (<hi rend="italic">Se par plour ou par dueil mener / peusse morir</hi> vv. 1-4);
+               <abbr xml:id="Ox2C2">C2</abbr> (<hi rend="italic">Se par plour ou par dueil mener / peuse mon</hi> vv. 1-4),
+               <hi rend="italic">resid.</hi> (<hi rend="italic">Se par plour ou par dueil mener / peusse morir</hi> vv. 5-16; <hi rend="italic">Se par plour ou par dueil mener / peuse mon</hi> vv. 5-16):
+               <hi rend="italic">joh(ann)es cesaris</hi>         
+            </witness>
+         </listWit>         
+         <listBibl type="editions">
+            <bibl corresp="#Reaney1955">Reaney 1955, p. <hi rend="small-caps">iii</hi>.</bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

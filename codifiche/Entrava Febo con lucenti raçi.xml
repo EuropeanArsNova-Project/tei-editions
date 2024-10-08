@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Entrava Febo con lucenti raçi</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Vittoria Brancato</name> 
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1">Entrava Febo con lucenti raçi</l>
+                <l xml:id="l2">nel segno dʼArïete, che facea</l>
+                <l xml:id="l3">che ciascun prato dʼerba <anchor xml:id="l3a1"/>et<anchor xml:id="l3a2"/> fiorʼ vestia,</l>
+                <l xml:id="l4">quando, in un fiume dʼacqua pura et chiara</l>
+                <l xml:id="l5" n="5">con quella vaga et più che Thetis bella,</l>
+                <l xml:id="l6"><anchor xml:id="l6a1"/><supplied reason="illegible">[o]</supplied> me<anchor xml:id="l6a2"/> trovai donando a·qquella.</l>
+            </lg>
+            <lg>
+                <l xml:id="l7">Rendenne graçiʼ <anchor xml:id="l7a1"/>a·mmi<anchor xml:id="l7a2"/> et lʼinchinai: </l>
+                <l xml:id="l8">più dolçe tempo non sentiʼ giammai.</l>
+            </lg>
+
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Sq">
+                    <ref type="siglum" target="#Sq">Sq</ref> cc. <locus>20v-21r</locus>, <abbr xml:id="SqC"
+                        >C</abbr> (vv. 1-3 e 7-8), <abbr
+                            xml:id="SqT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">resid.</hi> (vv. 4-6): <hi rend="italic">magister iachobus de bononia</hi>
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>et</lem>
+                        <rdg type="omission"><hi rend="italic">om.</hi> <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>pescando me</lem>
+                        <rdg>pescandamme  <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                </listApp>  
+
+            </listApp>
+
+
+
+            <listApp type="formal">
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>a·mmi</lem>
+                        <rdg>a·mmi <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+
+
+            <div type="metricalScheme">
+                <p>Madrigale 10ʼa 10ʼb 10ʼb, 10ʼc 10ʼd 10ʼd; 10ʼe 10ʼe. </p>
+                <p><hi rend="italic">Capovilla</hi> <hi rend="small-caps">xlviii</hi>.</p>
+                <p>Rima siciliana ai vv. 2 : 3.</p>
+            </div>
+
+
+            <listBibl type="editions">
+
+                <bibl corresp="#LiGotti1944a"> Li Gotti 1944a, p. 381;</bibl>
+
+                <bibl corresp="#Corsi1969"> Corsi 1969, p. 1017;</bibl>
+
+                <bibl corresp="#Corsi1970"> Corsi 1970, pp. 32-3.</bibl>
+
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl>-->
+
+
+            <div type="commentary">
+                <note>Il Sole, entrando nel segno di Ariete a primavera, con i suoi raggi riveste i prati di erba e fiori. Parallelamente avviene la consacrazione del poeta alla donna amata, più bella di Teti (moglie di Peleo, madre di Achille).</note>
+
+                <note target="#l6">
+                    <num>6.</num>
+                    <p>Il madrigale è complesso dal punto di vista sintattico, piuttosto ricco di subordinate. <hi rend="italic">Me trovai</hi> sembra reggere <hi rend="italic">donando</hi>, e il passo forse va inteso ʻmi trovai a donare me stesso a quella donnaʼ (con <hi rend="italic">pescando</hi> che va fatto dipendere da <hi rend="italic">quando</hi> al v. 4). Diversamente sembra intendere Corsi, che stampa il verso con una virgola dopo trovai «pescando me trovai, donando a quella». </p>
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+
+                <bibl xml:id="LiGotti1944a"> Ettore Li Gotti, <hi rend="italic">L'«Ars nova» e il madrigale</hi>, serie 4, vol. IV, parte II, Atti della Reale Accademia di Scienze Lettere e Arti di Palermo, Palermo, 1944, pp. 339-89.</bibl>
+
+                <bibl xml:id="Corsi1969">G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969.</bibl>
+
+                <bibl xml:id="Corsi1970"> Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).</bibl>
+
+            </listBibl>
+        </back>
+    </text>
+</TEI>

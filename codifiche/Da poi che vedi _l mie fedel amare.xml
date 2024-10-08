@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Da poi che vedi ’l mie fedel amare</title>
+                <author>Francesco Landini</author>
+                <editor>Davide Checchi</editor>
+                <respStmt>
+                    <resp>Digital scholarly editon created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Davide Checchi</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoding by</resp>
+                    <name>Alice Colantuoni</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+            <div>
+                <p>
+                </p>
+            </div>
+        </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">Da poi che vedi ’l mie fedel amare,</l>
+                <l xml:id="l2">donna, perché mi fai più consumare?</l>
+            </lg>
+            <lg>
+                <l xml:id="l3">Tu puo’ conprender per segni <anchor xml:id="l3a1"/>del<anchor xml:id="l3a2"/> viso,</l>
+                <l xml:id="l4">c’ogn’ altra donna m’è del cuor fugita.</l>
+                <l xml:id="l5" n="5">Tu sola se’ che m’à’ preso et conquiso,</l>
+                <l xml:id="l6">tu sola se’ mie sperança, mie vita.</l>
+                <l xml:id="l7">Piacciti dar rimedio alla fedita,</l>
+                <l xml:id="l8">c’altra che tu non mi può aïtare.</l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="Sq">
+                    <ref type="siglum" target="#Sq">Sq</ref>
+                    cc. <locus>150r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4), <hi rend="italic"> resid. </hi>. (vv. 5-8): <hi rend="italic"> magister franciscus cecus horganista de florentia </hi>
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <!-- Crea un elemento app per ogni entrata dell'apparato critico -->
+                        <lem>del</lem>
+                        <!-- Per le varianti con riferimenti agli interi manoscritti -->
+                        <!-- Per le varianti con riferimenti alle parti nel mansocritto -->
+                        <rdg>nel <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p>
+                    Ballata minore 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z.
+                    <hi rend="italic">Pagnotta</hi> 111 : 111.
+                    <hi rend="italic">Punti sottoscritti</hi>: v.1 <hi rend="italic">poị</hi> Sq<hi rend="super">T</hi>
+                </p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Corsi1970">Corsi, Poesie p. 151</bibl>
+            </listBibl>
+                    </back>
+    </text>
+</TEI>

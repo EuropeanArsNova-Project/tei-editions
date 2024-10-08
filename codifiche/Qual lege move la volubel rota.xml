@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Qual lege move la volubel rota?</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the </resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Maria Sofia Lannutti</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Carla Congiu</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>
+         <div>
+            <p>
+           </p>
+         </div>         
+      </front-->
+      <body>
+        <lg>
+            <l xml:id="l1">
+		        Qual <anchor xml:id="l1a3"/>lege<anchor xml:id="l1a4"/> move la <anchor xml:id="l1a1"/>volubel<anchor xml:id="l1a2"/> rota?
+	        </l>
+            <l xml:id="l2">
+		        Fortuna <anchor xml:id="l2a1"/>cieca<anchor xml:id="l2a2"/>: <anchor xml:id="l2a3"/><anchor xml:id="l2a5"/>l’om<anchor xml:id="l2a6"/> da<anchor xml:id="l2a4"/> <anchor xml:id="l2a7"/>nul’<anchor xml:id="l2a8"/> ascende
+	        </l>
+            <l xml:id="l3">
+		        e ’l più <anchor xml:id="l3a1"/>cativo<anchor xml:id="l3a2"/> più <anchor xml:id="l3a3"/>triumpho<anchor xml:id="l3a4"/> prende;
+	        </l>
+            <l xml:id="l4">
+		        quello a chi de beltà la verde fronde
+	        </l>
+            <l xml:id="l5" n="5">
+                cinge la testa, el fianco in tera preme
+	        </l>
+            <l xml:id="l6">
+                e mendicando reduce <anchor xml:id="l6a1"/>alle<anchor xml:id="l6a2"/> streme.
+	        </l>
+        </lg>
+        <lg>
+            <l xml:id="l7">
+		        <anchor xml:id="l7a1"/>Vedese<anchor xml:id="l7a2"/> la <anchor xml:id="l7a5"/>virtù<anchor xml:id="l7a6"/> quando <anchor xml:id="l7a3"/><anchor xml:id="l7a7"/>l’om<anchor xml:id="l7a8"/> perde<anchor xml:id="l7a4"/>
+	        </l>
+            <l xml:id="l8">
+		        e ’l <anchor xml:id="l8a5"/>vicio<anchor xml:id="l8a6"/> <anchor xml:id="l8a1"/>quando ’l entr’ <anchor xml:id="l8a3"/>al<anchor xml:id="l8a4"/><anchor xml:id="l8a2"/> prato verde.
+	        </l>
+        </lg>
+       </body>
+      <back>
+        <listWit>
+            <witness xml:id="R">
+               <ref type="siglum" target="#R">R</ref>
+               cc. <locus>21v-22r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="RT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid</hi>. (vv. 4-6)
+            </witness>
+            <witness xml:id="Lo">
+               <ref type="siglum" target="#Lo">Lo</ref>
+               cc. <locus>20v-21r</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="LoT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">fr(atr)is bartolini de padoua</hi>
+            </witness>
+            <witness xml:id="Sq">
+               <ref type="siglum" target="#Sq">Sq</ref>
+               cc. <locus>119v-120r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7-8): <hi rend="italic">magister frater bartolinus de padua</hi>
+            </witness>
+        </listWit>
+        <listApp type="substantial">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>volubel</lem>
+                        <rdg>volube <wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>cieca</lem>
+                        <rdg wit="#Lo">ciacha</rdg>
+                    </app>
+                    <app from="#l2a3" to="#l2a4">
+                        <lem>l’om da</lem>
+                        <rdgGrp>
+                            <rdg><wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                            <rdg wit="#Sq">et luon da</rdg>
+                        </rdgGrp>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>alle</lem>
+                        <rdg wit="#R">agle</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>Vedese</lem>
+                        <rdg wit="#R">vedesa</rdg>
+                    </app>
+                    <app from="#l7a3" to="#l7a4">
+                        <lem>quando l’om perde</lem>
+                        <rdg>qua dolor prede <wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem>quando ’l entr’ al</lem>
+                        <rdgGrp>
+                            <rdg>quando lenta <wit><ref target="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
+                            <rdg wit="#Lo">quado letra prato</rdg>
+                            <rdg>quandentra el <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                        </rdgGrp>
+                    </app>
+                    <app from="#l8a3" to="#l8a4">
+                        <lem>al</lem>
+                        <rdgGrp>
+                            <rdg wit="#Lo">a <wit><ref target="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
+                            <rdg>el <wit><ref target="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                        </rdgGrp>
+                    </app>
+                </listApp>
+        </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a3" to="#l1a4">
+                        <lem>lege</lem>
+                        <rdgGrp>
+                            <rdg>legie <wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                            <rdg>leçe <wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                            <rdg wit="#Sq">legge</rdg>
+                        </rdgGrp>
+                    </app>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>volubel</lem>
+                        <rdg wit="#Sq">volubil</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a5" to="#l2a6">
+                        <lem>l’om</lem>
+                        <rdg wit="#Sq">luon</rdg>
+                    </app>
+                    <app from="#l2a7" to="#l2a8">
+                        <lem>nul’</lem>
+                        <rdg wit="#Lo #Sq">null</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>cativo</lem>
+                        <rdg wit="#Sq">cattivo</rdg>
+                    </app>
+                    <app from="#l3a3" to="#l3a4">
+                        <lem>triumpho</lem>
+                        <rdg wit="#Lo #Sq">triunfo</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>Vedese</lem>
+                        <rdgGrp>
+                            <rdg>vedesse <wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                            <rdg wit="#Sq">vedisi</rdg>
+                        </rdgGrp>
+                    </app>
+                    <app from="#l7a3" to="#l7a4">
+                        <lem>virtù</lem>
+                        <rdg wit="#Lo #Sq">vertu</rdg>
+                    </app>
+                    <app from="#l7a5" to="#l7a6">
+                        <lem>l’om</lem>
+                        <rdgGrp>
+                            <rdg>luom <wit><ref target="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                            <rdg>vedisi <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                        </rdgGrp>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a5" to="#l8a6">
+                        <lem>vicio</lem>
+                        <rdgGrp>
+                            <rdg>vitio <wit><ref target="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                            <rdg wit="#Sq">viçio <wit><ref target="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                        </rdgGrp>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p>Madrigale 10’a 10’b 10’b, 10’c 10’d 10’d; 10’e 10’e.</p>
+                <p><hi rend="italic">Capovilla</hi> XLVIII.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Corsi1970">
+                    Corsi 1970, pp. 242-3.
+                </bibl>
+            </listBibl>
+            <div type="commentary">
+                <note target="#l8">
+                    <num>8.</num>
+                    <hi rend="italic">quando ’l</hi>: vale <hi rend="italic">quando el</hi>.
+                </note>
+            </div>
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Corsi1970">
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>
