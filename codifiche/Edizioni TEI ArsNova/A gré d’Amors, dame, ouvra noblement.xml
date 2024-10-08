@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>A gré d’Amors, dame, ouvra noblement</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Vittoria Brancato</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+            <div>
+                <p>
+                </p>
+            </div>         
+        </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    A gré d’Amors, dame, <anchor xml:id="l1a1"/>ouvra<anchor xml:id="l1a2"/> noblement
+                </l>
+                <l xml:id="l2">
+                    Nature, quant en vous mist par plasanche
+                </l>
+                <l xml:id="l3">
+                    tous ses biens, <anchor xml:id="l3a1"/>qu<supplied>[e]</supplied> on<anchor xml:id="l3a2"/> y voit clerement:
+                </l>
+                <l xml:id="l4">
+                    <anchor xml:id="l4a1"/>honeste<supplied>[té]</supplied><anchor xml:id="l4a2"/>, bonté et atempranche,
+                </l>
+                <l xml:id="l5" n="5">
+                    o <anchor xml:id="l5a1"/>dou<supplied>[che dame]</supplied><anchor xml:id="l5a2"/> plaine de douchour,
+                </l>
+                <l xml:id="l6">
+                    joye, desduit, gent <anchor xml:id="l6a1"/>mantie<supplied>[n]</supplied>g<anchor xml:id="l6a2"/> et baudour,
+                </l>
+                <l xml:id="l7">
+                    et riens n’y faut; dont, madame sans per, 
+                </l>
+                <l xml:id="l8">
+                    <hi rend="italic">en vous <anchor xml:id="l8a1"/>servir<anchor xml:id="l8a2"/> vueil mon tamps dispenser.</hi>
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="R">
+                    <ref type="siglum" target="#R">R</ref>
+                    c. <locus>62r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-8)
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>ouvra</lem>
+                        <rdg wit="#R">ouvray</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>que on</lem>
+                        <rdg wit="#R">quon</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>honesteté</lem>
+                        <rdg wit="#R">honeste</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a1" to="#l5a2">
+                        <lem>douche dame</lem>
+                        <rdg wit="#R">douz</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>mantieng</lem>
+                        <rdg wit="#R">mantieg</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem>servir</lem>
+                        <rdg wit="#R">soervir</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <!--listApp type="formal">
+            </listApp-->
+            <div type="metricalScheme">
+                <p><hi rend="italic">Ballade</hi> 10a 10’b, a 10’b; 10c 10c 10d 10D.</p>
+                <p>Rima ricca ai vv. 1: 3.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Apel-Rosenberg1971">
+                    Apel-Rosenberg 1971, p. XXI.
+                </bibl>
+            </listBibl>
+            <div type="commentary">
+                <note target="#l3">
+                    <num>3.</num>
+                    Minimo intervento su <hi rend="italic">quon (qu’on)</hi> del ms., con <hi rend="italic">qu[e] on</hi> che permette lettura con dialefe e quindi computo sillabico corretto anche per questo verso.
+                </note>
+                <note target="#l4">
+                    <num>4.</num>
+                    Ristabilisco la sillaba finale <hi rend="italic">-té</hi> in <hi rend="italic">honeste</hi>, necessaria al metro e al senso, caduta per aplografia.
+                </note>
+                <note target="#l5">
+                    <num>5.</num>
+                    In R il verso si presenta nella forma <hi rend="italic">o douz plaine de douchour</hi>: oltre a dare un problema di senso, <hi rend="italic">douz</hi> (agg. o sostantivo che sia) è al maschile, ma sembra da riferire  al femminile <hi rend="italic">plaine</hi>. Il verso parrebbe anche carente di tre sillabe (se la strofa si articola in tutti <hi rend="italic">décasyllabes</hi>), per cui intervengo ipotizzando lezione originaria <hi rend="italic">douche dame</hi>. 
+                </note>
+                <note target="#l6">
+                    <num>6.</num>
+                    <hi rend="italic">mantieng</hi>: sulla forma <hi rend="italic">mantieg</hi> di R intervengo ad inserire la nasale, caduta forse per mancato inserimento di compendio. Per il sostantivo vedi <hi rend="italic">DMF</hi>, s.v. <hi rend="italic">maintien</hi> § B. 2 ‘position, posture’; ‘manière de se tenir’.
+                </note>
+                <note target="#l7">
+                    <num>7.</num>
+                    <hi rend="italic">faut</hi>: lett. ‘fallisce’, ‘viene meno’, per cui vedi <hi rend="italic">DMF</hi>, s.v. <hi rend="italic">faillir</hi>.
+                </note>
+            </div>
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Apel-Rosenberg1971">
+                    Willi Apel, <hi rend="italic">French Secular Compositions of the Fourteenth Century II. Anonymous Ballades</hi>, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1971 (CMM, 53/2).
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

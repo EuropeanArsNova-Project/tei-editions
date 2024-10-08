@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vidi, nellʼombra dʼuna bella luce</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Maria Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+        <!-- <front>
+            <div>
+            </div>
+        </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1">
+                <anchor xml:id="l1a1"/>Vidi, <anchor xml:id="l1a2"/>nellʼombra<anchor xml:id="l1a3"/> dʼuna <anchor xml:id="l1a4"/>bella<anchor xml:id="l1a5"/> luce,
+            </l>
+            <l xml:id="l2">
+                Amor,<anchor xml:id="l2a2"/> che verso<anchor xml:id="l2a3"/> me forte spronava<anchor xml:id="l2a1"/>
+            </l>
+            <l xml:id="l3">
+                <anchor xml:id="l3a1"/>gridandomi<anchor xml:id="l3a2"/>: «Staʼ <anchor xml:id="l3a4"/>fermʼ<anchor xml:id="l3a5"/>!», <anchor xml:id="l3a6"/>e<anchor xml:id="l3a7"/> io <anchor xml:id="l3a3"/>stava<anchor xml:id="l3a8"/>.
+            </l>
+            <l xml:id="l4">
+                <anchor xml:id="l4a1"/>Giunto, <anchor xml:id="l4a2"/>el signore<anchor xml:id="l4a3"/> disse: «<anchor xml:id="l4a4"/>Noʼ<anchor xml:id="l4a5"/> vogliamo
+            </l>
+            <l xml:id="l5" n="5">
+                che·ttu sia <anchor xml:id="l5a1"/>servo<anchor xml:id="l5a2"/> dʼesta bella <anchor xml:id="l5a3"/>cosa<anchor xml:id="l5a4"/>,
+            </l>
+            <l xml:id="l6">
+                nel <anchor xml:id="l6a4"/>cui piacer ogni <anchor xml:id="l6a2"/>virtù<anchor xml:id="l6a3"/> si posa».<anchor xml:id="l6a1"/>
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l7">
+                Allora <anchor xml:id="l7a1"/>me <anchor xml:id="l7a5"/>e llei<anchor xml:id="l7a2"/> per la<anchor xml:id="l7a3"/>man<anchor xml:id="l7a4"/> prese,
+            </l>
+            <l xml:id="l8">
+                <anchor xml:id="l8a1"/>et <anchor xml:id="l8a7"/>fecel<anchor xml:id="l8a3"/>ʼ <anchor xml:id="l8a4"/>a mie vistʼ<anchor xml:id="l8a5"/> allor<anchor xml:id="l8a6"/> palese<anchor xml:id="l8a8"/>.<anchor xml:id="l8a2"/>
+            </l>
+        </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="Pit">
+                <ref type="siglum" target="#Pit">Pit</ref>
+                cc. <locus>23v-24r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-3 e 7), <abbr xml:id="PitT">T</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid.</hi> (vv. 4-6): <hi rend="italic">s(er) lorenço</hi>
+            </witness>
+            <witness xml:id="Fp">
+                <ref type="siglum" target="#Fp">Fp</ref>
+                cc. <locus>78v-79r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="FpT">T</abbr> (vv. 1-3 e 7), <hi rend="italic">resid.</hi> (vv. 4-6): <hi rend="italic">s(er) lorenço</hi>
+            </witness>
+            <witness xml:id="Lo">
+                <ref type="siglum" target="#Lo">Lo</ref>
+                cc. <locus>33v-34r</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="LoT">T</abbr> (vv. 1-3 e 7), <hi rend="italic">resid.</hi> (vv. 4-6): <hi rend="italic">madrialle di s(er) lorenço prete</hi>
+            </witness>
+            <witness xml:id="Sq">
+                <ref type="siglum" target="#Sq">Sq</ref>
+                cc. <locus>47v-48r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 7): <hi rend="italic">magister laurentius de florentia</hi>
+            </witness>
+            <witness xml:id="O1">
+                <ref type="siglum" target="#O1">O1</ref>
+                c. <locus>77v</locus>, <abbr xml:id="O1C">C</abbr> (vv. 3 e 7)
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+                <head>1-2</head>
+                <app from="#l1a1" to="#l2a1">
+                    <rdg wit="#O1"/>
+                </app>
+            </listApp>
+            <listApp>
+                <head>2</head>
+                <app from="#l2a2" to="#l2a3">
+                    <lem>che verso</lem>
+                    <rdg>che nverso <wit><ref corresp="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>3</head>
+                <app from="#l3a1" to="#l3a2">
+                    <lem>gridandomi</lem>
+                    <rdg wit="#O1"><gap reason="illegible" rend="per l.m."/>dadomi</rdg>
+                </app>
+                <app from="#l3a3" to="#l3a8">
+                    <lem>stava</lem>
+                    <rdg wit="#O1">stai va </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>4-6</head>
+                <app from="#l4a1" to="#l6a1">
+                    <rdg wit="#Sq #O1"/>
+                </app>
+            </listApp>
+            <listApp>
+                <head>5</head>
+                <app from="#l5a1" to="#l5a2">
+                    <lem>servo</lem>
+                    <rdg>serva <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>6</head>
+                <app from="#l6a2" to="#l6a3">
+                    <lem>virtù</lem>
+                    <rdg>viritu <witDetail wit="LoC"><hi rend="italic">(+1)</hi></witDetail> <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>7</head>
+                <app from="#l7a1" to="#l7a2">
+                    <lem>me e llei</lem>
+                    <rdg wit="#O1">me ella</rdg>
+                </app>
+                <app from="#l7a3" to="#l7a4">
+                    <lem>man</lem>
+                    <rdg wit="#O1">ma </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>8</head>
+                <app from="#l8a1" to="#l8a2">
+                    <rdg wit="#O1"/>
+                </app>
+                <app from="#l8a1" to="#l8a3">
+                    <lem>et fecel</lem>
+                    <rdg>e feci <wit><ref corresp="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+                <app from="#l8a4" to="#l8a5">
+                    <lem>a mie vistʼ</lem>
+                    <rdg>la mia vista <wit><ref corresp="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+                <app from="#l8a5" to="#l8a6">
+                    <lem>allor</lem>
+                    <rdg>a lle <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+                <head>1</head>
+                <app from="#l1a2" to="#l1a3">
+                    <lem>nellʼombra</lem>
+                    <rdg>nelombra <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+                <app from="#l1a4" to="#l1a5">
+                    <lem>bella</lem>
+                    <rdg>bela <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>3</head>
+                <app from="#l3a1" to="#l3a2">
+                    <lem>gridandomi</lem>
+                    <rdg>gri gri dandomi <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+                <app from="#l3a4" to="#l3a5">
+                    <lem>fermʼ</lem>
+                    <rdg wit="#O1">fermo </rdg>
+                </app>
+                <app from="#l3a6" to="#l3a7">
+                    <lem>e</lem>
+                    <rdg>ed <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>4</head>
+                <app from="#l4a2" to="#l4a3">
+                    <lem>el signore</lem>
+                    <rdg>l signiore <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit> <wit><ref corresp="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+                <app from="#l4a4" to="#l4a5">
+                    <lem>Noʼ</lem>
+                    <rdg>noi <wit><ref corresp="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>5</head>
+                <app from="#l5a3" to="#l5a4">
+                    <lem>cosa</lem>
+                    <rdg>chossa <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>6</head>
+                <app from="#l6a4" to="#l6a2">
+                    <lem>cui piacer ogni</lem>
+                    <rdg>chuy piacere ongni <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>7</head>
+                <app from="#l7a5" to="#l7a2">
+                    <lem>e llei</lem>
+                    <rdg wit="#Sq">e lei </rdg>
+                    <rdg wit="#Pit">e llei </rdg>
+                    <rdg wit="#Lo">e lle </rdg>
+                </app>
+                <app from="#l7a2" to="#l7a4">
+                    <lem>per la man</lem>
+                    <rdg>perllama <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>8</head>
+                <app from="#l8a7" to="#l8a4">
+                    <lem>fecelʼ</lem>
+                    <rdg>fecciel <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+                <app from="#l8a6" to="#l8a8">
+                    <lem>palese</lem>
+                    <rdg>palesse <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+                Madrigale 10ʼa 10ʼb 10ʼb 10ʼc 10ʼd 10ʼd 10ʼe 10ʼe. 
+            </p>
+            <p>
+                <hi rend="italic">Capovilla</hi> <hi rend="small-caps">XLVIII</hi>.
+            </p>
+            <p>
+                Punti sottoscritti: v. 7 (<hi rend="italic">llei</hi>) Pit.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+                Corsi 1970, pp. 76-7;
+            </bibl>
+            <bibl corresp="#Fantini2015-2016">
+                Fantini 2015-2016, pp. 92-7.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+         <div type="commentary">
+            <note target="#l4">
+               <num>4.</num>
+               <p><hi rend="italic">altrui</hi>: indifferente lʼopposizione <hi rend="italic">altrui</hi> vs <hi rend="italic">altri</hi> Mg2 Mg6 C1 (gruppo n nella razionalizzazione operata da Leporatti).</p>
+            </note>
+            <note target="#l5">
+                <num>5.</num>
+                <p><hi rend="italic">e morte</hi>: la <hi rend="italic">singularis</hi> di Sq, <hi rend="italic">et morir</hi>, congrua per senso (a testo nellʼed. Branca), verosimilmente si è originata per influsso di <hi rend="italic">morir</hi> al v. 3 (cfr. anche De Robertis 1984, p. 131).</p>
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1970">
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+            </bibl>
+            <bibl xml:id="Fantini2015-2016">
+                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

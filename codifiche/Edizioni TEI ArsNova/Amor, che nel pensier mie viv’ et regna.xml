@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Amor, che nel pensier mie viv’ et regna</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the </resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Maria Sofia Lannutti</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Carla Congiu</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>
+         <div>
+            <p>
+           </p>
+         </div>         
+      </front-->
+      <body>
+        <lg>
+            <l xml:id="l1">
+		      <anchor xml:id="l1a1"/>Amor<anchor xml:id="l1a2"/>, che nel pensier <anchor xml:id="l1a3"/>mie<anchor xml:id="l1a4"/> viv’ et regna,
+	        </l>
+            <l xml:id="l2">
+		      d’est’ alta donna sopra <anchor xml:id="l2a3"/>ogn’<anchor xml:id="l2a4"/> <anchor xml:id="l2a1"/>altra<anchor xml:id="l2a2"/> <anchor xml:id="l2a5"/>insegna<anchor xml:id="l2a6"/>.
+	        </l>
+        </lg>
+        <lg>
+            <l xml:id="l3">
+		      Amor, Amor, <anchor xml:id="l3a1"/>ogni<anchor xml:id="l3a2"/> pensier m’<anchor xml:id="l3a3"/>induce<anchor xml:id="l3a4"/>,
+	        </l>
+            <l xml:id="l4">
+		      con dolce <anchor xml:id="l4a1"/>affanno<anchor xml:id="l4a2"/>, ben servir amore,
+	        </l>
+            <l xml:id="l5" n="5">
+              però che d’ogne <anchor xml:id="l5a1"/>nobiltà<anchor xml:id="l5a2"/> traluce
+	        </l>
+            <l xml:id="l6">
+		      la donna <anchor xml:id="l6a1"/>in<anchor xml:id="l6a2"/> vista fonte de valore.
+	        </l>
+            <l xml:id="l7">
+		      <anchor xml:id="l7a3"/>Dunque<anchor xml:id="l7a4"/>, <anchor xml:id="l7a1"/>dè<anchor xml:id="l7a2"/>, <anchor xml:id="l7a5"/>piaccia<anchor xml:id="l7a6"/> al mio <anchor xml:id="l7a7"/>degno<anchor xml:id="l7a8"/> signore
+	        </l>
+            <l xml:id="l8">
+		      che mi conservi in questa <anchor xml:id="l8a1"/>donna<anchor xml:id="l8a2"/> degna.
+	        </l>
+        </lg>
+       </body>
+      <back>
+         <listWit>
+            <witness xml:id="Sq">
+               <ref type="siglum" target="#Sq">Sq</ref>
+               c. <locus>109r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8): <hi rend="italic">magister frater bartolinus de padua</hi>
+            </witness>
+            <witness xml:id="R">
+               <ref type="siglum" target="#R">R</ref>
+               c. <locus>18r</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-4), <abbr xml:id="RT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-8)
+            </witness>
+            <witness xml:id="SL">
+               <ref type="siglum" target="#SL">SL</ref>
+               c. <locus>35v</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-4), <abbr xml:id="SLT">T</abbr> (vv. 1-4): illegibile.
+            </witness>
+            </listWit>
+           <listApp type="substantial">
+               <listApp>
+                 <head>1</head>
+                 <app from="#l1a1" to="#l1a2">
+                  <lem>Amor</lem>
+                  <rdg wit="#R">mor</rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>2</head>
+                 <app from="#l2a1" to="#l2a2">
+                  <lem>altra</lem>
+                  <rdg>alta <wit><ref target="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>3</head>
+                 <app from="#l3a1" to="#l3a2">
+                  <lem>ogni</lem>
+                  <rdg wit="#R">cogni</rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>6</head>
+                 <app from="#l6a1" to="#l6a2">
+                  <lem>in</lem>
+                  <rdg wit="#R"></rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>7</head>
+                 <app from="#l7a1" to="#l7a2">
+                  <lem>dè</lem>
+                  <rdg wit="#R">ben</rdg>
+                 </app>
+               </listApp>
+            
+           </listApp>
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a3" to="#l1a4">
+                  <lem>mie</lem>
+                  <rdg wit="#R">mio</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>2</head>
+               <app from="#l2a3" to="#l2a4">
+                  <lem>ogn’</lem>
+                  <rdg>ogni <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+               <app from="#l2a5" to="#l2a6">
+                  <lem>insegna</lem>
+                  <rdg wit="#R">ensegna</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>3</head>
+               <app from="#l3a3" to="#l3a4">
+                  <lem>induce</lem>
+                  <rdg wit="#R">enduce</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>4</head>
+               <app from="#l4a1" to="#l4a2">
+                  <lem>affanno</lem>
+                  <rdg>affano <wit><ref target="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>5</head>
+               <app from="#l5a1" to="#l5a2">
+                  <lem>nobiltà</lem>
+                  <rdg wit="#R">nobelta</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>7</head>
+               <app from="#l7a3" to="#l7a4">
+                  <lem>Dunque</lem>
+                  <rdg wit="#R">doncha</rdg>
+               </app>
+               <app from="#l7a5" to="#l7a6">
+                  <lem>piaccia</lem>
+                  <rdg wit="#R">piaça</rdg>
+               </app>
+               <app from="#l7a7" to="#l7a8">
+                  <lem>degno</lem>
+                  <rdg wit="#R">digno</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>8</head>
+               <app from="#l8a1" to="#l8a2">
+                  <lem>donna</lem>
+                  <rdg wit="#R">dona</rdg>
+               </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>Ballata minore 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z.</p> 
+            <p><hi rend="italic">Pagnotta</hi> 111 : 92</p>
+            </div>
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+               Corsi 1970, p. 245-6.
+            </bibl>
+         </listBibl>
+         <div type="commentary">
+            <note target="#l1">
+               <num>1.</num>. Il verso è identico all’incipit di <hi rend="italic">Rvf</hi> 140.
+            </note>
+            <note target="#l2">
+               <num>2.</num>. <hi rend="italic">insegna</hi>: ‘emblema’.
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1970">
+               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Povero çappator in chiusa valle</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Maria Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+      <!-- <front>
+         <div>
+            <p>
+            </p>
+         </div>
+      </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1">
+                <anchor xml:id="l1a1"/>Povero çappator in chiusa  <anchor xml:id="l1a2"/>valle <anchor xml:id="l1a3"/>
+            </l>
+            <l xml:id="l2">
+                son  <anchor xml:id="l2a1"/>aportato <anchor xml:id="l2a2"/> con diserto legno,
+            </l>
+            <l xml:id="l3">
+                rocto dal mar al  <anchor xml:id="l3a2"/>qual datʼ ò <anchor xml:id="l3a3"/> le spalle. <anchor xml:id="l3a1"/>
+            </l>
+            <l xml:id="l4">
+                Et  <anchor xml:id="l4a1"/>quel <anchor xml:id="l4a2"/> pianeto <anchor xml:id="l4a3"/>, chʼa fortunal segno
+            </l>
+            <l xml:id="l5" n="5">
+                <anchor xml:id="l5a3"/>governa <anchor xml:id="l5a4"/> me, non  <anchor xml:id="l5a5"/>veggio <anchor xml:id="l5a1"/>cʼal so corso <anchor xml:id="l5a2"/>
+            </l>
+            <l xml:id="l6">
+                pongʼ ancor fine per darmi soccorso.
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l7">
+                <anchor xml:id="l7a1"/>Nellʼaspectar ognor mi manca <name type="senhal" rend="small-caps">LENA</name>
+            </l>
+            <l xml:id="l8">
+                pascendo doglia et rinnovando pena. <anchor xml:id="l8a1"/>
+            </l>
+         </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="Sq">
+               <ref type="siglum" target="#Sq">Sq</ref>
+               c. <locus>54v</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 7-8), <hi rend="italic">resid.</hi> (vv. 4-6): <hi rend="italic">magister laurentius de florentia</hi>
+            </witness>
+            <witness xml:id="Lo">
+                <ref type="siglum" target="#Lo">Lo</ref>
+                cc. <locus>35v-36r</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-3), <hi rend="italic">resid.</hi> (vv. 4-6): <hi rend="italic">m. di s(er) lorenço di fi(renze)</hi>
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+                <head>1-3</head>
+                <app from="#l1a1" to="#l3a1">
+                    <rdg wit="Sq"><witDetail wit="#Sq"><hi rend="italic">rip. sia sotto cantus che sotto tenor </hi></witDetail> <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>7-8</head>
+                <app from="#l7a1" to="#l8a1">
+                    <rdg wit="Sq"><witDetail wit="#Sq"><hi rend="italic">rip. sia sotto cantus che sotto tenor </hi></witDetail> <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>1</head>
+                <app from="#l1a2" to="#l1a3">
+                    <lem>valle</lem>
+                    <rdg>vall | le <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>2</head>
+                <app from="#l2a1" to="#l2a2">
+                    <lem>aportato</lem>
+                   <rdg>aportan to <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>3</head>
+                <app from="#l3a2" to="#l3a3">
+                    <lem>qual datʼ ò</lem>
+                    <rdg>quan do to <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+               <head>4</head>
+               <app from="#l4a1" to="#l4a2">
+                  <lem>quel</lem>
+                  <rdg>qual <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+                <head>5</head>
+                <app from="#l5a1" to="#l5a2">
+                    <lem>cʼal so corso</lem>
+                    <rdg>cha tachorso <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+            </listApp>
+            <listApp>
+               <head>7-8</head>
+               <app from="#l7a1" to="#l8a1">
+                   <rdg wit="Lo"/>
+               </app>
+            </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+                <head>4</head>
+                <app from="#l4a2" to="#l4a3">
+                    <lem>pianeto</lem>
+                    <rdg>pianetto <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>5</head>
+                <app from="#l5a3" to="#l5a4">
+                    <lem>governa</lem>
+                    <rdg>governna <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+                <app from="#l5a5" to="#l5a1">
+                   <lem>veggio</lem>
+                   <rdg>vegio <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+                Madrigale 10ʼa 10ʼb 10ʼa, 10ʼb 10ʼc 10ʼc; 10ʼd 10ʼd.
+            </p>
+            <p>
+                <hi rend="italic">Capovilla</hi> <hi rend="small-caps">XVII</hi>.
+            </p>
+            <p>
+                Rima inclusiva ai vv. 5 : 6.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1969">
+                Corsi 1969, p. 1034;
+            </bibl>
+            <bibl corresp="#Corsi1970">
+                Corsi 1970, pp. 75-6;
+            </bibl>
+            <bibl corresp="#Fantini2015-2016">
+                Fantini 2015-2016, pp. 155-63.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+        <div type="commentary">
+            <note target="#l4">
+               <num>4.</num>
+               <p><hi rend="italic">pianeto</hi>: nel contesto potrebbe valere ʻdestinoʼ, ma sembra più probabile alluda ad un pianeta a tutti gli effetti, Venere, che si oppone allʼostile Orione e che con le sue attenzioni dovrebbe permettere al poeta di raggiungere la felicità amorosa. ▪ <hi rend="italic">a fortunal segno</hi>: ʻdalla costellazione che porta tempestaʼ, Orione.</p>
+            </note>
+            <note target="#l7">
+                <num>7.</num>
+                <p><hi rend="italic">Lena</hi>: lett. ʻrespiroʼ, <hi rend="italic">senhal</hi> per <hi rend="italic">Elena</hi>, per cui cfr. <hi rend="italic">Di riva in riva</hi>, v. 4.</p>
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1969">
+                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969
+            </bibl>
+            <bibl xml:id="Corsi1970">
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131)
+            </bibl>
+            <bibl xml:id="Fantini2015-2016">
+                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

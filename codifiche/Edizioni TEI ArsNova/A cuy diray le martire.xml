@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>A cuy diray le martire </title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1">A cuy diray le martire</l>
+                <l xml:id="l2">et le mal quy si m’atire,</l>
+                <l xml:id="l3">sans secour que <anchor xml:id="l3a1"/>puis<anchor xml:id="l3a2"/> havoir</l>
+                <l xml:id="l4"><anchor xml:id="l4a1"/>pour<anchor xml:id="l4a2"/> la dolour qui m’i tire?</l>
+                <l xml:id="l5" n="5"> <supplied reason="illegible">[... -ire]</supplied></l>
+                <l xml:id="l6"><supplied reason="illegible">[... -ire]</supplied></l>
+                <l xml:id="l7"><hi rend="italic"><supplied xml:id="suppl1" reason="illegible">[A cuy diray le martire </supplied> </hi></l>
+                <l xml:id="l8"><hi rend="italic"><supplied xml:id="suppl2" corresp="#suppl1" reason="illegible">et le mal quy si m’atire]</supplied></hi> </l>
+                <l xml:id="l9"><supplied reason="illegible">[... -ire]</supplied></l>
+                <l xml:id="l10" n="10"><supplied reason="illegible">[... -ire]</supplied></l>
+                <l xml:id="l11"><supplied reason="illegible">[... -oir]</supplied></l>
+                <l xml:id="l12"><supplied reason="illegible">[... -ire]</supplied></l>
+                <l xml:id="l13"><hi rend="italic"> <supplied xml:id="suppl3" reason="illegible">[A cuy diray le martire </supplied></hi></l>
+                <l xml:id="l14"><hi rend="italic"> <supplied xml:id="suppl4" corresp="#suppl3" reason="illegible">et le mal quy si m’atire, </supplied></hi></l>
+                <l xml:id="l15" n="5"><hi rend="italic"> <supplied xml:id="suppl5" corresp="#suppl3" reason="illegible">sans secour que puis havoir</supplied></hi></l>
+                <l xml:id="l16"><hi rend="italic"> <supplied xml:id="suppl6" corresp="#suppl3" reason="illegible">pour la dolour qui m’i tire?]</supplied></hi></l>
+            </lg>
+
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Mt">
+                    <ref type="siglum" target="#Mt">Mt</ref> c. 5r, <abbr xml:id="MtC">C</abbr> (vv. 1-4)
+                </witness>
+            </listWit>
+
+
+            <!--<listApp type="substantial">               
+               
+            </listApp>-->
+
+
+
+            <listApp type="formal">
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>puis</lem>
+                        <rdg wit="#Mt">ne puis</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>pour</lem>
+                        <rdg wit="#Mt">bon jour pour</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            
+
+
+            <div type="metricalScheme">
+                <p><hi rend="italic">Rondeau</hi> 7’A 7’A 7B 7’A; [7’a 7’a, 7’A 7’A; ’A 7’A 7B 7’A].</p>
+                <p>Rima inclusiva ai vv. 1 : 2 : 4. </p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Greene1989">Greene 1989, p. 36;</bibl>
+                <bibl corresp="#Gómez-Muntané1982">Gómez Muntané 1982, p. 69.</bibl>
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+            </listBibl>-->
+
+
+            <div type="commentary">
+                <note target="#l2">
+                    <num>2.</num>
+                    <p><hi rend="italic">atire</hi>: da <hi rend="italic">atirer</hi> ‘tormentare, maltrattare’, cf. <hi rend="italic">DMF</hi> s.v. <hi rend="italic">atirer1</hi> § I.</p>
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Greene1989">Gordon Greene, <hi rend="italic">French Secular Music. Rondeaux and Miscellaneous Pieces</hi>, Monaco, Éditions de l’Oiseau-Lyre, 1989 (Polyphonic Music of the Fourteenth Century, XXII).</bibl>
+                <bibl xml:id="Gómez-Muntané1982">
+                    Maria Gómez Muntané, <hi rend="italic">El Manuscrito 823 de Montserrat (Biblioteca del Monasterio)</hi>, «Musica Disciplina» 36 (1982), pp. 39-93.
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

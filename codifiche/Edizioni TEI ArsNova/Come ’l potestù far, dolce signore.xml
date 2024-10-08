@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Come ’l potestù far, dolce signore</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Vittoria Brancato</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>           
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front>
+         <div>
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"></hi>)
+            </p>
+         </div>        
+      </front>-->
+        <body>
+            <lg>
+                <l xml:id="l1"><anchor xml:id="l1a3"/>Come<anchor xml:id="l1a4"/> ’l potestù far, dolce <anchor xml:id="l1a1"/>signore<anchor xml:id="l1a2"/>,</l>
+                <l xml:id="l2">lasciarmi così sol per quella via,</l>
+                <l xml:id="l3">ondʼ io piangendo venni tuctavia?</l>
+                <l xml:id="l4">Le lagrime correvan giù pel viso</l>
+                <l xml:id="l5" n="5">e sopra ʼl petto, spandendo lor fiume:</l>
+                <l xml:id="l6">caddi per terra et non vedea lume.</l>
+                <l xml:id="l7">Alquanto stetti giù, chʼio non sapeva</l>
+                <l xml:id="l8">dovʼ io mi fossi, sì era smarrito,</l>
+                <l xml:id="l9">vegiendʼ ogni disio da me fugito.</l>
+            </lg>
+            <lg>
+                <l xml:id="l10" n="10">Ma un che mi trovò mi rendé vita,</l>
+                <l xml:id="l11"><anchor xml:id="l11a1"/>che<anchor xml:id="l11a2"/> già daʼ sentimenti era partita.</l>
+            </lg>
+            
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Fp">
+                    <ref type="siglum" target="#Fp">Fp</ref>c. 80v, <abbr xml:id="FpC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="FpT">T</abbr> (vv. 1 e 10), <hi rend="italic">resid.</hi> (vv. 6-9):<hi rend="italic">s(er) donato</hi>
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">              
+               <listApp>
+                   <head>1</head>
+                   <app from="#l1a1" to="#l1a2">
+                       <lem>signore</lem>
+                       <rdg wit="#Fp">suignore </rdg>
+                   </app>
+               </listApp>
+            </listApp>
+
+
+
+           <listApp type="formal">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a3" to="#l1a4">
+                        <lem>Come</lem>
+                        <rdg wit="#Fp">com<add place="above">e</add> </rdg>
+                    </app>
+                </listApp>
+               
+               <listApp>
+                   <head>11</head>
+                   <app from="#l11a1" to="#l11a2">
+                       <lem>che</lem>
+                       <rdg wit="#Fp">che che </rdg>
+                   </app>
+               </listApp>
+           </listApp>
+            
+
+
+            <div type="metricalScheme">
+                <p>Madrigale 10ʼa 10ʼb 10ʼb, 10ʼc 10ʼd 10ʼd, 10ʼe 10ʼf 10ʼf; 10ʼg 10ʼg. Stesso schema di <hi rend="italic">Dʼor pomo incominciò nellʼaer fino</hi> (ed. ArsNova).</p>
+                <p><hi rend="italic">Capovilla</hi> LIII.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Corsi1969">Corsi 1969, p. 117;</bibl>
+                <bibl corresp="#Zenari2004">Zenari 2004, pp. 140-1;</bibl>
+                <bibl corresp="#Giorgetti2019-2020"> Giorgetti 2019-2020, pp. 122-5.</bibl>
+            </listBibl>
+
+
+            <div type="commentary">
+                
+                <note target="#l2">
+                    <num>2.</num>
+                    <p><hi rend="italic">fine</hi>: ‘scopo’, in rima equivoca con <hi rend="italic">fine</hi> del v. 3, che vale ‘(la) fine (della vita)’, ‘morte’.</p>
+                </note>
+                
+                <note target="#l4">
+                    <num>4.</num>
+                    <p>Erronea la lezione del testimone unico del secondo terzetto Pit, <hi rend="italic">ài</hi>, corretta con la III persona singolare del verbo à (con soggetto <hi rend="italic">chi</hi> del v. 3).</p>
+                </note>
+                
+                <note target="#l5 #l6">
+                    <num>5-6.</num>
+                    <p>‘Poiché l’anima, dopo che lascia il corpo, non torna, inviluppata nel giudizio che la attende’.</p>
+                </note>
+                
+                <note target="#l8">
+                    <num>8.</num>
+                    <p><hi rend="italic">tempo</hi>: in rima equivoca con <hi rend="italic">tempo</hi> al v. 7, vale ‘momento’.</p>
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Corsi1969">G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969</bibl>
+                <bibl xml:id="Zenari2004">Massimo Zenari, <hi rend="italic">Undici madrigali a testimone unico del Panciatichiano 26 (Firenze, Biblioteca Nazionale Centrale)</hi>, in «Studi di filologia italiana», 57 (2004), pp. 131-60</bibl>
+                <bibl xml:id="Giorgetti2019-2020">Elisa Giorgetti, <hi rend="italic">Edizione critica commentata dei testi intonati da Donato da Cascia</hi>, tesi di Laurea Magistrale, Università di Firenze, 2019-2020</bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

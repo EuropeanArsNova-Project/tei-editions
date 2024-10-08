@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Pres du soloil deduissant s’esbanoye</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+            <div>
+                <p>
+                </p>
+            </div>         
+        </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    <anchor xml:id="l1a1"/><supplied>[Pr]</supplied>e<supplied>[s]</supplied><anchor xml:id="l1a2"/> du soloil deduissant s’esbanoye,
+                </l>
+                <l xml:id="l2">
+                    d’eulx ententis, un redoubté fauchon,
+                </l>
+                <l xml:id="l3">
+                    sur la riviere plus riche que soye
+                </l>
+                <l xml:id="l4">
+                    de maint osiaux d’une et d’aultre <anchor xml:id="l4a1"/>façon<anchor xml:id="l4a2"/>.
+                </l>    
+                <l xml:id="l5" n="5">
+                    Close est d’un beaux rosier <anchor xml:id="l5a1"/>par <supplied>[d’en]</supplied>viron<anchor xml:id="l5a2"/>,
+                </l>
+                <l xml:id="l6">
+                    dont s’il <anchor xml:id="l6a1"/>ne<supplied>[n est]</supplied><anchor xml:id="l6a2"/> bien preux, jeune, et <anchor xml:id="l6a3"/><supplied>[se g]</supplied>arde<anchor xml:id="l6a4"/>,
+                </l>
+                <l xml:id="l7">
+                    <hi rend="italic">meschant cely que le fauchon regarde.</hi>
+                </l>
+            </lg>
+            <lg>
+                <l xml:id="l8">
+                    Chescun <anchor xml:id="l8a1"/>doubte<anchor xml:id="l8a2"/> et ne scet que fere doye,
+                </l>
+                <l xml:id="l9">
+                    fors que d’esmay trayre dol o sayson,
+                </l>
+                <l xml:id="l10" n="10">
+                    sans plus: tout prest en l’<anchor xml:id="l10a1"/>e<supplied>[a]</supplied>ue<anchor xml:id="l10a2"/> si s’employe,
+                </l>
+                <l xml:id="l11">
+                    pluseurs <anchor xml:id="l11a1"/>ault<supplied>[r]</supplied>es aylent<anchor xml:id="l11a2"/> ver <anchor xml:id="l11a3"/>le<anchor xml:id="l11a4"/> buisson,
+                </l>
+                <l xml:id="l12">
+                    aucun demeure, aucun y torne ron,
+                </l>
+                <l xml:id="l13">
+                    simple de cuer, <anchor xml:id="l13a1"/><supplied>[ne]</supplied><anchor xml:id="l13a2"/> chault de faire garde:
+                </l>
+                <l xml:id="l14">
+                    <hi rend="italic">meschant cely <supplied>[que le fauchon regarde]</supplied>!</hi>
+                </l>
+            </lg>
+            <lg>
+                <l xml:id="l15" n="15">
+                    Quar noblesse et vigour si le convoye,
+                </l>
+                <l xml:id="l16">
+                    desir, espoir, sagacitié et rayson,
+                </l>
+                <l xml:id="l17">
+                    a son porpois, tout brief qu’il s’en voloye
+                </l>
+                <l xml:id="l18">
+                    l’oysel, que atent hurter <anchor xml:id="l18a1"/>de <supplied>[l’]</supplied><anchor xml:id="l18a2"/>artiglon,
+                </l>
+                <l xml:id="l19">
+                    d’aultre ne quier, s’y donra <anchor xml:id="l19a1"/>coulp<anchor xml:id="l19a2"/> felon.
+                </l>
+                <l xml:id="l20" n="20">
+                    Pour definer, fache qui vuelt sa garde!
+                </l>
+                <l xml:id="l21">
+                    <hi rend="italic">Meschant cely <supplied>[que le fauchon regarde]</supplied>!</hi>
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="MoA">
+                    <ref type="siglum" target="#MoA">MoA</ref>
+                    c. <locus>17r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-21): <hi rend="italic">m(attheus) d(e) p(erusio)</hi>
+                </witness>
+            </listWit>
+            <listApp type="substantial">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>Pres</lem>
+                        <rdg wit="#MoA">eer</rdg>
+                    </app>   
+                </listApp>
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a1" to="#l5a2">
+                        <lem>par d’environ</lem>
+                        <rdg wit="#MoA">de par viron</rdg>
+                    </app>   
+                </listApp>
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>nen est</lem>
+                        <rdg wit="#MoA">ne sont</rdg>
+                    </app>  
+                    <app from="#l6a3" to="#l6a4">
+                        <lem>se garde</lem>
+                        <rdg wit="#MoA">veglarde</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem>doubte</lem>
+                        <rdg wit="#MoA">se doubte</rdg>
+                    </app>   
+                </listApp>
+                <listApp>
+                    <head>10</head>
+                    <app from="#l10a1" to="#l10a2">
+                        <lem>eaue</lem>
+                        <rdg wit="#MoA"><unclear reason="illegible"
+                            rend="(?)">euue</unclear></rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>11</head>
+                    <app from="#l11a1" to="#l11a2">
+                        <lem>aultres aylent</lem>
+                        <rdg wit="#MoA">aulte es naylent</rdg>
+                    </app>
+                    <app from="#l11a3" to="#l11a4">
+                        <lem>le</lem>
+                        <rdg wit="#MoA">les</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>13</head>
+                    <app from="#l13a1" to="#l13a2">
+                        <lem>ne</lem>
+                        <rdg wit="#MoA">sans</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>18</head>
+                    <app from="#l18a1" to="#l18a2">
+                        <lem>de l’</lem>
+                        <rdg wit="#MoA">des</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>19</head>
+                    <app from="#l19a1" to="#l19a2">
+                        <lem>coulp</lem>
+                        <rdg wit="#MoA">coulps</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <listApp type="formal">
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>façon</lem>
+                        <rdg wit="#MoA">facon</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            <div type="metricalScheme">
+                <p><hi rend="italic">Ballade</hi> 10’a 10b, 10’a 10b; 10b 10’c 10’C.</p>
+                <p>Rima equivoca ai vv. 6 : 13 : 20; rima derivativa e inclusiva ai vv. 6 : 7 : 13 : 20.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Apel-Rosenberg1971">
+                    Apel-Rosenberg 1971, p. <hi rend="small-caps">XXXII</hi>.
+                </bibl>
+            </listBibl>
+            <div type="commentary">
+                <note target="#l1 #l2 #l3 #l4">
+                    <num>1-4.</num>
+                    ‘Vicino al sole si svaga piacevolmente un temibile falcone, con lo sguardo vigile, sulla riviera più ricca che ci sia di molti uccelli di ogni specie’.
+                </note>
+                <note target="#l6">
+                    <num>6.</num>
+                    <hi rend="italic">est</hi>: <hi rend="italic">sont</hi>lezione del ms., non si accorda con gli aggettivi al singolare garantiti dalla rima.
+                    <hi rend="italic">se garde</hi>: l’emendamento è richiesto dalla lingua e dal senso, ed è giustificato anche dal ricorrere della forma <hi rend="italic">garde</hi> alla fine di ogni strofe.
+                </note>
+                <note target="#l8 #l9">
+                    <num>8-9.</num>
+                    ‘Ognuno è impaurito e non sa cosa fare, se non ricavare dall’agitazione di essere intrappolato o catturato’.
+                </note>
+                <note target="#l9">
+                    <num>9.</num>
+                    <hi rend="italic">sayson</hi>: è qui interpretato come deverbale da <hi rend="italic">saisir</hi> ‘catturare’, ma non risulta altrimenti attestato.
+                </note>
+                <note target="#l10">
+                    <num>10.</num>
+                    <hi rend="italic">en l’eaue si s’enploye</hi>: ‘rimangono proprio impigliati nell’acqua’.
+                </note>
+                <note target="#l12">
+                    <num>12.</num>
+                    <hi rend="italic">torne ron</hi>: ‘gira intorno’, <hi rend="italic">ron</hi> per <hi rend="italic">rond</hi> con funzione avverbiale.
+                </note>
+                <note target="#l15 #16 #17 #18 #19 #20">
+                    <num>15-20.</num>
+                    ‘Poiché nobiltà e vigore, desiderio, speranza, sagacità e ragione lo rendono capace (lett. accompagnano) di (raggiungere il suo) obiettivo, non appena si alza in volo l’uccello, che lui aspetta di colpire con l’artiglio, non chiede altro, gli sferra un colpo a tradimento. In conclusione, chi vuole stia in guardia!’.
+                </note>
+                <note target="#l18">
+                    <num>18.</num>
+                    <hi rend="italic">artiglon</hi>: non è attestato in francese, ma corrisponde all’it. <hi rend="italic">artiglione</hi> per <hi rend="italic">artiglio</hi> registrato nel <hi rend="italic">TLIO</hi>.
+                </note>
+            </div>
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Apel-Rosenberg1971">
+                    Willi Apel, <hi rend="italic">French Secular Compositions of the Fourteenth Century II. Anonymous Ballades</hi>, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1971 (CMM, 53/2)
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

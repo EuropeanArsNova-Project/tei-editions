@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La bella stella, che suo fiamma tene</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Maria Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+        <front>
+            <div>
+                <p>
+                    Il madrigale è assegnato a Giovanni da Firenze dalle rubriche dei testimoni musicali Fp Sq SL, mentre è anonimo nell’unico testimone letterario, il cinquecentesco Mg3 (peraltro incompleto). Si deve a Gallo (1976, in part. pp. 42-3) l’idea che il testo verbale vada attribuito a Lancillotto Anguissola e che risalga al 1353 o a ridosso del 1354, anno dello scambio di sonetti con Antonio da Ferrara, a cui Lancillotto chiede consigli in materia amorosa. Antonio nel sonetto <hi rend="italic">La dolce passïon che ve martella</hi> (in risposta a <hi rend="italic">Natura dell’età gioiosa e bella</hi>) potrebbe infatti citare proprio l’incipit del madrigale, per cui si veda il v. 8 «del vostro madrial la bella stella».
+                    La scelta del ms. di <hi rend="italic">surface</hi> è ricaduta su Fp, testimone principale per il <hi rend="italic">corpus</hi> di Giovanni da Firenze ed unico a trasmettere qui il testo completo insieme a Sq, anche se al v. 4 il solo Rs sembra conservare la lezione <hi rend="italic">difficilior poluto</hi> vs. <hi rend="italic">condotto</hi> Fp Sq (per cui cfr. le <hi rend="italic">Note al testo</hi>). Al v. 7 si registra un’opposizione in lezioni equivalenti per metro e senso tra Fp <hi rend="italic">e poi per un che di sopra biancheggiava</hi> e Sq SL <hi rend="italic">e poi per uno che sopra biancheggiava</hi>.
+                </p>
+            </div>
+        </front>
+      <body>
+         <lg>
+            <l xml:id="l1">
+                La <anchor xml:id="l1a1"/>bella<anchor xml:id="l1a2"/> stella, che <anchor xml:id="l1a3"/>suo <anchor xml:id="l1a4"/>fiamma<anchor xml:id="l1a5"/> tene
+            </l>
+            <l xml:id="l2">
+                <anchor xml:id="l2a3"/>accesa <anchor xml:id="l2a1"/>sempre <anchor xml:id="l2a2"/>nella<anchor xml:id="l2a4"/> mente mia,
+            </l>
+            <l xml:id="l3">
+                <anchor xml:id="l3a1"/>lucida<anchor xml:id="l3a2"/>, <anchor xml:id="l3a3"/>chiara<anchor xml:id="l3a4"/>, <anchor xml:id="l3a5"/>già del <anchor xml:id="l3a6"/>mont’ <anchor xml:id="l3a7"/>uscia<anchor xml:id="l3a8"/>,
+            </l>
+            <l xml:id="l4">
+                <anchor xml:id="l4a7"/>quando <anchor xml:id="l4a3"/>mi<anchor xml:id="l4a4"/> parve <anchor xml:id="l4a5"/>in sogno<anchor xml:id="l4a6"/> esser <anchor xml:id="l4a1"/>poluto<anchor xml:id="l4a2"/>
+            </l>
+            <l xml:id="l5" n="5">
+                per un gran sire in bel <anchor xml:id="l5a1"/>giardino <anchor xml:id="l5a2"/>adorno<anchor xml:id="l5a3"/>
+            </l>
+            <l xml:id="l6">
+                di bianchi <anchor xml:id="l6a1"/>gigli <anchor xml:id="l6a2"/>di<anchor xml:id="l6a3"/> sotto e <anchor xml:id="l6a4"/>d’intorno<anchor xml:id="l6a5"/>.<anchor xml:id="l6a6"/>
+            </l>
+            <l xml:id="l7">
+                <anchor xml:id="l7a1"/>E per un che di sopra<anchor xml:id="l7a3"/> biancheggiava<anchor xml:id="l7a2"/>
+            </l>
+            <l xml:id="l8">
+                <anchor xml:id="l8a1"/>fiso<anchor xml:id="l8a3"/> mirai: mutoss’ in una rosa,<anchor xml:id="l8a2"/>
+            </l>
+            <l xml:id="l9">
+                <anchor xml:id="l9a1"/>bianch’ e<anchor xml:id="l9a2"/> vermiglia sopr’ ogn’ altra cosa.
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l10">
+                <anchor xml:id="l10a1"/>Maravigliami assai<anchor xml:id="l10a3"/>, <anchor xml:id="l10a4"/>ma ’l signor grande<anchor xml:id="l10a2"/>
+            </l>
+            <l xml:id="l11">
+                <anchor xml:id="l11a1"/>disse: «Nostra virtù <anchor xml:id="l11a3"/>tal acqua<anchor xml:id="l11a5"/> spande<anchor xml:id="l11a4"/>».<anchor xml:id="l11a2"/>
+            </l>
+        </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="Fp">
+                <ref type="siglum" target="#Fp">Fp</ref>
+                cc. <locus>47v-48r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-6 e 7-9): <hi rend="italic">m(agister) giova(n)ni</hi>
+            </witness>
+            <witness xml:id="Sq">
+                <ref type="siglum" target="#Sq">Sq</ref>
+                cc. <locus>1v-2r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-6 e 7-9): <hi rend="italic">m(agister) iovannes de florentia</hi>
+            </witness>
+            <witness xml:id="Rs">
+                <ref type="siglum" target="#Rs">Rs</ref> 
+                c. <locus>23v</locus>, <abbr xml:id="RsC">C</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-6)
+            </witness>
+            <witness xml:id="SL">
+                <ref type="siglum" target="#SL">SL</ref>
+                cc. <locus>27v-28r</locus>, <abbr xml:id="SLC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="SLT">T</abbr> (vv. 1-3 e 10-11), <hi rend="italic">resid.</hi> (vv. 4-6 e 7-9)): c. 28r: <hi rend="italic">j[...] cascia</hi>
+            </witness>
+            <witness xml:id="Fc">
+                <ref type="siglum" target="#Fc">Fc</ref>
+                c. <locus>2v</locus>, <abbr xml:id="FcC">C</abbr> (vv. 1-3 e 7-8)
+            </witness>
+            <witness xml:id="Ol">
+                <ref type="siglum" target="#Ol">Ol</ref>
+                c. <locus>1v</locus> (vv. 1-3 e 10-11)
+            </witness>
+            <witness xml:id="Mg3">
+                <ref type="siglum" target="#Mg3">Mg3</ref>
+                c. <locus>47v</locus> (vv. 1-3 e 10-11)
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+                <head>2</head>
+                <app from="#l2a1" to="#l2a2">
+                    <lem>sempre</lem>
+                    <rdg wit="#Ol">sem <gap reason="illegible" rend="per l.m. (per rifilatura)"/></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>3</head>
+                <app from="#l3a1" to="#l3a2">
+                    <lem>lucida</lem>
+                    <rdg wit="#Fc">et <hi rend="italic">add.</hi></rdg>
+                </app>
+                <app from="#l3a7" to="#l3a8">
+                    <lem>uscia</lem>
+                    <rdg wit="#Ol">usciva </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>4-6</head>
+                <app from="#l4a7" to="#l6a6">
+                    <rdg wit="#SL"><note><hi rend="italic">terzetto invertito rispetto a 7-9</hi></note></rdg>
+                    <rdg wit="#Fc #Ol #Mg3"/>
+                </app>
+            </listApp>
+            <listApp>
+                <head>4</head>
+                <app from="#l4a1" to="#l4a2">
+                    <lem>poluto</lem>
+                    <rdg wit="#Fp #Sq #SL">condotto </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>7</head>
+                <app from="#l7a1" to="#l7a2">
+                    <lem>E per un che di sopra biancheggiava</lem>
+                    <rdg wit="#Rs #Fc #Ol #Mg3"/>
+                </app>
+                <app from="#l7a1" to="#l7a3">
+                    <lem>E per un che di sopra </lem>
+                    <rdg type="indifferentVariant" wit="#Sq #SL">e poi per uno che sopra </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>8</head>
+                <app from="#l8a1" to="#l8a2">
+                    <lem>fiso mirai: mutoss’ in una rosa, </lem>
+                    <rdg wit="#Rs #Fc #Ol #Mg3"/>
+                </app>
+            </listApp>
+            <listApp>
+                <head>10</head>
+                <app from="#l10a1" to="#l10a2">
+                    <lem>Maravigliami assai, ma ’l signor grande </lem>
+                    <rdg><gap reason="illegible" rend="ill."/> <wit><ref corresp="#SLT">SL<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+                <app from="#l10a1" to="#l10a3">
+                    <lem>Maravigliami assai </lem>
+                    <rdg wit="#Fc"><gap reason="illegible" rend="ill."/></rdg>
+                </app>
+                <app from="#l10a4" to="#l10a2">
+                    <lem>ma ’l signor grande</lem>
+                    <rdg wit="#Fc"> mal se gran de </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>11</head>
+                <app from="#l11a1" to="#l11a2">
+                    <lem>disse: «Nostra virtù tal acqua spande».</lem>
+                    <rdg><gap reason="illegible" rend="ill."/> <wit><ref corresp="#SLT">SL<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+                <app from="#l8a1" to="#l8a2">
+                    <lem>tal acqua spande</lem>
+                    <rdg wit="#Fc"><gap reason="illegible" rend="ill."/></rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+                <head>1</head>
+                <app from="#l1a1" to="#l1a2">
+                    <lem>bella</lem>
+                    <rdg wit="#Sq #SL #Fc">bella bella </rdg>
+                </app>
+                <app from="#l1a3" to="#l1a4">
+                    <lem>suo</lem>
+                    <rdg wit="#Ol #Mg3">sua</rdg>
+                </app>
+                <app from="#l1a4" to="#l1a5">
+                    <lem>fiamma</lem>
+                    <rdg wit="#Rs">fiama </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>2</head>
+                <app from="#l2a3" to="#l2a1">
+                    <lem>accesa</lem>
+                    <rdg wit="#Rs">acesa </rdg>
+                    <rdg wit="#Ol">acexa </rdg>
+                </app>
+                <app from="#l2a2" to="#l2a4">
+                    <lem>nella</lem>
+                    <rdg wit="#Rs">nela </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>3</head>
+                <app from="#l3a3" to="#l3a4">
+                    <lem>chiara</lem>
+                    <rdg wit="#Ol">chia re</rdg>
+                </app>
+                <app from="#l3a5" to="#l3a6">
+                    <lem>già del</lem>
+                    <rdg wit="#Ol">ça del </rdg>
+                    <rdg wit="#Rs #Ol">innamorato </rdg>
+                    <rdg>gia del gia del <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+                <app from="#l3a6" to="#l3a7">
+                    <lem>mont’</lem>
+                    <rdg wit="#Rs #Sq #Fc #Ol #Mg3">monte </rdg>
+                </app>
+                <app from="#l3a7" to="#l3a8">
+                    <lem>uscia</lem>
+                    <rdg wit="#Rs">usia </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>4</head>
+                <app from="#l4a3" to="#l4a4">
+                    <lem>mi</lem>
+                    <rdg wit="#Rs">me </rdg>
+                </app>
+                <app from="#l4a5" to="#l4a6">
+                    <lem>in sogno</lem>
+                    <rdg wit="#Rs">en sonno </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>5</head>
+                <app from="#l5a1" to="#l5a2">
+                    <lem>giardino</lem>
+                    <rdg wit="#Rs">çardino </rdg>
+                </app>
+                <app from="#l5a2" to="#l5a3">
+                    <lem>adorno</lem>
+                    <rdg wit="#Sq">addorno </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>6</head>
+                <app from="#l6a1" to="#l6a2">
+                    <lem>gigli </lem>
+                    <rdg wit="#Rs">çigli </rdg>
+                </app>
+                <app from="#l6a2" to="#l6a3">
+                    <lem>di</lem>
+                    <rdg wit="#Rs">de </rdg>
+                </app>
+                <app from="#l6a4" to="#l6a5">
+                    <lem>dintorno </lem>
+                    <rdg wit="#Rs">dentorno </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>8</head>
+                <app from="#l9a1" to="#l8a2">
+                    <lem>fiso</lem>
+                    <rdg wit="#Sq">fisso</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>9</head>
+                <app from="#l9a1" to="#l9a2">
+                    <lem>bianch’ e</lem>
+                    <rdg wit="#Sq">bianca e </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>10</head>
+                <app from="#l10a1" to="#l10a3">
+                    <lem>Maravigliami assai</lem>
+                    <rdg>maravigliam‹i›assai <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                    <rdg>maraviglia massa‹i› <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                    <rdg wit="#Ol">ma ravilgliammasa </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>11</head>
+                <app from="#l11a3" to="#l11a5">
+                    <lem>tal acqua</lem>
+                    <rdg wit="#Ol">tallaqua </rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+                Madrigale 10’a 10’b 10’b, 10’c 10’d 10’d, 10’e 10’f 10’f, 10’g 10’g.
+            </p>
+            <p>
+                <hi rend="italic">Capovilla</hi> <hi rend="small-caps">liii</hi>.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#LiGotti1944">
+                Li Gotti 1944, pp. 137-8;
+            </bibl>
+            <bibl corresp="#Corsi1970">
+                Corsi 1970, pp. 14-5.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+        <div type="commentary">
+            <note target="#l1">
+                <num>1.</num>
+                <p><hi rend="italic">bella stella</hi>: il pianeta Venere, descritto quando esce da dietro il monte, quindi nel momento prossimo al mattino in cui si alza e si rende visibile. Si noti la perifrasi astronomica non dissimile a quella accolta nel madrigale <hi rend="italic">Quando la stella pressʼ alʼalba spira</hi>. </p>
+            </note>
+            <note target="#l2">
+                <num>2.</num>
+                <p> <hi rend="italic">nella mente mia</hi>: <hi rend="italic">iunctura</hi> già in posizione di rima nei sonetti danteschi <hi rend="italic">Era venuta nella mente mia e Due donne in cima della mente mia</hi>. </p>
+            </note>
+            <note target="#l4">
+                <num>4.</num>
+                <p><hi rend="italic">poluto</hi>: ‘bagnato (dalle lacrime provocate dall’amore)’, per cui cfr. <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">polluto</hi>. Rs conserva questa lezione <hi rend="italic">difficilior</hi> rispetto a <hi rend="italic">condotto</hi> di Fp Sq (tutti gli altri testimoni sono mutili del secondo terzetto) e migliore, perché motiva la sentenza conclusiva accolta nello spazio del ritornello, dove Amore sostiene che l’<hi rend="italic">acqua</hi>, cioè ‘il pianto (di cui è bagnato il poeta)’, sia il risultato della sua potenza sul poeta.</p>
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="LiGotti1944">
+                E. Li Gotti, <hi rend="italic">Poesie musicali italiane del sec. XIV</hi>, «Atti della Reale Accademia di scienze, lettere e arti di Palermo», IV/2 (1944), pp. 99-167.
+            </bibl>
+            <bibl xml:id="Corsi1970">
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

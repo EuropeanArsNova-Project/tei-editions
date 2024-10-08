@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Di riva in riva mi guidavʼ Amore</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Maria Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+        <!-- <front>
+            <div>
+            </div>
+        </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1">
+                Di riva <anchor xml:id="l1a1"/>in<anchor xml:id="l1a2"/> riva mi <anchor xml:id="l1a3"/>guidavʼ<anchor xml:id="l1a4"/> Amore,
+            </l>
+            <l xml:id="l2">
+                <anchor xml:id="l2a3"/>cercandʼ<anchor xml:id="l2a4"/> un <anchor xml:id="l2a5"/>mie sparvier<anchor xml:id="l2a6"/>: <anchor xml:id="l2a7"/>aʼ ppieʼ <anchor xml:id="l2a1"/>dʼun<anchor xml:id="l2a2"/> monte
+            </l>
+            <l xml:id="l3">
+                trovaʼ <anchor xml:id="l3a3"/>bagnar<anchor xml:id="l3a4"/> più <anchor xml:id="l3a5"/>donnʼ <anchor xml:id="l3a1"/>a una fonte<anchor xml:id="l3a2"/>.
+            </l>
+            <l xml:id="l4">
+                Eravi di biltà nomata <anchor xml:id="l4a1"/>Elena<anchor xml:id="l4a2"/>,
+            </l>
+            <l xml:id="l5" n="5">
+                lo cui piacer <anchor xml:id="l5a1"/>mi face gir<anchor xml:id="l5a2"/> pensoso
+            </l>
+            <l xml:id="l6">
+                <anchor xml:id="l6a5"/>et poi<anchor xml:id="l6a6"/> mi <anchor xml:id="l6a1"/>feʼ<anchor xml:id="l6a2"/> di <anchor xml:id="l6a7"/>lei <anchor xml:id="l6a3"/>veder<anchor xml:id="l6a4"/> gioioso.
+            </l>
+            <l xml:id="l7">
+                Poi <anchor xml:id="l7a1"/>chinai<anchor xml:id="l7a2"/> gli ochi per lʼ<anchor xml:id="l7a3"/>onestʼ<anchor xml:id="l7a4"/> andare
+            </l>
+            <l xml:id="l8">
+                et temoroso mi scostai <anchor xml:id="l8a1"/>dallʼacque<anchor xml:id="l8a2"/>,
+            </l>
+            <l xml:id="l9">
+                <anchor xml:id="l9a1"/>chʼera<anchor xml:id="l9a2"/> ciascuna come prima nacque.
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l10" n="10">
+                <anchor xml:id="l10a1"/>Cantando dirivaʼ per <anchor xml:id="l10a2"/>un<anchor xml:id="l10a3"/> bel piano,
+            </l>
+            <l xml:id="l11">
+                et <anchor xml:id="l11a2"/>trovai<anchor xml:id="l11a3"/> lo <anchor xml:id="l11a4"/>sparver<anchor xml:id="l11a5"/> a mano a mano.<anchor xml:id="l11a1"/>
+            </l>
+        </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="Sq">
+                <ref type="siglum" target="#Sq">Sq</ref>
+                cc. <locus>51v-52r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="SqT">T</abbr> (vv. 1-3 e 10),<hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic">magister laurentius de florentia</hi>
+            </witness>
+            <witness xml:id="Fp">
+                <ref type="siglum" target="#Fp">Fp</ref>
+                cc. <locus>79v-80r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-3 e 10-11), <abbr xml:id="FpT">T</abbr> (vv. 1-3 e 10),<hi rend="italic">resid.</hi> (vv. 4-9): <hi rend="italic">s(er) lorenço</hi>
+            </witness>
+            <witness xml:id="Mar">
+                <ref type="siglum" target="#Mar">Mar</ref>
+                c. <locus>54r</locus>
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+                <head>1</head>
+                <app from="#l1a1" to="#l1a2">
+                    <lem>in</lem>
+                    <rdg wit="#Fp"/>
+                </app>
+            </listApp>
+            <listApp>
+                <head>2</head>
+                <app from="#l2a1" to="#l2a2">
+                    <lem>d’un</lem>
+                    <rdg wit="#Mar">du</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>3</head>
+                <app from="#l3a1" to="#l3a2">
+                    <lem>a una fonte</lem>
+                    <rdg wit="#Sq">a ppie duna fonte</rdg>
+                    <rdg wit="#Fp">a pie una fonte</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>4</head>
+                <app from="#l4a1" to="#l4a2">
+                    <lem>Elena</lem>
+                    <rdg wit="#Sq">lena</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>5</head>
+                <app from="#l5a1" to="#l5a2">
+                    <lem>mi face gir</lem>
+                    <rdg>mi facea gir <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                    <rdg wit="#Mar">face gir me</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>6</head>
+                <app from="#l6a1" to="#l6a2">
+                    <lem>feʼ</lem>
+                    <rdg wit="#Mar">fa</rdg>
+                </app>
+                <app from="#l6a3" to="#l6a4">
+                    <lem>veder</lem>
+                    <rdg wit="#Mar">viver</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>9</head>
+                <app from="#l9a1" to="#l9a2">
+                    <lem>chʼera</lem>
+                    <rdg wit="#Mar">cheran</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>10-11</head>
+                <app from="#l10a1" to="#l11a1">
+                    <rdg wit="#Mar">chantando di riviera intorno allaque <add place="above">tutte si mosson per un verde piano</add> e trova lo sparviere a mano a mano</rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+                <head>1</head>
+                <app from="#l1a3" to="#l1a4">
+                    <lem>guidavʼ</lem>
+                    <rdg wit="#Mar">ghidava</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>2</head>
+                <app from="#l2a3" to="#l2a4">
+                    <lem>cercandʼ</lem>
+                    <rdg wit="#Mar">cierchando</rdg>
+                </app>
+                <app from="#l2a5" to="#l2a6">
+                    <lem>mie sparvier</lem>
+                    <rdg wit="#Fp">mi sparver</rdg>
+                </app>
+                <app from="#l2a7" to="#l2a1">
+                    <lem>aʼ ppieʼ</lem>
+                    <rdg wit="#Fp #Mar">a pie</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>3</head>
+                <app from="#l3a3" to="#l3a4">
+                    <lem>bagnar</lem>
+                    <rdg wit="#Mar">bagniare</rdg>
+                </app>
+                <app from="#l3a5" to="#l3a1">
+                    <lem>donnʼ</lem>
+                    <rdg wit="#Mar">donne</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>6</head>
+                <app from="#l6a5" to="#l6a6">
+                    <lem>et poi</lem>
+                    <rdg wit="#Mar">e po</rdg>
+                </app>
+                <app from="#l6a7" to="#l6a3">
+                    <lem>lei</lem>
+                    <rdg>leʼ <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>7</head>
+                <app from="#l7a1" to="#l7a2">
+                    <lem>chinai</lem>
+                    <rdg wit="#Mar">china</rdg>
+                </app>
+                <app from="#l7a3" to="#l7a4">
+                    <lem>onestʼ</lem>
+                    <rdg>onesto <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>8</head>
+                <app from="#l8a1" to="#l8a2">
+                    <lem>dallʼacque</lem>
+                    <rdg wit="#Mar">dalaque <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>10</head>
+                <app from="#l10a2" to="#l10a3">
+                    <lem>un</lem>
+                    <rdg>um <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>11</head>
+                <app from="#l11a2" to="#l11a3">
+                    <lem>trovai</lem>
+                    <rdg>trova <wit><ref corresp="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+                <app from="#l11a4" to="#l11a5">
+                    <lem>sparver</lem>
+                    <rdg>sparvero <wit><ref corresp="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+                Madrigale 10ʼa 10ʼb 10ʼb, 10ʼc 10ʼd 10ʼd, 10ʼe 10ʼf 10ʼf; 10ʼg 10ʼg.
+            </p>
+            <p>
+                <hi rend="italic">Capovilla</hi> <hi rend="small-caps">li</hi>. Lo schema è diverso stando alla testimonianza letteraria di Mar, che presenta un verso in più, quindi: 10ʼa 10ʼb 10ʼb, 10ʼc 10ʼd 10ʼd, 10ʼe 10ʼf 10ʼf, 10ʼf 10ʼg 10ʼg.
+            </p>
+            <p>
+                Rima inclusiva ai vv. 8 : 9.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1969">
+                Corsi 1969, p. 1032;
+            </bibl>
+            <bibl corresp="#Corsi1970">
+                Corsi 1970, p. 73;
+            </bibl>
+            <bibl corresp="#Fantini2015-2016">
+                Fantini 2015-2016, pp. 134-41.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+         <div type="commentary">
+            <note target="#l3">
+               <num>3.</num>
+               <p>Il verso è ipermetro in entrambi i testimoni musicali per via della lezione <hi rend="italic">a ppieʼ dʼuna fonte</hi> in Sq e <hi rend="italic">a pieʼ una fonte</hi> in Fp (vs. <hi rend="italic">a una fonte</hi> in Mar), con errore di ripetizione indotto dal v. 2 <hi rend="italic">aʼ ppieʼ dʼun monte</hi>.</p>
+            </note>
+            <note target="#l10">
+                <num>10.</num>
+                <p><hi rend="italic">dirivaʼ</hi>: dal verbo <hi rend="italic">derivare</hi> (cfr. <hi rend="italic">TLIO</hi>, s.v.), forse ʻarrivaiʼ. Non sembra possibile distinguere e intendere <hi rend="italic">di riva</hi>, perché al ritornello mancherebbe il verbo principale. La lezione di Mar <hi rend="italic">di riviera</hi> si potrebbe spiegare con interpretazione banalizzante (indotta dallʼincipit <hi rend="italic">Di riva in riva...</hi>) e <hi rend="italic">distinctio</hi> scorretta della stringa. Mar presenta un verso in più e, in luogo del ritornello conclusivo, si ha un ulteriore terzetto con rime f g g: <hi rend="italic">Chantando di riviera intorno allʼaque, / tutte si mosson per un verde piano / e trovaʼ lo sparviere a mano a mano</hi>.</p>
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1969">
+                G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969.
+            </bibl>
+            <bibl xml:id="Corsi1970">
+                Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+            </bibl>
+            <bibl xml:id="Fantini2015-2016">
+                <hi rend="italic">Lorenzo da Firenze, Opera completa: edizione critica commentata dei testi intonati e delle musiche</hi>, tesi di laurea magistrale, Università degli Studi di Pavia, Musicologia e Beni Culturali, 2015-2016.
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

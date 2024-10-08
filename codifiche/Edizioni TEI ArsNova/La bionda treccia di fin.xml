@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La bionda treccia di fin or colore</title>
+            <editor>Davide Checchi</editor>
+            <respStmt>
+               <resp>Digital scholarly editon created within the </resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Davide Checchi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoding by</resp>
+               <name>Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      
+      <body>
+         <lg>
+            <l xml:id="l1">
+               <anchor xml:id="l1a1"/>La<anchor xml:id="l1a2"/> <anchor xml:id="l1a3"/>bionda<anchor xml:id="l1a4"/> <anchor xml:id="l1a9"/>treccia<anchor xml:id="l1a10"/> <anchor xml:id="l1a5"/>di<anchor xml:id="l1a6"/> <anchor xml:id="l1a7"/>fin or<anchor xml:id="l1a8"/> colore
+            </l>
+            <l xml:id="l2">
+               <anchor xml:id="l2a1"/>m’à<anchor xml:id="l2a2"/> <anchor xml:id="l2a3"/>legata<anchor xml:id="l2a4"/> la <anchor xml:id="l2a5"/>ment’ a<anchor xml:id="l2a6"/> <anchor xml:id="l2a7"/>meço<anchor xml:id="l2a8"/> <anchor xml:id="l2a9"/>’l<anchor xml:id="l2a10"/> core;
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l3">
+               <anchor xml:id="l3a7"/>simile<anchor xml:id="l3a8"/> <anchor xml:id="l3a1"/>’l<anchor xml:id="l3a2"/> viso, a <anchor xml:id="l3a3"/>cu’ ell’<anchor xml:id="l3a4"/>onbra <anchor xml:id="l3a5"/>face<anchor xml:id="l3a6"/>,
+            </l>     
+            <l xml:id="l4">
+               ove <anchor xml:id="l4a1"/>ridon<anchor xml:id="l4a2"/> le perl’ <anchor xml:id="l4a3"/>e’<anchor xml:id="l4a4"/> vaghi <anchor xml:id="l4a5"/>fiori<anchor xml:id="l4a6"/>,
+            </l>
+            <l xml:id="l5" n="5">
+               che <anchor xml:id="l5a1"/>come<anchor xml:id="l5a2"/> <anchor xml:id="l5a3"/>pura<anchor xml:id="l5a4"/> neve al sol mi sface
+            </l>
+            <l xml:id="l6">
+               et non si cura perch’ <anchor xml:id="l6a1"/>i’<anchor xml:id="l6a2"/> mi scolori.
+            </l>
+            <l xml:id="l7">
+               <anchor xml:id="l7a7"/>E<anchor xml:id="l7a8"/> <anchor xml:id="l7a1"/>son<anchor xml:id="l7a2"/> <anchor xml:id="l7a9"/>gli<anchor xml:id="l7a10"/> <anchor xml:id="l7a3"/>effecti<anchor xml:id="l7a4"/> di mie <anchor xml:id="l7a5"/>ma’ maggiori<anchor xml:id="l7a6"/>
+            </l>
+            <l xml:id="l8">
+               che·lle <anchor xml:id="l8a1"/>parol’<anchor xml:id="l8a2"/>, e be·llo vede Amore.
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l9">
+               Adunque, Amor, che sai lo stato mio
+            </l>
+            <l xml:id="l10" n="10">
+               e che mi fa’ nel foco esser beato,
+            </l>
+            <l xml:id="l11">
+               dè, fa’ che nel <anchor xml:id="l11a1"/>bel<anchor xml:id="l11a2"/> viso, il qual io
+            </l>
+            <l xml:id="l12">
+               <anchor xml:id="l12a1"/>con voci<anchor xml:id="l12a2"/> assa’ piatose t’ò chiamato,
+            </l>
+            <l xml:id="l13">
+               che per me vi ti veggia a giusto grato,
+            </l>
+            <l xml:id="l14">
+               a·cciò che <anchor xml:id="l18a1"/>me<supplied>[n]</supplied><anchor xml:id="l18a2"/> non vegna nel dolore.
+            </l>
+         </lg>
+      </body>
+      
+      <back>
+         
+         <listWit> 
+            <witness xml:id="Fp">
+               <ref type="siglum" target="#Fp">Fp</ref>
+               <locus>c. 6r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-4), <abbr xml:id="FpT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-14): <hi rend="italic">m(agister) fr(anciscus)</hi>
+            </witness>
+            <witness xml:id="Sq">
+               <ref type="siglum" target="#Sq">Sq</ref>
+               <locus>cc. 126v-127r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">magister franciscus cecus horghanista de florentia</hi>
+            </witness>
+            <witness xml:id="Fc">
+               <ref type="siglum" target="#Fc">Fc</ref>
+               <locus>c. 1r</locus>, <abbr xml:id="FcC">C</abbr> (vv. 1-4), <abbr xml:id="FcT">T</abbr> (vv. 1-4), <hi rend="italic">resid.</hi> (vv. 5-8): <hi rend="italic">m(agiste)r f(ranciscus) deorghannis</hi>
+            </witness>
+            <witness xml:id="Mg3">
+               <ref type="siglum" target="#Mg3">Mg3</ref>
+               <locus>c. 47vr</locus> (vv. 1-2)
+            </witness>
+         </listWit>
+         
+         <listApp type="substantial">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>La</lem>
+                  <rdg wit="#Fc">a</rdg>
+               </app>
+               <app from="#l1a3" to="#l1a4">
+                  <lem>bionda</lem>
+                  <rdg wit="#Fc">bonda <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+               <app from="#l1a5" to="#l1a6">
+                  <lem>di</lem>
+                  <rdg type="indifferentVariant">del <wit><ref target="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+               <app from="#l1a7" to="#l1a8">
+                  <lem>fin or</lem>
+                  <rdg wit="#Mg3">fino</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>2</head>
+               <app from="#l2a1" to="#l2a2">
+                  <lem>m’à</lem>
+                  <rdg wit="#Fp"><hi rend="italic">forse su</hi> cha</rdg>
+                  <rdg wit="#Mg3">mibe <unclear><hi rend="italic">(?)</hi></unclear></rdg>
+               </app>
+               <app from="#l2a3" to="#l2a4">
+                  <lem>legata</lem>
+                  <rdg wit="#Sq">le gato</rdg>
+               </app>
+               <app from="#l2a5" to="#l2a6">
+                  <lem>ment’ a</lem>
+                  <rdg>mente
+                     <wit><ref target="#FpC">Fp<hi rend="super">C</hi></ref></wit>
+                     <wit><ref target="#FcT">Fc<hi rend="super">T</hi></ref></wit></rdg>
+                  <rdg>mental
+                     <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                  <rdg wit="#Mg3">in mezo</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>3</head>
+               <app from="#l3a1" to="#l3a2">
+                  <lem>’l</lem>
+                  <rdg><hi rend="italic">om.</hi>
+                     <wit><ref target="#SqC">Sq<hi rend="super">C</hi></ref></wit>
+                     <wit><ref target="#Fc">Fc</ref></wit></rdg>
+               </app>
+               <app from="#l3a3" to="#l3a4">
+                  <lem>cu’ ell’</lem>
+                  <rdg>quel l <wit><ref target="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg wit="#Fc">chu i l</rdg>
+               </app>
+               <app from="#l3a5" to="#l3a6">
+                  <lem>face</lem>
+                  <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#FcC">Fc<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>4</head>
+               <app from="#l4a1" to="#l4a2">
+                  <lem>ridon</lem>
+                  <rdg wit="#Fc">rido</rdg>
+               </app>
+               <app from="#l4a3" to="#l4a4">
+                  <lem>e’</lem>
+                  <rdg><expan>(et)</expan> <wit><ref target="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app from="#l4a5" to="#l4a6">
+                  <lem>fiori</lem>
+                  <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#FcT">Fc<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>5</head>
+               <app from="#l5a1" to="#l5a2">
+                  <lem>come</lem>
+                  <rdg wit="#Sq">con</rdg>
+               </app>
+               <app from="#l5a3" to="#l5a4">
+                  <lem>pura</lem>
+                  <rdg wit="#Fp">par</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>7</head>
+               <app from="#l7a1" to="#l7a2">
+                  <lem>son</lem>
+                  <rdg wit="#Fc">se</rdg>
+               </app>
+               <app from="#l7a3" to="#l7a4">
+                  <lem>effecti</lem>
+                  <rdg wit="#Fc">affecti</rdg>
+               </app>
+               <app from="#l7a5" to="#l7a6">
+                  <lem>ma’ maggiori</lem>
+                  <rdg wit="#Sq">mal giori</rdg>
+                  <rdg wit="#Fc">malmagiori</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>12</head>
+               <app from="#l12a1" to="#l12a2">
+                  <lem>con voci</lem>
+                  <rdg wit="#Fp"><expan>con<ex>(n)</ex>coci</expan></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>18</head>
+               <app from="#l18a1" to="#l18a2">
+                  <lem>men</lem>
+                  <rdg wit="#Fp">me</rdg>
+               </app>
+            </listApp>
+         </listApp>
+         
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a9" to="#l1a10">
+                  <lem>treccia</lem>
+                  <rdg>treçça <wit><ref target="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>2</head>
+               <app from="#l2a7" to="#l2a8">
+                  <lem>meço</lem>
+                  <rdg>meçço <wit><ref target="#FpT">Fp<hi rend="italic">T</hi></ref></wit></rdg>
+               </app>
+               <app from="#l2a9" to="#l2a10">
+                  <lem>’l</lem>
+                  <rdg wit="#Mg3">il</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>3</head>
+               <app from="#l3a7" to="#l3a8">
+                  <lem>simile</lem>
+                  <rdg wit="#Fc">si mele</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>6</head>
+               <app from="#l6a1" to="#l6a2">
+                  <lem>i’</lem>
+                  <rdg wit="#Sq #Fc">io</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>7</head>
+               <app from="#l7a7" to="#l7a8">
+                  <lem>e</lem>
+                  <rdg wit="#Sq #Fc">et</rdg>
+               </app>
+               <app from="#l7a1" to="#l7a2">
+                  <lem>son</lem>
+                  <rdg wit="#Sq">so</rdg>
+               </app>
+               <app from="#l7a9" to="#l7a10">
+                  <lem>gli</lem>
+                  <rdg wit="#Fc">lgl</rdg>
+               </app>
+               <app from="#l7a3" to="#l7a4">
+                  <lem>effecti</lem>
+                  <rdg wit="#Sq">effetti </rdg>
+               </app>
+            </listApp>            
+            <listApp>
+               <head>8</head>
+               <app from="#l8a1" to="#l8a2">
+                  <lem>parol’ e</lem>
+                  <rdg wit="#Sq #Fc">parole et</rdg>
+               </app>
+            </listApp>          
+            <listApp>
+               <head>11</head>
+               <app from="#l11a1" to="#l11a2">
+                  <lem>bel</lem>
+                  <rdg wit="#Fp"><add>bel</add></rdg>
+               </app>
+            </listApp>
+         </listApp>
+         
+         <div type="metricalScheme">
+            <p>
+               Ballata piccola 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z.
+            </p>
+            <p>
+               <hi rend="italic">Pagnotta</hi> 111 : 136.
+            </p>
+            <p>
+               Rima inclusiva e derivativa ai vv. 3 : 5; rima inclusiva ai vv. 9 : 11; rima ricca ai vv. 4 : 7.
+            </p>
+         </div>
+         
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+               Corsi 1970, pp. 185-6.
+            </bibl>
+         </listBibl>
+         
+         <div type="commentary">
+            <note target="#l11">
+               <num>11.</num>
+               Ageno 1975a, p. 700 «il v. 11 è ipometro, e anche il senso richiede: <hi rend="italic">i&lt;nne&gt;l qual io</hi>», ma la lezione del manoscritto non richiede emendamenti.
+            </note>
+            <note target="#l12">
+               <num>12.</num>
+               L’emendamento, tacito, è già in Corsi. ▪ <hi rend="italic">t’ò chiamato</hi>: ‘ti ho indicato, definito’ cfr. <hi rend="italic">GDLI</hi>, s.v. <hi rend="italic">chiamare</hi> § 16.
+            </note>
+            <note target="#l14">
+               <num>14.</num>
+               L’emendamento, tacito, è già in Corsi.
+            </note>
+         </div>
+         
+         <listBibl type="bibliography">
+            <bibl corresp="#Ageno1975a">Ageno 1975a.</bibl>
+         </listBibl>
+         
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1970">
+               <hi rend="italic">Poesie musicali del Trecento</hi>, a cura di G. Corsi, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+            </bibl>
+            <bibl xml:id="Ageno1975a">
+               Franca Ageno, rec. a G. Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, in «Romance Philology», 28 (1975), pp. 696-706
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

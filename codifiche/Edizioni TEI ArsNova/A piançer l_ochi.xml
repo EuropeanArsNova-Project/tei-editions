@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A piançer l’ochi mie pur mo’ comença</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Maria Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+      <!-- <front>
+         <div>
+            <p>
+            </p>
+         </div>
+      </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1">
+                A piançer <anchor xml:id="l1a3"/>l’ochi<anchor xml:id="l1a4"/> mie <anchor xml:id="l1a1"/>pur<anchor xml:id="l1a2"/> mo’ comença:
+            </l>
+            <l xml:id="l2">
+                <anchor xml:id="l2a1"/>vol<anchor xml:id="l2a2"/> fortuna <anchor xml:id="l2a3"/>e<anchor xml:id="l2a4"/> destino
+            </l>
+            <l xml:id="l3">
+                che <anchor xml:id="l3a1"/>lo mio<anchor xml:id="l3a2"/> cor <anchor xml:id="l3a3"/>topino<anchor xml:id="l3a4"/>,
+            </l>
+            <l xml:id="l4">
+                per <anchor xml:id="l4a3"/>bene<anchor xml:id="l4a4"/> amar, <anchor xml:id="l4a1"/>aça <anchor xml:id="l4a2"/>tal <anchor xml:id="l4a5"/>penetença<anchor xml:id="l4a6"/>.
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l5" n="5">
+                Cossì <anchor xml:id="l5a1"/>piançendo<anchor xml:id="l5a2"/>, <anchor xml:id="l5a3"/>el <anchor xml:id="l5a6"/>doloroso <anchor xml:id="l5a4"/>petto<anchor xml:id="l5a5"/>
+            </l>
+            <l xml:id="l6">
+                <anchor xml:id="l6a1"/>sorçerà<anchor xml:id="l6a2"/> sempre profundi <anchor xml:id="l6a3"/>sospiri<anchor xml:id="l6a4"/>;
+            </l>
+            <l xml:id="l7">
+                a l’Amor <anchor xml:id="l7a1"/>piacque<anchor xml:id="l7a2"/>, a cui fui <anchor xml:id="l7a3"/>soçetto<anchor xml:id="l7a4"/>, 
+            </l>
+            <l xml:id="l8">
+                farme <anchor xml:id="l8a1"/>sentir<anchor xml:id="l8a2"/> amorosi martiri. 
+            </l>
+            <l xml:id="l9">
+                Quest’ è la <anchor xml:id="l9a1"/>spene <anchor xml:id="l9a2"/>di mei<anchor xml:id="l9a3"/> gran desiri,
+            </l>
+            <l xml:id="l10" n="10">
+                però lo mio cor tristo	
+            </l>
+            <l xml:id="l11">
+                <anchor xml:id="l11a3"/>de lagreme<anchor xml:id="l11a4"/> fa <anchor xml:id="l11a1"/>acquisto<anchor xml:id="l11a2"/>:
+            </l>
+            <l xml:id="l12">
+                ahi lasso <anchor xml:id="l12a1"/>mi<anchor xml:id="l12a2"/>, che non <anchor xml:id="l12a3"/>fo<anchor xml:id="l12a4"/> mia <anchor xml:id="l12a5"/>credença<anchor xml:id="l12a6"/>!
+            </l>
+        </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="Lu">
+                <ref type="siglum" target="#Lu">Lu</ref>
+                cc. <locus>23v-24r [LXVIIv-LXVIIIr], </locus>, <abbr xml:id="LuC">C</abbr> (vv. 1-6), <abbr xml:id="LuT">T</abbr> (vv. 1-6), <hi rend="italic">resid.</hi> (vv. 7-12): <hi rend="italic">antonellus marot</hi>
+            </witness>
+            <witness xml:id="PdB">
+                <ref type="siglum" target="#PdB">PdB</ref>
+                c. <locus>Bv</locus>, <abbr xml:id="PdBC">C</abbr> (vv. 1-6), <abbr xml:id="PdBT">T</abbr> (vv. 1-6): <hi rend="italic">tonelus</hi>
+            </witness>
+            <witness xml:id="Pis">
+                <ref type="siglum" target="#Pis">Pis</ref>
+                c. <locus>IIr</locus>, <abbr xml:id="PisC">C</abbr> (vv. 1-6)), <hi rend="italic">resid.</hi> (vv. 7-12)
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+                <head>1</head>
+                <app from="#l1a1" to="#l1a2">
+                   <lem>pur</lem>
+                   <rdg wit="#Pis">por</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>2</head>
+                <app from="#l2a1" to="#l2a2">
+                    <lem>vol</lem>
+                    <rdg wit="#PdB">volle</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>3</head>
+                <app from="#l3a1" to="#l3a2">
+                    <lem>lo mio</lem>
+                    <rdg wit="#Pis">lorio</rdg>
+                </app>
+                <app from="#l3a3" to="#l3a4">
+                    <lem>topino</lem>
+                    <rdg wit="#Pis">tapino</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>4</head>
+                <app from="#l4a1" to="#l4a2">
+                    <lem>aça</lem>
+                    <rdg wit="#PdB">açate</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>5</head>
+                <app from="#l5a1" to="#l5a2">
+                    <lem>piançendo</lem>
+                    <rdg wit="#PdB">piancendo</rdg>
+                    <rdg wit="#Pis">piangedo</rdg>
+                </app>
+                <app from="#l5a3" to="#l5a4">
+                    <lem>el doloroso</lem>
+                    <rdg wit="#Pis">do do eldoloro</rdg>
+                </app>
+                <app from="#l5a4" to="#l5a5">
+                    <lem>petto</lem>
+                    <rdg wit="#PdB">pento</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>6</head>
+                <app from="#l6a1" to="#l6a2">
+                    <lem>sorçerà</lem>
+                    <rdg><gap reason="illegible" rend="ill."/> <wit><ref corresp="#LuC">Lu<hi rend="super">C</hi></ref></wit></rdg>
+                    <rdg wit="#PdB">sorcera</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>11</head>
+                <app from="#l11a1" to="#l11a2">
+                    <lem>acquisto</lem>
+                    <rdg wit="#Lu"><gap reason="illegible" rend="ill."/></rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+                <head>1</head>
+                <app from="#l1a3" to="#l1a4">
+                    <lem>l’ochi</lem>
+                    <rdg wit="#Lu #PdB #Pis">lochi lochi</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>2</head>
+                <app from="#l2a3" to="#l2a4">
+                    <lem>e</lem>
+                    <rdg wit="#PdB">et</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>4</head>
+                <app from="#l4a3" to="#l4a4">
+                    <lem>bene</lem>
+                    <rdg wit="#Pis">ben</rdg>
+                </app>
+                <app from="#l4a2" to="#l4a6">
+                    <lem>tal penetença</lem>
+                    <rdg wit="#Pis">tal tal penentença</rdg>
+                </app>
+                <app from="#l4a5" to="#l4a6">
+                    <lem>penetença</lem>
+                    <rdg wit="#PdB">pennetença </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>5</head>
+                <app from="#l5a6" to="#l5a4">
+                    <lem>doloroso</lem>
+                    <rdg wit="#PdB">dolorosso</rdg>
+                </app>
+                <app from="#l5a4" to="#l5a5">
+                    <lem>petto</lem>
+                    <rdg wit="#Pis">pecto</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>6</head>
+                <app from="#l6a3" to="#l6a4">
+                    <lem>sospiri</lem>
+                    <rdg wit="#PdB">suspiri </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>7</head>
+                <app from="#l7a1" to="#l7a2">
+                    <lem>piacque</lem>
+                    <rdg wit="#Pis">piaque</rdg>
+                </app>
+                <app from="#l7a3" to="#l7a4">
+                    <lem>soçetto</lem>
+                    <rdg wit="#Pis">suggetto</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>8</head>
+                <app from="#l8a1" to="#l8a2">
+                    <lem>sentir</lem>
+                    <rdg wit="#Pis">sentire</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>9</head>
+                <app from="#l9a1" to="#l9a2">
+                    <lem>spene</lem>
+                    <rdg wit="#Pis">speme</rdg>
+                </app>
+                <app from="#l9a2" to="#l9a3">
+                    <lem>di mei</lem>
+                    <rdg wit="#Pis">de miey</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>11</head>
+                <app from="#l11a3" to="#l11a4">
+                    <lem>de lagreme</lem>
+                    <rdg wit="#Pis">di lagrime </rdg>
+                </app>
+                <app from="#l11a1" to="#l1a2">
+                    <lem>acquisto</lem>
+                    <rdg wit="#Pis">aquisto</rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>12</head>
+                <app from="#l12a1" to="#l12a2">
+                    <lem>mi</lem>
+                    <rdg wit="#Pis">me</rdg>
+                </app>
+                <app from="#l12a3" to="#l12a4">
+                    <lem>fo</lem>
+                    <rdg wit="#Pis">fu</rdg>
+                </app>
+                <app from="#l12a5" to="#l12a6">
+                    <lem>credença</lem>
+                    <rdg wit="#Pis">credentia</rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>
+                Ballata grande 10’z 6’y 6’y 10’z; 10’a 10’b, 10’a 10’b; 10’b 6’c 6’c 10’z. 
+            </p>
+            <p>
+                <hi rend="italic">Pagnotta</hi> 98 : 15.
+            </p>
+            <p>
+                    Punti sottoscritti: v. 2 (fortuna) Lu; v. 5 (piangendo) Luq<hi rend="super">T</hi>.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Pirrotta-LiGotti1950">
+                Pirrotta-Li Gotti 1950, p. 129.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+        <div type="commentary">
+            <note target="#l6">
+                <num>6.</num>
+                <p><hi rend="italic">sorçerà</hi>: con funzione fattitiva, ‘farà sorgere’ (il soggetto è <hi rend="italic">el doloroso petto</hi>). </p>
+            </note>
+            <note target="#l9">
+                <num>9.</num>
+                <p><hi rend="italic">Quest’</hi>: ‘questi’ cioè Amore, in cui è riposta la speranza di veder appagati i propri desideri.</p>
+            </note>
+            <note target="#l12">
+                <num>12.</num>
+                <p><hi rend="italic">che non fo mia credenza</hi>: ‘che non ho creduto (non ho avuto abbastanza fiducia in Amore)’. </p>
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Pirrotta-LiGotti1950">
+                N. Pirrotta-E. Li Gotti, <hi rend="italic">Il Codice di Lucca: II. Testi letterari</hi>, «Musica Disciplina», 4 (1950), pp. 111-152.
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

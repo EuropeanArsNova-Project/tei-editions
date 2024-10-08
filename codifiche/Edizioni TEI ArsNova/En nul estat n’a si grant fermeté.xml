@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> En nul estat n’a si grant fermeté</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Alice Colantuoni</name> 
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1"><anchor xml:id="l1a1"/>En<anchor xml:id="l1a2"/> nul estat n’a si grant fermeté</l>
+                <l xml:id="l2">come en <anchor xml:id="l2a1"/>barat<anchor xml:id="l2a2"/>, selonc mon <anchor xml:id="l2a3"/>jugement<anchor xml:id="l2a4"/>,</l>
+                <l xml:id="l3"><anchor xml:id="l3a1"/>car<anchor xml:id="l3a2"/> soyt que <anchor xml:id="l3a3"/>jonesse<anchor xml:id="l3a4"/>, force et <anchor xml:id="l3a5"/>beauté<anchor xml:id="l3a6"/></l>
+                <l xml:id="l4">proesse, largesse et <anchor xml:id="l4a1"/>entendeme<supplied reason="illegible">[n]</supplied>t<anchor xml:id="l4a2"/></l>
+                <l xml:id="l5" n="5"><anchor xml:id="l5a1"/>facent<anchor xml:id="l5a2"/> <anchor xml:id="l5a9"/><anchor xml:id="l5a3"/>aucunz<anchor xml:id="l5a4"/><anchor xml:id="l5a10"/> <anchor xml:id="l5a5"/>avancier<anchor xml:id="l5a6"/> <anchor xml:id="l5a7"/>grantdement<anchor xml:id="l5a8"/>,</l>
+                <l xml:id="l6">si <anchor xml:id="l6a1"/>vient<anchor xml:id="l6a2"/> la mort qui les prent et <anchor xml:id="l6a3"/>assaut<anchor xml:id="l6a4"/>,</l>
+                <l xml:id="l7"><hi rend="italic"> mais drois barat a son maistre ne <anchor xml:id="l7a1"/>fa<supplied reason="illegible">[u]</supplied>t<anchor xml:id="l7a2"/>.</hi></l>
+            </lg>
+            <lg>
+                <l xml:id="l8">Fortune preste a acuns grant plenté</l>
+                <l xml:id="l9">d’onnor, d’avoir, d’autres bens largament,</l>
+                <l xml:id="l10" n="10">mais toutes fois en li n’a <anchor xml:id="l10a1"/>se<supplied reason="illegible">[u]</supplied>reté<anchor xml:id="l10a2"/>,</l>
+                <l xml:id="l11"><anchor xml:id="l11a1"/>q<supplied reason="illegible">[uant]</supplied><anchor xml:id="l11a2"/> elle torne <anchor xml:id="l11a3"/>tres<anchor xml:id="l11a4"/> oriblement,</l>
+                <l xml:id="l12">qu’il soit tan sage que <anchor xml:id="l12a1"/>trove<anchor xml:id="l12a2"/> <anchor xml:id="l12a3"/><supplied reason="illegible">[c]</supplied>omm<supplied reason="illegible">[en]</supplied>t<anchor xml:id="l12a4"/></l>
+                <l xml:id="l13">il li eschape sans fayre le <anchor xml:id="l13a1"/>sa<supplied reason="illegible">[u]</supplied>t<anchor xml:id="l13a2"/>,</l>
+                <l xml:id="l14"><anchor xml:id="l14a1"/><hi rend="italic">m<supplied reason="illegible">[ais]</supplied><anchor xml:id="l14a2"/> <supplied reason="illegible">[drois barat a son maistre ne faut]</supplied>.</hi></l>
+            </lg>
+            <lg>
+                <l xml:id="l15" n="15">Droit <anchor xml:id="l15a1"/>fa<supplied reason="illegible">[i]</supplied>t<anchor xml:id="l15a2"/> souvent raison et loyalté </l>
+                <l xml:id="l16">par dons, par force puyer solement,</l>
+                <l xml:id="l17">et mains saigneur <anchor xml:id="l17a1"/><supplied reason="illegible">[de]</supplied><anchor xml:id="l17a2"/> grant auctorité</l>
+                <l xml:id="l18">sont mis en bas par fol gouvernement;</l>
+                <l xml:id="l19">l’estat comun change legierement,</l>
+                <l xml:id="l20" n="20">si conclus qu’en tous estas a defaut,</l>
+                <l xml:id="l21"><hi rend="italic"> mais drois <supplied reason="illegible">[barat a son maistre ne faut]</supplied>.</hi></l>                
+            </lg>
+
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Ch">
+                    <ref type="siglum" target="#Ch">Ch</ref> c. 39r, <abbr xml:id="ChC">C</abbr> (vv. 1-7), <hi rend="italic"> resid.</hi> (vv. 8-21): <hi rend="italic">goscalch</hi>
+                </witness>
+                
+                <witness xml:id="R">
+                    <ref type="siglum" target="#R">R</ref> c. 79r, <abbr xml:id="RC">C</abbr> (vv. 1-2), <hi rend="italic"> resid.</hi> (vv. 3-8)
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>En</lem>
+                        <rdg wit="#R">Car</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>barat</lem>
+                        <rdg wit="#Ch">droyt barat</rdg>
+                        <rdg wit="#R">droit barant</rdg>
+                    </app>
+                    
+                    <app from="#l2a3" to="#l2a4">
+                        <lem>jugement</lem>
+                        <rdg wit="#Ch">vigement</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>car</lem>
+                        <rdg wit="#R"/>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>entendement</lem>
+                        <rdg wit="#Ch">grant entende demet</rdg>
+                        <rdg wit="#R">grant dement</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a1" to="#l5a2">
+                        <lem>facent</lem>
+                        <rdg wit="#Ch">faitent</rdg>
+                    </app>
+                    
+                    <app from="#l5a3" to="#l5a4">
+                        <lem>aucunz</lem>
+                        <rdg wit="#Ch">avounz</rdg>
+                    </app>
+                    
+                    <app from="#l5a5" to="#l5a6">
+                        <lem>avancier</lem>
+                        <rdg wit="#Ch">avantier</rdg>
+                    </app>
+                    
+                    <app from="#l5a7" to="#l5a8">
+                        <lem>grantdement</lem>
+                        <rdg wit="#Ch">tres grandtement</rdg>
+                        <rdg wit="#R">trop grant</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>vient</lem>
+                        <rdg wit="#R">vien</rdg>
+                    </app>
+                    
+                    <app from="#l6a3" to="#l6a4">
+                        <lem>assaut</lem>
+                        <rdg wit="#Ch">assant</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>faut</lem>
+                        <rdg wit="#Ch">fant</rdg>
+                        <rdg wit="#R"/>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>10</head>
+                    <app from="#l10a1" to="#l10a2">
+                        <lem>seureté</lem>
+                        <rdg wit="#Ch">senrete</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>11</head>
+                    <app from="#l11a1" to="#l11a2">
+                        <lem>quant</lem>
+                        <rdg wit="#Ch">qi <hi rend="italic"> con titulus</hi></rdg>
+                    </app>
+                    
+                    <app from="#l11a3" to="#l11a4">
+                        <lem>tres</lem>
+                        <rdg wit="#Ch">si tres</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>12</head>
+                    <app from="#l12a1" to="#l12a2">
+                        <lem>trove</lem>
+                        <rdg wit="#Ch">sache trover</rdg>
+                    </app>
+                    
+                    <app from="#l12a3" to="#l12a4">
+                        <lem>comment</lem>
+                        <rdg wit="#Ch">ommt</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>13</head>
+                    <app from="#l13a1" to="#l13a2">
+                        <lem>saut</lem>
+                        <rdg wit="#Ch">sant</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>14</head>
+                    <app from="#l14a1" to="#l14a2">
+                        <lem>mais</lem>
+                        <rdg wit="#Ch">murs</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>15</head>
+                    <app from="#l15a1" to="#l15a2">
+                        <lem>fait</lem>
+                        <rdg wit="#Ch">fant</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>17</head>
+                    <app from="#l17a1" to="#l17a2">
+                        <lem>de</lem>
+                        <rdg wit="#Ch"/>
+                    </app>
+                </listApp>
+            </listApp>
+
+            <listApp type="formal">                
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a3" to="#l3a4">
+                        <lem>jonesse</lem>
+                        <rdg wit="#R">jonese</rdg>
+                    </app>
+                    
+                    <app from="#l3a5" to="#l3a6">
+                        <lem>beauté</lem>
+                        <rdg wit="#R">biauté </rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a9" to="#l5a10">
+                        <lem>aucunz</lem>
+                        <rdg wit="#R">aucuns</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+            
+
+
+            <div type="metricalScheme">
+                <p><hi rend="italic"> Ballade </hi> 10a 10b, 10a 10b; 10b 10c 10C.</p>
+                <p>Rima ricca ai vv. 1 : 3 : 8 : 10 : 15 : 17; 2 : 4 : 5 : 9 : 11 : 12 : 16 : 18 : 19; rima inclusiva ai vv. 6 : 13; 7 : 14 : 20 : 21.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#ApelRosenberg1970">Apel-Rosenberg 1970, p. <hi rend="small-caps">lii-liii</hi>.</bibl>
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+            </listBibl>-->
+
+
+            <div type="commentary">
+                <note target="#l11">
+                    <num>11.</num>
+                    <p><hi rend="italic">quant</hi>: l’integrazione è già in Apel-Rosenberg.</p>
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="ApelRosenberg1970"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1).</bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

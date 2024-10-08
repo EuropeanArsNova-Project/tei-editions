@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> En remirant vo douce pourtraiture</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name> 
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1">En remirant vo douce pourtraiture,</l>
+                <l xml:id="l2"><anchor xml:id="l2a1"/>en laquele<anchor xml:id="l2a2"/> est tout doulz ymaginer,</l>
+                <l xml:id="l3">m’a point <anchor xml:id="l3a1"/>Amours<anchor xml:id="l3a2"/> d’une <anchor xml:id="l3a3"/>tres fort<anchor xml:id="l3a4"/> pointure</l>
+                <l xml:id="l4">d’ardant desir, si que <anchor xml:id="l4a1"/>mon<anchor xml:id="l4a2"/> cuer durer, </l>
+                <l xml:id="l5" n="5"><anchor xml:id="l5a1"/>las, il<anchor xml:id="l5a2"/> ne <anchor xml:id="l5a3"/>puet<anchor xml:id="l5a4"/>, <anchor xml:id="l5a5"/>doulce<anchor xml:id="l5a6"/> dame sans per,</l>
+                <l xml:id="l6">se vo <anchor xml:id="l6a1"/><anchor xml:id="l6a7"/>doulçour<anchor xml:id="l6a8"/><anchor xml:id="l6a2"/> <anchor xml:id="l6a3"/>ne me<anchor xml:id="l6a4"/> va <anchor xml:id="l6a5"/><anchor xml:id="l6a9"/>secourrant<anchor xml:id="l6a10"/><anchor xml:id="l6a6"/>:</l>
+                <l xml:id="l7"><hi rend="italic">pour vostre amour, dame, <anchor xml:id="l7a1"/>vois languissant<anchor xml:id="l7a2"/>.</hi></l>
+            </lg>
+            <lg>
+                <l xml:id="l8">Hé, bel <anchor xml:id="l8a1"/>Acueil<anchor xml:id="l8a2"/>, ou je prens noureture,</l>
+                <l xml:id="l9">vo cuer vueilliez de m’amor alumer!</l>
+                <l xml:id="l10" n="10">Car se mon cuer devoit <anchor xml:id="l10a1"/>e<supplied reason="illegible">[n]</supplied><anchor xml:id="l10a2"/> grant ardure</l>
+                <l xml:id="l11">ardre, brüir a touz jorns sans finer,</l>
+                <l xml:id="l12">si ne lairay que ne vous doie amer;</l>
+                <l xml:id="l13">mes vo <anchor xml:id="l13a1"/><supplied reason="illegible">[cuer]</supplied><anchor xml:id="l13a2"/> <anchor xml:id="l13a3"/>mey<supplied reason="illegible">[me]</supplied><anchor xml:id="l13a4"/> me <anchor xml:id="l13a5"/>va<anchor xml:id="l13a6"/> detrïant:</l>
+                <l xml:id="l14"><anchor xml:id="l14a1"/><hi rend="italic">pour vostre amour, dame vois languissant.</hi><anchor xml:id="l14a2"/></l>
+            </lg>
+            <lg>
+                <l xml:id="l15" n="15">A vous me plains, car sui en aventure</l>
+                <l xml:id="l16">de toust mourir pour loyalment amer,</l>
+                <l xml:id="l17">se Dieus e vous ne me prenez en cure.</l>
+                <l xml:id="l18">En face Amour le dur en doulz müer!</l>
+                <l xml:id="l19">Telz mauls ne puis longuement endurer!</l>
+                <l xml:id="l20" n="20">De triste cuer dire puis en plourant:</l>
+                <l xml:id="l21"><hi rend="italic">pour vostre amour, dame vois languissant.</hi></l>
+            </lg>
+
+        </body>
+
+
+
+        <back>
+            <listWit>
+                
+                <witness xml:id="Ch">
+                    <ref type="siglum" target="#Ch">Ch</ref> c. 39r, <abbr xml:id="ChC">C</abbr> (vv. 1-7), <hi rend="italic">resid.</hi> (vv. 8-21):<hi rend="italic"> ph(ilip)ot(us)</hi>
+                </witness>
+                
+                <witness xml:id="MoA">
+                    <ref type="siglum" target="#MoA">MoA</ref> c. 35v, <abbr xml:id="MoAC">C</abbr> (vv. 1-7),<hi rend="italic"> mag(iste)r filipotus</hi> 
+                </witness>
+                
+                <witness xml:id="R">
+                    <ref type="siglum" target="#R">R</ref> c. 80v, <abbr xml:id="RC">C</abbr> (vv. 1-7)                    
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">
+               
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>Amours</lem>
+                        <rdg wit="#Ch #R">au cuer</rdg>
+                    </app>
+                    
+                    <app from="#l3a3" to="#l3a4">
+                        <lem>tres fort</lem>
+                        <rdg wit="#Ch">cele</rdg>
+                        <rdg wit="#R"/>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>mon</lem>
+                        <rdg wit="#MoA">mo</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a1" to="#l5a2">
+                        <lem>las, il</lem>
+                        <rdg wit="#Ch #R">las si</rdg>
+                    </app>
+                    
+                    <app from="#l5a3" to="#l5a4">
+                        <lem>puet</lem>
+                        <rdg wit="#R">puez</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>doulçour</lem>
+                        <rdg wit="#R"> ducour </rdg>
+                    </app>
+                    
+                    <app from="#l6a3" to="#l6a4">
+                        <lem>ne me</lem>
+                        <rdg wit="#R">mene </rdg>
+                    </app>
+                    
+                    <app from="#l6a5" to="#l6a6">
+                        <lem>secourrant</lem>
+                        <rdg wit="#R">secouait</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>vois languissant</lem>
+                        <rdg wit="#R"/>                        
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem>Acueil</lem>
+                        <rdg wit="#Ch">acueillir</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>10</head>
+                    <app from="#l10a1" to="#l10a2">
+                        <lem>en</lem>
+                        <rdg wit="#Ch">er</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>13</head>
+                    <app from="#l13a1" to="#l13a2">
+                        <lem>cuer</lem>
+                        <rdg wit="#Ch"/>
+                    </app>
+                    
+                    <app from="#l13a3" to="#l13a4">
+                        <lem>meyme</lem>
+                        <rdg wit="#Ch"> mey</rdg>
+                    </app>
+                    
+                    <app from="#l13a5" to="#l13a6">
+                        <lem>va</lem>
+                        <rdg><add rend="add."> trop</add></rdg>
+                    </app>
+                </listApp>
+
+            </listApp>
+
+
+
+            <listApp type="formal">
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>en laquele</lem>
+                        <rdg wit="#R">en laquelle </rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a5" to="#l5a6">
+                        <lem>doulce</lem>
+                        <rdg wit="#MoA">douche</rdg>
+                        <rdg wit="#R">douce</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a7" to="#l6a8">
+                        <lem>doulçour</lem>
+                        <rdg wit="#MoA">douchour</rdg>
+                    </app>
+                    
+                    <app from="#l6a9" to="#l6a10">
+                        <lem>secourrant</lem>
+                        <rdg wit="#MoA">secourant</rdg>
+                    </app>
+                        
+                </listApp>
+                
+                <listApp>
+                    <head>14</head>
+                    <app from="#l14a1" to="#l14a2">
+                        <lem>quant ne la voy, la parfaite figure.</lem>
+                        <rdg wit="#Ch"><hi rend="italic">refrain abbreviato</hi> pour vostre amour etc </rdg>
+                    </app>
+                </listApp>
+                
+                
+                
+                
+            </listApp>
+
+
+            <div type="metricalScheme">
+                <p><hi rend="italic">Ballade</hi> 10’a 10b, 10’a 10b; 10b 10c 10C. <hi rend="italic">Coblas unissonans.</hi> </p>
+                <p>Rima ricca ai vv. 1 : 3 : 8 : 15, 2 : 11, 6 : 20; rima identica ai vv. 12 : 16.</p>
+            </div>
+
+
+            <listBibl type="editions">
+
+                <bibl corresp="#ApelRosenberg1970"> Apel-Rosenberg 1970, p. <hi rend="small-caps">lxiv</hi>;</bibl>
+                <bibl corresp="#Vivarelli2005">Vivarelli 2005, pp. 90-1.</bibl>
+
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl>-->
+
+
+            <div type="commentary">
+                <note target="#l3">
+                    <num>3.</num>
+                    <p>Si adottano le lezioni <hi rend="italic">Amours</hi> e <hi rend="italic">tres fort</hi> di MoA in luogo di <hi rend="italic">au cuer</hi> (Ch R), che anticipa <hi rend="italic">mon cuer</hi> al v. 4, e <hi rend="italic">cele</hi> (Ch), che non dà senso.</p>
+                </note>
+
+                <note target="#l5">
+                    <num>5.</num>
+                    <p>Si adotta la lezione <hi rend="italic">il</hi> di MoA in luogo di <hi rend="italic">si</hi> (Ch R), che ripete il <hi rend="italic">si</hi> al v. 4.</p>
+                </note>
+                
+                <note target="#l13">
+                    <num>13.</num>
+                    <p>Il verso, stando alla lezione del ms., è ipometro di una sillaba. Si propone di integrare, <hi rend="italic">in primis, cuer,</hi> necessario per il senso del passo (<hi rend="italic">vo cuer meyme</hi>); in secondo luogo, parimenti opportuna è l’aggiunta del pronome <hi rend="italic">me</hi> (<hi rend="italic">me va</hi>), la cui lacuna, nel ms., si potrà supporre per semplice aplografia; a garanzia della tenuta metrica del verso, infine, si preferisce espungere <hi rend="italic">trop</hi>, affatto superfluo. In tal modo si mantiene, oltretutto, un parallelismo con l’andamento, anche sintattico, del v. 6.</p>
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="ApelRosenberg1970"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1).</bibl>
+                <bibl xml:id="Vivarelli2005">Carla Vivarelli, <hi rend="italic">Le composizioni francesi di Filippotto e Antonello da Caserta tràdite nel Codice Estense a.M.5.24</hi>, Pisa, ETS, 2005 («Diverse voci... 6»).</bibl>
+            </listBibl>
+            
+        </back>
+    </text>
+</TEI>

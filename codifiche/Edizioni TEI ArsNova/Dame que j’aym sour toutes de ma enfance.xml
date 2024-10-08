@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Dame que j’aym sour toutes de ma enfance</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name> 
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1">Dame que j’aym sour toutes de ma enfance,</l>
+                <l xml:id="l2">fe, <anchor xml:id="l2a1"/>lou<supplied reason="illegible">[s]</supplied><anchor xml:id="l2a2"/> et prise, autant com j’ay povoir,</l>
+                <l xml:id="l3"><anchor xml:id="l3a1"/>fayre <supplied reason="illegible">[t]</supplied>e<anchor xml:id="l3a2"/> doy.</l>
+                <l xml:id="l4">Ayés umais humble pitié de moy,</l>
+                <l xml:id="l5" n="5">car aultremant de nul bien puis avoir</l>
+                <l xml:id="l6">que sovenance.</l>
+           </lg>
+            <lg>
+                <l xml:id="l7">Fortune me het de toute sa puissance,</l>
+                <l xml:id="l8">dont il me faut adés plaindre et doloir</l>
+                <l xml:id="l9">du mal de moy.</l>
+                <l xml:id="l10" n="10">Belle honouree, du siecle delitance</l>
+                <l xml:id="l11">et du ciel, plus que ne scet concevoir</l>
+                <l xml:id="l12">humayne loy,</l>           
+                <l xml:id="l13">je suppli a vous, par grant benivolance,</l>
+                <l xml:id="l14">honteuxement d’elle faire doloir</l>
+                <l xml:id="l15" n="15">en tristre annoy,</l>
+                <l xml:id="l16">et vous plaise savoir son tort, pour quoy</l>
+                <l xml:id="l17">jugiés a mort son <anchor xml:id="l17a1"/><supplied reason="illegible">[traytre]</supplied><anchor xml:id="l17a2"/> decevoir</l>
+                <l xml:id="l18">par fine oultrance.</l>
+            </lg>
+
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="MoA">
+                    <ref type="siglum" target="#MoA">MoA</ref> cc. <locus>11v-12r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-9), <hi rend="italic">resid.</hi> (vv. 10-18): <hi rend="italic">m(atteus) de p(er)usio</hi>
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">
+               <listApp>
+                   <head>2</head>
+                   <app from="#l2a1" to="#l2a2">
+                       <lem>lous</lem>
+                       <rdg wit="#MoA">loue</rdg>
+                   </app>
+               </listApp>
+                
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>fayre te</lem>
+                        <rdg wit="#MoA">et fayre le</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>17</head>
+                    <app from="#l17a1" to="#l17a2">
+                        <lem>traytre</lem>
+                        <rdg wit="#MoA">fa<del>ulx</del>ryt <witDetail wit="#MoA"><hi rend="italic">con segno di abbreviazione soprascritto alle ultime tre lettere </hi></witDetail></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+
+
+
+            <!--<listApp type="formal">
+              
+            </listApp>-->
+            
+
+
+            <div type="metricalScheme">
+                <p><hi rend="italic">Virelai </hi>: 10’a 10b 4c 10c 10b 4’a; 10’a 10b 4c, 10’a 10b 4c; 10’a 10b 4c 10c 10b 4’a.</p>
+                <p>Rima ricca ai vv. 2 : 5 : 11 : 17; rima identica ai vv. 8 : 14; rima derivativa ai vv. 11 : 17.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#ApelRosenberg1970"> Apel-Rosenberg 1970, p. <hi rend="small-caps">lviii</hi>.</bibl>
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl>-->
+
+
+            <div type="commentary">
+                <note target="#l2">
+                    <num>2.</num>
+                    <p><hi rend="italic">fe</hi>:  italianismo per <hi rend="italic">foi</hi>.</p>
+                </note>
+                
+                <note target="#l4">
+                    <num>4.</num>
+                    <p><hi rend="italic">umais</hi>: per <hi rend="italic"> huimais</hi>‘ora’. </p>
+                </note>
+                
+               <note target="#l14">
+                   <num>14.</num>
+                   <p><hi rend="italic">elle</hi>: si riferisce a <hi rend="italic">Fortune</hi>.</p>
+               </note>
+                
+                <note target="#l18">
+                    <num>18.</num>
+                    <p>Cfr. <hi rend="italic">DMF</hi> s.v. <hi rend="italic"> outrance</hi>: «<hi rend="italic">Par outrance</hi>. “En dépassant toutes les bornes”». </p>
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="ApelRosenberg1970"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1).</bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

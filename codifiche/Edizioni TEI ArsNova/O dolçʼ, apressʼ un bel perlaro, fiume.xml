@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> O dolçʼ, apressʼ un bel perlaro, fiume</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Vittoria Brancato</name> 
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <front> 
+         <div> 
+             <p>Un errore congiuntivo tra Sq e Pit si individua al v. 6 «sʼa darmi pace alquanto non si piega», ipermetro in entrambi i testimoni che scrivono <hi rend="italic">alquantʼ ella</hi>, con ripetizione del soggetto già presente al v. 5. </p>
+             <p>Meno probante lʼaccordo <hi rend="italic">de fede e</hi> (<hi rend="italic">de fedʼ e</hi> R<hi rend="super">T</hi>) <hi rend="italic">cor</hi> R; <hi rend="italic">de fede ʼn cor</hi> Lo<hi rend="subscript">1</hi> contro <hi rend="italic">di fedel cor</hi> degli altri testimoni.</p>
+         </div>         
+      </front> 
+        <body>
+            <lg>
+                <l xml:id="l1"> O <anchor xml:id="l1a3"/>dolçʼ<anchor xml:id="l1a4"/>, <anchor xml:id="l1a5"/>apressʼ<anchor xml:id="l1a6"/> <anchor xml:id="l1a7"/>un<anchor xml:id="l1a8"/> bel <anchor xml:id="l1a1"/><anchor xml:id="l1a9"/>perlaro<anchor xml:id="l1a10"/><anchor xml:id="l1a2"/>, fiume,</l>
+                <l xml:id="l2"> <anchor xml:id="l2a7"/>spesso<anchor xml:id="l2a8"/> <anchor xml:id="l2a1"/>lavi<anchor xml:id="l2a2"/> <anchor xml:id="l2a3"/>le manʼ, le <anchor xml:id="l2a9"/>gambʼ<anchor xml:id="l2a4"/> <anchor xml:id="l2a5"/>e ʼ<anchor xml:id="l2a10"/> <anchor xml:id="l2a11"/>piedi<anchor xml:id="l2a12"/><anchor xml:id="l2a6"/></l>
+                <l xml:id="l3"> <anchor xml:id="l3a1"/><anchor xml:id="l3a3"/>di<anchor xml:id="l3a4"/><anchor xml:id="l3a2"/> <anchor xml:id="l3a5"/>questa<anchor xml:id="l3a6"/> <anchor xml:id="l3a7"/>rea<anchor xml:id="l3a8"/> <anchor xml:id="l3a9"/>fuor<anchor xml:id="l3a10"/> dʼ<anchor xml:id="l3a11"/>ogni<anchor xml:id="l3a12"/> <anchor xml:id="l3a13"/>bon<anchor xml:id="l3a14"/> costume,</l>
+                <l xml:id="l4"> a <anchor xml:id="l4a1"/><anchor xml:id="l4a5"/>cui<anchor xml:id="l4a6"/><anchor xml:id="l4a2"/> <anchor xml:id="l4a3"/><anchor xml:id="l4a7"/>di<anchor xml:id="l4a8"/> fedel cor<anchor xml:id="l4a4"/> <anchor xml:id="l4a9"/>tutto<anchor xml:id="l4a10"/> <anchor xml:id="l4a11"/>mi diedi<anchor xml:id="l4a12"/>.</l>
+                <l xml:id="l5" n="5"> <anchor xml:id="l5a3"/>Ma sʼella<anchor xml:id="l5a4"/> <anchor xml:id="l5a5"/>vien<anchor xml:id="l5a6"/> <anchor xml:id="l5a7"/>più<anchor xml:id="l5a8"/> a·<anchor xml:id="l5a9"/>tte<anchor xml:id="l5a10"/>, lʼ<anchor xml:id="l5a11"/>acqua<anchor xml:id="l5a12"/> <anchor xml:id="l5a1"/>le<anchor xml:id="l5a2"/><anchor xml:id="l5a13"/>niega<anchor xml:id="l5a14"/></l>
+                <l xml:id="l6"> sʼa <anchor xml:id="l6a5"/>darmi<anchor xml:id="l6a6"/> pace <anchor xml:id="l6a1"/>alquanto<anchor xml:id="l6a2"/> <anchor xml:id="l6a9"/>non<anchor xml:id="l6a10"/> <anchor xml:id="l6a3"/><anchor xml:id="l6a11"/>si<anchor xml:id="l6a12"/> <anchor xml:id="l6a4"/> piega.</l>
+            </lg>
+            <lg>
+                <l xml:id="l7"> Ahi <anchor xml:id="l7a3"/>lassʼ<anchor xml:id="l7a4"/>  <anchor xml:id="l7a1"/>a me<anchor xml:id="l7a2"/>, <anchor xml:id="l7a5"/>non<anchor xml:id="l7a6"/> <anchor xml:id="l7a7"/>vol<anchor xml:id="l7a8"/> <anchor xml:id="l7a9"/>venir<anchor xml:id="l7a10"/> più <name type="senhal" rend="small-caps"><anchor xml:id="l7a11"/>A·NNA</name>ve<anchor xml:id="l7a12"/>  </l>
+                <l xml:id="l8"> <anchor xml:id="l8a1"/>ma<anchor xml:id="l8a2"/>·<anchor xml:id="l8a3"/><anchor xml:id="l8a7"/>ttiene<anchor xml:id="l8a8"/><anchor xml:id="l8a4"/> <anchor xml:id="l8a5"/>ʼl mio cor<anchor xml:id="l8a6"/> stretto sotto <anchor xml:id="l8a9"/>chiave<anchor xml:id="l8a10"/>.</l>
+            </lg>
+
+        </body>
+
+
+
+        <back>
+            <listWit>
+                
+                <witness xml:id="Sq">
+                    <ref type="siglum" target="#Sq">Sq</ref> cc. <locus>14v-15r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-8), <abbr xml:id="SqT">T</abbr> (vv. 1-8): <hi rend="italic"> magister iacobus de bononia</hi>
+                </witness>
+                
+                <witness xml:id="Fp">
+                    <ref type="siglum" target="#Fp">Fp</ref> cc. <locus>62v-63r</locus>, <abbr xml:id="FpC">C</abbr> (vv. 1-8), <abbr xml:id="FpT">T</abbr> (vv. 1-8): <hi rend="italic"> m(agister) jacopo da bol(onia)</hi>
+                </witness>
+                
+                <witness xml:id="Lo">
+                    <ref type="siglum" target="#Lo">Lo</ref> cc. <locus>1v-2r</locus>, <abbr xml:id="LoC">C</abbr> (vv. 1-8), <abbr xml:id="LoT">T</abbr> (vv. 1-8)
+                </witness>
+                
+                <witness xml:id="Lo1">
+                    <ref type="siglum" target="#Lo1">Lo1</ref> cc. <locus>3v-4r</locus>, <abbr xml:id="Lo1C">C</abbr> (vv. 7-8), <abbr xml:id="Lo1T">T</abbr> (vv. 1-8)
+                </witness>
+                
+                <witness xml:id="R">
+                    <ref type="siglum" target="#R">R</ref> c. 7r, <abbr xml:id="RC">C</abbr> (vv. 1-8), <abbr xml:id="RT">T</abbr>(vv. 1-8)
+                </witness>
+                
+                <witness xml:id="Pit">
+                    <ref type="siglum" target="#Pit">Pit</ref> cc. <locus>8v-9r</locus>, <abbr xml:id="PitC">C</abbr> (vv. 1-8), <abbr xml:id="PitT">T</abbr> (vv. 1-8): <hi rend="italic"> ma(gister) jaco(po)</hi>
+                </witness> 
+                
+                <witness xml:id="Fc">
+                    <ref type="siglum" target="#Fc">Fc</ref> c. 2r, <abbr xml:id="FcT">T</abbr> (vv. 1-8)                    
+                </witness>             
+                              
+                
+            </listWit>
+
+
+            <listApp type="substantial">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>perlaro</lem>
+                        <rdg> perlarun<wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit>  <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>lavi</lem>
+                        <rdg wit="#Lo"> lave</rdg>
+                    </app>
+                    
+                    <app from="#l2a3" to="#l2a4">
+                        <lem>le manʼ, le gambʼ</lem>
+                        <rdg> le male gambe <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l2a5" to="#l2a6">
+                        <lem>e ’ piedi</lem>
+                        <rdg> y in pedi <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a1" to="#l3a2">
+                        <lem>di</lem>
+                        <rdg> a <wit><ref corresp="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg wit="#Fp"> e</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>cui</lem>
+                        <rdg> cur <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l4a3" to="#l4a4">
+                        <lem>di fedel cor</lem>
+                        <rdg> de fede e cor <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg> de fede cor <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
+                        <rdg> de feden cor <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a1" to="#l5a2">
+                        <lem>le</lem>
+                        <rdg wit="#Lo"> ie</rdg>
+                        <rdg> i <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit> <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
+                        <rdg> y <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
+                        <rdg wit="#Fc"> li</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a1" to="#l6a2">
+                        <lem>alquanto</lem>
+                        <rdg wit="#Sq #Pit"> alquant ella </rdg>
+                    </app>
+                    
+                    <app from="#l6a3" to="#l6a4">
+                        <lem>si</lem>
+                        <rdg> sie <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>7</head>
+                    <app from="#l7a1" to="#l7a2">
+                        <lem>a me</lem>
+                        <rdg wit="#Lo #R #Fc"> mi <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>                        
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a1" to="#l8a2">
+                        <lem>ma</lem>
+                        <rdg> mi <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l8a3" to="#l8a4">
+                        <lem>ttiene</lem>
+                        <rdg> tio <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l8a5" to="#l8a6">
+                        <lem>ʼl mio cor</lem>
+                        <rdg> l cor mio <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                        <rdg> l mio core<wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg> l mi‹o› core <wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+
+            </listApp>
+
+
+
+            <listApp type="formal">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a3" to="#l1a4">
+                        <lem>dolçʼ</lem>
+                        <rdg wit="#Fp #R"> dolce <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                        <rdg wit="#Pit"> dolci</rdg>
+                        <rdg> dolcie <wit><ref corresp="#Lo1T">Lo<hi rend="subscript">1</hi><hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l1a5" to="#l1a6">
+                        <lem>apressʼ</lem>
+                        <rdg wit="#R #Fc"> apres <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                        <rdg> apresso <wit><ref corresp="#FpC">Fp<hi rend="super">C</hi></ref></wit>  <wit><ref corresp="#Lo1T">Lo<hi rend="subscript">1</hi><hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l1a7" to="#l1a8">
+                        <lem>un</lem>
+                        <rdg> um <wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit>  <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit>  <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l1a9" to="#l1a10">
+                        <lem>perlaro</lem>
+                        <rdg wit="#R"> parlaro <wit><ref corresp="#Lo1T">Lo<hi rend="subscript">1</hi><hi rend="super">T</hi></ref></wit></rdg>
+                    </app>                        
+                </listApp>
+                
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a7" to="#l2a8">
+                        <lem>spesso</lem>
+                        <rdg> speso<wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit>  <wit><ref corresp="#Lo1T">Lo<hi rend="subscript">1</hi><hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l2a9" to="#l2a10">
+                        <lem>gambʼ e ʼ</lem>
+                        <rdg> gambe e <wit><ref corresp="#FpC">Fp<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l2a11" to="#l2a12">
+                        <lem>ʼ piedi</lem>
+                        <rdg wit="#Fc #R"> y pedi <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg> y pede <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>3</head>
+                    <app from="#l3a3" to="#l3a4">
+                        <lem>di</lem>
+                        <rdg wit="#Lo #Fc"> de <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l3a5" to="#l3a6">
+                        <lem>questa</lem>
+                        <rdg> quista <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l3a7" to="#l3a8">
+                        <lem>rea</lem>
+                        <rdg> ria<wit><ref corresp="#Lo1T">Lo<hi rend="subscript">1</hi><hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l3a9" to="#l3a10">
+                        <lem>fuor</lem>
+                        <rdg wit="#Lo #R #Fc"> for</rdg>
+                    </app>
+                    
+                    <app from="#l3a11" to="#l3a12">
+                        <lem>ogni</lem>
+                        <rdg> ogne <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l3a13" to="#l3a14">
+                        <lem>bon</lem>
+                        <rdg wit="#Fp"> buon <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg> bu <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a5" to="#l4a6">
+                        <lem>cui</lem>
+                        <rdg wit="#Fc"> ccui<wit><ref corresp="#SqT">Sq<hi rend="super">T</hi></ref></wit>  <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg> cchu<wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                        <rdg> chu<wit><ref corresp="#PitT">Pit<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l4a7" to="#l4a8">
+                        <lem>di</lem>
+                        <rdg wit="#Lo #Fc"> de</rdg>
+                    </app>
+                    
+                    <app from="#l4a9" to="#l4a10">
+                        <lem>tutto</lem>
+                        <rdg wit="#R"> tuto</rdg>
+                    </app>
+                    
+                    <app from="#l4a11" to="#l4a12">
+                        <lem>mi diedi</lem>
+                        <rdg wit="#Lo #R #Fc"> me dedi <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>5</head>
+                    <app from="#l5a3" to="#l5a4">
+                        <lem>Ma sʼella</lem>
+                        <rdg> ma<del>l</del> sella<wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l5a5" to="#l5a6">
+                        <lem>vien</lem>
+                        <rdg wit="#Lo #R"> ven <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l5a7" to="#l5a8">
+                        <lem>più</lem>
+                        <rdg> p<add place="above">i</add>u <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l5a9" to="#l5a10">
+                        <lem>tte</lem>
+                        <rdg wit="#Lo"> te</rdg>
+                        <rdg wit="#R"> ti <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
+                        <rdg wit="#Fc"> tti</rdg>
+                    </app>
+                    
+                    <app from="#l5a11" to="#l5a12">
+                        <lem>acqua</lem>
+                        <rdg> a<add place="above">c</add>qua <wit><ref corresp="#FpT">Fp<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l5a13" to="#l5a14">
+                        <lem>niega</lem>
+                        <rdg wit="#R"> nega  <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
+                    </app>                    
+                </listApp>
+                
+                <listApp>
+                    <head>6</head>
+                    <app from="#l6a5" to="#l6a6">
+                        <lem>darmi</lem>
+                        <rdg wit="#R"> darme <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit>  <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l6a9" to="#l6a10">
+                        <lem>non</lem>
+                        <rdg wit="#R"> no  <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l6a11" to="#l6a12">
+                        <lem>si</lem>
+                        <rdg wit="#Lo #R #Fc"> se  <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>                                                  
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>7</head>
+                    <app from="l7a3" to="#l7a4">
+                        <lem>lassʼ</lem>
+                        <rdg wit="#Fp #Lo #Fc"> lasso <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit> <wit><ref corresp="#RC">R<hi rend="super">C</hi></ref></wit> <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg> laso  <wit><ref corresp="#RT">R<hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l7a5" to="#l7a6">
+                        <lem>non</lem>
+                        <rdg> no <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l7a7" to="#l7a8">
+                        <lem>vol</lem>
+                        <rdg wit="#Fp"> vuol <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l7a9" to="#l7a10">
+                        <lem>venir</lem>
+                        <rdg wit="#R #Fc"> vegnir <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                        <rdg> vinir <wit><ref corresp="#Lo1">Lo<hi rend="subscript">1</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l7a11" to="#l7a12">
+                        <lem>a·nnave</lem>
+                        <rdg wit="#R"> a nave</rdg>
+                    </app>
+                </listApp>
+                
+                <listApp>
+                    <head>8</head>
+                    <app from="#l8a7" to="#l8a8">
+                        <lem>ttiene</lem>
+                        <rdg wit="#Fp #R"> tiene <wit><ref corresp="#Lo1C">Lo<hi rend="subscript">1</hi><hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg wit="#Fc"> ctene <wit><ref corresp="#LoC">Lo<hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg> ttene <wit><ref corresp="#LoT">Lo<hi rend="super">T</hi></ref></wit></rdg>
+                        <rdg> tti<del>o</del>ne <wit><ref corresp="#PitC">Pit<hi rend="super">C</hi></ref></wit></rdg>
+                    </app>
+                    
+                    <app from="#l8a9" to="#l8a10">
+                        <lem>chiave</lem>
+                        <rdg> c<add place="above">i</add>a a a a ve <wit><ref corresp="#Lo1C">Lo<hi rend="subscript">1</hi><hi rend="super">C</hi></ref></wit></rdg>
+                        <rdg> ciave <wit><ref corresp="#Lo1T">Lo<hi rend="subscript">1</hi><hi rend="super">T</hi></ref></wit></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+
+
+            <div type="metricalScheme">
+                <p>Madrigale 10ʼa 10ʼb 10ʼa, 10ʼb 10ʼc 10ʼc; 10ʼd 10ʼd (stesso schema di <hi rend="italic">O perlaro gentil, se dispogliato</hi> di Giovanni da Firenze).</p>
+                <p><hi rend="italic">Capovilla</hi> XIII.</p>
+                <p>Rima ricca ai vv. 5 : 6.</p>
+            </div>
+
+
+            <listBibl type="editions">
+                <bibl corresp="#Sapegno1952"> Sapegno 1952, p. 513;</bibl>
+                <bibl corresp="#Corsi1969"> Corsi 1969, p. 1023;</bibl>
+                <bibl corresp="#Corsi1970"> Corsi 1970, pp. 40-1.</bibl>
+
+            </listBibl>
+
+
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl>-->
+
+
+            <div type="commentary">
+                <note target="#l1">
+                    <num>1.</num>
+                    <p>Il dolce fiume evocato è lʼAdige (cfr. anche Corsi 1969, p. 1023), a cui è dedicato anche il madrigale <hi rend="italic">Nel bel giardino</hi> (intonato da Jacopo).</p>
+                </note>
+
+                <note target="#l7">
+                    <num>7.</num>
+                    <p>La donna crudele rifiuta lʼavventura per nave col poeta. Il riferimento è allʼimmagine tradizionale della navigazione amorosa, per cui si veda Corsi 1969, p. 1023, nota <hi rend="italic">ad loc</hi>. Il verso è quasi perfettamente sovrapponibile al v. 7 «Ahi lasso a me, non vo·più ANNAmorarmi» del madrigale di Giovanni <hi rend="italic">O perlaro gentil, se dispogliato</hi> (i due testi condividono anche lo schema metrico). </p>
+                    <p><hi rend="italic"> A·NNAve</hi>: lʼespressione ricorre anche nel madrigale, sempre intonato da Jacopo, <hi rend="italic">Un bel perlare</hi>, dove al v. 4 è evocato il canto delle donne incontrate sulla riva di un fiume (<hi rend="italic">«A·nnave, a·nnave!» le donne cantando</hi>). È possibile che in entrambi i testi sia celato il <hi rend="italic">senhal</hi> ANNA. </p>
+                </note>
+                
+                <note target="#l7">
+                    <num>9.</num>
+                    <p><hi rend="italic"> me colcai</hi>: ʻmi coricaiʼ (per cui vedi <hi rend="italic">TLIO</hi>, s.v. <hi rend="italic">coricare</hi>).</p>
+                </note>
+            </div>
+
+
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Sapegno1952"> Natalino Sapegno, <hi rend="italic">Poeti minori del Trecento</hi>, Milano-Napoli, Ricciardi, 1952</bibl>
+                
+                <bibl xml:id="Corsi1969"> G. Corsi, <hi rend="italic">Rimatori del Trecento</hi>, Torino, UTET, 1969</bibl>
+                
+                <bibl xml:id="Corsi1970"> Giuseppe Corsi, <hi rend="italic">Poesie musicali del
+                        Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione
+                    di opere inedite o rare, 131) </bibl>
+
+            </listBibl>
+        </back>
+    </text>
+</TEI>

@@ -1,0 +1,619 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Biauté parfaite et bonté souvereinne</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Maria Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+        <!-- <front>
+            <div>
+                <p>
+                </p>
+            </div>
+        </front> -->
+        <group>
+            <text>
+                <!-- <front>
+                    <div>
+                        <p>
+                        </p>
+                    </div>
+                </front> -->
+                <body>
+                    <lg>
+                        <l xml:id="l1">
+                            <anchor xml:id="l1a5"/>Biauté <anchor xml:id="l1a6"/>parfaite <anchor xml:id="l1a1"/>et<anchor xml:id="l1a2"/> bonté <anchor xml:id="l1a3"/>souvereinne<anchor xml:id="l1a4"/>,
+                        </l>
+                        <l xml:id="l2">
+                            grace sans per <anchor xml:id="l2a1"/>et<anchor xml:id="l2a2"/> <anchor xml:id="l2a3"/>douçour<anchor xml:id="l2a4"/> esmeree
+                        </l>
+                        <l xml:id="l3">
+                            <anchor xml:id="l3a5"/>me <anchor xml:id="l3a1"/>font<anchor xml:id="l3a2"/> languir en <anchor xml:id="l3a3"/>contree<anchor xml:id="l3a4"/>lonteinne<anchor xml:id="l3a6"/>,
+                        </l>
+                        <l xml:id="l4">
+                            en <anchor xml:id="l4a1"/>desirant<anchor xml:id="l4a2"/> ma dame desiree,
+                        </l>
+                        <l xml:id="l5" n="5">
+                            <anchor xml:id="l5a1"/>si<anchor xml:id="l5a2"/> ne puis pas avoir <anchor xml:id="l5a5"/>longue <anchor xml:id="l5a3"/>duree<anchor xml:id="l5a4"/>
+                        </l>
+                        <l xml:id="l6">
+                            et ma <anchor xml:id="l6a1"/>dolour <anchor xml:id="l6a2"/>longuement<anchor xml:id="l6a3"/> endurer,
+                        </l>
+                        <l xml:id="l7">
+                            <hi rend="italic">puisque <anchor xml:id="l7a1"/>desirs<anchor xml:id="l7a2"/> ne me <anchor xml:id="l7a3"/>laisse<anchor xml:id="l7a4"/> durer.</hi>
+                        </l>
+                    </lg>
+                    <lg>
+                        <l xml:id="l8">
+                            <anchor xml:id="l8a1"/>Car <anchor xml:id="l8a2"/>j’ai<anchor xml:id="l8a3"/> desir qui se <anchor xml:id="l8a4"/>traveille<anchor xml:id="l8a5"/> et <anchor xml:id="l8a6"/>peinne<anchor xml:id="l8a7"/>
+                        </l>
+                        <l xml:id="l9">
+                            de <anchor xml:id="l9a1"/>moi<anchor xml:id="l9a2"/> deffaire, et ma dame <anchor xml:id="l9a3"/>honnouree<anchor xml:id="l9a4"/>
+                        </l>
+                        <l xml:id="l10" n="10">
+                            ne scet mïe que j’aie si <anchor xml:id="l10a1"/>grief <anchor xml:id="l10a2"/>peinne<anchor xml:id="l10a3"/>
+                        </l>
+                        <l xml:id="l11">
+                            <anchor xml:id="l11a1"/>pour <anchor xml:id="l11a3"/>li<anchor xml:id="l11a4"/> que j’aim plus que <anchor xml:id="l11a5"/>nulle<anchor xml:id="l11a6"/> riens nee<anchor xml:id="l11a2"/>,
+                        </l>
+                        <l xml:id="l12">
+                            <anchor xml:id="l12a1"/>si que pour ce ma joie est si finee<anchor xml:id="l12a2"/>,
+                        </l>
+                        <l xml:id="l13">
+                            que riens <anchor xml:id="l13a1"/>ne puet mon cuer<anchor xml:id="l13a2"/> reconforter,
+                        </l>
+                        <l xml:id="l14">
+                            <hi rend="italic">puisque <anchor xml:id="l14a1"/>desirs<anchor xml:id="l14a2"/> ne me <anchor xml:id="l14a3"/>laisse<anchor xml:id="l14a4"/> durer.</hi>
+                        </l>
+                    </lg>
+                    <lg>
+                        <l xml:id="l15" n="15">
+                            <anchor xml:id="l15a1"/>Mais <anchor xml:id="l15a2"/>se<anchor xml:id="l15a3"/> celle qui de <anchor xml:id="l15a4"/>long<anchor xml:id="l15a5"/> m’est <anchor xml:id="l15a6"/>procheinne<anchor xml:id="l15a7"/>,
+                        </l>
+                        <l xml:id="l16">
+                            par souvenir et par <anchor xml:id="l16a1"/>douce<anchor xml:id="l16a2"/> pensee,
+                        </l>
+                        <l xml:id="l17">
+                            <anchor xml:id="l17a1"/>sceüst<anchor xml:id="l17a2"/> pour <anchor xml:id="l17a3"/>voir<anchor xml:id="l17a4"/> qu’en <anchor xml:id="l17a5"/>loiauté <anchor xml:id="l17a6"/>certeinne<anchor xml:id="l17a7"/>
+                        </l>
+                        <l xml:id="l18">
+                            la sert <anchor xml:id="l18a1"/>mes cuers<anchor xml:id="l18a2"/> en <anchor xml:id="l18a3"/>estrange<anchor xml:id="l18a4"/> contree,
+                        </l>
+                        <l xml:id="l19">
+                            ma joie en fust toute r<anchor xml:id="l19a1"/>enouvelee<anchor xml:id="l19a2"/>,
+                        </l>
+                        <l xml:id="l20" n="20">
+                            mais je voy bien qu’il me convient finer,
+                        </l>
+                        <l xml:id="l21">
+                            <hi rend="italic">puisque <anchor xml:id="l21a1"/>desirs<anchor xml:id="l21a2"/> ne me <anchor xml:id="l21a3"/>laisse<anchor xml:id="l21a4"/> durer.</hi>
+                        </l>
+                    </lg>
+                </body>
+                <back>
+                    <listWit>
+                        <witness xml:id="MachA">
+                            <ref type="siglum" target="#MachA">MachA</ref>
+                            c. <locus>196v</locus>
+                        </witness>
+                        <witness xml:id="MachB">
+                            <ref type="siglum" target="#MachB">MachB</ref>
+                            c. <locus>37r</locus>
+                        </witness>
+                        <witness xml:id="MachC">
+                            <ref type="siglum" target="#MachC">MachC</ref>
+                            c. <locus>140r</locus>
+                        </witness>
+                        <witness xml:id="MachD">
+                            <ref type="siglum" target="#MachD">MachD</ref>
+                            c. <locus>24v</locus>
+                        </witness>
+                        <witness xml:id="MachE">
+                            <ref type="siglum" target="#MachE">MachE</ref>
+                            c. <locus>9r</locus>
+                        </witness>
+                        <witness xml:id="MachG">
+                            <ref type="siglum" target="#MachG">MachG</ref>
+                            c. <locus>58v</locus>
+                        </witness>
+                        <witness xml:id="MachH">
+                            <ref type="siglum" target="#MachH">MachH</ref>
+                            c. <locus>112v</locus>
+                        </witness>
+                        <witness xml:id="MachM">
+                            <ref type="siglum" target="#MachM">MachM</ref>
+                            c. <locus>187r</locus>
+                        </witness>
+                        <witness xml:id="MachVg">
+                            <ref type="siglum" target="#MachVg">MachVg</ref>
+                            c. <locus>20r</locus>
+                        </witness>
+                        <witness xml:id="MoA">
+                            <ref type="siglum" target="#MoA">MoA</ref>
+                            c. <locus>14r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-7): <hi rend="italic">idem</hi> [c. 13: <hi rend="italic">anthonello de caserta</hi>]
+                        </witness>
+                        <witness xml:id="R">
+                            <ref type="siglum" target="#R">R</ref>
+                            c. <locus>46v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-7)
+                        </witness>
+                    </listWit>
+                    <listApp type="substantial">
+                        <listApp>
+                            <head>1</head>
+                            <app from="#l1a1" to="#l1a2">
+                                <lem>et</lem>
+                                <rdg wit="#MoA #R"/>
+                            </app>
+                            <app from="#l1a3" to="#l1a4">
+                                <lem>sovereinne</lem>
+                                <rdg wit="#MoA">sovraine</rdg>
+                                <rdg wit="#R">souvraine</rdg>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>2</head>
+                            <app from="#l2a1" to="#l2a2">
+                                <lem>et</lem>
+                                <rdg wit="#MoA #R"/>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>3</head>
+                            <app from="#l3a1" to="#l3a2">
+                                <lem>font</lem>
+                                <rdg type="indifferentVariant" wit="#MoA #R">fait</rdg>
+                            </app>
+                            <app from="#l3a3" to="#l3a4">
+                                <lem>contree</lem>
+                                <rdg wit="#MoA">cotree</rdg>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>4</head>
+                            <app from="#l4a1" to="#l4a2">
+                                <lem>desirant</lem>
+                                <rdg wit="#MoA">desirat</rdg>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>5</head>
+                            <app from="#l5a1" to="#l5a2">
+                                <lem>si</lem>
+                                <rdg wit="#R">i</rdg>
+                            </app>
+                            <app from="#l5a3" to="#l5a4">
+                                <lem>duree</lem>
+                                <rdg wit="#MachD">demoree</rdg>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>8</head>
+                            <app from="#l8a1" to="#l8a2">
+                                <lem>Car</lem>
+                                <rdg wit="#MachM">ar </rdg>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>10</head>
+                            <app from="#l10a1" to="#l10a2">
+                                <lem>grief</lem>
+                                <rdg type="indifferentVariant" wit="#MachB #MachD">grant</rdg>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>11</head>
+                            <app from="#l11a1" to="#l11a2">
+                                <lem>pour li que j’aim plus que nulle riens nee</lem>
+                                <rdg wit="#MachD">pour riens lui que iai plus que mille riens nee</rdg>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>12</head>
+                            <app from="#l12a1" to="#l12a2">
+                                <lem>si que pour ce ma joie est si finee</lem>
+                                <rdg type="indifferentVariant" wit="#MachB">si que ma ioie en est pour ce finee <witDetail wit="MachB"><hi rend="italic">con en aggiunto da altra mano </hi></witDetail></rdg>
+                                <rdg type="indifferentVariant" wit="#MachD">si que ma ioie est pour ce finee </rdg>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>13</head>
+                            <app from="#l13a1" to="#l13a2">
+                                <lem>ne puet mon cuer</lem>
+                                <rdg type="indifferentVariant" wit="#MachD">mon cuer ne puet</rdg>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>15</head>
+                            <app from="#l15a1" to="#l15a2">
+                                <lem>Mais</lem>
+                                <rdg wit="#MachM">ais</rdg>
+                            </app>
+                            <app from="#l5a2" to="#l5a3">
+                                <lem>se</lem>
+                                <rdg wit="#MachE #MachH"/>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>17</head>
+                            <app from="#l17a1" to="#l17a2">
+                                <lem>sceüst</lem>
+                                <rdg wit="#MachB">‹sceust› <witDetail wit="MachB"><hi rend="italic">con seut aggiunto a margine </hi></witDetail></rdg>
+                                <rdg wit="#MachM">scut</rdg>
+                            </app>
+                            <app from="#l17a3" to="#l17a4">
+                                <lem>voir</lem>
+                                <rdg wit="#MachE">vray</rdg>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>18</head>
+                            <app from="#l18a1" to="#l18a2">
+                                <lem>mes cuers</lem>
+                                <rdg wit="#MachD">mon cuer</rdg>
+                            </app>
+                            <app from="#l18a3" to="#l18a4">
+                                <lem>estrange</lem>
+                                <rdg wit="#MachC">estrunge </rdg>
+                            </app>
+                        </listApp>
+                    </listApp>
+                    <listApp type="formal">
+                        <listApp>
+                            <listApp>
+                                <head>1</head>
+                                <app from="#l1a5" to="#l1a6">
+                                    <lem>Biauté</lem>
+                                    <rdg wit="#MachA #MachD #MachH">beaute </rdg>
+                                    <rdg wit="#MoA">be beaute  </rdg>
+                                </app>
+                                <app from="#l1a6" to="#l1a1">
+                                    <lem>parfaite</lem>
+                                    <rdg wit="#R">porfaite</rdg>
+                                </app>
+                                <app from="#l1a3" to="#l1a4">
+                                    <lem>souvereinne</lem>
+                                    <rdg wit="#MachD #MachE #MachH">souveraine</rdg>
+                                    <rdg wit="#MachM">souverainne</rdg>
+                                </app>
+                            </listApp>
+                            <listApp>
+                                <head>2</head>
+                                <app from="#l2a3" to="#l2a4">
+                                    <lem>douçour</lem>
+                                    <rdg wit="#MachB">doulcor <witDetail wit="#MachB"><hi rend="italic">con -l- aggiunta da altra mano</hi></witDetail></rdg>
+                                    <rdg wit="#MachD #MachM">douceur</rdg>
+                                    <rdg wit="#MoA">doucur </rdg>
+                                </app>
+                            </listApp>
+                            <listApp>
+                                <head>3</head>
+                                <app from="#l3a5" to="#l3a1">
+                                    <lem>me</lem>
+                                    <rdg wit="#MoA">me me </rdg>
+                                </app>
+                                <app from="#l3a4" to="#l3a6">
+                                    <lem>lonteinne</lem>
+                                    <rdg wit="#MachC">lointeingne </rdg>
+                                    <rdg wit="#MachD #MachE">lointaine </rdg>
+                                    <rdg wit="#MachH">lomgtaine</rdg>
+                                    <rdg wit="#MachM">longtainne </rdg>
+                                    <rdg wit="#MoA #R">lontaine </rdg>
+                                </app>
+                            </listApp>
+                            <listApp>
+                                <head>5</head>
+                                <app from="#l5a5" to="#l5a3">
+                                    <lem>longue</lem>
+                                    <rdg wit="#R">longe </rdg>
+                                </app>
+                            </listApp>
+                            <listApp>
+                                <head>6</head>
+                                <app from="#l6a1" to="#l6a2">
+                                    <lem>dolour</lem>
+                                    <rdg wit="#MachC">doulour </rdg>
+                                    <rdg wit="#MachD">douleur </rdg>
+                                </app>
+                                <app from="#l6a2" to="#l6a3">
+                                    <lem>longuement</lem>
+                                    <rdg wit="#MoA">longuemant </rdg>
+                                    <rdg wit="#R">longement </rdg>
+                                </app>
+                            </listApp>
+                            <listApp>
+                                <head>7</head>
+                                <app from="#l7a1" to="#l7a2">
+                                    <lem>desirs</lem>
+                                    <rdg wit="#MachE #MachH #MoA #R">desir </rdg>
+                                </app>
+                                <app from="#l7a3" to="#l7a4">
+                                    <lem>laisse</lem>
+                                    <rdg wit="#MachB #MachD">lesse </rdg>
+                                    <rdg wit="#MoA #R">lasse </rdg>
+                                </app>
+                            </listApp>
+                            <listApp>
+                                <head>8</head>
+                                <app from="#l8a2" to="#l8a3">
+                                    <lem>j’ai</lem>
+                                    <rdg wit="#MachVg">jay </rdg>
+                                </app>
+                                <app from="#l8a4" to="#l8a5">
+                                    <lem>traveille</lem>
+                                    <rdg wit="#MachE">travaille </rdg>
+                                </app>
+                                <app from="#l8a6" to="#l8a7">
+                                    <lem>peinne</lem>
+                                    <rdg wit="#MachB">peine </rdg>
+                                    <rdg wit="#MachD">poine  </rdg>
+                                    <rdg wit="#MachE #MachH #MachM">paine </rdg>
+                                    <rdg wit="#MachM">painne  </rdg>
+                                </app>
+                            </listApp>
+                            <listApp>
+                                <head>9</head>
+                                <app from="#l9a1" to="#l9a2">
+                                    <lem>moi</lem>
+                                    <rdg wit="#MachVg ">moy </rdg>
+                                </app>
+                                <app from="#l9a3" to="#l9a4">
+                                    <lem>honnouree</lem>
+                                    <rdg wit="#MachB">honnoree</rdg>
+                                    <rdg wit="#MachD #MachM">honoree </rdg>
+                                    <rdg wit="#MachH">honouree </rdg>
+                                </app>
+                            </listApp>
+                            <listApp>
+                                <head>10</head>
+                                <app from="#l10a2" to="#l10a3">
+                                    <lem>peinne</lem>
+                                    <rdg wit="#MachC #MachM">painne </rdg>
+                                    <rdg wit="#MachD">poine </rdg>
+                                </app>
+                            </listApp>
+                            <listApp>
+                                <head>11</head>
+                                <app from="#l11a3" to="#l11a4">
+                                    <lem>li</lem>
+                                    <rdg wit="#MachE">lui </rdg>
+                                </app>
+                                <app from="#l11a5" to="#l11a6">
+                                    <lem>nulle</lem>
+                                    <rdg wit="#MachB">nule </rdg>
+                                </app>
+                            </listApp>
+                            <listApp>
+                                <head>14</head>
+                                <app from="#l14a1" to="#l14a2">
+                                    <lem>desirs</lem>
+                                    <rdg wit="#MachE #MachH">desir </rdg>
+                                </app>
+                                <app from="#l14a3" to="#l14a4">
+                                    <lem>laisse</lem>
+                                    <rdg wit="#MachB #MachD">lesse </rdg>
+                                </app>
+                            </listApp>
+                            <listApp>
+                                <head>15</head>
+                                <app from="#l15a1" to="#l15a2">
+                                    <lem>Mais</lem>
+                                    <rdg wit="#MachD">mes </rdg> 
+                                </app>
+                                <app from="#l15a4" to="#l15a5">
+                                    <lem>long</lem>
+                                    <rdg wit="#MachB #MachC #MachD #MachE #MachH #MachM">loing </rdg>
+                                </app>
+                                <app from="#l15a6" to="#l15a7">
+                                    <lem>procheinne</lem>
+                                    <rdg wit="#MachD #MachE">prouchaine </rdg>
+                                    <rdg wit="#MachH">prochaine </rdg>
+                                    <rdg wit="#MachM">prochainne </rdg>
+                                </app>
+                            </listApp>
+                            <listApp>
+                                <head>16</head>
+                                <app from="#l16a1" to="#l16a2">
+                                    <lem>douce </lem>
+                                    <rdg wit="#MachB">doulce <witDetail wit="#MachB"><hi rend="italic">con -l- aggiunta da altra mano </hi></witDetail></rdg>
+                                </app>
+                            </listApp>
+                            <listApp>
+                                <head>17</head>
+                                <app from="#l17a5" to="#l17a6">
+                                    <lem>loiauté</lem>
+                                    <rdg wit="#MachVg">loyaute </rdg>
+                                </app>
+                                <app from="#l17a6" to="#l17a7">
+                                    <lem>certeinne</lem>
+                                    <rdg wit="#MachB">certeine </rdg>
+                                    <rdg wit="#MachH">certaine </rdg>
+                                    <rdg wit="#MachM">certainne </rdg>
+                                </app>
+                            </listApp>
+                            <listApp>
+                                <head>18</head>
+                                <app from="#l18a3" to="#l18a4">
+                                    <lem>estrange</lem>
+                                    <rdg wit="#MachE">estrainge </rdg>
+                                </app>
+                            </listApp>
+                            <listApp>
+                                <head>19</head>
+                                <app from="#l19a1" to="#l19a2">
+                                    <lem>renouvelee</lem>
+                                    <rdg wit="#MachD #MachM">renouvellee </rdg>
+                                    <rdg wit="#MachM">scut</rdg>
+                                </app>
+                            </listApp>
+                            <listApp>
+                                <head>21</head>
+                                <app from="#l21a1" to="#l21a2">
+                                    <lem>desirs</lem>
+                                    <rdg wit="#MachE #MachH">desir </rdg>
+                                </app>
+                                <app from="#l21a3" to="#l21a4">
+                                    <lem>laisse</lem>
+                                    <rdg wit="#MachB #MachD">lesse </rdg>
+                                </app>
+                            </listApp>
+                        </listApp>
+                    </listApp>
+                </back>
+            </text>
+            <text type="secondaryText">
+                <front>
+                    <!--[ partie préfatoire du deuxième texte ]-->
+                </front>
+                <body>
+                    <head><hi rend="italic">Edizione ristretta all'edizione musicale (MoA)</hi></head>
+                    <lg>
+                        <l xml:id="v1">
+                            Beauté parfaite <supplied>[<anchor xml:id="v1a1"/>et<anchor xml:id="v1a2"/>]</supplied> bonté sovraine,
+                        </l>
+                        <l xml:id="v2">
+                            grace sans per <supplied>[<anchor xml:id="v2a1"/>et<anchor xml:id="v2a2"/>]</supplied> douçur esmeree
+                        </l>
+                        <l xml:id="v3">
+                            me fait languir en <anchor xml:id="v3a1"/>co<supplied>[n]</supplied>tree<anchor xml:id="v3a2"/> lontaine,
+                        </l>
+                        <l xml:id="v4">
+                            en <anchor xml:id="v4a1"/>desira<supplied>[n]</supplied>t<anchor xml:id="v4a2"/> ma dame desiree,
+                        </l>
+                        <l xml:id="v5" n="5">
+                            si ne puis pas avoir longue duree
+                        </l>
+                        <l xml:id="v6">
+                            et ma dolour longuemant endurer,
+                        </l>
+                        <l xml:id="v7">
+                            <hi rend="italic">puisque desir ne me lasse durer.</hi>
+                        </l>
+                    </lg>
+                </body>
+                <back>
+                    <listApp type="substantial">
+                        <listApp>
+                            <head>1</head>
+                            <app from="#v1a1" to="#v1a2">
+                                <lem>et</lem>
+                                <rdg wit="#MoA"/>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>2</head>
+                            <app from="#v2a1" to="#v2a2">
+                                <lem>et</lem>
+                                <rdg wit="#MoA"/>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>3</head>
+                            <app from="#v3a1" to="#v3a2">
+                                <lem>contree</lem>
+                                <rdg wit="#MoA">cotree </rdg>
+                            </app>
+                        </listApp>
+                        <listApp>
+                            <head>4</head>
+                            <app from="#v4a1" to="#v4a2">
+                                <lem>desirant</lem>
+                                <rdg wit="#MoA">desirat </rdg>
+                            </app>
+                        </listApp>
+                    </listApp>
+                </back>
+            </text>
+        </group>
+        <back>
+            <div type="metricalScheme">
+                <p>
+                    <hi rend="italic">Ballade</hi> 10’a 10’b, 10’a 10’b; 10’b 10c 10C. 
+                </p>
+                <p>
+                    Rima equivoca ai vv. 8 : 10; rima inclusiva ai vv: 11 : 12; rima inclusiva e derivativa ai vv. 6 : 7.
+                </p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Chichmaref1909">
+                    Chichmaref 1909, vol. I, pp. 132-3;
+                </bibl>
+                <bibl corresp="#Bertoni1917">
+                    Bertoni 1917, p. 32 (solo la prima strofa);
+                </bibl>
+                <bibl corresp="#Apel-Rosenberg1970">
+                    Apel-Rosenberg 1970, p. XLVI;
+                </bibl>
+                <bibl corresp="#Vivarelli2005">
+                    Vivarelli 2005, pp. 93-4 (solo la prima strofa).
+                </bibl>
+            </listBibl>
+            <!--listBibl type="bibliography">
+                <bibl>
+                    <relatedItem>
+                        <bibl>Riferimento bibliografico completo</bibl>
+                    </relatedItem>
+                </bibl>
+            </listBibl-->
+            <!-- <div type="commentary">
+                <note target="#l">
+                    <num></num>
+                    <p></p>
+                </note>
+            </div> -->
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Chichmaref1909">
+                    V. F. Chichmaref, <hi rend="italic">Poésies lyriques de Guillaume de Machaut</hi>, Paris, Champion, 1909, 2 voll.
+                </bibl>
+                <bibl xml:id="Bertoni1917">
+                    Giulio Bertoni, <hi rend="italic">Poesie musicali francesi nel cod. Estense Lat. n. 568</hi>, in «Archivium Romanicum», 1 (1917), pp. 21-57.
+                </bibl>
+                <bibl xml:id="Apel-Rosenberg1970">
+                    <hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1).
+                </bibl>
+                <bibl xml:id="Vivarelli2005">
+                    Carla Vivarelli, <hi rend="italic">Le composizioni francesi di Filippotto e Antonello da Caserta tràdite nel Codice Estense a.M.5.24</hi>, Pisa, ETS, 2005 («Diverse voci... 6»).
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

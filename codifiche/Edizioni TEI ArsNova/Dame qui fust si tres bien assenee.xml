@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Dame qui fust si tres bien assenee</title>
+                <respStmt>
+                    <resp>Digital scholarly edition created within the </resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Vittoria Brancato</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Carla Congiu</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p></p>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--front>
+            <div>
+                <p>
+                </p>
+            </div>         
+        </front-->
+        <body>
+            <lg>
+                <l xml:id="l1">
+                    Dame qui fust si tres bien assenee,
+                </l>
+                <l xml:id="l2">
+                    come je suy a mon tamps, vrayement
+                </l>
+                <l xml:id="l3">
+                    onques ne fu de nulle feme nee,
+                </l>
+                <l xml:id="l4">
+                    qu’a droit sohayt je suy certainement.
+                </l>
+                <l xml:id="l5" n="5">
+                    Mais Fortune ma partie
+                </l>
+                <l xml:id="l6">
+                    soudainement a de mi departie,
+                </l>
+                <l xml:id="l7">
+                    si m’est avis qu’, a droit considerer,
+                </l>
+                <l xml:id="l8">
+                    <hi rend="italic">de Fortune me doy plaindre et loer.</hi>
+                </l>
+            </lg>
+        </body>
+        <back>
+            <listWit>
+                <witness xml:id="R">
+                    <ref type="siglum" target="#R">R</ref>
+                    c. <locus>56v</locus>, <abbr xml:id="RC">C</abbr> (vv. 1-8)
+                </witness>
+            </listWit>
+            <!--listApp type="substantial">
+            </listApp-->
+            <!--listApp type="formal">
+            </listApp-->
+            <div type="metricalScheme">
+                <p><hi rend="italic">Ballade</hi> 10’a 10b 10’a 10b 7’c 10’c 10d 10D.</p>
+                <p>Rima inclusiva ai vv. 1 : 3; rima ricca ai vv. 2 : 4; rima derivativa e inclusiva ai vv. 5 : 6.</p>
+            </div>
+            <listBibl type="editions">
+                <bibl corresp="#Apel-Rosenberg1971">
+                    Apel-Rosenberg 1971, p. <hi rend="small-caps">xxiii</hi>.
+                </bibl>
+            </listBibl>
+            <div type="commentary">
+                <note target="#l2">
+                    <num>2.</num>
+                    <hi rend="italic">suy</hi>: l’ed. Apel-Rosenberg propone qui (e al v. 4) la correzione <hi rend="italic">fuy</hi>, con cui si intende ‘per il tempo in cui fui in vita’, ma forse non necessaria al contesto. 
+                </note>
+                <note target="#l5 #l6">
+                    <num>5-6.</num>
+                    <hi rend="italic">ma partie / a de mi departie</hi>: lett. vale ʻha allontanato da me la mia parteʼ (con gioco etimologico <hi rend="italic">partie-departie</hi>), intendendo forse che la Sorte ha sottratto al poeta la possibilità di partecipare all’amore, oppure più semplicemente la ‘donna’, avendola allontanata o avendo impedito la reciprocità del sentimento (?), per cui cfr. <hi rend="italic">DMF</hi>, s. v. <hi rend="italic">partie</hi> § B ‘chaque membre du couple, épouse, époux , maîtresse, amant’. 
+                </note>
+                <note target="#l8">
+                    <num>8.</num>
+                    Il verso-<hi rend="italic">refrain</hi> è identico all'<hi rend="italic">incipit</hi> di una <hi rend="italic">ballade</hi> di Guillaume de Machaut.
+                </note>
+            </div>
+            <listBibl type="editionsBibliography">
+                <bibl xml:id="Apel-Rosenberg1971">
+                    Willi Apel, <hi rend="italic">French Secular Compositions of the Fourteenth Century II. Anonymous Ballades</hi>, edition of the Literary Texts by Samuel Rosenberg, Rome, American Institute of Musicology, 1971 (CMM, 53/2).
+                </bibl>
+            </listBibl>
+        </back>
+    </text>
+</TEI>

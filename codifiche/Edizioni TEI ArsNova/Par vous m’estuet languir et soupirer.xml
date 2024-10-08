@@ -63,6 +63,7 @@
         <text>
             <!--<front></front>-->
             <body>
+                <head>Par vous m’estuet languir et soupirer</head>
                 <lg>
                     <l xml:id="l1"> Par vous m’estuet languir et soupirer,</l>
                     <l xml:id="l2"> douce dame <anchor xml:id="l2a1"/>jo<supplied reason="illegible">[li]</supplied>e<anchor xml:id="l2a2"/>, et nuit et jour,</l>
@@ -140,6 +141,7 @@
         <text>
             <!--<front></front>-->
             <body>
+                <head>Soyés par moy, mon amy gracïeux</head>
                 <lg>
                     <l xml:id="l1s"> Soyés par moy, mon amy gracïeux,</l>
                     <l xml:id="l2s"> hors de tormant, je t’en pri et supplie,</l>
@@ -219,8 +221,13 @@
         </listWit>
             
         <listBibl type="editions">
-            <bibl corresp="#Apel-Rosenberg1970">
-                Apel-Rosenberg 1970, pp. <hi rend="small-caps">LX-LXI</hi>.</bibl>
+            <bibl corresp="#ApelRosenberg1970"> Apel-Rosenberg 1970, pp. <hi rend="small-caps">LX-LXI</hi>.</bibl>
+        </listBibl>
+        
+        <listBibl type="editionsBibliography">
+            
+            <bibl xml:id="ApelRosenberg1970"><hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1)</bibl>
+            
         </listBibl>
     </back>
       

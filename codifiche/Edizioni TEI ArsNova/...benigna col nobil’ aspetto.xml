@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>...benigna col nobil’ aspetto</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt> 
+               <resp>Edited by</resp> 
+               <name>Maria Sofia Lannutti</name> 
+            </respStmt> 
+            <respStmt> 
+               <resp>Revised by</resp> 
+               <name>Luca Gatti</name> 
+            </respStmt> 
+            <respStmt> 
+               <resp>TEI-encoded by</resp> 
+               <name>Elvira Mercatanti</name> 
+            </respStmt> 
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> --> 
+
+      <body>
+         <lg>
+            <l xml:id="l1">
+               <supplied reason="illegible"> [...]</supplied>  
+            </l>
+            <l xml:id="l2">
+               <supplied reason="illegible"> [...]</supplied> l benigna col nobil’ aspetto 
+            </l>
+            <l xml:id="l3">
+               fedel a·tte sa<supplied reason="illegible">[...-etto]</supplied>
+            </l>
+         </lg>
+
+         <lg>
+            <l xml:id="l4">
+               <supplied reason="illegible">[...]</supplied>lata l’angelica vista
+            </l>
+            <l xml:id="l5" n="5">
+               formata in para<supplied reason="illegible">[...-ore]</supplied>,
+            </l>
+            <l xml:id="l6">
+               che chi·tti guarda conforto n’aquista,
+            </l>
+            <l xml:id="l7">
+               tanto riluce el tuo vago isplendore,
+            </l>
+            <l xml:id="l8">
+               per che ti prego c’aumili el core
+            </l>
+            <l xml:id="l9">
+               vers’ el tuo servo che vive in sospetto
+            </l>
+            <l xml:id="l10" n="10">
+               giammai da·tte aver alcun dilecto.
+            </l>
+         </lg>
+      </body>
+
+
+      <back>
+         <listWit>            
+            <witness xml:id="Cil">
+               <ref type="siglum" target="#Cil">Cil</ref> 
+               c. 97v, <abbr xml:id="CilC">C</abbr> (vv. 1-5),<hi rend="italic"> resid.</hi> (vv. 6-10): [c. 97r:<hi rend="italic"> d(ominus) p(aulus)</hi>]            
+            </witness>
+         </listWit>
+
+
+         <!--<listApp type="substantial">
+             </listApp>-->
+         
+         <!--<listApp type="formal">
+            <listApp>-->
+               
+         <div type="metricalScheme">
+            <p>Ballata mezzana 10’m 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z 10’z.</p>
+         </div>
+
+
+         <listBibl type="editions">
+            <bibl corresp="#Brumana-Ciliberti1986">
+               Brumana-Ciliberti 1986, p. 28.
+            </bibl>
+         </listBibl>
+
+
+         <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl>-->
+
+
+         <div type="commentary">
+            <note target="#l2">
+               <num>2.</num>
+               <p>Brumana-Ciliberti propongono di integrare<hi rend="italic">Gentil</hi>a inizio di verso, ma leggono<hi rend="italic">benigno</hi> nella lezione seguente.</p>
+            </note>
+
+            <note target="#l5">
+               <num>5.</num>
+               <p>Probabilmente <hi rend="italic">formata in paradiso</hi> (Brumana-Ciliberti).</p>
+            </note>
+         </div>
+
+
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Brumana-Ciliberti1986">
+               Biancamaria Brumana, Galliano Ciliberti, <hi rend="italic">Nuove fonti per lo studio dell’opera di Paolo da Firenze</hi>, «Rivista Italiana di Musicologia», 22 (1986), pp. 3-33.
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

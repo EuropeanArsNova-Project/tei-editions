@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Altri n’avrà la pena, et io il danno</title>
+            <author>Franco Sacchetti</author>
+            <editor>Davide Checchi</editor>
+            <respStmt>
+               <resp>Digital scholarly editon created within the </resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Davide Checchi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoding by</resp>
+               <name>Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg>
+            <l xml:id="l1">
+               Altri n’<anchor xml:id="l1a3"/>avrà<anchor xml:id="l1a4"/> la <anchor xml:id="l1a1"/>pena, et<anchor xml:id="l1a2"/> io il danno,
+            </l>
+            <l xml:id="l2">
+               se <anchor xml:id="l2a1"/>sotto<anchor xml:id="l2a2"/> <anchor xml:id="l2a3"/>fede<anchor xml:id="l2a4"/> ò ricevuto inganno.
+            </l>
+         </lg>
+         <lg>
+            <l xml:id="l3">
+               Non manca <anchor xml:id="l3a1"/>mai<anchor xml:id="l3a2"/> la divina <anchor xml:id="l3a3"/>vendetta<anchor xml:id="l3a4"/>
+            </l>      
+            <l xml:id="l4">
+               ben <anchor xml:id="l4a1"/>c’alcun’ ora<anchor xml:id="l4a2"/> paia che <anchor xml:id="l4a3"/>rispiarmi<anchor xml:id="l4a4"/>;
+            </l>
+            <l xml:id="l5" n="5">
+               ond’ io spero venir giusta <anchor xml:id="l5a1"/>saetta<anchor xml:id="l5a2"/>
+            </l>
+            <l xml:id="l6">
+               inverso chi à creduto saettarmi,
+            </l>
+            <l xml:id="l7">
+               <anchor xml:id="l7a3"/>e<anchor xml:id="l7a4"/> di ciò <anchor xml:id="l7a1"/>che m’è fatto<anchor xml:id="l7a2"/> non curarmi,
+            </l>
+            <l xml:id="l8">
+               ché <anchor xml:id="l8a1"/>gran<anchor xml:id="l8a2"/> virtù è vincer ogni affanno.
+            </l>
+         </lg>
+      </body>
+      <back>
+         <listWit>            
+            <witness xml:id="A">
+               <ref type="siglum" target="#">A</ref>
+               c. <locus>48v</locus>: <hi rend="italic">balatina di franco sachetti</hi>
+            </witness>
+            <witness xml:id="Sq">
+               <ref type="siglum" target="#Sq">Sq</ref> 
+               c. <locus>140r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-6), <hi rend="italic">resid.</hi> (vv. 7-8):  <hi rend="italic">magister franciscus cecus horghanista de florentia</hi>
+            </witness>
+         </listWit>
+         
+         <listApp type="substantial">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>pena, et</lem>
+                  <rdg>pene et <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>4</head>
+               <app from="#l4a1" to="#l4a2">
+                  <lem>c’alcun’ ora</lem>
+                  <rdg wit="#Sq">che talora</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>7</head>
+               <app from="#l7a1" to="#l7a2">
+                  <lem>che m’è fatto</lem>
+                  <rdg wit="#Sq">a me date</rdg>
+               </app>
+            </listApp>
+         </listApp>
+         
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a3" to="#l1a4">
+                  <lem>avrà</lem>
+                  <rdg wit="#Sq">ara</rdg>
+               </app>
+               <app from="#l1a5" to="#l1a6">
+                  <lem>il</lem>
+                  <rdg wit="#Sq">l</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>2</head>
+               <app from="#l2a1" to="#l2a2">
+                  <lem>sotto</lem>
+                  <rdg>socto <wit><ref target="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+               <app from="#l2a3" to="#l2a4">
+                  <lem>fede</lem>
+                  <rdg wit="#Sq">fe</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>3</head>
+               <app from="#l3a1" to="#l3a2">
+                  <lem>mai</lem>
+                  <rdg wit="#Sq">maị</rdg>
+               </app>
+               <app from="#l3a3" to="#l3a4">
+                  <lem>vendetta</lem>
+                  <rdg wit="#Sq">vendecta</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>4</head>
+               <app from="#l4a3" to="#l4a4">
+                  <lem>rispiarmi</lem>
+                  <rdg>riparmi <wit><ref target="#SqC">Sq<hi rend="super">C</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>5</head>
+               <app from="#l5a1" to="#l5a2">
+                  <lem>saetta</lem>
+                  <rdg>saecta <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>7</head>
+               <app from="#l7a3" to="#l7a4">
+                  <lem>e</lem>
+                  <rdg wit="#Sq">et</rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>8</head>
+               <app from="#l8a1" to="#l8a2">
+                  <lem>gran</lem>
+                  <rdg wit="#Sq">gram</rdg>
+               </app>
+            </listApp>
+         </listApp>
+         
+         <div type="metricalScheme">
+            <p>
+               Ballata minore 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z.
+            </p> 
+            <p>
+               <hi rend="italic">Pagnotta</hi> 111 : 6.
+            </p>
+            <p>
+               Punti sottoscritti: v. 3 (<hi rend="italic">mai</hi>) Sq.
+            </p>
+         </div>
+         
+         <listBibl type="editions">
+            <bibl corresp="#Chiari1936">
+               Chiari 1936, pp. 271;
+            </bibl>
+            <bibl corresp="#Ageno1990">
+               Ageno 1990, p. 355; 
+            </bibl>
+            <bibl corresp="#Puccini2007">
+               Puccini 2007, pp. 419-20.
+            </bibl>
+         </listBibl>
+         
+         <div type="commentary">
+            <note target="#l1">
+               <num>1.</num>
+               <hi rend="italic">pena et:</hi> in Sq<hi rend="super">T</hi> et è stato probabilmente aggiunto, in forma di nota tironiana, in un secondo momento.
+            </note>
+         </div>
+         
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Chiari1936">
+               Franco Sacchetti, <hi rend="italic">Il libro delle rime</hi>, ed. A. Chiari, Bari, Laterza, 1936 (Scrittori d’Italia, 157)
+            </bibl>
+            <bibl xml:id="Ageno1990">
+               Franco Sacchetti, <hi rend="italic">Il libro delle rime</hi>, ed. F. Ageno, Firenze, Olschki, 1990
+            </bibl>
+            <bibl xml:id="Puccini2007">
+               Franco Sacchetti, <hi rend="italic">Il libro delle rime con le lettere</hi>, ed. D. Puccini, Torino, UTET, 2007
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Ce jour de l’an que maint doit estrener</title>
+                <!--<author><ref target="X"></ref></author>-->
+                <respStmt>
+                    <resp>Digital scholarly edition created within the ERC</resp>
+                    <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref>
+                        project.</orgName>
+                </respStmt>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name>Maria Sofia Lannutti</name> 
+                </respStmt>
+                <respStmt>
+                    <resp>Revised by</resp>
+                    <name>Luca Gatti</name>
+                </respStmt>
+                <respStmt>
+                    <resp>TEI-encoded by</resp>
+                    <name>Elvira Mercatanti</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p/>
+                <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+            </publicationStmt>
+            <sourceDesc>
+                <p/>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <variantEncoding method="double-end-point" location="internal"/>
+        </encodingDesc>
+    </teiHeader>
+    <text>
+        <!--<front> 
+         <div> 
+            <p>
+               Aggiungi qui l'INTRODUZIONE (se presente). Suddividila in paragrafi (<p>)
+               e marca i corsivi (<hi rend="italic"> </hi> )
+            </p> 
+         </div>         
+      </front> -->
+        <body>
+            <lg>
+                <l xml:id="l1">Ce jour de l’an <anchor xml:id="l1a1"/>qu<supplied reason="illegible">[e]<anchor xml:id="l1a2"/></supplied> maint <anchor xml:id="l1a3"/>doit<anchor xml:id="l1a4"/> <anchor xml:id="l1a5"/>estrener<anchor xml:id="l1a6"/></l>
+                <l xml:id="l2">joieusement <anchor xml:id="l2a1"/><supplied reason="illegible">[l]</supplied>a<anchor xml:id="l2a2"/> belle et doulche <anchor xml:id="l2a3"/>amie<anchor xml:id="l2a4"/>,</l>
+            </lg>
+            <lg>
+                <l xml:id="l3">quant est de moy, je veul de ma partie</l>
+                <l xml:id="l4">mon <anchor xml:id="l4a1"/>cuer<anchor xml:id="l4a2"/>, mon corps entirement donner</l>
+                <l xml:id="l5" n="5">a ma dame, qui tant fait a loer:</l>
+                <l xml:id="l6">tout quant que j’ay plainnement li otrie,</l>
+                <l xml:id="l7"><hi rend="italic">ce jour <supplied xml:id="suppl1" reason="illegible">[de l’an que maint doit estrener</supplied></hi></l>
+                <l xml:id="l8"><hi rend="italic"><supplied xml:id="suppl2" corresp="#suppl1" reason="illegible">joyeusement la belle et doulche amie].</supplied></hi></l>
+            </lg>
+
+        </body>
+
+
+
+        <back>
+            <listWit>
+                <witness xml:id="Ox2">
+                    <ref type="siglum" target="#Ox2">Ox2</ref>  c. 97v, <abbr xml:id="Ox2C">C</abbr> (vv. 1-4):<hi rend="italic">m(agister) baude cordier </hi>
+                </witness>
+            </listWit>
+
+
+            <listApp type="substantial">
+                <listApp>
+                    <head>1</head>
+                    <app from="#l1a1" to="#l1a2">
+                        <lem>que</lem>
+                        <rdg wit="#Ox2">qui</rdg>
+                    </app>
+                    
+                    <app from="#l1a3" to="#l1a4">
+                        <lem>doit</lem>
+                        <rdg wit="#Ox2">doist</rdg>
+                    </app>
+                    
+                    <app from="#l1a5" to="#l1a6">
+                        <lem>estrener</lem>
+                        <rdg wit="#Ox2">estrenier</rdg>
+                    </app>
+                    <app from="#l2a1" to="#l2a2">
+                        <lem>la</lem>
+                        <rdg wit="#Ox2">sa</rdg>
+                    </app>
+                </listApp>
+            </listApp>
+
+
+
+            <listApp type="formal">
+                <listApp>
+                    <head>2</head>
+                    <app from="#l2a3" to="#l2a4">
+                        <lem>amie</lem>
+                        <rdg wit="#Ox2">amie e</rdg>
+                    </app>
+                </listApp>
+                <listApp>
+                    <head>4</head>
+                    <app from="#l4a1" to="#l4a2">
+                        <lem>cuer</lem>
+                        <rdg wit="#Ox2"><hi rend="italic">abbreviato con disegno a forma di cuore</hi></rdg>
+                    </app>
+                </listApp>
+            </listApp>
+
+
+            <div type="metricalScheme">
+                <p><hi rend="italic">Rondeau</hi> 10A 10’B; 10’b 10a; 10a 10’b; 10A 10’B. Si noti che il primo verso del <hi rend="italic">refrain</hi> non è ripetuto in seconda posizione nella strofe; in prima posizione, diversamente, si ha rima b.</p>
+            </div>
+
+
+            <listBibl type="editions">                
+                <bibl corresp="#Reaney1955">Reaney 1955, p. I.</bibl>
+            </listBibl>
+            
+            
+            <!--<listBibl type="bibliography">
+            <bibl corresp="#">
+            </bibl>
+         </listBibl>-->
+            
+            
+            <div type="commentary">
+                <note target="#l1 l7">
+                    <num>1-7.</num>
+                    <p>‘In questo giorno dell’anno, in cui si deve molto donare con gioia alla bella e dolce amica, quanto a me, voglio donare da parte mia tutto me stesso alla mia signora, che è tanto degna di lode: tutto ciò che ho le concedo pienamente, in questo giorno dell’anno…’.</p>
+                </note>
+            </div>
+            
+            
+            <listBibl type="editionsBibliography">
+                
+                <bibl xml:id="Reaney1955"><hi rend="italic">Early Fifteenth-Century Music, I. Baude Cordier, Johannis Cesaris, Johannis
+                    Carmen, Johannis Tapissier</hi>, ed. by G. Reaney, Roma, AIM, 1955 (CMM, 11/1).</bibl>
+                
+            </listBibl>
+        </back>
+    </text>
+</TEI>

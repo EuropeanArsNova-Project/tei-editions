@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Se je me plaing de Fortune, j’ay droit</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the ERC</resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> project.</orgName>
+            </respStmt>
+            <respStmt>
+                <resp>Edited by</resp>
+                <name>Maria Sofia Lannutti</name> 
+            </respStmt>
+            <respStmt>
+                <resp>Revised by</resp>
+                <name>Luca Gatti</name>
+            </respStmt>
+             <respStmt>
+                <resp>TEI-encoded by</resp>
+                <name>Letizia Ricci</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+    <text>
+        <!-- <front>
+            <div>
+            </div>
+        </front> -->
+      <body>
+         <lg>
+            <l xml:id="l1">
+                Se je me plaing de Fortune, j’ay droit,
+            </l>
+            <l xml:id="l2">
+                car par li sui griefment <anchor xml:id="l2a1"/>e[f]fortunee<anchor xml:id="l2a2"/>,
+            </l>
+            <l xml:id="l3">
+                quant j’ay perdu celui qui tant m’amoit,
+            </l>
+            <l xml:id="l4">
+                ce fuit pour moy moult dure destinee.
+            </l>
+            <l xml:id="l5" n="5">
+                Or sui je bien de petite heure nee,
+            </l>
+            <l xml:id="l6">
+                <anchor xml:id="l6a1"/>car je ne treuve amisté<anchor xml:id="l6a2"/> ne douchour:
+            </l>
+            <l xml:id="l7">
+                <hi rend="italic">je ne me vueil plus fïer en amour.</hi>
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l8">
+                A tous jours mais la mort mauldite soit,
+            </l>
+            <l xml:id="l9">
+                car je sui trop par li desconfortee,
+            </l>
+            <l xml:id="l10" n="10">
+                et d’autre part mon povre cuer quidoit
+            </l>
+            <l xml:id="l11">
+                que je deüsse estre reconfortee
+            </l>
+            <l xml:id="l12">
+                par un autre, mes mal sui asenee:
+            </l>
+            <l xml:id="l13">
+                je ne treuve que tristesse et dolour,
+            </l>
+            <l xml:id="l14">
+                <hi rend="italic">je ne me vueil [plus fïer en amour].</hi>
+            </l>
+        </lg>
+        <lg>
+            <l xml:id="l15" n="15">
+                Mort et Amour m’ont mise en povre ploit,
+            </l>
+            <l xml:id="l16">
+                je ne <anchor xml:id="l15a1"/>sçay<anchor xml:id="l15a2"/> lequel m’a plus conturbee,
+            </l>
+            <l xml:id="l17">
+                je croy que Dieux <anchor xml:id="l17a1"/>s[i] mari[r]<anchor xml:id="l17a2"/> me devoit
+            </l>
+            <l xml:id="l18">
+                pour mоу pugnir, que ne soye dannee.
+            </l>
+            <l xml:id="l19">
+                Ma penitanse ara longue duree:
+            </l>
+            <l xml:id="l20" n="20">
+                Amours, tu m’as bien joué d’un faulx tour,
+            </l>
+            <l xml:id="l21">
+                <hi rend="italic">je ne me vueil <supplied>[plus fïer en amour]</supplied>.</hi>
+            </l>
+        </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="MoA">
+                <ref type="siglum" target="#MoA">MoA</ref>
+                cc. <locus>43v-44r</locus>, <abbr xml:id="MoAC">C</abbr> (vv. 1-7), <hi rend="italic">resid.</hi>(vv. 8-21): <hi rend="italic">idem [c. 42r: m(attheus) de p(er)usio]</hi>
+            </witness>
+         </listWit>
+         <listApp type="substantial">
+            <listApp>
+                <head>2</head>
+                <app from="#l2a1" to="#l2a2">
+                    <lem>effortunee</lem>
+                    <rdg wit="#MoA">enfortunee </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>16</head>
+                <app from="#l16a1" to="#l16a2">
+                    <lem>sçay</lem>
+                    <rdg wit="#MoA">scay </rdg>
+                </app>
+            </listApp>
+            <listApp>
+                <head>17</head>
+                <app from="#l17a1" to="#l17a2">
+                    <lem>si marir</lem>
+                    <rdg wit="#MoA">se mari </rdg>
+                </app>
+            </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+                <head>6</head>
+                <app from="#l6a1" to="#l6a2">
+                    <lem>car je ne treuve amisté</lem>
+                    <rdg wit="#MoA"><hi rend="italic">rip.</hi></rdg>
+                </app>
+            </listApp>
+        </listApp>
+         <div type="metricalScheme">
+            <p>
+                <hi rend="italic">Ballade</hi> 10a 10’b, 10a 10’b; 10’b 10c 10C.
+            </p>
+            <p>
+                Rima derivativa ai vv. 9 : 11.
+            </p>
+            <p>
+                Punti sottoscritti: v. 4 (<hi rend="italic">petite</hi>) MoA.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Apel-Rosenberg1970">
+                Apel-Rosenberg 1970, p. <hi rend="small-caps">LVII</hi>.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+               <relatedItem>
+                  <bibl>Riferimento bibliografico completo</bibl>
+               </relatedItem>
+            </bibl>
+         </listBibl-->
+          <div type="commentary">
+            <note target="#l2">
+                <num>2.</num>
+                <p><hi rend="italic">effortunée</hi>: ‘sfortunata’; <hi rend="italic">enfortunée</hi>, lezione del ms., ha significato opposto, cfr. DMF, s.v. <hi rend="italic">enfortuné</hi>.</p>
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Apel-Rosenberg1970">
+                <hi rend="italic">French Secular Compositions of the Fourteenth Century: Vol. I, Ascribed Compositions</hi>, ed. by W. Apel, edition of the literary texts by S. N. Rosenberg, Roma, American Institute of Musicology, 1970 (CMM, 53/1)
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

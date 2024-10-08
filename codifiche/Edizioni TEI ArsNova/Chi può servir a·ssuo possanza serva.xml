@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Chi può servir a·ssuo possanza serva</title>
+            <respStmt>
+               <resp>Digital scholarly edition created within the </resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Maria Sofia Lannutti</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoded by</resp>
+               <name>Carla Congiu</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>
+         <div>
+            <p>
+           </p>
+         </div>         
+      </front-->
+      <body>
+        <lg>
+            <l xml:id="l1">
+		      Chi può servir a·ssuo possanza serva,
+	        </l>
+            <l xml:id="l2">
+		      perché ’l degno <anchor xml:id="l2a1"/>mertar<anchor xml:id="l2a2"/> tempo conserva. 
+	        </l>
+        </lg>
+        <lg>
+           <l xml:id="l3">
+               El ben servir con fé ma’ non si perde,
+            </l>
+            <l xml:id="l4">
+               benché talor à tardi guidardone,
+            </l>
+            <l xml:id="l5" n="5">
+              et quando tempo produce ’l fior verde,
+	        </l>
+            <l xml:id="l6">
+		      el frutto sempre à <anchor xml:id="l6a1"/><supplied>[a]</supplied><anchor xml:id="l6a2"/> sua stagione.
+	        </l>
+            <l xml:id="l7">
+		      Ma chi del non servir trova cagione
+	        </l>
+            <l xml:id="l8">
+		      pensa che sïa suo vita proterva.
+	        </l>
+        </lg>
+       </body>
+      <back>
+         <listWit>
+            <witness xml:id="Sq">
+               <ref type="siglum" target="#Sq">Sq</ref>
+               cc. <locus>113v-114r</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (vv. 1-4), <hi rend="italic">resid</hi>. (vv. 5-14): <hi rend="italic">magister frater bartolinus de padua</hi>
+            </witness>
+            </listWit>
+           <listApp type="substantial">
+               <listApp>
+                 <head>2</head>
+                 <app from="#l2a1" to="#l2a2">
+                  <lem>mertar</lem>
+                  <rdg wit="#Sq">mertare</rdg>
+                 </app>
+               </listApp>
+               <listApp>
+                 <head>6</head>
+                 <app from="#l6a1" to="#l6a2">
+                  <lem>a</lem>
+                  <rdg wit="#Sq"></rdg>
+                 </app>
+               </listApp>            
+           </listApp>
+         <!--listApp type="formal">
+         </listApp-->
+         <div type="metricalScheme">
+            <p>Ballata minore 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z.</p> 
+            <p><hi rend="italic">Pagnotta</hi> 111 : 105.</p>
+            <p>Rima derivativa e inclusiva ai vv. 1 : 2.</p>
+            <p>Punti sottoscritti: v. 3 (<hi rend="italic">mai</hi>) Sq<hi rend="super">C</hi>.</p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+               Corsi 1970, p. 246.
+            </bibl>
+         </listBibl>
+         <div type="commentary">
+            <note target="#l6">
+               <num>6.</num>
+               L’integrazione presuppone un’aplografia.
+            </note>
+         </div>
+         <listBibl type="editionsBibliography">
+            <bibl xml:id="Corsi1970">
+               Giuseppe Corsi, <hi rend="italic">Poesie musicali del Trecento</hi>, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>

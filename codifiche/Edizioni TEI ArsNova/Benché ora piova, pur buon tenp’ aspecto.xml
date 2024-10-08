@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Benché ora piova, pur buon tenp’ aspecto</title>
+            <editor>Davide Checchi</editor>
+            <respStmt>
+               <resp>Digital scholarly editon created within the </resp>
+               <orgName><ref target="https://www.europeanarsnova.eu/">European Ars Nova</ref> ERC project.</orgName>
+            </respStmt>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name>Davide Checchi</name>
+            </respStmt>
+            <respStmt>
+               <resp>Revised by</resp>
+               <name>Luca Gatti</name>
+            </respStmt>
+            <respStmt>
+               <resp>TEI-encoding by</resp>
+               <name>Matteo Salaroli</name>
+               <name>and Chiara Martignano</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p></p>
+            <!--publisher>Edizioni del Galluzzo</publisher>
+            <pubPlace>Firenze, Italia</pubPlace>
+            <date>2021</date>
+            <availability>
+               <p>L'edizione è disponibile su licenza.</p>
+            </availability>            
+            <idno type="ISBN">ISBN</idno>
+            <idno type="DOI">DOI</idno>
+            <idno type="URI">permalink della scheda ANT</idno-->
+         </publicationStmt>
+         <sourceDesc>
+            <p></p>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <variantEncoding method="double-end-point" location="internal"/>
+      </encodingDesc>
+   </teiHeader>
+   <text>
+      <!--front>
+         <div>
+            <p>
+           </p>
+         </div>         
+      </front-->
+      <body>
+         <lg>
+            <l xml:id="l1"><anchor xml:id="l1a1"/>Benché<anchor xml:id="l1a2"/> <anchor xml:id="l1a3"/>ora<anchor xml:id="l1a4"/> <anchor xml:id="l1a5"/>piova<anchor xml:id="l1a6"/>, <anchor xml:id="l1a7"/>pur buon tenp’<anchor xml:id="l1a8"/> <anchor xml:id="l1a9"/>aspecto<anchor xml:id="l1a10"/></l>
+            <l xml:id="l2">al <anchor xml:id="l2a1"/>mie <anchor xml:id="l2a7"/>camin<anchor xml:id="l2a8"/>, et<anchor xml:id="l2a2"/> però <anchor xml:id="l2a3"/>non<anchor xml:id="l2a4"/> <anchor xml:id="l2a5"/>m’affretto<anchor xml:id="l2a6"/>.</l>
+            </lg>
+         <lg>
+            <l xml:id="l3"><anchor xml:id="l3a1"/>Ogni<anchor xml:id="l3a2"/> <anchor xml:id="l3a3"/>cosa<anchor xml:id="l3a4"/> <anchor xml:id="l3a5"/>per ordin<anchor xml:id="l3a6"/> <anchor xml:id="l3a7"/>à suo tenpo<anchor xml:id="l3a8"/>;</l>      
+            <l xml:id="l4">ma <anchor xml:id="l4a1"/>pur un<anchor xml:id="l4a2"/> ten<anchor xml:id="l4a3"/>po<anchor xml:id="l4a4"/> <anchor xml:id="l4a5"/>nonn à ogni cosa<anchor xml:id="l4a6"/>.</l>
+            <l xml:id="l5" n="5"><anchor xml:id="l5a1"/>Donna<anchor xml:id="l5a2"/> legiadra <anchor xml:id="l5a3"/>nel suo giovin tenpo<anchor xml:id="l5a4"/></l>
+            <l xml:id="l6">agli ochi <anchor xml:id="l6a1"/>di ciasc<anchor xml:id="l6a2"/>un par graçïosa,</l>
+            <l xml:id="l7"><anchor xml:id="l7a1"/>così vechieça la vede noiosa<anchor xml:id="l7a2"/></l>
+            <l xml:id="l8"><anchor xml:id="l8a1"/>al<anchor xml:id="l8a2"/> <anchor xml:id="l8a3"/>guardo<anchor xml:id="l8a4"/> <anchor xml:id="l8a5"/>di<anchor xml:id="l8a6"/> chi più <anchor xml:id="l8a7"/>n’avea<anchor xml:id="l8a8"/> <anchor xml:id="l8a9"/>diletto<anchor xml:id="l8a10"/>.</l>
+            </lg>
+      </body>
+      <back>
+         <listWit>
+            <witness xml:id="Sq">
+               <ref type="siglum" target="#Sq">Sq</ref> 
+               c. <locus>158v</locus>, <abbr xml:id="SqC">C</abbr> (vv. 1-4), <abbr xml:id="SqT">T</abbr> (1-6), <hi rend="italic">resid.</hi> (vv. 7-8):  <hi rend="italic">magister franciscus cecus horghanista de florentia</hi>
+            </witness>
+            <witness xml:id="Fn">
+               <ref type="siglum" target="#Fn">Fn</ref>
+               c. <locus><hi rend="small-caps">I</hi>'r</locus>, <abbr xml:id="FnC">C</abbr> (vv. 1-4), <abbr xml:id="FnT">T</abbr> (1-6), <hi rend="italic">resid.</hi> (vv. 7-8). La rubrica non è leggibile per la rifilatura della carta.
+            </witness>
+            </listWit>
+           <listApp type="substantial">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>Benché</lem>
+                  <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#FnT">Fn<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+               <app from="#l1a3" to="#l1a4">
+                  <lem>ora</lem>
+                  <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#Fn">Fn</ref></wit></rdg>
+               </app>
+               <app from="#l1a5" to="#l1a6">
+                 <lem>piova</lem>
+                 <rdg> <gap reason="illegible" rend="ill."/> <wit><ref target="#FnC">Fn<hi rend="super">C</hi></ref></wit></rdg>
+                 <rdg><gap reason="illegible" rend="***" unit="chars" quantity="3"/>ua <wit><ref target="#FnT">Fn<hi rend="super">T</hi></ref></wit></rdg>
+              </app>
+              <app from="#l1a7" to="#l1a8">
+                 <lem>pur un tenp'</lem>
+                 <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#Fn">Fn</ref></wit></rdg>
+                 </app>
+               <app from="#l1a9" to="#l1a10">
+                  <lem><hi rend="italic">aspec</hi>to</lem>
+                  <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#FnC">Fn<hi rend="super">C</hi></ref></wit></rdg>
+                  <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#FnT">Fn<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+               </listApp>
+              <listApp>
+                 <head>2</head>
+                 <app from="#l2a1" to="#l2a2">
+                    <lem>mie... et</lem>
+                    <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#FnT">Fn<hi rend="super">T</hi></ref></wit></rdg>
+                 </app>
+                 <app from="#l2a3" to="l2a4">
+                    <lem>non</lem>
+                    <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#FnT">Fn<hi rend="super">T</hi></ref></wit></rdg>
+                 </app>
+                 <app from="#l2a5" to="#l2a6">
+                    <lem>m'affretto</lem>
+                    <rdg>affretto <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+                 </app>
+              </listApp>
+              <listApp>
+                 <head>3</head>
+                 <app from="#l3a1" to="#l3a2">
+                    <lem>Ogni</lem>
+                    <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#FnC">Fn<hi rend="super">C</hi></ref></wit></rdg>
+                 </app>
+                 <app from="#l3a3" to="#l3a4">
+                    <lem><hi rend="italic">co</hi>sa</lem>
+                    <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#FnC">Fn<hi rend="super">C</hi></ref></wit></rdg>
+                 </app>
+                 <app from="#l3a5" to="#l3a6">
+                    <lem>per ordin</lem>
+                    <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#FnC">Fn<hi rend="super">C</hi></ref></wit></rdg>
+                 </app>
+                 <app from="#l3a7" to="#l3a8">
+                    <lem>à suo tenpo</lem>
+                    <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#FnT">Fn<hi rend="super">T</hi></ref></wit></rdg>
+                 </app>
+                 </listApp>
+              <listApp>
+                 <head>4</head>
+                 <app from="#l4a1" to="#l4a1">
+                    <lem>pur un</lem>
+                    <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#FnC">Fn<hi rend="super">C</hi></ref></wit></rdg>
+                 </app>
+                 <app from="#l4a3" to="#l4a4">
+                    <lem>ten<hi rend="italic">po</hi></lem>
+                    <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#FnC">Fn<hi rend="super">C</hi></ref></wit></rdg>
+                 </app>
+                 <app from="#l4a5" to="#l4a6">
+                    <lem>nonn... cosa</lem>
+                    <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#FnC">Fn<hi rend="super">C</hi></ref></wit></rdg>
+                 </app>
+                 </listApp>
+              <listApp>
+                 <head>5</head>
+                 <app from="#l5a1" to="#l5a2">
+                    <lem>Donna</lem>
+                    <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#FnT">Fn<hi rend="super">T</hi></ref></wit></rdg>
+                 </app>
+                 <app from="#l5a3" to="#l5a4">
+                    <lem>nel... tenpo</lem>
+                    <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#FnT">Fn<hi rend="super">T</hi></ref></wit></rdg>
+                 </app>
+                 </listApp>
+              <listApp>
+                 <head>6</head>
+                 <app from="#l6a1" to="#l6a2">
+                    <lem><hi rend="italic">di ciasc</hi>un</lem>
+                    <rdg><gap reason="illegible" rend="ill."/> <wit><ref target="#FnT">Fn<hi rend="super">T</hi></ref></wit></rdg>
+                 </app>
+                 </listApp>
+              <listApp>
+                 <head>7</head>
+                 <app from="#l7a1" to="#l7a2">
+                    <rdg wit="#Fn"><gap reason="illegible" rend="ill."/></rdg>
+                 </app>
+              </listApp>
+              <listApp>
+                 <head>8</head>
+                 <app from="#l8a1" to="#l8a2">
+                    <lem>al</lem>
+                    <rdg wit="#Fn"><gap reason="illegible" rend="ill."/></rdg>
+                 </app>
+                 <app from="#l8a3" to="#l8a4">
+                    <lem>guar<hi rend="italic">do</hi></lem>
+                    <rdg wit="#Fn"><gap rend="ill." reason="illegible"/></rdg>
+                 </app>
+                 <app from="#l8a5" to="#l8a6">
+                    <lem>di</lem>
+                    <rdg wit="#Fn"><gap reason="illegible" rend="ill."/></rdg>
+                 </app>
+                 <app from="#l8a7" to="#l8a8">
+                    <lem>n'ave<hi rend="italic">a</hi></lem>
+                    <rdg wit="#Fn"><gap rend="ill." reason="illegible"/></rdg>
+                 </app>
+                 <app from="#l8a9" to="#l8a10">
+                    <lem><hi rend="italic">di</hi>l<hi rend="italic">etto</hi></lem>
+                    <rdg wit="#Fn"><gap rend="ill." reason="illegible"/></rdg>
+                 </app>
+              </listApp>
+         </listApp>
+         <listApp type="formal">
+            <listApp>
+               <head>1</head>
+               <app from="#l1a1" to="#l1a2">
+                  <lem>Benché ora</lem>
+                  <rdg>bencora <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+            <listApp>
+               <head>2</head>
+               <app from="#l2a7" to="#l2a8">
+                  <lem>camin</lem>
+                  <rdg>cammin <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+               <app from="#l2a8" to="#l2a2">
+                  <lem>et</lem>
+                  <rdg>e <wit><ref target="#SqT">Sq<hi rend="super">T</hi></ref></wit></rdg>
+               </app>
+            </listApp>
+         </listApp>
+         <div type="metricalScheme">
+            <p>Ballata minore 10’z 10’z; 10’a 10’b, 10’a 10’b; 10’b 10’z.</p> 
+            <p><hi rend="italic">Pagnotta</hi> 111 : 99.</p>
+            <p>Rime identiche ai vv. 3 : 5.</p>
+            <p><hi rend="italic">Dialefe</hi> v. 4.
+            </p>
+         </div>
+         <listBibl type="editions">
+            <bibl corresp="#Corsi1970">
+               Corsi 1970, p. 142.
+            </bibl>
+         </listBibl>
+         <!--listBibl type="bibliography">
+            <bibl>
+            </bibl>
+         </listBibl-->
+         <!--div type="commentary">
+            <note target="#">
+               <num></num>
+            </note>
+           </div-->
+         <listBibl type="editionsBibliography">
+            <bibl>
+               <hi rend="italic">Poesie musicali del Trecento</hi>, a cura di G. Corsi, Bologna, Commissione per i testi di lingua, 1970 (Collezione di opere inedite o rare, 131).
+            </bibl>
+         </listBibl>
+      </back>
+   </text>
+</TEI>
